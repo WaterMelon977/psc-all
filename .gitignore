@@ -2,14 +2,14 @@
 **/pdfs/
 
 # Specific top-level paths for the requested directories:
-/AMVI/pdfs/
-/endowments/pdfs/
-/eng-reporters/pdfs/
-/factories/pdfs/
-/forest/**/pdfs/
-/g1/pdfs/
-/g2/pdfs/
-/industry-promotion/pdfs/
-/pcb-ae/pdfs/
-/posts.pdf
+# /AMVI/pdfs/
+# /endowments/pdfs/
+# /eng-reporters/pdfs/
+# /factories/pdfs/
+# /forest/**/pdfs/
+# /g1/pdfs/
+# /g2/pdfs/
+# /industry-promotion/pdfs/
+# /pcb-ae/pdfs/
+# /posts.pdf
 
