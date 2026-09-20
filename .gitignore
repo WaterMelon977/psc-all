@@ -1,5 +1,5 @@
 # Ignore all 'pdfs/' directories anywhere in these folders / project
-**/pdfs/
+# **/pdfs/
 
 # Specific top-level paths for the requested directories:
 # /AMVI/pdfs/
@@ -11,5 +11,5 @@
 # /g2/pdfs/
 # /industry-promotion/pdfs/
 # /pcb-ae/pdfs/
-/posts.pdf
+# /posts.pdf
 

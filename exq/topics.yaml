@@ -1,0 +1,224 @@
+topics:
+  - name: Strength of Materials
+    keywords:
+      stress: 5
+      strain: 5
+      bending moment: 10
+      shear force: 10
+      torsion: 9
+      young's modulus: 8
+      modulus of elasticity: 8
+      poisson's ratio: 8
+      deflection: 7
+      beam: 5
+      shear stress: 7
+      moment of inertia: 6
+      mohr's circle: 10
+      slenderness ratio: 8
+      euler's: 7
+      column: 5
+      cantilever: 7
+    regex:
+      - pattern: "\\bSFD\\b"
+        weight: 10
+      - pattern: "\\bBMD\\b"
+        weight: 10
+
+  - name: Fluid Mechanics
+    keywords:
+      viscosity: 7
+      bernoulli: 10
+      reynolds number: 9
+      pipe flow: 8
+      fluid: 6
+      boundary layer: 9
+      manometer: 8
+      buoyancy: 8
+      metacentric: 9
+      venturimeter: 9
+      orifice: 7
+      weir: 7
+      mach number: 8
+      continuity equation: 9
+      pascal: 6
+      laminar: 7
+      turbulent: 7
+      kinematic viscosity: 8
+    regex:
+      - pattern: "centrifugal\\s+pump"
+        weight: 10
+      - pattern: "hydraulic\\s+jump"
+        weight: 10
+
+  - name: Material Science
+    keywords:
+      crystal structure: 9
+      dislocation: 8
+      austenite: 10
+      martensite: 10
+      ferrite: 10
+      pearlite: 10
+      iron-carbon: 10
+      heat treatment: 9
+      annealing: 9
+      normalizing: 9
+      quenching: 9
+      tempering: 9
+      hardness: 6
+      brinell: 8
+      rockwell: 8
+      vickers: 8
+      fatigue: 7
+      creep: 7
+      bcc: 8
+      fcc: 8
+      hcp: 8
+
+  - name: Theory of Machines
+    keywords:
+      kinematics: 8
+      mechanism: 8
+      cam: 8
+      follower: 8
+      gear train: 9
+      epicyclic: 10
+      flywheel: 9
+      governor: 9
+      balancing: 8
+      gyroscope: 10
+      gyroscopic: 10
+      vibration: 8
+      degrees of freedom: 8
+      grashof: 9
+      instantaneous centre: 9
+    regex:
+      - pattern: "four[ -]bar\\s+mechanism"
+        weight: 10
+
+  - name: Machine Design
+    keywords:
+      factor of safety: 8
+      endurance limit: 9
+      soderberg: 10
+      goodman: 10
+      gerber: 10
+      riveted joint: 9
+      welded joint: 9
+      bolted joint: 9
+      bearing: 7
+      journal bearing: 9
+      ball bearing: 9
+      roller bearing: 9
+      spur gear: 9
+      helical gear: 9
+      shaft: 6
+      coupling: 7
+      keyway: 8
+      clutch: 8
+      brake: 8
+
+  - name: Thermodynamics
+    keywords:
+      entropy: 9
+      enthalpy: 8
+      carnot: 10
+      clausius: 10
+      first law of thermodynamics: 10
+      second law of thermodynamics: 10
+      zeroth law: 9
+      rankine cycle: 9
+      brayton cycle: 9
+      joule-thomson: 10
+      ideal gas: 6
+      isothermal: 8
+      adiabatic: 8
+      polytropic: 8
+      reversibility: 7
+      pure substance: 7
+      dryness fraction: 8
+
+  - name: Heat Transfer
+    keywords:
+      conduction: 8
+      convection: 8
+      radiation: 8
+      fourier's law: 10
+      newton's law of cooling: 9
+      stefan-boltzmann: 10
+      planck: 8
+      heat exchanger: 9
+      lmtd: 10
+      ntu: 10
+      thermal conductivity: 8
+      fin efficiency: 9
+      nusselt number: 9
+      prandtl number: 9
+      grashof number: 9
+      emissivity: 8
+      black body: 8
+
+  - name: Refrigeration and Air Conditioning
+    keywords:
+      refrigerant: 10
+      refrigeration: 9
+      cop: 8
+      psychrometric: 10
+      relative humidity: 9
+      wet bulb: 9
+      dry bulb: 9
+      dew point: 9
+      vapour compression: 10
+      vapour absorption: 10
+      ton of refrigeration: 10
+      evaporator: 7
+      condenser: 7
+      expansion valve: 8
+      air conditioning: 8
+
+  - name: IC Engines
+    keywords:
+      otto cycle: 10
+      diesel cycle: 10
+      dual cycle: 10
+      spark ignition: 9
+      compression ignition: 9
+      carburetor: 9
+      fuel injector: 9
+      scavenging: 9
+      knocking: 9
+      octane number: 9
+      cetane number: 9
+      supercharging: 9
+      turbocharging: 9
+      indicated power: 8
+      brake power: 8
+      indicated thermal efficiency: 8
+      morsetest: 10
+      four stroke: 8
+      two stroke: 8
+
+  - name: Production Technology
+    keywords:
+      casting: 8
+      pattern allowance: 9
+      moulding sand: 8
+      riser: 8
+      gating system: 8
+      welding: 8
+      arc welding: 9
+      tig welding: 10
+      mig welding: 10
+      machining: 7
+      lathe: 8
+      milling: 8
+      drilling: 7
+      grinding: 7
+      tool life: 9
+      taylor's tool life: 10
+      extrusion: 8
+      forging: 8
+      rolling: 8
+      sheet metal: 8
+      edm: 9
+      ecm: 9
+      cnc: 8
