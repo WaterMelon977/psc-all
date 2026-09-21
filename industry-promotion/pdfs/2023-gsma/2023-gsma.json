@@ -1,0 +1,2100 @@
+{
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "Which former Zimbabwe cricket captain passed away in September, 2023?",
+      "options": {
+        "1": "Heath Streak",
+        "2": "Andy Flower",
+        "3": "Tatenda Taibu",
+        "4": "Duncan Fletcher"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 2,
+      "question": "Which of the following months is declared as ‘Hindu Heritage Month in Georgia in September, 2023?",
+      "options": {
+        "1": "November",
+        "2": "October",
+        "3": "January",
+        "4": "December"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 3,
+      "question": "Which country has become the latest country in September, 2023 that is planning to impose ban on disposable vapes as part of a national plan?",
+      "options": {
+        "1": "Germany",
+        "2": "Australia",
+        "3": "France",
+        "4": "Japan"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 4,
+      "question": "Which of the following countries has launched the Islamic Banking Pilot Program in September, 2023?",
+      "options": {
+        "1": "China",
+        "2": "Iraq",
+        "3": "Japan",
+        "4": "Russia"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 5,
+      "question": "What is the name of India’s first Solar mission which was launched by ISRO in September, 2023?",
+      "options": {
+        "1": "Aditya-L1",
+        "2": "Aditya-S1",
+        "3": "Aditya-P1",
+        "4": "Aditya-M1"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Current Events and Issues"
+    },
+    {
+      "question_number": 6,
+      "question": "Which company joins Intel to launch AI skills lab in India in July 2023?",
+      "options": {
+        "1": "Microsoft",
+        "2": "Dell",
+        "3": "Apple",
+        "4": "Lenovo"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 7,
+      "question": "Presence of which element is confirmed by Chandrayaan-3’s Pragyan Rover on the Moon surface in August 2023?",
+      "options": {
+        "1": "Phosphorus",
+        "2": "Zinc",
+        "3": "Sulphur",
+        "4": "Oxygen"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Current Events and Issues"
+    },
+    {
+      "question_number": 8,
+      "question": "In April 2022, NITI Aayog and UNICEF India signed a Statement of Intent (SoI) on the Sustainable Development Goals (SDGs) with a focus on ______.",
+      "options": {
+        "1": "Education",
+        "2": "Children",
+        "3": "Women",
+        "4": "Newborn Babies"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Sustainable Development"
+    },
+    {
+      "question_number": 9,
+      "question": "How many virtual courts have been set up in 17 States/UTs of India as on 31 January, 2023?",
+      "options": {
+        "1": "41",
+        "2": "31",
+        "3": "11",
+        "4": "21"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 10,
+      "question": "Which phase of the Inter-Operable Criminal Justice System (ICJS) Project was approved by Government of India in February 2022?",
+      "options": {
+        "1": "Second",
+        "2": "Third",
+        "3": "First",
+        "4": "Fourth"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 11,
+      "question": "As per the updated Nationally Determined Contribution (NDC) as of August, 2022 India to reduce Emissions Intensity of its GDP by ______ by 2030.",
+      "options": {
+        "1": "40%",
+        "2": "45%",
+        "3": "50%",
+        "4": "60%"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Indian Economy and Planning"
+    },
+    {
+      "question_number": 12,
+      "question": "Which team won the inaugural Men’s Hockey 5s Asia Cup 2023 in Salalah, Oman?",
+      "options": {
+        "1": "India",
+        "2": "Pakistan",
+        "3": "Sri Lanka",
+        "4": "Nepal"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 13,
+      "question": "Neeraj Chopra has become which Indian to secure gold medal at World Athletics Championships?",
+      "options": {
+        "1": "Second",
+        "2": "First",
+        "3": "Third",
+        "4": "Fourth"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 14,
+      "question": "Which of the following teams has won the Durand Cup in 2023?",
+      "options": {
+        "1": "East Bengal",
+        "2": "Jamshedpur FC",
+        "3": "Mohun Bagan SG",
+        "4": "Mohammedan SC"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 15,
+      "question": "Who clinched bronze medal at BWF World Badminton Championships 2023 in the men’s singles category?",
+      "options": {
+        "1": "Kidambi Srikanth",
+        "2": "Lakshya Sen",
+        "3": "B Sai Praneeth",
+        "4": "HS Prannoy"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 16,
+      "question": "Which of the following technologies is most closely associated with the term \"artificial intelligence\"?",
+      "options": {
+        "1": "Biotechnology",
+        "2": "Robotics",
+        "3": "Nanotechnology",
+        "4": "Space exploration"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "General Science and Technology"
+    },
+    {
+      "question_number": 17,
+      "question": "Which vitamin is known as the \"sunshine vitamin\" because the body can produce it when exposed to sunlight?",
+      "options": {
+        "1": "Vitamin C",
+        "2": "Vitamin A",
+        "3": "Vitamin K",
+        "4": "Vitamin D"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 18,
+      "question": "Which molecule serves as the primary energy currency of cells and is involved in storing and transferring energy within the cell?",
+      "options": {
+        "1": "ATP",
+        "2": "ADP",
+        "3": "RNA",
+        "4": "DNA"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "General Science and Technology"
+    },
+    {
+      "question_number": 19,
+      "question": "Which of the following is a voluntary muscle that you can control consciously?",
+      "options": {
+        "1": "Smooth muscle",
+        "2": "Skeletal muscle",
+        "3": "Involuntary muscle",
+        "4": "Cardiac muscle"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 20,
+      "question": "What is the \"chain of command\" in disaster management?",
+      "options": {
+        "1": "A hierarchy of officials and organizations responsible for decision-making during a disaster",
+        "2": "A series of interconnected metal chains used for rescue operations",
+        "3": "A communication network for disaster survivors",
+        "4": "A tool for breaking through debris in search and rescue efforts"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Disaster Management and GIS"
+    },
+    {
+      "question_number": 21,
+      "question": "Which phase of disaster management focuses on reducing the likelihood of a disaster occurring?",
+      "options": {
+        "1": "Response",
+        "2": "Preparedness",
+        "3": "Mitigation",
+        "4": "Recovery"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Disaster Management and GIS"
+    },
+    {
+      "question_number": 22,
+      "question": "Which of the following is an example of a structural mitigation strategy for earthquake prevention?",
+      "options": {
+        "1": "Conducting search and rescue operations",
+        "2": "Developing early warning systems",
+        "3": "Creating building codes and standards",
+        "4": "Providing emergency medical care"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Disaster Management and GIS"
+    },
+    {
+      "question_number": 23,
+      "question": "What is the \"hazard mapping\" process primarily used for in disaster mitigation?",
+      "options": {
+        "1": "Creating detailed disaster response plans",
+        "2": "Mapping areas at risk of various natural hazards",
+        "3": "Identifying safe evacuation routes during a disaster",
+        "4": "Predicting the exact timing of natural disasters"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Disaster Management and GIS"
+    },
+    {
+      "question_number": 24,
+      "question": "Which of the following is a specific application of GIS in assessing the impact of natural disasters?",
+      "options": {
+        "1": "Mapping the extent of flood damage in a region",
+        "2": "Providing medical treatment to disaster survivors",
+        "3": "Analyzing the nutritional content of disaster relief supplies",
+        "4": "Monitoring seismic activity in real-time"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Disaster Management and GIS"
+    },
+    {
+      "question_number": 25,
+      "question": "In the context of disaster assessment, what is the primary role of Geographic Information Systems (GIS)?",
+      "options": {
+        "1": "Conducting search and rescue operations",
+        "2": "Predicting the exact timing of disasters",
+        "3": "Providing emergency response services",
+        "4": "Collecting and analyzing spatial data related to disasters"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Disaster Management and GIS"
+    },
+    {
+      "question_number": 26,
+      "question": "What are the three main pillars of sustainable development, as outlined by the United Nations?",
+      "options": {
+        "1": "Economic growth, environmental protection, and social equity",
+        "2": "Energy conservation, healthcare access, and education",
+        "3": "Agriculture, manufacturing, and service industries",
+        "4": "Military defense, political stability, and technological advancement"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Sustainable Development"
+    },
+    {
+      "question_number": 27,
+      "question": "Which one of the following is the major challenges in achieving SDGs related to poverty eradication?",
+      "options": {
+        "1": "An oversupply of natural resources",
+        "2": "Lack of awareness about the SDGs",
+        "3": "High levels of investment in social programs",
+        "4": "Economic inequality and unequal distribution of resources"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 28,
+      "question": "What is a primary driver of deforestation and habitat loss, leading to environmental crises such as species extinction?",
+      "options": {
+        "1": "Sustainable logging practices",
+        "2": "Agricultural expansion and urban development",
+        "3": "Expansion of protected natural areas",
+        "4": "Decreased demand for wood products"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 29,
+      "question": "As per Vision 2029 document of Andhra Pradesh, by which year the state is targeting to become the most preferred global investment destination?",
+      "options": {
+        "1": "2030",
+        "2": "2040",
+        "3": "2050",
+        "4": "2060"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 30,
+      "question": "Which mountain range separates the Indian subcontinent from the rest of Asia to the north?",
+      "options": {
+        "1": "Aravalli Range",
+        "2": "Himalayas",
+        "3": "Eastern Ghats",
+        "4": "Western Ghats"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 31,
+      "question": "The Indian subcontinent is bounded by the Arabian Sea to the west and the Bay of Bengal to the east. What geographic feature lies to the south of the subcontinent?",
+      "options": {
+        "1": "Indian Ocean",
+        "2": "Pacific Ocean",
+        "3": "Atlantic Ocean",
+        "4": "Arctic Ocean"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 32,
+      "question": "Which of the following is the largest freshwater lake in India, known for its rich biodiversity?",
+      "options": {
+        "1": "Vembanad",
+        "2": "Chilika Lake",
+        "3": "Dal Lake",
+        "4": "Wular Lake"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Environment"
+    },
+    {
+      "question_number": 33,
+      "question": "The Malabar Coast, famous for its lush greenery and backwaters, is located along the southwestern coast of which Indian state?",
+      "options": {
+        "1": "Goa",
+        "2": "Kerala",
+        "3": "Karnataka",
+        "4": "Maharashtra"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 34,
+      "question": "India is a significant producer of which non-metallic mineral used in the manufacturing of cement?",
+      "options": {
+        "1": "Gypsum",
+        "2": "Lignite",
+        "3": "Phosphate",
+        "4": "Graphite"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 35,
+      "question": "Which one of the following Indian states has the highest share in Mineral Production in India for the year 2021-22?",
+      "options": {
+        "1": "Madhya Pradesh",
+        "2": "Maharashtra",
+        "3": "Odisha",
+        "4": "Chhattisgarh"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 36,
+      "question": "What is India’s rank in world in the production of Iron ore in 2020?",
+      "options": {
+        "1": "First",
+        "2": "Second",
+        "3": "Third",
+        "4": "Fourth"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 37,
+      "question": "Who was the first Chief Minister of Andhra Pradesh after its formation in 1956?",
+      "options": {
+        "1": "Neelam Sanjiva Reddy",
+        "2": "N. Chandrababu Naidu",
+        "3": "Tanguturi Prakasam",
+        "4": "Kasu Brahmananda Reddy"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "History of India and AP"
+    },
+    {
+      "question_number": 38,
+      "question": "Which social reformer and poet of the 19th-century founded Ram Mohan School in 1909 and provided free education for children from depressed communities in Andhra Pradesh?",
+      "options": {
+        "1": "Uyyalawada Narasimha Reddy",
+        "2": "Potti Sreeramulu",
+        "3": "Kandukuri Veeresalingam",
+        "4": "Chilakamarti Lakshmi Narasimham"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "History of India and AP"
+    },
+    {
+      "question_number": 39,
+      "question": "The socio-religious movement led by Saint Ramanuja, which emphasized devotion to Lord Vishnu and advocated for social equality, had a significant impact on Andhra society. What was this movement called?",
+      "options": {
+        "1": "Adhyatma movement",
+        "2": "Arya Samaj",
+        "3": "Lingayatism",
+        "4": "Bhakti movement"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 40,
+      "question": "The construction of which major infrastructure project in the 19th century helped facilitate transportation and trade in Andhra Pradesh, particularly for agricultural products? Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.",
+      "options": {
+        "1": "Visakhapatnam Port",
+        "2": "Kakinada Port",
+        "3": "Machilipatnam Port",
+        "4": "Nizampatnam Port"
+      },
+      "answer": [],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 41,
+      "question": "What major economic activity was dominant in the Andhra region during the pre-colonial period, which contributed significantly to the economy?",
+      "options": {
+        "1": "Ship building",
+        "2": "Coal Mining",
+        "3": "Animal trading",
+        "4": "Textile production"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 42,
+      "question": "Andhra Pradesh government in January, 2022 has set the retirement age for Government Employees and Staff Members to ______.",
+      "options": {
+        "1": "65 years",
+        "2": "58 years",
+        "3": "60 years",
+        "4": "62 years"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 43,
+      "question": "The Hon’ble Governor of Andhra Pradesh constituted a State Election Commission for the State of Andhra Pradesh on _____.",
+      "options": {
+        "1": "January 30, 2018",
+        "2": "January 30, 2014",
+        "3": "January 30, 2016",
+        "4": "January 30, 2012"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Indian Polity and Governance"
+    },
+    {
+      "question_number": 44,
+      "question": "What is the coverage amount per episode of illness with no limit on the number of episodes in the Andhra Pradesh’s Employee Health Scheme (EHS)?",
+      "options": {
+        "1": "2 Lakhs",
+        "2": "5 Lakhs",
+        "3": "1 lakh",
+        "4": "4 Lakhs"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 45,
+      "question": "Under which educational scheme, the government of Andhra Pradesh seeks to cover 100% of college fees of students beyond Intermediate?",
+      "options": {
+        "1": "Jagananna Vidya Deevena",
+        "2": "Amma Vodi Scheme",
+        "3": "Nadu-Nedu",
+        "4": "Vidya Kanuka"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 46,
+      "question": "The Supreme Court on November 28, 2022, stayed an Andhra Pradesh High Court direction to the State government to “construct and develop” Amaravati capital city and region within how many months?",
+      "options": {
+        "1": "Six",
+        "2": "Four",
+        "3": "Eight",
+        "4": "Nine"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Indian Polity and Governance"
+    },
+    {
+      "question_number": 47,
+      "question": "In the post-bifurcation scenario, Hyderabad remained the common capital for both Andhra Pradesh and Telangana for a transitional period. What was the duration of this arrangement?",
+      "options": {
+        "1": "15 years",
+        "2": "7 years",
+        "3": "5 years",
+        "4": "10 years"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 48,
+      "question": "Which constitutional amendment act was enacted to facilitate the reorganization of Andhra Pradesh into two separate states, Andhra Pradesh and Telangana? Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.",
+      "options": {
+        "1": "98th Amendment Act",
+        "2": "99th Amendment Act",
+        "3": "97th Amendment Act",
+        "4": "96th Amendment Act"
+      },
+      "answer": [],
+      "topic": "Indian Polity and Governance"
+    },
+    {
+      "question_number": 49,
+      "question": "What is the primary factor responsible for the formation of alluvial soils in the delta regions of Andhra Pradesh?",
+      "options": {
+        "1": "Wind erosion",
+        "2": "Volcanic activity",
+        "3": "River deposition",
+        "4": "Glacial deposits"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 50,
+      "question": "What is the name of the large lake located in the Nellore district of Andhra Pradesh, known for its brackish water and bird sanctuary?",
+      "options": {
+        "1": "Pulicat Lake",
+        "2": "Chilika Lake",
+        "3": "Kolleru Lake",
+        "4": "Bhavanam Lake"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 51,
+      "question": "On which river bank, the Vijayawada city of Andhra Pradesh is situated?",
+      "options": {
+        "1": "River Godavari",
+        "2": "River Krishna",
+        "3": "River Tapi",
+        "4": "River Brahmaputra"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 52,
+      "question": "Which type of soil is known for its high fertility and is suitable for the cultivation of crops like cotton, groundnuts, and pulses in Andhra Pradesh?",
+      "options": {
+        "1": "Alluvial soil",
+        "2": "Laterite soil",
+        "3": "Black soil",
+        "4": "Red soil"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 53,
+      "question": "Approximately, how much of total geographical area of Andhra Pradesh is occupied by Lateritic soils?",
+      "options": {
+        "1": "50%",
+        "2": "5%",
+        "3": "1%",
+        "4": "10%"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 54,
+      "question": "Which of the following rivers flows through the Nagarjuna Sagar-Srisailam Tiger Reserve?",
+      "options": {
+        "1": "Krishna",
+        "2": "Tungabhadra",
+        "3": "Pennar",
+        "4": "Godavari"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 55,
+      "question": "The \"Panta Sanjeevani\" program in Andhra Pradesh aims to increase agricultural productivity. Initially with how much budget outlay it was launched?",
+      "options": {
+        "1": "200 crores",
+        "2": "100 crores",
+        "3": "300 crores",
+        "4": "500 crores"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 56,
+      "question": "The cultivation of which major commercial crop, often referred to as \"white gold,\" has expanded significantly in Andhra Pradesh in recent years?",
+      "options": {
+        "1": "Rice",
+        "2": "Wheat",
+        "3": "Cotton",
+        "4": "Rubber"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 57,
+      "question": "In which of the following places Krishnapatnam Port is located?",
+      "options": {
+        "1": "Anantapur",
+        "2": "Visakhapatnam",
+        "3": "Vizianagaram",
+        "4": "Nellore"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 58,
+      "question": "In how many districts of Andhra Pradesh, the first phase of the \"Fiber Grid\" project will set up high speed Optical Fiber Network Infrastructure?",
+      "options": {
+        "1": "13",
+        "2": "10",
+        "3": "09",
+        "4": "15"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 59,
+      "question": "How many total cement plants were operational in Andhra Pradesh in FY 2014-15?",
+      "options": {
+        "1": "15",
+        "2": "26",
+        "3": "10",
+        "4": "56"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 60,
+      "question": "There are how many total components of the Andhra Pradesh Rural Inclusive Growth Project on which the government is focusing?",
+      "options": {
+        "1": "Six",
+        "2": "Four",
+        "3": "Three",
+        "4": "Five"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 61,
+      "question": "In July 2023, who became the second fast bowler to take 600 wickets in Test cricket?",
+      "options": {
+        "1": "Stuart Broad",
+        "2": "James Anderson",
+        "3": "Kagiso Rabada",
+        "4": "Jasprit Bumrah"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 62,
+      "question": "Which one of the following countries has become new member of BRICS in August, 2023?",
+      "options": {
+        "1": "Portugal",
+        "2": "Argentina",
+        "3": "France",
+        "4": "Italy"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 63,
+      "question": "In July 2023, India with which country has solidified its partnership by signing an agreement to jointly develop the semiconductor ecosystem?",
+      "options": {
+        "1": "China",
+        "2": "USA",
+        "3": "South Korea",
+        "4": "Japan"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "General Science and Technology"
+    },
+    {
+      "question_number": 64,
+      "question": "With which country, India jointly launched the Infrastructure Financing Bridge during the 12th Economic and Financial Dialogue on 11th September 2023?",
+      "options": {
+        "1": "Japan",
+        "2": "USA",
+        "3": "UK",
+        "4": "Canada"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 65,
+      "question": "India’s first AI-Powered Anti-Drone system named as ‘Indrajaal’ is launched in which city of India in September, 2023?",
+      "options": {
+        "1": "Hyderabad",
+        "2": "Bangaluru",
+        "3": "Chennai",
+        "4": "Pune"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 66,
+      "question": "When was ISRO’s first solar mission Aditya L1 mission launched successfully?",
+      "options": {
+        "1": "2nd August, 2023",
+        "2": "2nd September, 2023",
+        "3": "15th August, 2023",
+        "4": "15th September, 2023"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Current Events and Issues"
+    },
+    {
+      "question_number": 67,
+      "question": "When was the Government of India approved the National Green Hydrogen Mission?",
+      "options": {
+        "1": "4th May, 2023",
+        "2": "23rd January, 2023",
+        "3": "4th January, 2023",
+        "4": "23rd May, 2023"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 68,
+      "question": "Union Environment, Forest, and Climate Change Minister Bhupender Yadav announced the results of the Swachh Vayu Sarvekshan 2023. Which city ranked first in the list?",
+      "options": {
+        "1": "Agra",
+        "2": "Indore",
+        "3": "Thane",
+        "4": "Jaipur"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Environment"
+    },
+    {
+      "question_number": 69,
+      "question": "Ministry of Women and Child Development celebrated _____ ‘Rashtriya Poshan Maah’ throughout September 2023.",
+      "options": {
+        "1": "3rd",
+        "2": "4th",
+        "3": "5th",
+        "4": "6th"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 70,
+      "question": "In which of these months, the Indian Supreme Court overruled a 2014 Madras High Court ruling, stating that advocates can indeed solemnize “self-respect” marriages under the Hindu Marriage Act’s Section 7(A)?",
+      "options": {
+        "1": "January, 2023",
+        "2": "June, 2023",
+        "3": "May, 2023",
+        "4": "August, 2023"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Indian Polity and Governance"
+    },
+    {
+      "question_number": 71,
+      "question": "NITI Aayog signed an MoU in August, 2023 with which institution on fast tracking Sustainable Development Goals?",
+      "options": {
+        "1": "UNDP",
+        "2": "WHO",
+        "3": "UNEP",
+        "4": "IMF"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Sustainable Development"
+    },
+    {
+      "question_number": 72,
+      "question": "In August 2023, the National Green Tribunal directed the Border Roads Organisation (BRO) to plant at least 10,000 trees in Uttarakhand within a period of _____.",
+      "options": {
+        "1": "15 days",
+        "2": "One month",
+        "3": "Two months",
+        "4": "10 days"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 73,
+      "question": "In July, 2023 Virat Kohli equaled to which cricketer’s record of most test centuries?",
+      "options": {
+        "1": "Sachin Tendulkar",
+        "2": "Sir Vivian Richards",
+        "3": "Sir Don Bradman",
+        "4": "Allan Border"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 74,
+      "question": "In which of the following cities, India got first-ever night street racing circuit in August, 2023?",
+      "options": {
+        "1": "New Delhi",
+        "2": "Bengaluru",
+        "3": "Hyderabad",
+        "4": "Chennai"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 75,
+      "question": "By which name the Khelo India Women’s League to be known as from August, 2023 onwards?",
+      "options": {
+        "1": "Asmita Women’s League",
+        "2": "Aprajita Women’s League",
+        "3": "Shakti Women’s League",
+        "4": "Aadhya Women’s League"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 76,
+      "question": "Who became U20 World Wrestling Champion in Men’s 61 kg Freestyle category in August, 2023?",
+      "options": {
+        "1": "Sagar Jaglan",
+        "2": "Mohit Kumar",
+        "3": "Deepak Chahal",
+        "4": "Rajat Ruhal"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 77,
+      "question": "Given below are two statements. Identify the CORRECT statement (s). I. Sewage treatment plants are one of the examples of a sustainable technology designed to address water pollution. II. Air pollution and greenhouse gas emissions are the primary environmental concerns associated with the widespread use of fossil fuels for energy production.",
+      "options": {
+        "1": "Only II",
+        "2": "Only I",
+        "3": "Both I & II",
+        "4": "Neither I nor II"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Sustainable Development"
+    },
+    {
+      "question_number": 78,
+      "question": "What is the term for the process of using biological organisms, such as bacteria, to break down and treat organic waste materials?",
+      "options": {
+        "1": "Desalination",
+        "2": "Fossilization",
+        "3": "Incineration",
+        "4": "Bioremediation"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "General Science and Technology"
+    },
+    {
+      "question_number": 79,
+      "question": "",
+      "options": {
+        "1": "A-2, B-4, C-1, D-3",
+        "2": "A-1, B-4, C-2, D-3",
+        "3": "A-2, B-3, C-1, D-4",
+        "4": "A-1, B-2, C-3, D-4"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 80,
+      "question": "",
+      "options": {
+        "1": "A-2, B-1, C-4, D-3",
+        "2": "A-3, B-1, C-4, D-2",
+        "3": "A-4, B-1, C-3, D-2",
+        "4": "A-3, B-1, C-2, D-4"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 81,
+      "question": "When it comes to the digestive system, which statements are true? I. The pancreas produces digestive enzymes and insulin. II. The small intestine is where most nutrient absorption occurs. III. The gallbladder stores bile produced by the liver.",
+      "options": {
+        "1": "Only I and III",
+        "2": "Only I and II",
+        "3": "Only II and III",
+        "4": "I, II and III"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 82,
+      "question": "Select the option that is TRUE regarding the following two statements labelled Assertion (A-and Reason (R). Assertion: Gymnosperms produce seeds that are not enclosed within a fruit. Reason: Gymnosperms rely on wind for seed dispersal.",
+      "options": {
+        "1": "Both the assertion and reason are true, and the reason is a correct explanation of the assertion.",
+        "2": "Both the assertion and reason are true, but the reason is NOT a correct explanation of the assertion.",
+        "3": "The assertion is true, but the reason is false.",
+        "4": "The reason is true, but the assertion is false."
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 83,
+      "question": "Select the option that is TRUE regarding the following two statements labelled Assertion (A-and Reason (R). Assertion: Early warning systems are a crucial component of disaster mitigation strategies. Reason: Early warning systems provide timely information about impending disasters, allowing for preparedness and timely response.",
+      "options": {
+        "1": "Both the assertion and reason are true, and the reason is a correct explanation of the assertion.",
+        "2": "Both the assertion and reason are true, but the reason is NOT a correct explanation of the assertion.",
+        "3": "The assertion is true, but the reason is false.",
+        "4": "The reason is true, but the assertion is false."
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Disaster Management and GIS"
+    },
+    {
+      "question_number": 84,
+      "question": "Which statements are accurate regarding the use of technology in disaster mitigation and preparedness? I. Geographic Information Systems (GIS) aid in mapping disaster-prone areas and vulnerable populations. II. Early warning systems rely solely on traditional communication methods. III. Remote sensing technology can provide real-time data during disaster events. IV. social media and mobile apps are increasingly used for disaster alerts and communication.",
+      "options": {
+        "1": "Only II and IV",
+        "2": "Only I and II",
+        "3": "Only I, III and IV",
+        "4": "Only III and IV"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Disaster Management and GIS"
+    },
+    {
+      "question_number": 85,
+      "question": "",
+      "options": {
+        "1": "A-3, B-2, C-1, D-4",
+        "2": "A-2, B-3, C-1, D-4",
+        "3": "A-2, B-3, C-4, D-1",
+        "4": "A-3, B-2, C-4, D-1"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 86,
+      "question": "",
+      "options": {
+        "1": "A-4, B-2, C-3, D-4",
+        "2": "A-3, B-2, C-4, D-1",
+        "3": "A-3, B-2, C-1, D-4",
+        "4": "A-2, B-3, C-1, D-4"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 87,
+      "question": "Consider the application of GIS in flood risk assessment. Which statements accurately describe this use of GIS? (Select all that apply) I. GIS can model floodplain areas and assess vulnerability. II. It can provide real-time weather data to predict flood events. III. GIS can help plan evacuation routes during a flood. IV. GIS is not effective in assessing flood damage to infrastructure.",
+      "options": {
+        "1": "Only II and III",
+        "2": "Only I and IV",
+        "3": "Only III and IV",
+        "4": "Only I, II and III"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Disaster Management and GIS"
+    },
+    {
+      "question_number": 88,
+      "question": "",
+      "options": {
+        "1": "A-2, B-1 C-4, D-3",
+        "2": "A-1, B-2, C-4, D-3",
+        "3": "A-1, B-2, C-3, D-4",
+        "4": "A-4, B-2, C-1, D-3"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 89,
+      "question": "",
+      "options": {
+        "1": "A-2, B-4, C-3, D-1",
+        "2": "A-4, B-3, C-2, D-1",
+        "3": "A-3, B-4, C-2, D-1",
+        "4": "A-1, B-4, C-2, D-3"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 90,
+      "question": "Identify the CORRECT statements from the four statements related to agricultural practices and their environmental impact given below: I. The use of synthetic fertilizers and pesticides can lead to soil and water pollution. II. Sustainable farming methods prioritize soil health and biodiversity conservation. III. Modern agriculture has no connection to the depletion of freshwater resources. IV. The expansion of monoculture farming is beneficial for overall ecosystem stability.",
+      "options": {
+        "1": "Only II and IV",
+        "2": "Only III and IV",
+        "3": "Only I and III",
+        "4": "Only I and II"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Environment"
+    },
+    {
+      "question_number": 91,
+      "question": "Which statements accurately describe the targets set by Andhra Pradesh government to be completed by the year 2029? I. Andhra Pradesh aims to have 30% share of renewable energy by 2029. II. Andhra Pradesh aims to have 100% drought proofing by 2029. III. Andhra Pradesh aims to have 100% solid and liquid waste management by 2029.",
+      "options": {
+        "1": "I, II and III",
+        "2": "Only II and III",
+        "3": "Only I and III",
+        "4": "Only I and II"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 92,
+      "question": "Which of the following statements accurately describe natural resources in the Indian subcontinent? I. The Indian subcontinent is rich in mineral resources, including coal, iron ore, and bauxite. II. The Himalayan region is abundant in hydropower potential due to its numerous rivers and water bodies. III. The subcontinent lacks fertile land and suitable conditions for agricultural production. IV. The Thar Desert in northwest India is a major source of freshwater resources.",
+      "options": {
+        "1": "Only II and III",
+        "2": "Only I and II",
+        "3": "Only III and IV",
+        "4": "Only I, II, and IV"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 93,
+      "question": "Select the option that is TRUE regarding the following two statements labelled Assertion (A-and Reason (R). Assertion: The South-Western Plateau Region extends over Karnataka, Goa and contiguous Tamil Nadu uplands and Kerala. Reason: The North-Eastern Plateau Region covers Chhota Nagpur (Jharkhand), Odisha Plateau, West Bengal and parts of Chhattisgarh.",
+      "options": {
+        "1": "Both the assertion and reason are true, and the reason is a correct explanation of the assertion.",
+        "2": "Both the assertion and reason are true, but the reason is NOT a correct explanation of the assertion.",
+        "3": "The assertion is true, but the reason is false.",
+        "4": "The reason is true, but the assertion is false."
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 94,
+      "question": "Which one of the following river flows through northwestern India and Pakistan?",
+      "options": {
+        "1": "Yamuna",
+        "2": "Brahmaputra",
+        "3": "Indus",
+        "4": "Godavari"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 95,
+      "question": "",
+      "options": {
+        "1": "A-4, B-2, C-3, D-1",
+        "2": "A-1, B-2, C-4, D-3",
+        "3": "A-2, B-1, C-3, D-4",
+        "4": "A-1, B-2, C-3, D-4"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 96,
+      "question": "Which of the following statements accurately describe the physical features of the Indian subcontinent? (Select all that apply) I. The Indian subcontinent is home to the world's largest desert, the Sahara Desert. II. The Eastern Ghats are a mountain range along the eastern coast of India. III. The Deccan Plateau is primarily characterized by fertile plains and lowland areas.",
+      "options": {
+        "1": "Only II",
+        "2": "Only I & III",
+        "3": "Only I",
+        "4": "I, II & III"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 97,
+      "question": "",
+      "options": {
+        "1": "A-3, B-2, C-4, D-1",
+        "2": "A-2, B-3, C-4, D-1",
+        "3": "A-2, B-3, C-1, D-4",
+        "4": "A-4, B-3, C-2, D-1"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 98,
+      "question": "",
+      "options": {
+        "1": "A-3, B-1, C-4, D-2",
+        "2": "A-1, B-2, C-4, D-3",
+        "3": "A-1, B-4, C-2, D-3",
+        "4": "A-1, B-3, C-2, D-4"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 99,
+      "question": "Which of the following statements is/are correct regarding the Hyderabad city? (Select all that apply) I. Mir Qamar-ud-din Siddiqi was the founder of the Asaf Jahi dynasty and the first Nizam of Hyderabad. II. The city of Hyderabad, a significant political and economic center in Andhra Pradesh, was established during the rule of Nizam-ul-Mulk in the 18th century.",
+      "options": {
+        "1": "Only II",
+        "2": "Neither I nor II",
+        "3": "Only I",
+        "4": "Both I & II"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 100,
+      "question": "The Andhra Pradesh Reorganization Act of 1956 led to the formation of Andhra Pradesh by merging Andhra State with which another region?",
+      "options": {
+        "1": "Hyderabad",
+        "2": "Karnataka",
+        "3": "Tamil Nadu",
+        "4": "Odisha"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 101,
+      "question": "The \"Janmabhoomi - Maa Vooru\" program in Andhra Pradesh encourages citizen participation in local governance and development. When it was launched?",
+      "options": {
+        "1": "October, 2016",
+        "2": "October, 2015",
+        "3": "October, 2018",
+        "4": "October, 2014"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 102,
+      "question": "The \"Jagananna Amma Vodi\" scheme in Andhra Pradesh is targeted at improving the health and well-being of which group?",
+      "options": {
+        "1": "Elderly citizens",
+        "2": "Children below the age of six",
+        "3": "Poor mothers of school-going children",
+        "4": "Farmers"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 103,
+      "question": "The Polavaram Dam project, which is crucial for irrigation and flood control, has faced constitutional challenges, including issues related to environmental clearances and resettlement of displaced communities is spanned over which river of Andhra Pradesh?",
+      "options": {
+        "1": "Pennar",
+        "2": "Tungabhadra",
+        "3": "Krishna",
+        "4": "Godavari"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 104,
+      "question": "As per the Andhra Pradesh Reorganisation Act, 2014 the common Governor of Andhra Pradesh and Telangana shall be assisted by how many advisors to be appointed by the Central Government in the initial phase?",
+      "options": {
+        "1": "Two",
+        "2": "Three",
+        "3": "Five",
+        "4": "Four"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Indian Polity and Governance"
+    },
+    {
+      "question_number": 105,
+      "question": "When the Andhra Pradesh Reorganisation Act, 2014 received the assent of the President?",
+      "options": {
+        "1": "1 February 2014",
+        "2": "1 January 2014",
+        "3": "1 June 2014",
+        "4": "1 March 2014"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 106,
+      "question": "How many districts were initially specified for the state of Andhra Pradesh in the Andhra Pradesh Reorganization Act, 2014?",
+      "options": {
+        "1": "13",
+        "2": "17",
+        "3": "10",
+        "4": "8"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 107,
+      "question": "According to the Andhra Pradesh Reorganisation Act, 2014, the government of India will establish institutions of national importance in the _____ Plan periods in the successor State of Andhra Pradesh?",
+      "options": {
+        "1": "13th and 14th",
+        "2": "12th and 13th",
+        "3": "14th and 15th",
+        "4": "11th and 12th"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 108,
+      "question": "Which river is the longest river in Andhra Pradesh?",
+      "options": {
+        "1": "Tungabhadra River",
+        "2": "Penna River",
+        "3": "Godavari River",
+        "4": "Krishna River"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 109,
+      "question": "Which one of the following is NOT a wildlife sanctuary in Andhra Pradesh?",
+      "options": {
+        "1": "Kambalakonda Wildlife Sanctuary",
+        "2": "Pulicat Lake Wildlife Sanctuary",
+        "3": "Sri Venkateswara Wildlife Sanctuary",
+        "4": "Chinnar Wildlife Sanctuary"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 110,
+      "question": "Out of total 40 rivers of Andhra Pradesh, how many of them are interstate rivers?",
+      "options": {
+        "1": "5",
+        "2": "10",
+        "3": "15",
+        "4": "25"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 111,
+      "question": "Which soil types are infertile and are found generally on the highly eroded hill slopes and near the foot hills areas of Andhra Pradesh?",
+      "options": {
+        "1": "Desert soil",
+        "2": "Skeletal Soil",
+        "3": "Red soil",
+        "4": "Alluvial soil"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 112,
+      "question": "In which district of Andhra Pradesh, the Sri Venkateswara National Park is situated?",
+      "options": {
+        "1": "West Godavari",
+        "2": "Kadapa",
+        "3": "Chittoor",
+        "4": "East Godavari"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 113,
+      "question": "Which type of soil is occupying about 66 percent of the Andhra Pradesh state’s land area, are formed from granites, gneisses and dharwars (schists, mica schists and green stones)?",
+      "options": {
+        "1": "Laterite soil",
+        "2": "Black soil",
+        "3": "Alluvial soil",
+        "4": "Red Soil"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 114,
+      "question": "Which government program in Andhra Pradesh focuses on providing financial assistance and support to farmers in distress?",
+      "options": {
+        "1": "Soil Health Card Scheme",
+        "2": "Kisan Credit Card Scheme",
+        "3": "Rythu Raksha Scheme",
+        "4": "Pradhan Mantri Krishi Sinchayee Yojana"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 115,
+      "question": "Which of the following initiatives in Andhra Pradesh focuses on sustainable and organic farming practices?",
+      "options": {
+        "1": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+        "2": "National Food Security Mission (NFSM)",
+        "3": "Rashtriya Krishi Vikas Yojana (RKVY)",
+        "4": "Paramparagat Krishi Vikas Yojana (PKVY)"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 116,
+      "question": "Which of these cities of Andhra Pradesh was declared as its executive capital in January 2023?",
+      "options": {
+        "1": "Visakhapatnam",
+        "2": "Tirupati",
+        "3": "Guntur",
+        "4": "Vijayawada"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 117,
+      "question": "In which district of Andhra Pradesh, the Krishnapatnam Port is situated?",
+      "options": {
+        "1": "Visakhapatnam",
+        "2": "Nellore",
+        "3": "Kakinada",
+        "4": "Machilipatnam"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 118,
+      "question": "In which of the following years the Andhra Pradesh Innovation Society (APIS) was set up?",
+      "options": {
+        "1": "2016",
+        "2": "2015",
+        "3": "2014",
+        "4": "2018"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 119,
+      "question": "Which sector has been a focus of industrial development in the Krishnapatnam Port region of Andhra Pradesh?",
+      "options": {
+        "1": "Textiles",
+        "2": "Tourism",
+        "3": "Heavy Industries",
+        "4": "Information Technology"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 120,
+      "question": "Which special economic zone (SEZ) in Andhra Pradesh is dedicated to the IT and ITES (Information Technology Enabled Services) sector?",
+      "options": {
+        "1": "Sri City SEZ",
+        "2": "Kakinada SEZ",
+        "3": "Nellore SEZ",
+        "4": "Visakhapatnam SEZ"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 121,
+      "question": "",
+      "options": {
+        "1": "Chandan",
+        "2": "Deepak",
+        "3": "Rahul",
+        "4": "Parimal"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 122,
+      "question": "",
+      "options": {
+        "1": "Wednesday",
+        "2": "Thursday",
+        "3": "Saturday",
+        "4": "Sunday"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 123,
+      "question": "",
+      "options": {
+        "1": "Mohan",
+        "2": "Naman",
+        "3": "Sanjay",
+        "4": "Ram"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 124,
+      "question": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements. Statements: A. All satellites are stars. B. All moons are stars. Conclusions: I. All satellites are moons. II. Some satellites are moons.",
+      "options": {
+        "1": "Both the conclusions I and II follow",
+        "2": "Only conclusion I follows",
+        "3": "Only conclusion II follows",
+        "4": "Neither conclusion I nor II follow"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Data Analysis and Tabulation"
+    },
+    {
+      "question_number": 125,
+      "question": "Three statements are given, followed by three conclusions numbered I, II and III. Assuming the statements to be true, even if they seem to be at variance from commonly known facts, decide which of the conclusions logically follow(s) from the given statements. Statements: A. All tigers are jungles. B. All elephants are jungles. C. All jungles are trees. Conclusions: I. All tigers are trees. II. No tigers are elephants. III. Some tigers are elephants.",
+      "options": {
+        "1": "Only conclusions I and II follow",
+        "2": "Only conclusions I and III follow",
+        "3": "All the conclusions I, II and III follow",
+        "4": "Conclusion I and either conclusion II or conclusion III follow"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 126,
+      "question": "",
+      "options": {
+        "1": "Naman",
+        "2": "Rahul",
+        "3": "Sachin",
+        "4": "Dhoni"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 127,
+      "question": "Which option will replace the question mark (?) in the following series? DJG, IDN, NXU, SRB, ?",
+      "options": {
+        "1": "XLI",
+        "2": "XLJ",
+        "3": "XIL",
+        "4": "XLN"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 128,
+      "question": "How many pairs of letter are in the given word “APTITUDE” which contains as many letters between them as contains in standard version of English Alphabet? Counting from both sides.",
+      "options": {
+        "1": "Two",
+        "2": "Three",
+        "3": "Four",
+        "4": "Five"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 129,
+      "question": "Which of the following pair follow same relationship as in the pair given below? BACKED : DBCEFL",
+      "options": {
+        "1": "ABACUS : DVTADB",
+        "2": "CABINS : BIEMSA",
+        "3": "DATING : UBEHOJ",
+        "4": "EAGLES : GBFTFM"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 130,
+      "question": "Which of the following pair follow same relationship as in the pair given below? LIFETIME : 51392056912",
+      "options": {
+        "1": "HISTORIC : 891920151893",
+        "2": "RECOVERY : 2518522153518",
+        "3": "THINKING : 714911149920",
+        "4": "GRADUATE : 52012151187"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 131,
+      "question": "Four letter-clusters pairs have been given, out of which three are alike in some manner and one is different. Select the letter-cluster pair that is different.",
+      "options": {
+        "1": "CABLES : ACLBSE",
+        "2": "CABINS : ACIBSN",
+        "3": "DATING : ADITNG",
+        "4": "DANCER : ADCNRE"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 132,
+      "question": "Four letter-clusters pairs have been given, out of which three are alike in some manner and one is different. Select the letter-cluster pair that is different.",
+      "options": {
+        "1": "LIFETIME :UJNFMJGF",
+        "2": "HISTORIC : PSJDIKTU",
+        "3": "RECOVERY : WFSZSFDP",
+        "4": "THINKING : LJOHUIJO"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 133,
+      "question": "Which option will replace the question mark (?) in the following series? 1210, 648, 294, 100, ?",
+      "options": {
+        "1": "17",
+        "2": "18",
+        "3": "19",
+        "4": "13"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 134,
+      "question": "",
+      "options": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": ""
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 135,
+      "question": "",
+      "options": {
+        "1": "2022",
+        "2": "2021",
+        "3": "2020",
+        "4": "2019"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 136,
+      "question": "Study the following information and answer the question: A company produces three different products P, Q and R. Each of the products has two categories, X and Y. The total number of all the products is 2400. 30% of the total number of product is R and one-third of the total number of product is Q and the remaining products are P. 40% of the number of product R as well as the number of product Q is of category X. Three-fifth of the product P is of category Y. The number of product Q of category Y is what percent less than the total number of products P and R of category X?",
+      "options": {
+        "1": "20%",
+        "2": "24%",
+        "3": "25%",
+        "4": "30%"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 137,
+      "question": "",
+      "options": {
+        "1": "180 and 190",
+        "2": "190 and 200",
+        "3": "200 and 210",
+        "4": "210 and 220"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 138,
+      "question": "",
+      "options": {
+        "1": "7",
+        "2": "8",
+        "3": "9",
+        "4": "12"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 139,
+      "question": "",
+      "options": {
+        "1": "68%",
+        "2": "66.5%",
+        "3": "65%",
+        "4": "62.7%"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 140,
+      "question": "",
+      "options": {
+        "1": "28.5%",
+        "2": "29%",
+        "3": "30.2%",
+        "4": "31%"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 141,
+      "question": "",
+      "options": {
+        "1": "(a)",
+        "2": "(b)",
+        "3": "(c)",
+        "4": "(d)"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 142,
+      "question": "",
+      "options": {
+        "1": "(a) and (b)",
+        "2": "(b) and (c)",
+        "3": "Only (c)",
+        "4": "Only (a)"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 143,
+      "question": "The question below is followed by three statements I, II and III. Find which statement(s) is (are) sufficient to answer the question : What is the average weight of six members A, B, C, D, E and F in a family? I. Average weight of D and E is 66 kg II. Average weight of A, B, D and F is 52 kg III. Average weight of A, B, C and F is 50 kg",
+      "options": {
+        "1": "I and II",
+        "2": "II and III",
+        "3": "Ι and III",
+        "4": "I, II and III"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 144,
+      "question": "",
+      "options": {
+        "1": "5",
+        "2": "6",
+        "3": "7",
+        "4": "8"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 145,
+      "question": "Let the geometric mean of 27, 60, 108, 150 and 225 be x, then, what is the harmonic mean of x and 60?",
+      "options": {
+        "1": "54",
+        "2": "60",
+        "3": "72",
+        "4": "80"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Data Analysis and Tabulation"
+    },
+    {
+      "question_number": 146,
+      "question": "The harmonic mean of 9, 21 and 49 is closest to :",
+      "options": {
+        "1": "16.7",
+        "2": "17.2",
+        "3": "17.8",
+        "4": "18.5"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Data Analysis and Tabulation"
+    },
+    {
+      "question_number": 147,
+      "question": "",
+      "options": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": ""
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 148,
+      "question": "",
+      "options": {
+        "1": "15",
+        "2": "17",
+        "3": "18",
+        "4": "19"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 149,
+      "question": "",
+      "options": {
+        "1": "(a)",
+        "2": "(b)",
+        "3": "(c)",
+        "4": "(d)"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 150,
+      "question": "In a class, the number of boys is 30% more than the numbers of girls. The mean weight of girls is 54 kg and the mean weight of boys is 1.5 kg more than the mean weight of all the boys and girls in the class. What is the mean weight (in kg) of boys?",
+      "options": {
+        "1": "55.95",
+        "2": "56.75",
+        "3": "57.45",
+        "4": "58.25"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    }
+  ]
+}

@@ -1,210 +1,3 @@
-# EXQ: APPSC Question Bank Extraction & Structuring Engine
-
-**EXQ** is a deterministic, rule-based pipeline for extracting, deduplicating, classifying, formatting, and structuring exam questions from APPSC (Andhra Pradesh Public Service Commission) answer-key/exam PDFs into clean Markdown and structured JSON.
-
----
-
-## Key Capabilities
-
-1. **Deterministic Processing (Zero Hallucination / No LLM Required)**:
-   - Built entirely on PyMuPDF (fitz), regex parsing, and deterministic topic heuristics.
-   - Fast, reproducible, and offline-capable.
-
-2. **Bilingual Deduplication**:
-   - Detects Telugu Unicode character ranges (`[\u0C00-\u0C7F]`).
-   - Automatically detects and discards duplicate Telugu question blocks in bilingual papers while preserving English-only questions and standalone sections.
-
-3. **Answer Key Extraction & Verification**:
-   - Parses color spans (`srgb` green range) and visual cues to pinpoint verified correct answers.
-   - Identifies single-choice, multiple-choice, or missing/ambiguous answer states, flagging uncertain questions into a dedicated review report.
-
-4. **Hierarchical Topic Classification**:
-   - Classifies each question using configurable weighted keyword and regular expression rules defined in `topics.yaml`.
-   - Supports domain-specific topic order preservation in generated documentation and indices.
-
-5. **Advanced Markdown Formatting**:
-   - **Column Matching Questions**: Automatically parses `Column I ... Column II` patterns and generates clean Markdown comparison tables.
-   - **Assertion & Reason Questions**: Identifies `Assertion (A)` and `Reason (R)` statements and formats them onto bolded, distinct lines.
-   - **Inline Numbered Statements**: Identifies inline multi-statement questions (e.g., `1. ... 2. ... 3. ...`) and converts them into structured lists.
-
----
-
-## Installation & Requirements
-
-- Python 3.9+
-- Dependencies:
-
-  ```bash
-  pip install -r requirements.txt
-  ```
-
-  *(Requirements: `PyMuPDF`, `pyyaml`)*
-
----
-
-## Command Line Usage (CLI)
-
-The CLI tool is located at `app.py`. By default, it generates output files inside a folder matching the PDF name in the same directory as the PDF.
-
-### Basic Run
-
-```bash
-python app.py "path/to/exam.pdf"
-```
-
-### Run with Custom Topics File
-
-```bash
-python app.py "path/to/exam.pdf" -t "path/to/topics.yaml"
-```
-
-### Specify Custom Output Directory
-
-```bash
-python app.py "path/to/exam.pdf" -o "path/to/output_folder"
-```
-
-### Specify Exam Name
-
-```bash
-python app.py "path/to/exam.pdf" -e "2022-ae-various-gsma"
-```
-*(If `-e` is omitted, it defaults to the cleaned PDF file name, e.g. `2022 ae various gsma`)*
-
----
-
-## Python API & Code Use Cases
-
-You can import and use EXQ modularly within your own Python pipelines or applications.
-
-### Use Case 1: End-to-End Extraction Programmatically
-
-```python
-from pathlib import Path
-from src.pdf_extractor import PDFExtractor
-from src.question_parser import QuestionParser
-from src.answer_detector import AnswerDetector
-from src.topic_classifier import TopicClassifier
-from src.markdown_renderer import MarkdownRenderer
-from src.json_renderer import JSONRenderer
-
-pdf_file = Path("pcb-ae/pdfs/2025-GSMA.pdf")
-topics_config = Path("topics_gsma.yaml")
-
-# 1. Extract raw blocks
-extractor = PDFExtractor()
-raw_blocks = extractor.extract_blocks(str(pdf_file))
-
-# 2. Parse questions and filter language duplicates
-parser = QuestionParser()
-questions = parser.parse_questions(raw_blocks)
-
-# 3. Detect correct answers from visual/color cues
-answer_detector = AnswerDetector()
-answer_detector.attach_answers(questions, raw_blocks)
-
-# 4. Classify topics using rule configuration
-classifier = TopicClassifier.from_yaml(str(topics_config))
-classifier.classify_all(questions)
-
-# 5. Render outputs
-md_renderer = MarkdownRenderer(topics_order=classifier.topics_order, paper_title=pdf_file.stem)
-markdown_output = md_renderer.render(questions)
-
-json_data = JSONRenderer.render(questions, paper_title=pdf_file.stem)
-
-print(f"Successfully processed {len(questions)} questions.")
-```
-
----
-
-### Use Case 2: Using the Smart Question Formatter Standalone
-
-You can use the formatter independently on any unstructured raw question text to convert matching columns, assertion-reasons, or statements into publication-ready Markdown:
-
-```python
-from src.question_formatter import format_question_text
-
-# Example: Matching columns question
-raw_matching = (
-    "Column I (Person) Column II (Neighbour to the immediate left) "
-    "(i)Q (W)B (ii)P (X)E (iii)D (Y)R (iv)R (Z)F "
-    "Which is the correct match of Column I with Column II?"
-)
-
-clean_markdown = format_question_text(raw_matching)
-print(clean_markdown)
-```
-
-**Output:**
-
-```markdown
-| Person | Column II |
-|---|---|
-| (i) Q | (W) B |
-| (ii) P | (X) E |
-| (iii) D | (Y) R |
-| (iv) R | (Z) F |
-
-Which is the correct match of Column I with Column II?
-```
-
----
-
-### Use Case 3: Filtering and Querying Questions by Topic from Output JSON
-
-```python
-import json
-
-with open("pcb-ae/pdfs/2025-GSMA/2025-GSMA.json", "r", encoding="utf-8") as f:
-    data = json.load(f)
-
-# Filter questions for a specific syllabus domain
-reasoning_questions = [
-    q for q in data.get("questions", [])
-    if q.get("topic") == "Mental Ability and Reasoning"
-]
-
-print(f"Found {len(reasoning_questions)} reasoning questions.")
-for q in reasoning_questions[:3]:
-    print(f"Q{q['question_number']}: {q['question_text'][:80]}...")
-```
-
----
-
-## Designing a `topics.yaml` File
-
-The topic classifier matches questions against a deterministic scoring model defined in YAML. The markdown renderer uses the exact sequential order of topics in this file to build the Table of Contents / Topic Index.
-
-### Configuration Schema
-
-```yaml
-topics:
-  - name: "Topic Display Name"
-    keywords:
-      "keyword or phrase": <weight_int_1_to_10>
-      "single_word": <weight_int_1_to_10>
-    regex:
-      - pattern: "\\b[A-Z]{3,4}\\b"
-        weight: <weight_int_1_to_10>
-```
-
-### Best Practices for Designing `topics.yaml`
-
-1. **Topic Ordering**: The sequence of `- name:` entries dictates the order in the generated Markdown index. Arrange them according to the official notification syllabus.
-2. **Weight Calibration**:
-   - High Specificity (`8 - 10`): Distinct terms unique to the subject (e.g., `remote sensing`, `sustainable development`, `standard deviation`, `article 370`).
-   - Medium Specificity (`5 - 7`): Common domain terms (e.g., `governance`, `disaster`, `census`, `amendment`).
-   - Broad/Generic (`1 - 4`): Use sparingly to prevent false positive overrides across topics.
-3. **Regular Expressions (`regex`)**: Use regex patterns for case-sensitive acronyms, word-boundary assertions (`\\b`), or composite patterns (e.g., legal articles, year/summit formats).
-
----
-
-### Reference Implementation: APPSC General Studies & Mental Ability (10 Topics)
-
-Below is an optimized, production-ready `topics.yaml` tailored precisely to the 10 official syllabus topics from the APPSC notification:
-
-```yaml
 topics:
   # 1. Logical Reasoning, Analytical Ability and Logical Interpretation (Q1 to Q24, Q28, Q29 in exam structure)
   - name: Logical Reasoning and Analytical Ability
@@ -288,58 +81,26 @@ topics:
       - pattern: "\\bvariance\\b"
         weight: 9
 
-  # 3. Sustainable Development and Environmental Protection (Q43, Q45, Q49, Q54, Q60, Q79, Q91-Q105, Q108-Q110)
-  - name: Sustainable Development and Environment
+  # 3. Sustainable Development
+  - name: Sustainable Development
     keywords:
       sustainable development: 10
       sustainable development goals: 10
       sdg: 10
       sdg india index: 10
+      brundtland commission: 10
       carrying capacity: 10
       absorptive capacity: 10
-      brundtland commission: 10
-      environmental degradation: 9
       resource depletion: 9
       functions of the environment: 9
       renewable resource: 10
       non-renewable resource: 10
-      aquatic weed: 9
-      water hyacinth: 10
-      mk ranjitsinh: 10
-      noble m paikada: 10
-      stockholm: 9
-      conference on the human environment: 10
-      air pollution control: 9
-      appcb: 10
-      andhra pradesh pollution control board: 10
-      water (prevention and control of pollution) act: 10
-      air (prevention and control of pollution) act: 10
-      environment (protection) act: 10
-      public liability insurance act: 10
-      great indian bustard: 10
-      greenhouse gas: 9
-      carbon footprint: 9
       carbon neutrality: 9
       net zero: 9
-      global warming: 8
-      climate change: 8
-      ipcc: 9
-      biodiversity: 8
-      ramsar: 10
-      wetland: 8
-      kyoto protocol: 10
-      paris agreement: 10
-      montreal protocol: 10
-      ozone layer: 8
-      cfc: 8
-      air quality index: 9
-      aqi: 9
-      cpcb: 8
-      environmental clearance: 9
-      eia: 9
-      wildlife protection act: 9
-      charles elton: 10
-      animal ecology: 9
+      carbon footprint: 9
+      greenhouse gas: 8
+      kyoto protocol: 9
+      paris agreement: 9
     regex:
       - pattern: "\\bSDG\\b"
         weight: 10
@@ -352,6 +113,51 @@ topics:
       - pattern: "\\brenewable\\s+resource\\b"
         weight: 10
       - pattern: "\\bnon-renewable\\s+resource\\b"
+        weight: 10
+
+  # 4. Environmental Protection and Ecology
+  - name: Environment
+    keywords:
+      environment: 8
+      environmental degradation: 9
+      environmental protection: 10
+      environment (protection) act: 10
+      environmental clearance: 9
+      eia: 9
+      air pollution control: 9
+      air quality index: 9
+      aqi: 9
+      appcb: 10
+      andhra pradesh pollution control board: 10
+      cpcb: 8
+      water (prevention and control of pollution) act: 10
+      air (prevention and control of pollution) act: 10
+      public liability insurance act: 10
+      aquatic weed: 9
+      water hyacinth: 10
+      mk ranjitsinh: 10
+      noble m paikada: 10
+      stockholm: 9
+      conference on the human environment: 10
+      great indian bustard: 10
+      global warming: 8
+      climate change: 8
+      ipcc: 9
+      biodiversity: 8
+      ramsar: 10
+      wetland: 8
+      montreal protocol: 10
+      ozone layer: 8
+      cfc: 8
+      wildlife protection act: 9
+      charles elton: 10
+      animal ecology: 9
+    regex:
+      - pattern: "\\benvironment\\s*\\(protection\\)\\s*act\\b"
+        weight: 10
+      - pattern: "\\bair\\s*\\(prevention\\s+and\\s+control\\s+of\\s+pollution\\)\\s*act\\b"
+        weight: 10
+      - pattern: "\\bwater\\s*\\(prevention\\s+and\\s+control\\s+of\\s+pollution\\)\\s*act\\b"
         weight: 10
 
   # 4. Disaster Management: vulnerability profile, mitigation, Remote Sensing & GIS (Q136 to Q150)
@@ -696,15 +502,3 @@ topics:
         weight: 10
       - pattern: "\\bISRO\\b|\\bPSLV\\b|\\bGSLV\\b"
         weight: 8
-```
-
----
-
-## Output Structure
-
-When executed, EXQ produces four synchronized artifacts:
-
-- `<name>.md`: Clean, high-readability Markdown document with an indexed table of contents.
-- `<name>.json`: Machine-readable, strictly schema-validated JSON format for databases, search indexing, or LLM evaluation.
-- `<name>_review.md`: Flags edge-case questions (missing answers, ambiguous color spans, or multiple correct keys).
-- `<name>_report.json`: Metrics report covering question count, answer detection rate, and topic distribution.

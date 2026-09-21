@@ -3,21 +3,29 @@ from typing import List, Tuple, Dict
 from src.models import RawQuestionBlock, ParsedOption, RawLine, RawSpan
 
 METADATA_PATTERNS = [
-    re.compile(r"^Question\s+Number\s*:", re.IGNORECASE),
-    re.compile(r"^Question\s+Id\s*:", re.IGNORECASE),
-    re.compile(r"^Question\s+Type\s*:", re.IGNORECASE),
-    re.compile(r"^Is\s+Question\s+Mandatory\s*:", re.IGNORECASE),
-    re.compile(r"^Calculator\s*:", re.IGNORECASE),
-    re.compile(r"^Response\s+Time\s*:", re.IGNORECASE),
-    re.compile(r"^Think\s+Time\s*:", re.IGNORECASE),
-    re.compile(r"^Minimum\s+Instruction\s+Time\s*:", re.IGNORECASE),
-    re.compile(r"^Correct\s+Marks\s*:", re.IGNORECASE),
-    re.compile(r"^Wrong\s+Marks\s*:", re.IGNORECASE),
+    re.compile(r"^(?:None\s+)?(?:Response\s+Time|Think\s+Time|Minimum\s+Instruction\s+Time|Maximum\s+Instruction\s+Time|Instruction\s+Time|Calculator|Correct\s+Marks|Wrong\s+Marks|Question\s+Number|Question\s+Id|Question\s+Type|Is\s+Question\s+Mandatory)\s*:", re.IGNORECASE),
+    re.compile(r"^None\s+(?:Response|Think|Minimum|Instruction|Correct|Wrong|Calculator)", re.IGNORECASE),
+    re.compile(r"^Instruction\s+Time\s*:\s*\d+", re.IGNORECASE),
+    re.compile(r"^(?:N\.A\.?\s+)?(?:Minimum\s+)?Instruction\s+Time\s*:\s*\d+", re.IGNORECASE),
+    re.compile(r"^(?:N\.A\.?\s+)?Think\s+Time\s*:", re.IGNORECASE),
+    re.compile(r"^(?:N\.A\.?|None|Yes|No)\s*$", re.IGNORECASE),
 ]
+
+METADATA_INLINE_PREFIX = re.compile(
+    r"^(?:(?:None\s+|N\.A\.?\s+)*(?:Response\s+Time|Think\s+Time|Minimum\s+Instruction\s+Time|Maximum\s+Instruction\s+Time|Instruction\s+Time|Calculator|Correct\s+Marks|Wrong\s+Marks|Question\s+Number|Question\s+Id|Question\s+Type|Is\s+Question\s+Mandatory)\s*:\s*(?:N\.A\.?|\S+)\s*)+",
+    re.IGNORECASE
+)
 
 def is_metadata_line(text: str) -> bool:
     clean = text.strip()
     return any(p.search(clean) for p in METADATA_PATTERNS)
+
+def strip_metadata_prefix(text: str) -> str:
+    clean = text.strip()
+    m = METADATA_INLINE_PREFIX.match(clean)
+    if m:
+        return clean[m.end():].strip()
+    return clean
 
 class QuestionParser:
     def parse_block(self, block: RawQuestionBlock) -> Tuple[str, List[ParsedOption], List[str]]:
@@ -56,7 +64,11 @@ class QuestionParser:
 
         if options_idx is None:
             # Fallback: cannot find Options marker
-            q_text_lines = [l.text.strip() for l in lines[content_start_idx:] if l.text.strip()]
+            q_text_lines = []
+            for l in lines[content_start_idx:]:
+                txt = strip_metadata_prefix(l.text)
+                if txt and not is_metadata_line(txt):
+                    q_text_lines.append(txt)
             q_text = " ".join(q_text_lines)
             review_issues.append("Could not find 'Options :' marker in question block.")
             return q_text, [], review_issues
@@ -64,8 +76,8 @@ class QuestionParser:
         # Question text is everything from content_start_idx to options_idx
         q_text_parts = []
         for line in lines[content_start_idx:options_idx]:
-            txt = line.text.strip()
-            if txt:
+            txt = strip_metadata_prefix(line.text)
+            if txt and not is_metadata_line(txt):
                 q_text_parts.append(txt)
         question_text = " ".join(q_text_parts)
 

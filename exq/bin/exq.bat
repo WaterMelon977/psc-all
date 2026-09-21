@@ -26,12 +26,13 @@ if "%~1"=="" (
     echo  EXQ -- APPSC PDF Question Extractor
     echo  ------------------------------------
     echo  Usage:
-    echo    exq ^<pdf^>  [topics.yaml]  [--output-dir ^<dir^>]
+    echo    exq ^<pdf^>  [topics.yaml]  [--output-dir ^<dir^>]  [-e ^<exam^>]
     echo.
     echo  Examples:
     echo    exq "2025-GSMA.pdf"
     echo    exq "2025-GSMA.pdf" topics_gsma.yaml
-    echo    exq "2025-GSMA.pdf" topics_gsma.yaml --output-dir D:\output
+    echo    exq "2025-GSMA.pdf" topics_gsma.yaml -e "2025-GSMA"
+    echo    exq "2025-GSMA.pdf" topics_gsma.yaml --output-dir D:\output -e "2025-GSMA"
     echo.
     echo  If topics.yaml is omitted, uses:
     echo    %DEFAULT_TOPICS%

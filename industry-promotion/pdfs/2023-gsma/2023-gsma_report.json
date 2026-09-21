@@ -1,0 +1,25 @@
+{
+  "input_filename": "D:\\appsc-loaded\\industry-promotion\\pdfs\\2023-gsma.pdf",
+  "processing_timestamp": "2026-09-21T08:09:50.526096",
+  "total_pages": 144,
+  "total_question_blocks_detected": 300,
+  "english_questions_retained": 150,
+  "telugu_questions_discarded": 150,
+  "questions_with_detected_answers": 148,
+  "review_items_count": 2,
+  "topic_distribution": {
+    "Logical Reasoning and Analytical Ability": 97,
+    "Data Analysis and Tabulation": 3,
+    "Sustainable Development": 4,
+    "Environment": 3,
+    "Disaster Management and GIS": 9,
+    "Geography of India and AP": 19,
+    "History of India and AP": 2,
+    "Indian Polity and Governance": 5,
+    "Indian Economy and Planning": 1,
+    "General Science and Technology": 4,
+    "Current Events and Issues": 3
+  },
+  "warnings": [],
+  "duration_seconds": 1.872
+}

@@ -236,5 +236,58 @@ class TestConverter(unittest.TestCase):
             self.assertNotIn("Hints", o.text)
             self.assertNotIn("explanation", o.text)
 
+    def test_12_exam_rendering(self):
+        """Test 12: ### Exam is rendered in Layout B (after ### Answer)."""
+        q = Question(
+            question_number=1,
+            page_number=1,
+            question_text="Sample question",
+            options={"1": "Opt A", "2": "Opt B"},
+            answer=[1],
+            topic="Thermodynamics",
+            exam="2022 ae various gsma"
+        )
+        classifier = TopicClassifier(str(self.yaml_file))
+        md_renderer = MarkdownRenderer(classifier.topics_order, default_exam="fallback exam")
+        md_out = md_renderer.render([q])
+
+        self.assertIn("### Answer\n\n> **Answer: 1**\n\n### Exam\n\n2022 ae various gsma", md_out)
+
+        # Test default fallback when question has no exam
+        q2 = Question(
+            question_number=2,
+            page_number=1,
+            question_text="Sample question 2",
+            options={"1": "Opt A", "2": "Opt B"},
+            answer=[2],
+            topic="Thermodynamics"
+        )
+        md_out2 = md_renderer.render([q2])
+        self.assertIn("### Answer\n\n> **Answer: 2**\n\n### Exam\n\nfallback exam", md_out2)
+
+    def test_13_metadata_stripping(self):
+        """Test 13: Metadata like 'None Response Time : N.A...' is stripped from question text."""
+        block = RawQuestionBlock(
+            qnum=17,
+            page_number=8,
+            header_text="Question Number : 17",
+            lines=[
+                RawLine("Question Number : 17 Question Id : 63068075101 Is Question Mandatory : No Calculator :", [], 7),
+                RawLine("None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0", [], 7),
+                RawLine("Correct Marks : 1", [], 8),
+                RawLine("Which of the following states did NOT get an A++ rank?", [], 8),
+                RawLine("Options :", [], 8),
+                RawLine("1.", [], 8),
+                RawLine("Kerala", [], 8),
+                RawLine("2.", [], 8),
+                RawLine("Punjab", [], 8),
+            ]
+        )
+        parser = QuestionParser()
+        q_text, opts, issues = parser.parse_block(block)
+        self.assertEqual(q_text, "Which of the following states did NOT get an A++ rank?")
+        self.assertNotIn("Response Time", q_text)
+        self.assertNotIn("Correct Marks", q_text)
+
 if __name__ == "__main__":
     unittest.main()

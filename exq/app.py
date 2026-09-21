@@ -25,7 +25,7 @@ if sys.stdout.encoding != "utf-8":
     except AttributeError:
         sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
 
-def run_conversion(pdf_path: str, topics_path: str, output_dir: str = None):
+def run_conversion(pdf_path: str, topics_path: str, output_dir: str = None, exam: str = None):
     start_time = time.time()
     pdf_file = Path(pdf_path).resolve()
     topics_file = Path(topics_path).resolve()
@@ -39,6 +39,7 @@ def run_conversion(pdf_path: str, topics_path: str, output_dir: str = None):
         sys.exit(1)
 
     paper_name = pdf_file.stem
+    cleaned_exam_name = exam if exam else paper_name.replace('_', ' ').replace('-', ' ').strip()
     if output_dir:
         out_dir = Path(output_dir).resolve()
     else:
@@ -93,6 +94,7 @@ def run_conversion(pdf_path: str, topics_path: str, output_dir: str = None):
             topic=topic,
             review_issues=all_issues,
             topic_scores=scores,
+            exam=cleaned_exam_name,
         )
         structured_questions.append(q)
 
@@ -100,7 +102,8 @@ def run_conversion(pdf_path: str, topics_path: str, output_dir: str = None):
     print("Generating Markdown...")
     md_renderer = MarkdownRenderer(
         topics_order=topic_classifier.topics_order,
-        paper_title=f"APPSC {paper_name.replace('_', ' ').replace('-', ' ')} Question Bank"
+        paper_title=f"APPSC {paper_name.replace('_', ' ').replace('-', ' ')} Question Bank",
+        default_exam=cleaned_exam_name,
     )
     md_content = md_renderer.render(structured_questions)
     md_path = out_dir / f"{paper_name}.md"
@@ -184,6 +187,12 @@ def main():
         default=None,
         help="Custom directory to save the generated outputs (default: <pdf_folder>/<pdf_name>)."
     )
+    parser.add_argument(
+        "--exam",
+        "-e",
+        default=None,
+        help="Name of the exam (default: cleaned PDF file name)."
+    )
     args = parser.parse_args()
 
     # Determine topics path from positional arg, flag, or default fallback
@@ -194,7 +203,7 @@ def main():
             default_topics = str(script_dir_topics)
 
     topics_path = args.topics_flag or args.topics or default_topics
-    run_conversion(args.pdf, topics_path, args.output_dir)
+    run_conversion(args.pdf, topics_path, args.output_dir, args.exam)
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,2090 @@
+{
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "Xiomara Castro was sworn in as the first female President of _______ in 2022.",
+      "options": {
+        "1": "Honduras",
+        "2": "Cyprus",
+        "3": "Bulgaria",
+        "4": "Tunisia"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 2,
+      "question": "Why was Roberta Metsola in the news in January 2022?",
+      "options": {
+        "1": "She was elected as the president of the World Bank.",
+        "2": "She was elected as the president of the INTERPOL.",
+        "3": "She was elected as the president of the European Parliament.",
+        "4": "She was elected as the president of UNICEF."
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 3,
+      "question": "Prime Minister Narendra Modi was honoured with the Ngadag Pel gi Khorlo award in December 2021. This is the highest civilian award in which country?",
+      "options": {
+        "1": "Cambodia",
+        "2": "Indonesia",
+        "3": "Bhutan",
+        "4": "Myanmar"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 4,
+      "question": "In November 2021, Barbados was declared a new republic after how many years of British rule?",
+      "options": {
+        "1": "100 years",
+        "2": "200 years",
+        "3": "300 years",
+        "4": "400 years"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 5,
+      "question": "The new CEO of Twitter, Parag Agrawal, has graduated from which IIT?",
+      "options": {
+        "1": "IIT-Bombay",
+        "2": "IIT-Madras",
+        "3": "IIT-Kharagpur",
+        "4": "IIT-Delhi"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 6,
+      "question": "Which country hosted the G-7 Foreign Ministers’ meeting in December 2021?",
+      "options": {
+        "1": "The UK",
+        "2": "Canada",
+        "3": "France",
+        "4": "Italy"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 7,
+      "question": "After winning the finals of the men’s singles title at the Australian Open 2021, Rafael Nadal set a new record of winning ______ titles in Grand Slam singles.",
+      "options": {
+        "1": "21",
+        "2": "19",
+        "3": "17",
+        "4": "15"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 8,
+      "question": "In November 2021, India was re-elected to the Executive Board of the United Nations' Cultural and Education Organization (UNESCO) for a term of _______ years.",
+      "options": {
+        "1": "four",
+        "2": "three",
+        "3": "five",
+        "4": "six"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 9,
+      "question": "Which government body has recently (January 2022) constituted a ‘Fly Ash Management and Utilization Mission’ with the objective of coordinating and monitoring the issues related to handling and disposal of fly ash and other associated issues?",
+      "options": {
+        "1": "Central Ground Water Board (CGWB)",
+        "2": "Central Pollution Control Board (CPCB)",
+        "3": "National Green Tribunal (NGT)",
+        "4": "Indian Forest Service (IFS)"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Environment"
+    },
+    {
+      "question_number": 10,
+      "question": "Which research institute secured the second rank in the National Ranking Index-2020?",
+      "options": {
+        "1": "IISc, Bangalore",
+        "2": "CSIR, Delhi",
+        "3": "NIN, Hyderabad",
+        "4": "C-DAC, Pune"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 11,
+      "question": "How many new high yielding varieties of field crops were released by the Indian Council of Agricultural Research during 2019 to 2021?",
+      "options": {
+        "1": "462",
+        "2": "562",
+        "3": "362",
+        "4": "262"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 12,
+      "question": "The Central Government is set to roll out a digital system called ‘OSM’ from 1 April 2022 in a bid to bring in operational efficiency in storage, movement and distribution of food grains under the Targeted Public Distribution System (TPDS). The full form of OSM is:",
+      "options": {
+        "1": "Online Storage Management",
+        "2": "Output Storage Management",
+        "3": "Outsource Storage Management",
+        "4": "Onset Storage Management"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 13,
+      "question": "According to the International Trade Administration (ITA), India emerged as the ________ largest manufacturer of mobile handsets in the world in 2021.",
+      "options": {
+        "1": "second",
+        "2": "third",
+        "3": "fourth",
+        "4": "fifth"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 14,
+      "question": "On 27 September 2021, DRDO tested a new version of the Akash Missile equipped with an active Radio Frequency (RF) seeker for improved accuracy. What is the name of this new version of Akash missile?",
+      "options": {
+        "1": "Akash Next",
+        "2": "Akash Prime",
+        "3": "Akash Apex",
+        "4": "Akash Blaze"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 15,
+      "question": "In July 2021, ISRO announced the launch of its geo-imaging satellite that will enable near-real time monitoring of natural disasters, such as floods and cyclones. The name of this satellite is:",
+      "options": {
+        "1": "EOS-03",
+        "2": "EOS-04",
+        "3": "EOS-05",
+        "4": "EOS-06"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Current Events and Issues"
+    },
+    {
+      "question_number": 16,
+      "question": "Which state ranked first among the larger states in primary education in the Index on Foundational Literacy and Numeracy 2021?",
+      "options": {
+        "1": "West Bengal",
+        "2": "Rajasthan",
+        "3": "Uttar Pradesh",
+        "4": "Madhya Pradesh"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 17,
+      "question": "Which of the following states did NOT get an A++ rank in the Performance Grading Index (PGI) of the States/UTs 2021?",
+      "options": {
+        "1": "Kerala",
+        "2": "Punjab",
+        "3": "Tamil Nadu",
+        "4": "Rajasthan"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 18,
+      "question": "For the effective implementation of various schemes and programmes of the Ministry of Women and Child Development, all the major schemes of the Ministry have been classified under how many umbrella schemes?",
+      "options": {
+        "1": "Three",
+        "2": "Four",
+        "3": "Five",
+        "4": "Six"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 19,
+      "question": "What amount was allocated for child protection and welfare services under Mission VATSALYA in the 2021-22 Union Budget of India?",
+      "options": {
+        "1": "₹700 crore",
+        "2": "₹900 crore",
+        "3": "₹600 crore",
+        "4": "₹300 crore"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 20,
+      "question": "What amount was allocated for the Social Justice and Empowerment Ministry, the ministry that caters to the welfare of the backward classes and those with disabilities, in the Union Budget 2022- 23?",
+      "options": {
+        "1": "₹10,134 crore",
+        "2": "₹11,134 crore",
+        "3": "₹12,134 crore",
+        "4": "₹13,134 crore"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 21,
+      "question": "According to the reports of the Ministry of Electronics and IT, approximately how much e-waste was collected and processed in the financial year 2021?",
+      "options": {
+        "1": "",
+        "3": "54 lakh tonnes 2. 2.54 lakh tonnes 3. 1.54 lakh tonnes",
+        "4": "4.54 lakh tonnes"
+      },
+      "answer": [
+        1,
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 22,
+      "question": "As of December 2021, what was the total number of Primary Health Centres (PHCs) in India?",
+      "options": {
+        "1": "23,391",
+        "2": "31,391",
+        "3": "11,391",
+        "4": "41,391"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 23,
+      "question": "According to the reports of Centre for Monitoring Indian Economy (CMIE), how many Indians were unemployed as of December 2021?",
+      "options": {
+        "1": "23 million",
+        "2": "33 million",
+        "3": "43 million",
+        "4": "53 million"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 24,
+      "question": "Recently (January 2022), the Union Cabinet extended the National Commission for Safai Karamcharis for how many more years?",
+      "options": {
+        "1": "One",
+        "2": "Four",
+        "3": "Two",
+        "4": "Three"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 25,
+      "question": "PVC is a polymer used in a variety of applications in building and construction, health care, electronics, automobile and other sectors, in products ranging from piping and siding to blood bags and tubing. The full form of PVC is:",
+      "options": {
+        "1": "Poly Vinyl Chloride",
+        "2": "Poly Vinyl Carbide",
+        "3": "Poly Vinyl Carbonate",
+        "4": "Poly Vanadium Chloride"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 26,
+      "question": "Coral reefs are large underwater structures composed of the skeletons of colonial marine invertebrates called ‘coral’. The major chemical component of these coral reefs is:",
+      "options": {
+        "1": "Ammonium chloride",
+        "2": "Zinc carbonate",
+        "3": "Calcium carbonate",
+        "4": "Cellulose"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 27,
+      "question": "Which of the following diseases is NOT generally caused by contaminated water and poor sanitation?",
+      "options": {
+        "1": "Cholera",
+        "2": "Diarrhoea",
+        "3": "Dysentery",
+        "4": "Kwashiorkor"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 28,
+      "question": "Which of the following gases is NOT a greenhouse gas?",
+      "options": {
+        "1": "Nitrogen",
+        "2": "Carbon dioxide",
+        "3": "Nitrous oxide",
+        "4": "Water vapour"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Sustainable Development"
+    },
+    {
+      "question_number": 29,
+      "question": "TEFLON is a polymer used for making non-stick cooking utensils. It is chemically known as:",
+      "options": {
+        "1": "polytetrafluoroethylene",
+        "2": "polytetrafluoropropylene",
+        "3": "polytetrafluorobutylene",
+        "4": "polytetrafluoropentylene"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 30,
+      "question": "Which of the following diseases is caused in humans by a severe lack of proteins and calories in the diet?",
+      "options": {
+        "1": "Marasmus",
+        "2": "Scurvy",
+        "3": "Goitre",
+        "4": "Mumps"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 31,
+      "question": "The deficiency of which vitamin in human diet causes sore throat with swelling and redness of the mouth, cheilosis, stomatitis, glossitis and dermatitis?",
+      "options": {
+        "1": "Ascorbic acid",
+        "2": "Retinol",
+        "3": "Riboflavin",
+        "4": "Cyanocobalamin"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 32,
+      "question": "Which cranial nerve in humans is the largest and has both, sensory and motor functions?",
+      "options": {
+        "1": "Trigeminal nerve",
+        "2": "Vagus nerve",
+        "3": "Abducens nerve",
+        "4": "Hypoglossal nerve"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 33,
+      "question": "Which enzyme helps in the digestion of fats in the gut of humans?",
+      "options": {
+        "1": "Amylase",
+        "2": "Lipase",
+        "3": "Lactase",
+        "4": "Helicase"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 34,
+      "question": "Which gland in the human body continuously supplies tear fluid that is wiped across the surface of the eyes each time the eyelids are blinked?",
+      "options": {
+        "1": "Lacrimal gland",
+        "2": "Thyroid gland",
+        "3": "Salivary gland",
+        "4": "Pituitary gland"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 35,
+      "question": "An organism free from the interference of other species that can use a full range of biotic and abiotic resources in which it can survive and reproduce is known as:",
+      "options": {
+        "1": "niche",
+        "2": "nemo",
+        "3": "putrid",
+        "4": "aphid"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 36,
+      "question": "How much percentage of the total area of India is in Seismic Zones III-V and vulnerable to earthquakes of moderate to high densities?",
+      "options": {
+        "1": "56%",
+        "2": "46%",
+        "3": "36%",
+        "4": "26%"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 37,
+      "question": "The most significant chemical accidents recorded in history was the 1984 Bhopal Gas tragedy, in which more than 3000 people were killed after a toxic gas was released from the Union Carbide pesticides factory. What was the toxic gas that was released?",
+      "options": {
+        "1": "Methyl isocyanate",
+        "2": "Trinitrotoluene",
+        "3": "Hydrogen cyanide",
+        "4": "Hydrogen sulphide"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 38,
+      "question": "To detect unclaimed radioactive materials/substances and save the public from its hazardous effects, the National Disaster Management Authority has chalked out a plan to provide the States/UTs with MRDS to be deployed in metros/all capital cities and big cities in India. The full form of MRDS is:",
+      "options": {
+        "1": "Metal Radiation Detection Systems",
+        "2": "Mobile Radiation Detection Systems",
+        "3": "Mobile Radiation Drainage Systems",
+        "4": "Mobile Radiation Detection Scanner"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Disaster Management and GIS"
+    },
+    {
+      "question_number": 39,
+      "question": "The National Disaster Response Force (NDRF) is a specialised force that is responsible for disaster response and relief. For 2021-22, the budget estimate for the NDRF was:",
+      "options": {
+        "1": "₹1,409 crore",
+        "2": "₹1,309 crore",
+        "3": "₹1,109 crore",
+        "4": "₹1,209 crore"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Disaster Management and GIS"
+    },
+    {
+      "question_number": 40,
+      "question": "Radar Satellite-1 (RISAT-1) is a state-of-the-art Microwave Remote Sensing Satellite carrying a Synthetic Aperture Radar (SAR) Payload operating in C-band (5.35 GHz) that enables imaging of the surface features during both, day and night under all weather conditions. What is the vehicle used by ISRO to launch this satellite?",
+      "options": {
+        "1": "PSLV- C17",
+        "2": "PSLV- C18",
+        "3": "PSLV- C19",
+        "4": "PSLV- C20"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Current Events and Issues"
+    },
+    {
+      "question_number": 41,
+      "question": "In India, in which seismic zone does New Delhi fall?",
+      "options": {
+        "1": "Zone IV",
+        "2": "Zone III",
+        "3": "Zone II",
+        "4": "Zone I"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Disaster Management and GIS"
+    },
+    {
+      "question_number": 42,
+      "question": "As per a study by National Disaster Management Authority, what is the length of the coastline in India that is prone to cyclones/high wind velocity?",
+      "options": {
+        "1": "6000 km",
+        "2": "7000 km",
+        "3": "5700 km",
+        "4": "5000 km"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Disaster Management and GIS"
+    },
+    {
+      "question_number": 43,
+      "question": "According to the ‘Global Climate Risk Index’ report 2019, India is the _____ most vulnerable country in the world due to extreme weather-related events.",
+      "options": {
+        "1": "10th",
+        "2": "12th",
+        "3": "14th",
+        "4": "16th"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 44,
+      "question": "According to India Meteorological Department (IMD), the average yearly temperature in 2020 was:",
+      "options": {
+        "1": "22.78°C",
+        "2": "23.78°C",
+        "3": "24.78°C",
+        "4": "25.78°C"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 45,
+      "question": "According to Internal Displacement Monitoring Centre (IDMC), India suffered several disasters such as floods, storms and cyclones in 2020 and 2021 till May and India is the _______ worst climate-induced disaster hit country in the world.",
+      "options": {
+        "1": "fourth",
+        "2": "fifth",
+        "3": "sixth",
+        "4": "seventh"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Disaster Management and GIS"
+    },
+    {
+      "question_number": 46,
+      "question": "In which year did the Government of India launch National Clean Air Programme in order to address the increasing air pollution across the country in a comprehensive manner?",
+      "options": {
+        "1": "2019",
+        "2": "2018",
+        "3": "2017",
+        "4": "2016"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 47,
+      "question": "The ‘Namami Gange Mission’ is a key policy launched by the Indian government with an objective of achieving which Sustainable Development Goal (SDG) adopted by the United Nations?",
+      "options": {
+        "1": "SDG 5",
+        "2": "SDG 6",
+        "3": "SDG 7",
+        "4": "SDG 8"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Sustainable Development"
+    },
+    {
+      "question_number": 48,
+      "question": "How many Sustainable Development Goals (SDGs) were adopted by the United Nations as a universal call to action to end poverty, protect the planet and ensure attainment of SDGs by 2030?",
+      "options": {
+        "1": "17",
+        "2": "15",
+        "3": "13",
+        "4": "11"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Sustainable Development"
+    },
+    {
+      "question_number": 49,
+      "question": "Among the Sustainable Development Goals (SDGs) adopted by the United Nations, the second goal is:",
+      "options": {
+        "1": "no poverty",
+        "2": "zero hunger",
+        "3": "gender equality",
+        "4": "quality education"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Sustainable Development"
+    },
+    {
+      "question_number": 50,
+      "question": "The National Food Security Mission (NFSM) launched by the Government of India in 2007 aimed at an increase in the annual production of:",
+      "options": {
+        "1": "rice, wheat and pulses",
+        "2": "fish and milk",
+        "3": "potatoes",
+        "4": "sugarcane"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 51,
+      "question": "In 2021, the Ministry of Housing and Urban Affairs initiated GHTC-India that aims to identify and make mainstream a basket of innovative construction technologies from across the globe for housing construction sector that are sustainable, eco-friendly and disaster-resilient. The full form of GHTC is:",
+      "options": {
+        "1": "Global Housing Technology Challenge",
+        "2": "Global Housing Technology Council",
+        "3": "Global Housing Technology Commission",
+        "4": "Great Housing Technology Challenge"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Disaster Management and GIS"
+    },
+    {
+      "question_number": 52,
+      "question": "Pradhan Mantri Awas Yojana – Urban (PMAY-U), the mission that addresses urban housing shortage among the EWS/LIG and MIG categories including the slum dwellers by ensuring a pucca house to all eligible, was launched in which year?",
+      "options": {
+        "1": "2015",
+        "2": "2012",
+        "3": "2011",
+        "4": "2013"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 53,
+      "question": "What is the name given to the imaginary line that runs along Earth's surface from the North Pole to the South Pole in the middle of the Pacific Ocean? Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.",
+      "options": {
+        "1": "International Date Line",
+        "2": "International Index Line",
+        "3": "International Standard Line",
+        "4": "International Climate Line"
+      },
+      "answer": [],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 54,
+      "question": "Where is the Sonoran desert located? Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.",
+      "options": {
+        "1": "USA/Mexico",
+        "2": "Germany/Austria",
+        "3": "South Korea/North Korea",
+        "4": "USA/Brazil"
+      },
+      "answer": [],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 55,
+      "question": "What is the height of the world’s highest waterfall ‘Angel Falls’ located in Venezuela? Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.",
+      "options": {
+        "1": "5212 feet",
+        "2": "2212 feet",
+        "3": "3212 feet",
+        "4": "4212 feet"
+      },
+      "answer": [],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 56,
+      "question": "A total of nine countries share borders with India. Out of these, how many countries share sea borders with India?",
+      "options": {
+        "1": "One",
+        "2": "Two",
+        "3": "Three",
+        "4": "Four"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 57,
+      "question": "Which of the following Indian states does NOT share a land border with Myanmar?",
+      "options": {
+        "1": "Arunachal Pradesh",
+        "2": "Mizoram",
+        "3": "Assam",
+        "4": "Nagaland"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 58,
+      "question": "The total length of the land border (international) of India is:",
+      "options": {
+        "1": "15106.7 km",
+        "2": "14106.7 km",
+        "3": "13106.7 km",
+        "4": "12106.7 km"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 59,
+      "question": "Which of the following lakes holds the distinction of being both, the deepest lake in the world and the largest freshwater lake? Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.",
+      "options": {
+        "1": "Lake Malawi, East Africa",
+        "2": "Great Slave Lake, Canada",
+        "3": "Lake Baikal, Russia",
+        "4": "Lake Loch Ness, Scotland"
+      },
+      "answer": [],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 60,
+      "question": "The Dead Sea, located on the border of Jordan and Israel, is the lowest location on land dipping down to _______ feet below the sea level. Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.",
+      "options": {
+        "1": "1178 feet",
+        "2": "1385 feet",
+        "3": "1278 feet",
+        "4": "1478 feet"
+      },
+      "answer": [],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 61,
+      "question": "In which year was the President’s rule first imposed in the state of Andhra Pradesh?",
+      "options": {
+        "1": "1973",
+        "2": "1977",
+        "3": "1983",
+        "4": "1987"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 62,
+      "question": "Who among the following NEVER served as the Chief Minister of Andhra Pradesh?",
+      "options": {
+        "1": "Bhavanam Venkataram",
+        "2": "Bezawada Gopala Reddy",
+        "3": "Marri Chenna Reddy",
+        "4": "Pingali Venkayya"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 63,
+      "question": "Given are some political parties based in Andhra Pradesh and their founders. Choose the INCORRECT pair.",
+      "options": {
+        "1": "Praja Rajyam – Chiranjeevi",
+        "2": "Lok Satta – Jai Prakash Narayana",
+        "3": "Mahajana Socialist Party – Manda Krishna Madiga",
+        "4": "Praja Shanti Party – YS Sharmila"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 64,
+      "question": "What was the code name of the police action taken by the Indian government against the Nizam of Hyderabad for merging Hyderabad with the Indian union in 1948?",
+      "options": {
+        "1": "Operation Polo",
+        "2": "Operation Tiger",
+        "3": "Operation Pearl",
+        "4": "Operation Sultan"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 65,
+      "question": "What was the capital city of the Andhra state that was separated from the Madras state in 1953?",
+      "options": {
+        "1": "Warangal",
+        "2": "Kakinada",
+        "3": "Visakhapatnam",
+        "4": "Kurnool"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 66,
+      "question": "Who was the chairman of the commission appointed by the Government of India in 1948 to examine if the states could be set up on linguistic basis, referring to the possibility of the creation of states of Maharashtra, Andhra, Karnataka and Kerala?",
+      "options": {
+        "1": "Narendran",
+        "2": "Kothari",
+        "3": "SK Dhar",
+        "4": "Sakariya"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 67,
+      "question": "Who was the first governor of the Andhra Pradesh state that came into being on 1 November 1956?",
+      "options": {
+        "1": "Bhim Sen Sachar",
+        "2": "Chandulala Madhavlal Trivedi",
+        "3": "Satyavant Mallanah Sri Nagesh",
+        "4": "Pattom A Thanu Pillai"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Indian Polity and Governance"
+    },
+    {
+      "question_number": 68,
+      "question": "Which of the following statements is true regarding Tanguturi Prakasham?",
+      "options": {
+        "1": "He was the first chief minister of Andhra State.",
+        "2": "He was the first governor of Andhra State.",
+        "3": "He was the first chief minister of integrated Andhra Pradesh State.",
+        "4": "He did two months of hunger strike demanding a separate Andhra state in 1952."
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Indian Polity and Governance"
+    },
+    {
+      "question_number": 69,
+      "question": "‘Gabbilam’ (1941) is the famous literary work of which poet of Andhra Pradesh?",
+      "options": {
+        "1": "Gurram Jashuva",
+        "2": "Srirangam Srinivasa Rao",
+        "3": "T Ramaswami Chowdhary",
+        "4": "Garimella Satyanarayana"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 70,
+      "question": "Who among the following tried to establish a magazine called ‘Prakasika’ in 1896?",
+      "options": {
+        "1": "Gidugu Ramamurthy",
+        "2": "Raghupathi Venkayya Naidu",
+        "3": "Kandukuri Veereshalingam",
+        "4": "Gurajada Appa Rao"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 71,
+      "question": "Before 1947, coastal Andhra and Rayalaseema were a part of the Madras presidency and Hyderabad was a separate state. What was the official language of the Madras presidency?",
+      "options": {
+        "1": "English",
+        "2": "Telugu",
+        "3": "Tamil",
+        "4": "Urdu"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 72,
+      "question": "The Congress party at its Jaipur conclave in 1949 accepted the principle of the formation of the states on linguistic lines and constituted a committee to reconsider this important issue of reorganisation of states. Who among the following was NOT a member of that committee?",
+      "options": {
+        "1": "Pattabhi SItharamayya",
+        "2": "Jawaharlal Nehru",
+        "3": "Sardar Vallabhai Patel",
+        "4": "Neelam Sanjeeva Reddy"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 73,
+      "question": "Which of the following e-governance initiatives was first launched in the state of Andhra Pradesh?",
+      "options": {
+        "1": "Skill Delivery Platform",
+        "2": "Khanij Online",
+        "3": "Integrated Financial Management System",
+        "4": "Real Time Governance"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Indian Polity and Governance"
+    },
+    {
+      "question_number": 74,
+      "question": "In which year was the Centre for Good Governance (CGG) set up in Andhra Pradesh?",
+      "options": {
+        "1": "2001",
+        "2": "1999",
+        "3": "2005",
+        "4": "2007"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 75,
+      "question": "The Centre for Good Governance (CGG) was set up in Andhra Pradesh in collaboration with _________.",
+      "options": {
+        "1": "DFID and World Bank",
+        "2": "Asian Bank of Development",
+        "3": "Asian Infrastructure Investment Bank",
+        "4": "New Development Bank"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 76,
+      "question": "Name the first village in Andhra Pradesh where ‘Rajiv Internet Village’ scheme was launched to make public services affordable, transparent and accessible to the rural population.",
+      "options": {
+        "1": "Rapthadu",
+        "2": "Kurumaddali",
+        "3": "Chiluvuru",
+        "4": "Ichoda"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 77,
+      "question": "The health scheme AAROGYASRI, launched in 2007 to provide free tertiary healthcare services to citizens below poverty line, is named after:",
+      "options": {
+        "1": "Indira Gandhi",
+        "2": "Rajiv Gandhi",
+        "3": "Lal Bahadur Shastri",
+        "4": "Tanguturi Prakasham"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Indian Economy and Planning"
+    },
+    {
+      "question_number": 78,
+      "question": "SERP was established by the Government of Andhra Pradesh (AP) as a sensitive support structure to facilitate poverty reduction through social mobilisation and improvement of livelihoods of the rural poor in Andhra Pradesh. The full form of SERP is:",
+      "options": {
+        "1": "Society for Engaging Rural Poor",
+        "2": "Social Equality for Rural Poor",
+        "3": "Society for Elimination of Rural Poverty",
+        "4": "Society for Education of Rural Poverty"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 79,
+      "question": "The goal of the IKP project launched in Andhra Pradesh is to reduce poverty of the Below Poverty Level households through sustainable community based women organisations by introducing livelihood interventions through institution building, human resource capacity building and community investment fund. The full form of IKP is:",
+      "options": {
+        "1": "Indira Kishore Patham",
+        "2": "Indira Kranthi Patham",
+        "3": "Indira Kanthi Patham",
+        "4": "Indira Kalyan Patham"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 80,
+      "question": "Under the YSR Rythu Bharosa scheme launched by the Andhra Pradesh government, how much yearly financial assistance was promised to the farmers?",
+      "options": {
+        "1": "₹25,500/-",
+        "2": "₹13,500/-",
+        "3": "₹35,000/-",
+        "4": "₹5,500/-"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 81,
+      "question": "With a view to encourage families with school-going children, the present Andhra Pradesh government has launched a scheme called ‘Amma Vodi’. How much financial assistance will be provided to all the mothers who send their children to school?",
+      "options": {
+        "1": "₹15,000/-",
+        "2": "₹25,000/-",
+        "3": "₹20,000/-",
+        "4": "₹18,000/-"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 82,
+      "question": "In December 2020, Andhra Pradesh High Court had sought the assistance of the State Government asking whether it can record a finding that ‘the constitutional machinery has broken down there’. Which Article of the Constitution of India has provisions in case of failure of constitutional machinery in state?",
+      "options": {
+        "1": "Article 350",
+        "2": "Article 352",
+        "3": "Article 354",
+        "4": "Article 356"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Indian Polity and Governance"
+    },
+    {
+      "question_number": 83,
+      "question": "The AP State Commission for SCs and STs was established in 2016 by reconstituting the AP State Commission for SCs & STs amending the Act. 9 of _____.",
+      "options": {
+        "1": "2003",
+        "2": "2001",
+        "3": "1997",
+        "4": "2005"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 84,
+      "question": "The Andhra Pradesh Social Welfare Fund, which provides financial assistance to encourage, help, foster and strengthen the registered voluntary organisation that are engaged in Social Welfare Actives, was established in:",
+      "options": {
+        "1": "1975",
+        "2": "1977",
+        "3": "1981",
+        "4": "1983"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 85,
+      "question": "In terms of area, which is the largest district (before new districts formation in 2022) in Andhra Pradesh?",
+      "options": {
+        "1": "Krishna",
+        "2": "West Godavari",
+        "3": "East Godavari",
+        "4": "Anantapur"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 86,
+      "question": "Andhra Pradesh has the ________ largest mangrove eco-system in the country.",
+      "options": {
+        "1": "second",
+        "2": "third",
+        "3": "fourth",
+        "4": "fifth"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 87,
+      "question": "As of December 2021, what is the total number of wildlife sanctuaries in Andhra Pradesh?",
+      "options": {
+        "1": "10",
+        "2": "11",
+        "3": "15",
+        "4": "13"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 88,
+      "question": "The river Tungabhadra, which forms the boundary between Karnataka and Andhra Pradesh for the length of 58 kms, is a tributary of the river:",
+      "options": {
+        "1": "Godavari",
+        "2": "Krishna",
+        "3": "Penna",
+        "4": "Vamshadhara"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 89,
+      "question": "The Pennar river, which originates in the south-west region of Andhra Pradesh, finally merges in the Bay of Bengal in which district of Andhra Pradesh?",
+      "options": {
+        "1": "Nellore district",
+        "2": "East Godavari district",
+        "3": "West Godavari district",
+        "4": "Srikakulam district"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 90,
+      "question": "How much of the total length of the Krishna River flows through Andhra Pradesh?",
+      "options": {
+        "1": "425 km",
+        "2": "445 km",
+        "3": "485 km",
+        "4": "465 km"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 91,
+      "question": "What is the total length of the coastline of Andhra Pradesh?",
+      "options": {
+        "1": "974 km",
+        "2": "954 km",
+        "3": "934 km",
+        "4": "924 km"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 92,
+      "question": "As of March2022, Andhra Pradesh is the largest producer of marine products with ________ share in the country’s exports.",
+      "options": {
+        "1": "50%",
+        "2": "30%",
+        "3": "40%",
+        "4": "55%"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 93,
+      "question": "Of which mineral is the state of Andhra Pradesh the sole producer in India?",
+      "options": {
+        "1": "Tin ore",
+        "2": "Calcite",
+        "3": "Dolomite",
+        "4": "Apatite"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 94,
+      "question": "In terms of geographical area, Andhra Pradesh is the __________ largest state in India.",
+      "options": {
+        "1": "seventh",
+        "2": "eighth",
+        "3": "ninth",
+        "4": "tenth"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 95,
+      "question": "After the separation of Telangana, the flower that was chosen as the state flower of Andhra Pradesh is:",
+      "options": {
+        "1": "jasmine",
+        "2": "marigold",
+        "3": "gerbera",
+        "4": "carnation"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 96,
+      "question": "According to the 17th India State of Forest Report (ISFR) 2021 released by the Union Minister for Environment, Forest and Climate Change, Andhra Pradesh has recorded an increase of ____ in its forest cover.",
+      "options": {
+        "1": "347 sq km",
+        "2": "447 sq km",
+        "3": "547 sq km",
+        "4": "647 sq km"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Environment"
+    },
+    {
+      "question_number": 97,
+      "question": "After the bifurcation of Andhra Pradesh, the Central Government has promised to set up a new railway zone at which place in Andhra Pradesh?",
+      "options": {
+        "1": "Kakinada",
+        "2": "Guntur",
+        "3": "Visakhapatnam",
+        "4": "Tirupati"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 98,
+      "question": "The Andhra Pradesh Reorganisation Bill, 2014 proposed consequential amendments to The Representation of the People Act of:",
+      "options": {
+        "1": "1950",
+        "2": "1952",
+        "3": "1954",
+        "4": "1956"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 99,
+      "question": "The Andhra Pradesh Reorganisation Bill, 2014 has proposed the Delimitation of Parliamentary and Assembly Constituencies Order that was passed in the year:",
+      "options": {
+        "1": "2006",
+        "2": "2008",
+        "3": "2004",
+        "4": "2002"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 100,
+      "question": "The Andhra Pradesh Reorganisation Bill, 2014 has proposed the amendment of which Schedules of the Constitution of India?",
+      "options": {
+        "1": "Second and Third",
+        "2": "First and Fourth",
+        "3": "Fifth and Sixth",
+        "4": "Eighth and Ninth"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Indian Polity and Governance"
+    },
+    {
+      "question_number": 101,
+      "question": "The Krishna Waters Dispute Tribunal awarded shares in the Krishna waters to three states - Maharashtra, Karnataka and Andhra Pradesh. How much share was allocated to united Andhra Pradesh?",
+      "options": {
+        "1": "500 TMC",
+        "2": "600 TMC",
+        "3": "800 TMC",
+        "4": "700 TMC"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 102,
+      "question": "The Pranahita project in the Telangana region will require 3466 MW power, almost _______ of the current total installed power generation capacity of Andhra Pradesh.",
+      "options": {
+        "1": "one-third",
+        "2": "one-fourth",
+        "3": "one-fifth",
+        "4": "one-sixth"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 103,
+      "question": "Under which Section of the Andhra Pradesh Reorganisation Act, 2014 did Andhra’s petition request the Union Government to notify the jurisdiction of the Krishna River Management Board (KRMB) over the use of Krishna waters?",
+      "options": {
+        "1": "Section 83",
+        "2": "Section 85",
+        "3": "Section 87",
+        "4": "Section 89"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 104,
+      "question": "In 2014, Andhra Pradesh and Telangana had agreed to split the water of the Krishna River on a temporary or ad-hoc basis in what ratio?",
+      "options": {
+        "1": "66 : 34",
+        "2": "56 : 44",
+        "3": "76 : 24",
+        "4": "51 : 49"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 105,
+      "question": "The maintenance of which of the following projects was claimed by Telangana after the bifurcation of Andhra Pradesh?",
+      "options": {
+        "1": "Srisailam project",
+        "2": "Pulichintala project",
+        "3": "Prakasham barrage",
+        "4": "Jurala project"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 106,
+      "question": "For what reason did the Andhra Pradesh government protest Telangana’s use of the Srisailam reservoir water in June 2021?",
+      "options": {
+        "1": "Telangana is generating power below 834 feet",
+        "2": "Telangana is generating power above 834 feet",
+        "3": "Telangana is generating power above 1200 feet",
+        "4": "Telangana is generating power above 1000 feet"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 107,
+      "question": "During the bifurcation of Andhra Pradesh, the Central Government constituted an ‘apex council’ to supervise the functioning of the Godavari River Management Board and the Krishna River Management Board. The council consisted of:",
+      "options": {
+        "1": "Union Minister of Water Resources and Chief Ministers of respective states",
+        "2": "Union Minister of Home and Chief Ministers of respective states",
+        "3": "Union Minister of Water Resources and Home Ministers of respective states",
+        "4": "Union Minister of Home affairs and Home Ministers of respective states"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 108,
+      "question": "As per the Andhra Pradesh Reorganisation Bill, 2014, the resources allocated by the ______ Finance Commission to the existing state of Andhra Pradesh will be apportioned between the two successor states based on population ratio and other parameters.",
+      "options": {
+        "1": "13th",
+        "2": "12th",
+        "3": "11th",
+        "4": "10th"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Indian Polity and Governance"
+    },
+    {
+      "question_number": 109,
+      "question": "According to NITI Aayog, the agricultural sector in Andhra Pradesh contributes to more than _______ of the Gross State Domestic Product.",
+      "options": {
+        "1": "one-fourth",
+        "2": "one-third",
+        "3": "one-fifth",
+        "4": "one-sixth"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Indian Economy and Planning"
+    },
+    {
+      "question_number": 110,
+      "question": "The scheme of Andhra Pradesh Industrial Development Policy (APIDP) 2020-23 is NOT applicable in the Municipal Corporation limits of:",
+      "options": {
+        "1": "Cuddapah",
+        "2": "Ongole",
+        "3": "Kakinada",
+        "4": "Vijayawada"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 111,
+      "question": "SDP is a Government of Andhra Pradesh initiative to promote conducive business processes through transparency and time-bound information. The full form of SDP is:",
+      "options": {
+        "1": "Single Dynamic Portal",
+        "2": "Single Digit Portal",
+        "3": "Single Division Portal",
+        "4": "Single Desk Portal"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 112,
+      "question": "What is the rank of Andhra Pradesh in India in terms of the FDI inflows between October 2019 and March 2021?",
+      "options": {
+        "1": "10th",
+        "2": "12th",
+        "3": "14th",
+        "4": "15th"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Indian Economy and Planning"
+    },
+    {
+      "question_number": 113,
+      "question": "The Andhra Pradesh government increased its health budget by _____ by allocating ₹13,830.44 crore in the 2021-22 Budget for Health, Medical and Family Welfare.",
+      "options": {
+        "1": "21.1%",
+        "2": "11.1%",
+        "3": "31.1%",
+        "4": "41.1%"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 114,
+      "question": "What was the increase in the Gross State Domestic Product (GSDP) of Andhra Pradesh in 2020-21?",
+      "options": {
+        "1": "1.58%",
+        "2": "0.58%",
+        "3": "0.28%",
+        "4": "1.15%"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 115,
+      "question": "As per the reports of the Socio-Economic Survey (SES) brought out by the Planning Department, what was the per capita income of Andhra Pradesh in 2020-2021?",
+      "options": {
+        "1": "₹1.10 lakh per annum",
+        "2": "₹1.20 lakh per annum",
+        "3": "₹1.70 lakh per annum",
+        "4": "₹1.40 lakh per annum"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 116,
+      "question": "In the rankings by NITI Aayog 2020-21, what is the rank of Andhra Pradesh in SDG goal-1 (eradication of poverty)?",
+      "options": {
+        "1": "Third",
+        "2": "Fourth",
+        "3": "Fifth",
+        "4": "Sixth"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Sustainable Development"
+    },
+    {
+      "question_number": 117,
+      "question": "On 7 September 2020, the Andhra Pradesh State Government signed an MoU with which country in food processing, marketing and technologies to benefit the horticulture and aquaculture farmers across the State?",
+      "options": {
+        "1": "Japan",
+        "2": "Indonesia",
+        "3": "Netherlands",
+        "4": "New Zealand"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 118,
+      "question": "What was the rank of Andhra Pradesh in egg production in the country in 2018-19?",
+      "options": {
+        "1": "First",
+        "2": "Second",
+        "3": "Third",
+        "4": "Fourth"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 119,
+      "question": "How much percentage of the total value of sea food export from the country was contributed by Andhra Pradesh by the end of 2018-19?",
+      "options": {
+        "1": "46%",
+        "2": "16%",
+        "3": "26%",
+        "4": "36%"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 120,
+      "question": "In February 2021, the Andhra Pradesh State Government approved how many new ESI (Employees’ State Insurance) hospitals?",
+      "options": {
+        "1": "Eleven",
+        "2": "Nine",
+        "3": "Seven",
+        "4": "Thirteen"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 121,
+      "question": "Six colleagues, namely Anchal, Yamuna, Chitra, Divija, Eshan and Prachi, joined a famous yoga centre. On their first day of yoga classes, they sat together in the same line. Chitra sat between Anchal and Eshan. Divija was not at the end. Yamuna sat to the immediate right of Eshan. Prachi was not at the right end. Divija sat fourth to the left of Yamuna. Who was at the left end if they were facing towards the north?",
+      "options": {
+        "1": "Prachi",
+        "2": "Anchal",
+        "3": "Yamuna",
+        "4": "Chitra"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 122,
+      "question": "Eight executive officers, Biswan, Manoj, Nipun, Diksha, Piyush, Chetan, Ravi and Eshan, are sitting around a circular table at equal distances from each other. They all are facing the centre of the table. Diksha is to the immediate right of Biswan and third to the left of Piyush. Manoj is the immediate neighbour of Chetan but not of Nipun. Piyush is the immediate neighbour of Eshan and second to the right of Manoj. Nipun is not the immediate neighbour of Biswan. Who is sitting diagonally opposite to Manoj?",
+      "options": {
+        "1": "Biswan",
+        "2": "Nipun",
+        "3": "Ravi",
+        "4": "Eshan"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 123,
+      "question": "There are 23 students in a yoga class, and the trainer has planned for an arrangement of all the students in a single row on stage on the occasion of International Yoga Day. Rupak is to be at the 10th position from the left side of the row and Raghu is to be at the 21st position from the right side of the row. Find the number of students who will be sitting between the Rupak and Raghu?",
+      "options": {
+        "1": "5",
+        "2": "6",
+        "3": "7",
+        "4": "8"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 124,
+      "question": "Read the given statements and conclusions carefully. Assuming that the information given in the statements are true, even if they appear to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements Statements: Some jammers are anchors. Some anchors are bakers. All the bakers are consultants. Conclusions: I. Some consultants are anchors. II. Some bakers are jammers. III. No baker is a jammer. IV. Some anchors are jammers.",
+      "options": {
+        "1": "Only conclusions I and II follow",
+        "2": "Only conclusions II and IV follow",
+        "3": "Only conclusions II and III follow",
+        "4": "Both conclusions I and IV and either conclusion II or conclusion III follow"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Data Analysis and Tabulation"
+    },
+    {
+      "question_number": 125,
+      "question": "",
+      "options": {
+        "1": "12",
+        "2": "13",
+        "3": "25",
+        "4": "16"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 126,
+      "question": "Amongst six badminton players, Neha, Rajiv, Tilak, Komal, Udit and Prachi, each has a different age. Prachi’s age is not an even number. Neha’s age is more than that of only Udit and Prachi. Komal’s age is less than that of only one person. Rajiv’s age is 65 years, and Tilak’s age is 49 years. The youngest person’s age is 26 years. Who among the following is the youngest badminton player?",
+      "options": {
+        "1": "Udit",
+        "2": "Prachi",
+        "3": "Tilak",
+        "4": "Komal"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 127,
+      "question": "",
+      "options": {
+        "1": "One",
+        "2": "Two",
+        "3": "Three",
+        "4": "Four"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 128,
+      "question": "In a code language, 'LOCATE' is written as ‘OIXUGY’ and 'SYNTAX' is written as 'HSMNZR'. How will 'MONKEY' be written in that language?",
+      "options": {
+        "1": "HIMEUS",
+        "2": "NMIVES",
+        "3": "NJMFVR",
+        "4": "NIMEVS"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 129,
+      "question": "In a certain code language, ‘TRACK’ is coded as ‘14642123’ and ‘SLOPE’ is coded as ‘819181522’. How will ‘MASTER’ be coded in that language?",
+      "options": {
+        "1": "1228223416",
+        "2": "2182322416",
+        "3": "2128223146",
+        "4": "1822223146"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 130,
+      "question": "Rakesh started from his home towards north and walked for 1km. He then turned left and walked for 500 m before he turned left and walked for 1 km. Finally, he turned right and walked for 1 km. What is the direction of his home from his present position?",
+      "options": {
+        "1": "South",
+        "2": "West",
+        "3": "North",
+        "4": "East"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 131,
+      "question": "Vilas starts walking from his home and walks 30 m towards south. From there, he turns left and walks 40 m. After that, he turns right and walks 45 m. Then, he turns left and walks 30 m. He then turns left and walks 50 m. Finally, he turns left and walks 70 m. How far is he now from his home and in which direction with reference to his home?",
+      "options": {
+        "1": "25 m, north",
+        "2": "5 m, north",
+        "3": "5 m, south",
+        "4": "25 m, south"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 132,
+      "question": "There is a family of six persons – P,Q,R,S,T and U. P is the daughter of S and mother of R. R is the sister of U. Q is the son-in-law of T's husband S. How is T related to U?",
+      "options": {
+        "1": "Sister",
+        "2": "Mother-in-law",
+        "3": "Mother",
+        "4": "Grandmother"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 133,
+      "question": "",
+      "options": {
+        "1": "Brother",
+        "2": "Son",
+        "3": "Husband",
+        "4": "Father-in-law"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 134,
+      "question": "Four pairs of letter-clusters have been given, out of which three are alike in some manner and one is different. Select the one that is different.",
+      "options": {
+        "1": "MDIL : HEPI",
+        "2": "NAIG : ECMI",
+        "3": "TLSI : MHWP",
+        "4": "PKIN : MGRL"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 135,
+      "question": "",
+      "options": {
+        "1": "77%",
+        "2": "85%",
+        "3": "90%",
+        "4": "95%"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 136,
+      "question": "",
+      "options": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": ""
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 137,
+      "question": "",
+      "options": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": ""
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 138,
+      "question": "",
+      "options": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": ""
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 139,
+      "question": "",
+      "options": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": ""
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 140,
+      "question": "",
+      "options": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": ""
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 141,
+      "question": "Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.",
+      "options": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": ""
+      },
+      "answer": [],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 142,
+      "question": "",
+      "options": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": ""
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 143,
+      "question": "",
+      "options": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": ""
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 144,
+      "question": "",
+      "options": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": ""
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 145,
+      "question": "",
+      "options": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": ""
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 146,
+      "question": "",
+      "options": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": ""
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 147,
+      "question": "",
+      "options": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": ""
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 148,
+      "question": "",
+      "options": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": ""
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 149,
+      "question": "Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.",
+      "options": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": ""
+      },
+      "answer": [],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 150,
+      "question": "",
+      "options": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": ""
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    }
+  ]
+}

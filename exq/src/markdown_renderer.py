@@ -3,12 +3,16 @@ from src.models import Question
 from src.question_formatter import format_question_text
 
 class MarkdownRenderer:
-    def __init__(self, topics_order: List[str], paper_title: str = "APPSC Question Bank"):
+    def __init__(self, topics_order: List[str], paper_title: str = "APPSC Question Bank", default_exam: str = ""):
         self.topics_order = topics_order
         self.paper_title = paper_title
+        self.default_exam = default_exam
 
     def render(self, questions: List[Question]) -> str:
         lines: List[str] = []
+
+        # Filter out questions where no question text was extracted
+        valid_questions = [q for q in questions if q.question_text and q.question_text.strip()]
 
         # 1. Main Title
         lines.append(f"# {self.paper_title}")
@@ -18,9 +22,9 @@ class MarkdownRenderer:
         lines.append("## Topic Index")
         lines.append("")
 
-        # Group question numbers by topic
+        # Group question numbers by topic (only for valid questions with text)
         topic_to_qnums: Dict[str, List[int]] = {t: [] for t in self.topics_order}
-        for q in questions:
+        for q in valid_questions:
             if q.topic in topic_to_qnums:
                 topic_to_qnums[q.topic].append(q.question_number)
             else:
@@ -54,7 +58,7 @@ class MarkdownRenderer:
         lines.append("# Questions")
         lines.append("")
 
-        for i, q in enumerate(questions):
+        for i, q in enumerate(valid_questions):
             lines.append(f"## Question {q.question_number}")
             lines.append("")
             lines.append(f"**Topic:** {q.topic}")
@@ -85,6 +89,13 @@ class MarkdownRenderer:
                 lines.append(f"> **Answer: {ans_str}**")
             else:
                 lines.append("> **Answer: None**")
+
+            exam_val = q.exam or self.default_exam
+            if exam_val:
+                lines.append("")
+                lines.append("### Exam")
+                lines.append("")
+                lines.append(exam_val)
 
             lines.append("")
             if i < len(questions) - 1:

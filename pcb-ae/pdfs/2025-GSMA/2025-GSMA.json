@@ -1,0 +1,2105 @@
+{
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "B, D, E, F, P, Q and R are sitting around a circular table, facing the centre of the table. Only one person sits between P and D when counted from the left of D. R sits third to the right of F. B sits third to the left of E. R sits to the immediate right of B. Q is not an immediate neighbour of B. Column I (Person) Column II  (Neighbour to the immediate left) (i)Q (W)B (ii)P (X)E (iii)D (Y)R (iv)R (Z)F Which is the correct match of Column I with Column II?",
+      "options": {
+        "1": "i-Y, ii-X, iii-Z, iv-W",
+        "2": "i-Y, ii-Z, iii-W, iv-X",
+        "3": "i-X, ii-W, iii-Z, iv-Y",
+        "4": "i-W, ii-x, iii-Y, iv-Z"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 2,
+      "question": "Each of P, Q, R, S, T, U and V was born in a different month viz. January, March, May, June, July, November and December of the same year, starting from January and ending in December. Only two people were born between R and V. Only one person was born before R. Only four people were born between T and Q. Only one person was born after T. S was born in a month having only 30 days. P was born before U. Which of the following options represent the correct order in which the people were born?",
+      "options": {
+        "1": "R, P, S, V",
+        "2": "P, S, U, T",
+        "3": "T, V, Q, R",
+        "4": "Q, P, T, S"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 3,
+      "question": "What should come in place of the question mark (?) in the given series based on the English alphabetical order? BJR DLT FNV HPX ?",
+      "options": {
+        "1": "KNQ",
+        "2": "MOK",
+        "3": "JNO",
+        "4": "JRZ"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 4,
+      "question": "Anand starts from Point A and drives 7 km towards the south. He then takes a left turn, drives 6 km, turns left and drives 11 km and stops at point P. (All turns are 90 degrees turns only, unless specified.) Based on the above information, find out which of the given statements can be the reason/s behind the assertion made below. Assertion:  Anand is 3km away from Point A. Reason A: He then takes a right turn from point P and drives 8 km. He takes a final left turn, drives 4 km and stops. Reason B: He then takes a left turn from point P and drives 9 km. He takes a final left turn, drives 4 km and stops. Reason C: He then takes a left turn from point P and drives 12 km. He takes a final right turn, drives 7 km and stops.",
+      "options": {
+        "1": "Only B is the reason behind the assertion.",
+        "2": "Only A and C are reasons behind the assertion.",
+        "3": "Only A is the reason behind the assertion.",
+        "4": "Only A and B are reasons behind the assertion."
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 5,
+      "question": "Three statements are given, followed by one conclusion. Find out which of the given options should replace the question mark (?) in the statement to make the conclusion true. Statements: I. Z > X > W II. X ? Y < U III. A = B ≥ U Conclusion: W < A",
+      "options": {
+        "1": "Only ≥",
+        "2": "Only =",
+        "3": "Either < or =",
+        "4": "Only >"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 6,
+      "question": "What should come in place of the question mark (?) in the given series based on the English alphabetical order? LIG NKI PMK ROM ?",
+      "options": {
+        "1": "TQO",
+        "2": "TQP",
+        "3": "TRO",
+        "4": "TRP"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 7,
+      "question": "Each letter in the word DEVICE is changed to the letter immediately preceding it in the English alphabetical order, and then all the letters thus formed are arranged in the English alphabetical order. Which of the following letters will be second from the right in the new group of letters thus formed?",
+      "options": {
+        "1": "H",
+        "2": "U",
+        "3": "B",
+        "4": "D"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 8,
+      "question": "Refer to the following letter, number, symbol series and answer the given question. (Left) J & 9 D * C V 6 U # B 5 @ A R 3 T S 7 M Y % 2 G (Right) How many symbols are there that are immediately preceded by a letter and also immediately followed by a number?",
+      "options": {
+        "1": "None",
+        "2": "One",
+        "3": "Two",
+        "4": "Three"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 9,
+      "question": "In a certain code, ‘milk makes cheese’ is coded as ‘lo ny ph’, ‘milk gives butter’ is coded as ‘ny ji su’ and ‘butter and cheese’ is coded as ‘ji ma ph’. What does the code 'ph' stand for?",
+      "options": {
+        "1": "butter",
+        "2": "makes",
+        "3": "cheese",
+        "4": "milk"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 10,
+      "question": "Three of the following letter-clusters are alike in some manner and hence form a group. Which letter-cluster does not belong to that group?",
+      "options": {
+        "1": "VPR",
+        "2": "RLM",
+        "3": "GAB",
+        "4": "WQR"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 11,
+      "question": "Four word pairs have been given, out of which three are alike in some manner and one is different. Select the one that is different.",
+      "options": {
+        "1": "Admit : Deny",
+        "2": "Beautiful : Gorgeous",
+        "3": "Huge : Big",
+        "4": "Brave : Courageous"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 12,
+      "question": "What should come in place of the question mark (?) in the given series? 11, 25, 47, 97, 191, ?",
+      "options": {
+        "1": "385",
+        "2": "379",
+        "3": "570",
+        "4": "576"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 13,
+      "question": "In this question, a statement is followed by two conclusions, numbered I and II. Identify which conclusion is true based on the given statement. Statement: P > Q ≥ R ≥ S < T ≤ U Conclusion I: P > R Conclusion II: U > S",
+      "options": {
+        "1": "Only conclusion I is true",
+        "2": "Only conclusion II is true",
+        "3": "Both conclusions I and II are true",
+        "4": "Neither conclusion I nor II is true"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 14,
+      "question": "Select the pair that follows the same pattern as that followed by the two pairs given below. Both pairs follow the same pattern. LGN : PKR NIP : RMT",
+      "options": {
+        "1": "JEL : NIP",
+        "2": "HCJ : LGM",
+        "3": "FAH : JEK",
+        "4": "PKR : TOU"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 15,
+      "question": "Select the pair that follows the same pattern as that followed by the two pairs given below. Both pairs follow the same pattern. QKH : LMD WSR : RUN",
+      "options": {
+        "1": "HYF : CAB",
+        "2": "PKC : KNZ",
+        "3": "VSM : QUJ",
+        "4": "GYA : BCY"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 16,
+      "question": "",
+      "options": {
+        "1": "A-(iii), B-(iv), C-(ii), D-(i)",
+        "2": "A-(iii), B-(iv), C-(i), D-(ii)",
+        "3": "A-(iv), B-(ii), C-(i), D-(iii)",
+        "4": "A-(iii), B-(i), C-(iv), D-(ii)"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 17,
+      "question": "",
+      "options": {
+        "1": "Both the statement and conclusion are correct.",
+        "2": "Both the statement and conclusion are incorrect.",
+        "3": "The statement is correct but the conclusion is incorrect.",
+        "4": "The statement is incorrect but the conclusion is correct."
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 18,
+      "question": "Read the given information, statement and conclusion, and select the most appropriate option. A fruit vendor bought 40 dozen bananas, 20 pineapples, and 16 dozen kiwis. He sold 40% of the bananas, 40% of the pineapples and 25% of the kiwis on the first day. On the next day, he sold 50% of the remaining bananas, 25% of the remaining pineapples and 50% of the remaining kiwis. Statement: The number of bananas sold in 2 days is more than the number of kiwis sold in 2 days. Conclusion: The fruit vendor is left with a smaller number of bananas than kiwis.",
+      "options": {
+        "1": "Both the statement and conclusion are correct.",
+        "2": "Both the statement and conclusion are incorrect.",
+        "3": "The statement is correct but the conclusion is incorrect.",
+        "4": "The statement is incorrect but the conclusion is correct."
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 19,
+      "question": "",
+      "options": {
+        "1": "71.85%",
+        "2": "70.18%",
+        "3": "69.54%",
+        "4": "68.25%"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 20,
+      "question": "",
+      "options": {
+        "1": "4 : 5",
+        "2": "5 : 4",
+        "3": "3 : 2",
+        "4": "2 : 3"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 21,
+      "question": "There are three boxes A, B, and C each containing three different coloured balls: red, blue, and yellow. The total number of red balls in all the boxes together is 30. The number of red balls in B is 5, which is equal to the number of yellow balls in C. The ratio of the number of red balls in A to C is 2 : 3. The total number of balls in B is 27. The number of blue balls in B is 10. The number of red balls in C is the sum of the number of blue balls in A and C. The number of yellow balls in B is 5 more than the number of blue balls in A. The total number of balls in all the boxes together is 80. What is the ratio of the number of blue balls in box A to the number of yellow balls in box B?",
+      "options": {
+        "1": "12 : 7",
+        "2": "7 : 12",
+        "3": "13 : 8",
+        "4": "8 : 13"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 22,
+      "question": "",
+      "options": {
+        "1": "56.25%",
+        "2": "46%",
+        "3": "42.18%",
+        "4": "36%"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 23,
+      "question": "",
+      "options": {
+        "1": "130%",
+        "2": "131.6%",
+        "3": "132.5%",
+        "4": "132.8%"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 24,
+      "question": "",
+      "options": {
+        "1": "",
+        "3": "78% 2.",
+        "4": "84% 3. 8.89% 4. 9.62%"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 25,
+      "question": "What is the arithmetic mean of the following data? 44, 46, 47, 48, 49, 50, 54, 72",
+      "options": {
+        "1": "48.5",
+        "2": "51.25",
+        "3": "54",
+        "4": "58"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Data Analysis and Tabulation"
+    },
+    {
+      "question_number": 26,
+      "question": "If the standard deviation of the data is 0.012, then the variance is:",
+      "options": {
+        "1": "0.144",
+        "2": "0.00144",
+        "3": "0.000144",
+        "4": "0.0000144"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Data Analysis and Tabulation"
+    },
+    {
+      "question_number": 27,
+      "question": "The harmonic mean of two numbers is 8. If one of the numbers is 12, what is the other number?",
+      "options": {
+        "1": "4",
+        "2": "5",
+        "3": "6",
+        "4": "7"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Data Analysis and Tabulation"
+    },
+    {
+      "question_number": 28,
+      "question": "",
+      "options": {
+        "1": "A-(iv), B-(i), C-(iii), D-(ii)",
+        "2": "A-(iv), B-(ii), C-(i), D-(iii)",
+        "3": "A-(iv), B-(i), C-(ii), D-(iii)",
+        "4": "A-(iii), B-(i), C-(iv), D-(ii)"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 29,
+      "question": "",
+      "options": {
+        "1": "23",
+        "2": "24",
+        "3": "25",
+        "4": "26"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 30,
+      "question": "Select the option that is true regarding the following two statements labelled Assertion (A) and Reason (R). Assertion (A): Weighted arithmetic mean is preferred over simple arithmetic mean when dealing with datasets, where different data points carry varying degrees of importance. Reason (R): Weighted arithmetic mean takes into account the significance of each data point by assigning appropriate weights, resulting in a more accurate representation of the average.",
+      "options": {
+        "1": "Both A and R are true, and R is the correct explanation of A.",
+        "2": "Both A and R are true, but R is not the correct explanation of A.",
+        "3": "A is true, but R is false.",
+        "4": "A is false, but R is true."
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Data Analysis and Tabulation"
+    },
+    {
+      "question_number": 31,
+      "question": "Who was awarded the Nobel Prize in 2023 in the field of literature?",
+      "options": {
+        "1": "Jon Fosse",
+        "2": "Narges Mohammadi",
+        "3": "Katalin Kariko",
+        "4": "Drew Weissman"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Current Events and Issues"
+    },
+    {
+      "question_number": 32,
+      "question": "Where did the WTO’s 13th Ministerial Conference take place from 26 February to 2 March 2024?",
+      "options": {
+        "1": "Durban",
+        "2": "Tokyo",
+        "3": "San Francisco",
+        "4": "Abu Dhabi"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 33,
+      "question": "Abdel Fattah el-Sisi was sworn as the President of _______ in 2024.",
+      "options": {
+        "1": "Kenya",
+        "2": "Saudi Arabia",
+        "3": "Egypt",
+        "4": "Iraq"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Current Events and Issues"
+    },
+    {
+      "question_number": 34,
+      "question": "Who was awarded an Oscar Award in 2024 in the category of ‘Actor in a Leading Role’?",
+      "options": {
+        "1": "Sterling K Brown",
+        "2": "Robert De Niro",
+        "3": "Mark Ruffalo",
+        "4": "Cillian Murphy"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Current Events and Issues"
+    },
+    {
+      "question_number": 35,
+      "question": "Shir Srinivas Varadhan was awarded with the Padma Vibhushan in the year _____.",
+      "options": {
+        "1": "2023",
+        "2": "2024",
+        "3": "2022",
+        "4": "2021"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Current Events and Issues"
+    },
+    {
+      "question_number": 36,
+      "question": "Which of the following is a correct pair of a super computer and its installed site in India?",
+      "options": {
+        "1": "PARAM Shivay - IIT Guwahati",
+        "2": "PARAM Pravega - IIT Kanpur",
+        "3": "PARAM Ananta - IIT Mandi",
+        "4": "AIRAWAT - C-DAC, Pune"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "General Science and Technology"
+    },
+    {
+      "question_number": 37,
+      "question": "How many people received Padma Shri in the field of science and engineering in 2023?",
+      "options": {
+        "1": "5",
+        "2": "8",
+        "3": "10",
+        "4": "12"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Current Events and Issues"
+    },
+    {
+      "question_number": 38,
+      "question": "What is the major objective of the PM-PRANAM scheme by the Government of India, launched in 2023?",
+      "options": {
+        "1": "Improve fertility of mother earth",
+        "2": "Improve female literacy",
+        "3": "Increase connectivity to major religious places",
+        "4": "Increase international trade"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Current Events and Issues"
+    },
+    {
+      "question_number": 39,
+      "question": "In which State/Union Territory did India host the Ministerial event of the 8th Mission Innovation (MI8) in July 2023?",
+      "options": {
+        "1": "Goa",
+        "2": "Chandigarh",
+        "3": "New Delhi",
+        "4": "Sikkim"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Current Events and Issues"
+    },
+    {
+      "question_number": 40,
+      "question": "Which of the following is the correct sequence of the State and Phase of Lok Sabha elections in 2024?",
+      "options": {
+        "1": "First Phase – Kerala, Second Phase – Uttarakhand, Third Phase – Gujarat",
+        "2": "First Phase – Kerala, Second Phase – Gujarat, Third Phase – Uttarakhand",
+        "3": "First Phase – Gujarat, Second Phase – Kerala, Third Phase – Uttarakhand",
+        "4": "First Phase – Uttarakhand, Second Phase – Kerala, Third Phase – Gujarat"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Indian Polity and Governance"
+    },
+    {
+      "question_number": 41,
+      "question": "To improve access to healthcare in rural areas, Andhra Pradesh established a network of which type of medical facilities?",
+      "options": {
+        "1": "District General Hospitals",
+        "2": "Medical Colleges",
+        "3": "Village Health Clinics",
+        "4": "Specialty Hospitals"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Current Events and Issues"
+    },
+    {
+      "question_number": 42,
+      "question": "Juvenile Courts in Andhra Pradesh prioritise which of the following aspects during inquiries and trials involving children?",
+      "options": {
+        "1": "Public humiliation of the offender",
+        "2": "The well being and best interests of the child",
+        "3": "Setting a strong legal precedent",
+        "4": "Ensuring speedy punishment"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Indian Polity and Governance"
+    },
+    {
+      "question_number": 43,
+      "question": "Which of the following statements regarding Andhra Pradesh’s inclusion in the SDG India Index 2023-24 methodology are correct? 1. Andhra Pradesh’s SDG score has improved compared to the 2020-21 edition, reflecting progress in key development areas. 2. The normalisation of raw data plays a crucial role in computing Andhra Pradesh’s overall SDG ranking and performance. 3. Andhra Pradesh’s performance in SDGs directly contributes to India's broader mission of Viksit Bharat @ 2047, a long-term national development goal. 4. The composite SDG Index score for Andhra Pradesh is derived by averaging its individual Goal scores, excluding certain goals not applicable to the State.",
+      "options": {
+        "1": "Only 1 and 3",
+        "2": "Only 1, 2, and 4",
+        "3": "Only 2 and 3",
+        "4": "All 1, 2, 3, and 4"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Sustainable Development and Environment"
+    },
+    {
+      "question_number": 44,
+      "question": "The aromatic solvent widely used in the manufacturing of reinforced plastics and resins is ____________________.",
+      "options": {
+        "1": "buna – N",
+        "2": "propene",
+        "3": "neoprene",
+        "4": "styrene"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "General Science and Technology"
+    },
+    {
+      "question_number": 45,
+      "question": "Which of the following was the first major conference on environmental issues held in Stockholm, Sweden, in the year 1972?",
+      "options": {
+        "1": "UN Conference on the Human Environment",
+        "2": "UN Conference on Environment and Development",
+        "3": "UN Conference on Natural Science and Environment",
+        "4": "UN Conference on Pollution Control and Sustainable Environment"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Sustainable Development and Environment"
+    },
+    {
+      "question_number": 46,
+      "question": "Which drug, discovered in 1932, is used by doctors to successfully treat bacterial infections?",
+      "options": {
+        "1": "Meprobamate",
+        "2": "Prontosil",
+        "3": "Dysidazirine",
+        "4": "Equanil"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "General Science and Technology"
+    },
+    {
+      "question_number": 47,
+      "question": "Which of the following statements is/are correct regarding coal mining in India? (I) Since March 1960, SCCL is a joint undertaking of the Government of Assam and the Government of India, sharing its equity in a 45 : 55 ratio. (II) In 1973, the various privately owned coal mines at Raniganj were nationalised. (III) National Coal Development Corporation Ltd. (NCDC) was set up in 1956.",
+      "options": {
+        "1": "Both statements (II) and (III) are correct.",
+        "2": "Only statement (I) is correct.",
+        "3": "Only statement (II) is correct.",
+        "4": "Both statements (I) and (III) are correct."
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 48,
+      "question": "Identify the correct pair/s related to the National Nutrition Programmes with their years of commencement. 1. National Iodine Deficiency Disorders Control Programme -1999 2. MAA (Mothers’ Absolute Affection) Programme for Infant and Young Child Feeding - 2016 3. National Programme for Prevention and Control of Fluorosis - 2000 4. National Nutritional Anaemia Prophylaxis Programme -1970 Select the correct answer from the options given below:",
+      "options": {
+        "1": "Both 2 and 4",
+        "2": "1 only",
+        "3": "2 only",
+        "4": "Both 1 and 3"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Current Events and Issues"
+    },
+    {
+      "question_number": 49,
+      "question": "The worst aquatic weed in the world, which grows and spreads rapidly into new areas of freshwater bodies, is ____________.",
+      "options": {
+        "1": "Water thyme",
+        "2": "Water lettuce",
+        "3": "Water hyacinth",
+        "4": "Water lily"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Sustainable Development and Environment"
+    },
+    {
+      "question_number": 50,
+      "question": "Which of the following is the most common food preservative against mould, bacteria, fungus and yeast?",
+      "options": {
+        "1": "Tartaric acid",
+        "2": "Acetylsalicylic acid",
+        "3": "Formic acid",
+        "4": "Sorbic acid"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "General Science and Technology"
+    },
+    {
+      "question_number": 51,
+      "question": "Which of the following is the scientific name of the floating hydrozoan 'Portuguese Man o' War'?",
+      "options": {
+        "1": "Echinus esculentus",
+        "2": "Chaetopleura apiculata",
+        "3": "Meandrina meandrites",
+        "4": "Physalia physalis"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "General Science and Technology"
+    },
+    {
+      "question_number": 52,
+      "question": "Eduard Buchner, who was a German chemist, is best known for which of the following? (I) Winning the Nobel Prize in Chemistry in 1907 (II) Developing the kinetic theory of enzyme action (III) Discovering cell-free fermentation",
+      "options": {
+        "1": "Only (II)",
+        "2": "Only (I)",
+        "3": "Both (I) and (III)",
+        "4": "Both (II) and (III)"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Current Events and Issues"
+    },
+    {
+      "question_number": 53,
+      "question": "Match the diseases in List-I with their transmission carriers in List-II. List-1 (Disease)                                   List-2 (Transmission Carrier) A. Zika                                                  1. Aedes albopictus B. Yellow Fever                                    2. Haemagogus leucocelaenus mosquito C. Chikungunya                                   3. Anopheles mosquito D. Malaria                                            4. Aedes aegypti mosquito",
+      "options": {
+        "1": "A-3,  B-1,  C-4,  D-2",
+        "2": "A-4,  B-3,  C-1,  D-2",
+        "3": "A-4,  B-2,  C-1,  D-3",
+        "4": "A-1,  B-2,  C-4,  D-3 Note: For this question, ambiguity is found in question/answer. Candidate will get full marks for this question if any of the correct options are chosen."
+      },
+      "answer": [
+        3,
+        4
+      ],
+      "topic": "General Science and Technology"
+    },
+    {
+      "question_number": 54,
+      "question": "Identify the correct pair of ecologists with their groundbreaking invention. 1. Charles Elton - Animal Ecology 2. Henry Cowles - Ecological succession 3. G Evelyn Hutchinson - Ecological niche 4. E Lucy Braun - Fundamentals of Ecology Select the correct answer from the options given below:",
+      "options": {
+        "1": "1 only",
+        "2": "1,2 and 3",
+        "3": "Both 2 and 4",
+        "4": "2 only"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Sustainable Development and Environment"
+    },
+    {
+      "question_number": 55,
+      "question": "Who among the following determined the charge of electrons as 1.5924 × 10−19 C?",
+      "options": {
+        "1": "Robert Millikan",
+        "2": "Philipp Lenard",
+        "3": "Carl Friedrich Gauss",
+        "4": "Georg Ohm"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "General Science and Technology"
+    },
+    {
+      "question_number": 56,
+      "question": "Who among the following wrote 'De Magnette' in the 1600s, which gave the first rational explanation of the compass needle's mysterious ability to point north-south?",
+      "options": {
+        "1": "William Gilbert",
+        "2": "Benjamin Franklin",
+        "3": "Luigi Galvani",
+        "4": "John Mitchell"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "General Science and Technology"
+    },
+    {
+      "question_number": 57,
+      "question": "Match List-I with List-II and select the correct answer using the code given below the lists: List-1 (Physicists)                                        List-2 (Major contribution/discovery) A. WK Roentgen                                                   1. Cosmic radiation B. Victor Francis Hess                                          2. Maser C. Ernest Orlando Lawrence                                3. X-rays D. CH Townes                                                      4. Cyclotron Code: (a) A    B    C    D 1    4    2     3 (b) A    B     C    D 4    2    3     1 (c) A    B    C    D 4    3     1    2 (d) A    B    C    D 3    1     4    2",
+      "options": {
+        "1": "b",
+        "2": "d",
+        "3": "a",
+        "4": "c"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "General Science and Technology"
+    },
+    {
+      "question_number": 58,
+      "question": "Identify the correct pairs of organic chemical reactions and their mechanisms. 1. Gatterman-Koch Reaction- The formation of cyclopropanes from alkenes using methylene carbene. 2. Friedel-Crafts Acylation Reaction- The conversion of carboxylic acids into esters using acids and alcohols. 3. Etard Reaction- The direct oxidation of an aromatic or heterocyclic bound methyl group with an aldehyde using chromyl chloride. 4. Stephen Reaction- The conversion of nitriles to aldehydes in the presence of hydrochloric acid, using tin chloride. Select the correct answer from the options given below:",
+      "options": {
+        "1": "1 only",
+        "2": "2 only",
+        "3": "Both 3 and 4",
+        "4": "1, 2 and 3"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "General Science and Technology"
+    },
+    {
+      "question_number": 59,
+      "question": "Who among the following is the Chief Executive Officer, Polavaram Project Authority (PPA) as of 25 May 2024?",
+      "options": {
+        "1": "KS Jawahar Reddy",
+        "2": "Shanti Kumar",
+        "3": "Shiv Nandan Kumar",
+        "4": "KS Rejimon"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Current Events and Issues"
+    },
+    {
+      "question_number": 60,
+      "question": "As part of its initiative to combat air pollution, the Andhra Pradesh Pollution Control Board (APPCB) is developing a state-level action plan aimed at reducing air pollution in 123 urban local bodies, including _______________ municipal corporations, with plans to extend efforts to rural areas over time.",
+      "options": {
+        "1": "15",
+        "2": "17",
+        "3": "19",
+        "4": "21"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Sustainable Development and Environment"
+    },
+    {
+      "question_number": 61,
+      "question": "Who among the following social reformers in Andhra started the magazine called 'Hasya Sanjeevani'?",
+      "options": {
+        "1": "Kandukuri Veereshalingam",
+        "2": "Vennelakanti Subba Rao",
+        "3": "Venkataratnam Pantulu",
+        "4": "Tripuraneni Ramaswamy"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "History of India and AP"
+    },
+    {
+      "question_number": 62,
+      "question": "Match the items in List I with List II. List I (Plays) List II (Author) 1. Vyavahara Dharmabodhini a. Chilakamarti Lakshmi Narasimham 2. Kanyashulakamu b. Boyi Bhimanna 3. Kuliraju c. Gurajada Apparao 4. Prahlada Charitamu d. Kandukuri Veeresalingam Pantulu",
+      "options": {
+        "1": "1-d, 2-c, 3-b, 4-a",
+        "2": "1-d, 2-c, 3-a, 4-b",
+        "3": "1-d, 2-a, 3-b, 4-c",
+        "4": "1-c, 2-d, 3-a, 4-b"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "History of India and AP"
+    },
+    {
+      "question_number": 63,
+      "question": "Which of the following present day regions of Andhra Pradesh was/were called 'Ceded districts' during the British period?",
+      "options": {
+        "1": "Godavari Districts",
+        "2": "Northern Andhra",
+        "3": "Rayalaseema",
+        "4": "Total Andhra Pradesh"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 64,
+      "question": "Match the items given in List-I with those in List-II. List-I  (Event/Incident in History) List-II (Year) 1. The Dutch established their first factory at Masulipatnam. a. 1605 2. The British established their first factory at Masulipatnam. b. 1611 3. The ceded districts were re-divided into Bellary and Kadapa districts. c. 1808 4. The Godavari district came under the control of the East India Company. d. 1766",
+      "options": {
+        "1": "1-a, 2-b, 3-c, 4-d",
+        "2": "1-a, 2-b, 3-d, 4-c",
+        "3": "1-c, b-d, 3-a, 4-b",
+        "4": "1-d, 2-c, 3-a, 4-b"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 65,
+      "question": "Select the option that is correct regarding the following two statements labelled Assertion (A) and Reason (R). Assertion (A): During the revolt of 1857, Sheikh Peer Saheb, a Muslim religious leader, called for a religious war of Jihad against the British in the city of Kadapa. Reason (R): The 1857 revolt was mainly concentrated in North and Central India, and its impact on South India was less significant.",
+      "options": {
+        "1": "Both A and R are true and R is the correct explanation of A.",
+        "2": "Both A and R are true but R is not the correct explanation of A.",
+        "3": "A is true but R is false.",
+        "4": "A is false but R is true."
+      },
+      "answer": [
+        2
+      ],
+      "topic": "History of India and AP"
+    },
+    {
+      "question_number": 66,
+      "question": "Match List I with List II and select the correct answer using the codes given. List I (Incident/Movement) List II (Year) 1. All India Kisan Sabha a. 1936 2. The first Andhra Pradesh anti-zamindari conference b. 1931 3. Prakasam Committee appointed to to study the conditions of the tenants c. 1937 4. Peasants meet at Gudivada against the atrocities by zamindars d. 1917",
+      "options": {
+        "1": "1-a, 2-b, 3-c, 4-d",
+        "2": "1-a, 2-b, 3-d, 4-c",
+        "3": "1-b, 2-a, 3-c, 4-d",
+        "4": "1-b, 2-a, 3-d, 4-c"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 67,
+      "question": "Who among the following composed ‘Amuktamalyada,’ a work on statecraft in Telugu language?",
+      "options": {
+        "1": "Nanne Choda",
+        "2": "Palkuriki Somanatha",
+        "3": "Krishnadevaraya",
+        "4": "Gona Budda Reddy"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "History of India and AP"
+    },
+    {
+      "question_number": 68,
+      "question": "Select the option that is true regarding the following two statements labelled Assertion (A) and Reason (R). Assertion (A): Kanyashulkam is written by the Kommarraju Lakshman Rao. Reason (R): The satirical play, revolves around social evils such as Kanyasulkam (a practice where the groom pays dowry to the bride).",
+      "options": {
+        "1": "Both Assertion (A) and Reason (R) are true and Reason (R) is a correct explanation of Assertion (A).",
+        "2": "Both Assertion (A) and Reason (R) are true but Reason (R) is not a correct explanation of Assertion (A).",
+        "3": "Assertion (A) is true and Reason (R) is false.",
+        "4": "Assertion (A) is false and Reason (R) is true."
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 69,
+      "question": "Match the following columns I and II and select the correct answer from the given options. Column I (Groups/institutions) Column II ( Years of establishment) A. Arya Samaj 1. 1875 B. Prarthna Samaj 2. 1877 C. Muhammadan Anglo-Oriental College 3. 1903 D. Shree Narayana Dharma Paripalana Yogam 4. 1867",
+      "options": {
+        "1": "A - 4, B - 3, C - 1, D - 2",
+        "2": "A - 3, B - 4, C - 1, D - 2",
+        "3": "A - 1, B - 4, C - 2, D - 3",
+        "4": "A - 2, B - 3, C - 1, D - 4"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 70,
+      "question": "Consider the following pairs of freedom fighters and their date of birth. Select the correct option. A. Bhagat Singh - 28 September 1907 B. Chandra Shekhar Azad - 23 July 1906 C. Khudiram Bose - 3 December 1889 D. Ram Prasad Bismil - 11 June 1897",
+      "options": {
+        "1": "Only A and C",
+        "2": "Only B and C",
+        "3": "Only A, C and D",
+        "4": "A, B, C and D"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "History of India and AP"
+    },
+    {
+      "question_number": 71,
+      "question": "Given below is the list of important personalities of Freedom struggle of India. Arrange the years of their demise in the chronological order. Select the correct option: A. Dr Rajendra Prasad B. Lala Lajpat Rai C. Motilal Nehru D. Sardar Vallabhbbhai Patel E. Maulana Abul Kalam Azad",
+      "options": {
+        "1": "A, E, C, B, D",
+        "2": "B, A, C, E, D",
+        "3": "B, C, D, E, A",
+        "4": "A, C, E, D, B"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "History of India and AP"
+    },
+    {
+      "question_number": 72,
+      "question": "In which of the following places was the Muhammedan Literary Society founded by Nawab Abdul Latif in 1863?.",
+      "options": {
+        "1": "Kanpur",
+        "2": "Aligarh",
+        "3": "Pune",
+        "4": "Calcutta"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "History of India and AP"
+    },
+    {
+      "question_number": 73,
+      "question": "Given below are the pairs of important personalities of India with the names of institutions they founded. A. Indira Gandhi - Bal Charkha Sangh B. Jawahar Lal Nehru - Independence for India League C. Motilal Nehru - Servants of India Society Select the option with the correct pairs.",
+      "options": {
+        "1": "Only A and B",
+        "2": "Only B and C",
+        "3": "Only A and C",
+        "4": "A, B and C"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 74,
+      "question": "Match the following columns I and II about the key groups and organisations and their contribution to society​. Select the correct option. Column I (Groups) Column II ( contribution) A. Arya Samaj 1. Social justice for the people belonging to the so-called untouchable and backward classes B. Prarthana Samaj 2. A home for widows C. Satya Shodhak Samaj 3. Propagation of true knowledge of the Vedas D. Sharda Sadan 4. Improvement of women and the depressed classes",
+      "options": {
+        "1": "A - 4, B - 3, C - 1, D - 2",
+        "2": "A - 3, B - 4, C - 1, D - 2",
+        "3": "A - 1, B - 2, C - 4, D - 3",
+        "4": "A - 2, B - 3, C - 1, D - 4"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 75,
+      "question": "Arrange the given poetry of Rabindranath Tagore in the chronological order as per the year in which they were written. A. Gitimalya B. Balaka C. Manasi D. Sonar Tari E. Gitanjali Select the correct option.",
+      "options": {
+        "1": "A, E, C, B, D",
+        "2": "B, A, C, E, D",
+        "3": "C, D, E, A, B",
+        "4": "A, C, E, D, B"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "History of India and AP"
+    },
+    {
+      "question_number": 76,
+      "question": "Ellora caves are the invaluable ensemble of _____ caves at Ellora, Maharashtra.",
+      "options": {
+        "1": "14",
+        "2": "24",
+        "3": "34",
+        "4": "44"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "History of India and AP"
+    },
+    {
+      "question_number": 77,
+      "question": "The Bay of Bengal island groups consist of how many islands/islets?",
+      "options": {
+        "1": "462",
+        "2": "472",
+        "3": "532",
+        "4": "572"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 78,
+      "question": "Which of the following statements about the river Ganga is/are correct? A. Its major left bank tributaries are the Burhi Dihing and Dhansari (South). B. It finally merges with the river Padma, which falls in the Bay of Bengal.",
+      "options": {
+        "1": "Only A",
+        "2": "Only B",
+        "3": "Both A and B",
+        "4": "Neither A nor B"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 79,
+      "question": "Arrange the following Acts of India in chronological order as per the year in which they were enacted. A.  The Water (Prevention and Control of Pollution) Act B.  The Air (Prevention and Control of Pollution) Act C. The Fisheries Act D. The National Environmental Tribunal Act",
+      "options": {
+        "1": "C, D, B, A",
+        "2": "B, A, C, D",
+        "3": "A, B,  D, C",
+        "4": "D, C, B, A"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Sustainable Development and Environment"
+    },
+    {
+      "question_number": 80,
+      "question": "According to 2022 Report of U.S. Department of State on International Religious Freedom, which of these religions has the highest population in Nepal (as per Census 2011)?",
+      "options": {
+        "1": "Buddhism",
+        "2": "Islam",
+        "3": "Hinduism",
+        "4": "Christianity"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Current Events and Issues"
+    },
+    {
+      "question_number": 81,
+      "question": "According to 2022 Report of U.S. Department of State on International Religious Freedom, who among the following constitute approximately 91% of the population in Bangladesh (as per National Government Census 2022 of Nepal)?",
+      "options": {
+        "1": "Sunni Muslims",
+        "2": "Christians",
+        "3": "Hindus",
+        "4": "Shia Muslims"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Current Events and Issues"
+    },
+    {
+      "question_number": 82,
+      "question": "Select the correct pairs of the infant mortality rates of India in 4 different years as per National Health Profile 2018. Year      Infant Mortality Rate A. 2013---40 per 1000 live births B. 2014---39 per 1000 live births C. 2015---37 per 1000 live births D. 2016---34 per 1000 live births",
+      "options": {
+        "1": "Only A and C",
+        "2": "Only B and C",
+        "3": "Only A, C and D",
+        "4": "A, B, C and D"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Current Events and Issues"
+    },
+    {
+      "question_number": 83,
+      "question": "The Seshachalam Hill ranges in the Eastern Ghats encompasses parts of which of the following districts of Andhra Pradesh?",
+      "options": {
+        "1": "Eluru and Guntur",
+        "2": "Chittoor and Kadapa",
+        "3": "Kakinada and Krishna",
+        "4": "Prakasam and NTR"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 84,
+      "question": "What is the rank of Andhra Pradesh in India in terms of Recorded Forest Area (RFA), as of December 2024?",
+      "options": {
+        "1": "3rd",
+        "2": "5th",
+        "3": "8th",
+        "4": "11th"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 85,
+      "question": "The drainage basin of Krishna river is shared by _______ along with Andhra Pradesh.",
+      "options": {
+        "1": "Maharashtra and Madhya Pradesh",
+        "2": "Karnataka and Tamil Nadu",
+        "3": "Maharashtra and Karnataka",
+        "4": "Karnataka and Madhya Pradesh"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 86,
+      "question": "Kotha Koduru Beach and Ramatheerdam Beach are located in which district of Andhra Pradesh?",
+      "options": {
+        "1": "Nellore",
+        "2": "Visakhapatnam",
+        "3": "Bapatla",
+        "4": "Srikakulam"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 87,
+      "question": "The Visakhapatnam Port was opened to ocean traffic with the arrival of which passenger vessel in October 1933?",
+      "options": {
+        "1": "SS Jalashakti",
+        "2": "SS Padma",
+        "3": "The Enterprise",
+        "4": "SS Jaladurga"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 88,
+      "question": "Match the ports of Andhra Pradesh with their locations. Ports Location A Krishnapatnam Port (i) Nellore B Gangavaram Port (ii) Prakasam C Ramayapatnam Port (iii) Srikakulam D Bhavanapadu Port (iv) Visakhapatnam Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.",
+      "options": {
+        "1": "A – iii, B – iv, C – i, D – ii",
+        "2": "A – iii, B – iv, C – ii, D – i",
+        "3": "A – i, B – iv, C – ii, D – iii",
+        "4": "A – ii, B – iv, C – i, D – iii"
+      },
+      "answer": [],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 89,
+      "question": "In July 2023, Nitin Gadkari laid the foundation stone for three NH projects at ________ in Andhra Pradesh, which included the Thamminapatnam-Narikellapalle Section from Eupuru to Krishnapatnam Port, covering length of 16 km.",
+      "options": {
+        "1": "Tirupati",
+        "2": "Prakasam",
+        "3": "Palnadu",
+        "4": "Chittoor"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 90,
+      "question": "Match the universities of Andhra Pradesh with their locations. Universities                                                            Location (A) Acharya NG Ranga Agricultural University               (i) Guntur (B) Dr. YSR Horticultural University                               (ii) Madanapalle (C) SV Agricultural College                                            (iii) Tirupati (D) Besant Theosophical College                                  (iv) Venkataramannagudem",
+      "options": {
+        "1": "A – i, B – iv, C – iii, D – ii",
+        "2": "A – ii, B – iv, C – iii, D – i",
+        "3": "A – iii, B – iv, C – ii, D – i",
+        "4": "A – iv, B – ii, C – i, D – iii"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 91,
+      "question": "What does the term 'carrying capacity' of an environment refer to? A. The maximum amount of resources that an environment can produce B. The maximum population an environment can sustain without being degraded C. The maximum amount of waste an environment can process D. The maximum area an environment can provide for species to live",
+      "options": {
+        "1": "A",
+        "2": "B",
+        "3": "C",
+        "4": "D"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Sustainable Development and Environment"
+    },
+    {
+      "question_number": 92,
+      "question": "In the context of environmental science, what does the term 'absorptive capacity' refer to? A. The ability of an ecosystem to produce renewable resources. B. The maximum amount of pollutants an ecosystem can process and neutralise without harmful effects. C. The capacity of a species to adapt to environmental changes quantified by the rate of population growth. D. The maximum population size of a particular species that an environment can sustain indefinitely without being degraded.",
+      "options": {
+        "1": "A",
+        "2": "B",
+        "3": "C",
+        "4": "D"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Sustainable Development and Environment"
+    },
+    {
+      "question_number": 93,
+      "question": "Which of the following is NOT a primary function of the environment?",
+      "options": {
+        "1": "Providing natural resources",
+        "2": "Assimilating wastes and pollutants",
+        "3": "Generating synthetic chemicals",
+        "4": "Serving as a habitat for biodiversity"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Sustainable Development and Environment"
+    },
+    {
+      "question_number": 94,
+      "question": "Which of the following is a primary cause of environmental degradation?",
+      "options": {
+        "1": "Sustainable agriculture",
+        "2": "Renewable energy production",
+        "3": "Deforestation",
+        "4": "Wildlife conservation"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Sustainable Development and Environment"
+    },
+    {
+      "question_number": 95,
+      "question": "Which of the following options represents an example of a non-renewable resource?",
+      "options": {
+        "1": "Wind energy",
+        "2": "Geothermal energy",
+        "3": "Natural gas",
+        "4": "Biomass"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Sustainable Development and Environment"
+    },
+    {
+      "question_number": 96,
+      "question": "Which of the following scenarios best illustrates the concept of resource depletion and its long-term impacts on the environment? A. A forest that is managed sustainably to provide timber while maintaining biodiversity. B. A coastal area where overfishing has affected the entire marine ecosystem and local communities' livelihoods. C. A city that implements recycling programmes to reduce waste and promote resource conservation. D. A national park where strict regulations protect endangered species and their habitats from human interference.",
+      "options": {
+        "1": "A",
+        "2": "B",
+        "3": "C",
+        "4": "D"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Sustainable Development and Environment"
+    },
+    {
+      "question_number": 97,
+      "question": "Which of the following policies and practices is most effective in achieving Sustainable Development?",
+      "options": {
+        "1": "Subsidizing fossil fuel industries to ensure lower energy costs for consumers.",
+        "2": "Implementing carbon pricing to incentivize renewable energy investments.",
+        "3": "Encouraging the use of single-use plastics to boost economic growth.",
+        "4": "Promoting deforestation to create more land for agricultural activities."
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Sustainable Development and Environment"
+    },
+    {
+      "question_number": 98,
+      "question": "Consider the achievement of Sustainable Development Goals (SDG) in the year 2020-2021. Among all Indian states, what was the rank of Andhra Pradesh in achieving SDG-7 (Affordable and clean energy)?",
+      "options": {
+        "1": "1",
+        "2": "2",
+        "3": "3",
+        "4": "4"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Sustainable Development and Environment"
+    },
+    {
+      "question_number": 99,
+      "question": "Arrange the following events to achieving Sustainable Development Goals in chronological order. A. The First Five Year Plan of the Planning Commission of India was launched. B. United Nations Framework Convention on Climate Change (UNFCCC) was adopted. C. India signed the Kyoto Protocol.",
+      "options": {
+        "1": "A->B->C",
+        "2": "B->C->A",
+        "3": "C->A->B",
+        "4": "A->C->B"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Sustainable Development and Environment"
+    },
+    {
+      "question_number": 100,
+      "question": "Match each strategy for sustainable development with its corresponding example of implementation. Strategies: A. Renewable Energy B. Sustainable Agriculture C. Waste Reduction Implementation: 1. Crop Rotation 2. Reduce, Reuse, Recycle 3. Solar Power",
+      "options": {
+        "1": "A-1, B-2, C-3",
+        "2": "A-2, B-3, C-1",
+        "3": "A-3, B-1, C-2",
+        "4": "A-3, B-2, C-1"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Sustainable Development and Environment"
+    },
+    {
+      "question_number": 101,
+      "question": "What was the overall rank of Andhra Pradesh among all Indian states in achieving Sustainable Development Goals in the year 2020-2021?",
+      "options": {
+        "1": "1",
+        "2": "2",
+        "3": "3",
+        "4": "4"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Sustainable Development and Environment"
+    },
+    {
+      "question_number": 102,
+      "question": "Consider the following statements regarding Sustainable Development and its types. Determine whether each statement is True or False: A. Environmental sustainability involves practices that reduce waste, conserve natural resources, and protect ecosystems. B. Social sustainability focuses exclusively on economic growth and job creation, without regard to social equity or community development.",
+      "options": {
+        "1": "A:True, B:True",
+        "2": "A:True, B:Flase",
+        "3": "A:False, B:True",
+        "4": "A:False, B:Flase"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Sustainable Development and Environment"
+    },
+    {
+      "question_number": 103,
+      "question": "Match each concept related to the Brundtland Commission with its corresponding description: Concepts: A. Sustainable development B. Our common future C. Intergenerational equity Descriptions: 1. The landmark report published in 1987 by the Brundtland Commission popularised the term \"sustainable development\" and addressed global environmental and development issues. 2. The principle of ensuring that the needs of the present are met without compromising the ability of future generations to meet their own needs. 3. The concept emphasizing the fair distribution of resources and opportunities between current and future generations.",
+      "options": {
+        "1": "A-1, B-2, C-3",
+        "2": "A-2, B-1, C-3",
+        "3": "A-3, B-2, C-1",
+        "4": "A-2, B-3, C-1"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Sustainable Development and Environment"
+    },
+    {
+      "question_number": 104,
+      "question": "In the context of achievement of Sustainable Development Goals (SDG) in the year 2020-2021, what was the rank of Andhra Pradesh in achieving SDG-14 (Life in water) among all Indian states?",
+      "options": {
+        "1": "1",
+        "2": "2",
+        "3": "3",
+        "4": "4"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Sustainable Development and Environment"
+    },
+    {
+      "question_number": 105,
+      "question": "Which of the following is an example of a renewable resource?",
+      "options": {
+        "1": "Coal",
+        "2": "Natural gas",
+        "3": "Biomass",
+        "4": "Petroleum"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Sustainable Development and Environment"
+    },
+    {
+      "question_number": 106,
+      "question": "Which of the following schemes by the Government of India was launched in the year 2023?",
+      "options": {
+        "1": "Pradhan Mantri Vishwakarma Scheme",
+        "2": "Pradhan Mantri Suraksha Bima Yojana",
+        "3": "Pradhan Mantri MUDRA Yojana",
+        "4": "Prime Minister Ujjwala Scheme 2.0"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Current Events and Issues"
+    },
+    {
+      "question_number": 107,
+      "question": "Identify the option that arranges the following digital initiatives launched by the Government of India in chronological order. 1. Aadhaar 2. MyGov 3. PM eVIDYA 4. ONDC (Open Network for Digital Commerce)",
+      "options": {
+        "1": "1 - 2 - 3 - 4",
+        "2": "4 - 2 - 3 - 1",
+        "3": "2 - 3 - 4 - 1",
+        "4": "4 - 3 - 2 - 1"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Indian Polity and Governance"
+    },
+    {
+      "question_number": 108,
+      "question": "Identify the option that arranges the following initiatives launched by the union government in chronological order of their implementation. 1. Promotion of Rooftop Solar – An initiative to encourage the adoption of rooftop solar panels, aiming to increase renewable energy usage and reduce carbon emissions 2. PM Internship Scheme – A program launched to provide internships to young professionals, enhancing their skills and employability 3. National Green Hydrogen Mission – A mission aimed at promoting the production and use of green hydrogen as a clean energy source Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.",
+      "options": {
+        "1": "1 - 3 - 2",
+        "2": "1 - 2 - 3",
+        "3": "2 - 1 - 3",
+        "4": "2 - 3 - 1"
+      },
+      "answer": [],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 109,
+      "question": "What was the main issue in MK Ranjitsinh versus Union of India (2024)?",
+      "options": {
+        "1": "National bird status of sparrow",
+        "2": "Protection of Great Indian Bustard",
+        "3": "Renewable energy in habitats",
+        "4": "Hunting permissions in reserved forests"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Sustainable Development and Environment"
+    },
+    {
+      "question_number": 110,
+      "question": "What was the primary issue in Noble M Paikada versus Union of India (2024)?",
+      "options": {
+        "1": "Legality of road construction in protected areas",
+        "2": "Constitutionality of 2020 exemption from environmental clearance for road and pipeline projects",
+        "3": "Compensation for displaced communities due to road projects",
+        "4": "Regulation of heavy vehicle traffic on ecologically sensitive roads"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Sustainable Development and Environment"
+    },
+    {
+      "question_number": 111,
+      "question": "The mobile application 'Paat-Mitro' was launched by the Government of India for _______ farmers in 2023.",
+      "options": {
+        "1": "Jute",
+        "2": "Tea",
+        "3": "Cotton",
+        "4": "Coffee"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Current Events and Issues"
+    },
+    {
+      "question_number": 112,
+      "question": "Select the INCORRECT mission and the year it was launched from the following, launched by the Indian Space Research Organisation (ISRO).",
+      "options": {
+        "1": "GSLV-F14/INSAT-3ds Mission - 2022",
+        "2": "PSLV-C58XPoSat Mission - 2024",
+        "3": "PSLV-C57Aditya-L1 Mission - 2023",
+        "4": "PSLV-C56/DS-SAR Mission - 2023"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Current Events and Issues"
+    },
+    {
+      "question_number": 113,
+      "question": "As of 31st December 2024, which of the following statements is/are correct about PARAM Rudra Supercomputers under NSM? Statement A: 33 supercomputers with 32 Petaflops capacity have been deployed in IISc, IITs, C-DAC and Tier-II and Tier-III institutions. Statement B: These supercomputers support 10,000+ researchers, including 1,700+ PhD scholars from 200+ institutions. Statement C: NSM provides Tier-II and Tier-III city researchers' access to advanced supercomputing facilities.",
+      "options": {
+        "1": "Only Statement A is correct",
+        "2": "Only Statements A and B are correct",
+        "3": "Only Statements B and C are correct",
+        "4": "All Statements A, B and C are correct"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "General Science and Technology"
+    },
+    {
+      "question_number": 114,
+      "question": "What is the main aim of The Constitution (129th Amendment) Bill, 2024?",
+      "options": {
+        "1": "To give constitutional status and protection to cooperative societies",
+        "2": "Simultaneous elections in Lok Sabha and State Legislative Assemblies",
+        "3": "To abolish Election Tribunals in India and enable the trial of election petitions by High Courts",
+        "4": "To confer a constitutional status to National Commission for Backward Classes"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Indian Polity and Governance"
+    },
+    {
+      "question_number": 115,
+      "question": "Identify the option that arranges the following major policy moves by the Union Government in chronological order of their announcement. 1. Expansion of PLI (Production-Linked Incentive) Scheme – A move to extend incentives to more sectors, boosting domestic manufacturing and exports 2. Introduction of Digital Public Infrastructure (DPI) Framework – A policy aimed at enhancing digital governance and promoting seamless digital transactions 3. National Logistics Policy 2.0 – An updated policy designed to improve supply chain efficiency and reduce logistics costs 4. FDI Policy Reforms 2024 – Amendments to foreign direct investment (FDI) rules to attract more global investments into key sectors Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.",
+      "options": {
+        "1": "1 - 3 - 2 - 4",
+        "2": "2 - 1 - 4 - 3",
+        "3": "4 - 2 - 1 - 3",
+        "4": "3 - 1 - 4 - 2"
+      },
+      "answer": [],
+      "topic": "Indian Economy and Planning"
+    },
+    {
+      "question_number": 116,
+      "question": "In which of the following years did the 106th Constitution Amendment Act receive the assent of the President of India?",
+      "options": {
+        "1": "2023",
+        "2": "2022",
+        "3": "2021",
+        "4": "2020"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Indian Polity and Governance"
+    },
+    {
+      "question_number": 117,
+      "question": "Which of the following is related to the 106th Constitution Amendment Act in India?",
+      "options": {
+        "1": "Reservation for women",
+        "2": "Agriculture policy",
+        "3": "Education reform",
+        "4": "Caste census"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Indian Polity and Governance"
+    },
+    {
+      "question_number": 118,
+      "question": "Where was the Agriculture Integrated Command and Control Centre inaugurated by the Government of India in March 2024?",
+      "options": {
+        "1": "Delhi",
+        "2": "Nagpur",
+        "3": "Patna",
+        "4": "Bengaluru"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 119,
+      "question": "Which of the following statements regarding the Year-End Review 2024 of the Ministry of Electronics & Information Technology is/are correct? Statements: 1. The Government of India approved four semiconductor manufacturing units under the Semicon India Programme to enhance domestic chip production. 2. India hosted the 6th meeting of the GPAI Ministerial Council in New Delhi and was the outgoing chair of the Global Partnership on Artificial Intelligence (GPAI) in 2024.",
+      "options": {
+        "1": "Only Statement 1",
+        "2": "Only Statement 2",
+        "3": "Both Statements 1 and 2",
+        "4": "Neither Statement 1 nor 2"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "General Science and Technology"
+    },
+    {
+      "question_number": 120,
+      "question": "The ‘Global Pulse Confederation’ (GPC) was held in which country in February 2024?",
+      "options": {
+        "1": "Australia",
+        "2": "India",
+        "3": "South Africa",
+        "4": "France"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Current Events and Issues"
+    },
+    {
+      "question_number": 121,
+      "question": "Which of the following institutions was set up in 1982, as an apex body, to coordinate the activities of all institutions involved in the rural financing system?.",
+      "options": {
+        "1": "National Bank for Agriculture and Rural Development (NABARD)",
+        "2": "State Institute of Public Administration and Rural Development (SIPARD)",
+        "3": "National Institute of Rural Development and Panchayati Raj (NIRD-PR)",
+        "4": "The Integrated Tribal Development Project (ITDP)"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Indian Economy and Planning"
+    },
+    {
+      "question_number": 122,
+      "question": "In which of the following states of India did the government start the alternate marketing channel called 'Uzhavar Sandhai' (Farmers’ market), a platform to link farmers and consumers?",
+      "options": {
+        "1": "Telangana",
+        "2": "Andhra Pradesh",
+        "3": "Tamil Nadu",
+        "4": "Maharashtra"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Indian Economy and Planning"
+    },
+    {
+      "question_number": 123,
+      "question": "Out of the 17 All-India Financial Institutions (AIFIs), how many of them are regulated and supervised by the Reserve Bank?",
+      "options": {
+        "1": "7",
+        "2": "9",
+        "3": "11",
+        "4": "13"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Indian Economy and Planning"
+    },
+    {
+      "question_number": 124,
+      "question": "Which of the following is termed as ‘Refinance Institution’ for the regulatory and supervisory purposes?",
+      "options": {
+        "1": "Industrial Finance Corporation of India (IFCI) Ltd.",
+        "2": "Tourism Finance Corporation of India (TFCI)",
+        "3": "National Housing Bank (NHB)",
+        "4": "EXIM Bank"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Indian Economy and Planning"
+    },
+    {
+      "question_number": 125,
+      "question": "Which of the following statements is/are correct about the Insolvency and Bankruptcy Code, 2016? A. Insolvency and Bankruptcy Code, 2016 got Presidential assent in September 2016. B. Insolvency and Bankruptcy Board of India with 13 members has been appointed as a regulator.",
+      "options": {
+        "1": "Only A",
+        "2": "Only B",
+        "3": "Both A and B",
+        "4": "Neither A nor B"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Indian Economy and Planning"
+    },
+    {
+      "question_number": 126,
+      "question": "Which of the following statements are correct about the poverty line in India? A. A common method used to measure poverty is based on the income or consumption levels. B. A person is considered poor if his or her income or consumption level falls below a given 'minimum level' necessary to fulfil the basic needs. C. Poverty line shows no variation with time and place. D. The poverty line is estimated periodically (normally every ten years) by conducting census.",
+      "options": {
+        "1": "Only A and D",
+        "2": "Only B and C",
+        "3": "Only A and B",
+        "4": "A, B, C and D"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Indian Economy and Planning"
+    },
+    {
+      "question_number": 127,
+      "question": "Which of the following resolutions had formed the basis of the Second Five-year Plan?",
+      "options": {
+        "1": "Industrial Policy Resolution, 1953 (IPR 1953)",
+        "2": "Industrial Policy Resolution, 1954 (IPR 1954)",
+        "3": "Industrial Policy Resolution, 1955 (IPR 1955)",
+        "4": "Industrial Policy Resolution, 1956 (IPR 1956)"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Indian Economy and Planning"
+    },
+    {
+      "question_number": 128,
+      "question": "Which of the following statements is correct regarding the Green Revolution in India?",
+      "options": {
+        "1": "Green Revolution continued with quantitative expansion of forest areas.",
+        "2": "Instead of one crop season per year, the decision was made to have three crop seasons per year.",
+        "3": "The scientific aspect of the Green Revolution was to use High Yielding Variety (HYV) of seeds.",
+        "4": "Dr Norman Borlaug from Mexico supported the Green Revolution through the introduction of high yielding variety of paddy seeds."
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Indian Economy and Planning"
+    },
+    {
+      "question_number": 129,
+      "question": "Which of the following statements are correct about the demographic condition of India during the British period?. A. The overall literacy level was less than 16%. B. The male literacy level was at a negligible low of about 7%. C. The infant mortality rate was quite alarming - about 218 per thousand. D. The Life expectancy was also very low - 32 years.",
+      "options": {
+        "1": "A and B only",
+        "2": "C and D only",
+        "3": "A, C and D only",
+        "4": "A, B, C and D"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Indian Economy and Planning"
+    },
+    {
+      "question_number": 130,
+      "question": "Given below are the top textile industries in India. Arrange them in chronological order as per their year of establishment. A. The Lakshmi Mills Company Ltd. B. Bombay Dyeing and Manufacturing Company Ltd. C. Grasim Industries Ltd. D. Raymond Ltd.",
+      "options": {
+        "1": "A, B, C, D",
+        "2": "B, A, D, C",
+        "3": "A, C, B, D",
+        "4": "B, C, A, D"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Indian Economy and Planning"
+    },
+    {
+      "question_number": 131,
+      "question": "In which year was the Microfinance Industry Network (MFIN ) established as an association for NBFC-MFIs?",
+      "options": {
+        "1": "2002",
+        "2": "2004",
+        "3": "2007",
+        "4": "2009"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Indian Economy and Planning"
+    },
+    {
+      "question_number": 132,
+      "question": "NFS is the largest interoperable ATM network in the country. Expand NFS ________.",
+      "options": {
+        "1": "National Fixed Service",
+        "2": "National Fiscal System",
+        "3": "National Financial Service",
+        "4": "National Financial Switch"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Indian Economy and Planning"
+    },
+    {
+      "question_number": 133,
+      "question": "The head office of Equitas Small Finance Bank Ltd is located in ______.",
+      "options": {
+        "1": "Pune",
+        "2": "Mumbai",
+        "3": "Mysuru",
+        "4": "Chennai"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Indian Economy and Planning"
+    },
+    {
+      "question_number": 134,
+      "question": "Match the following columns I and II about the share of different categories of employment in total employment in 2022 as per India Employment Report, 2024 and select the correct option. Column I                                       Column II A. Self-employment                     1.     55.8% B. Casual employment                 2.     22.7% C. Regular employment               3.     21.5%",
+      "options": {
+        "1": "A - 2, B - 3, C - 1",
+        "2": "A - 3, B - 2, C - 1",
+        "3": "A - 1, B - 2, C - 3",
+        "4": "A - 1, B - 3, C - 2"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Indian Economy and Planning"
+    },
+    {
+      "question_number": 135,
+      "question": "Select the option that shows the correct chronological order of the following events in India’s economy. A. India’s first union budget was presented in Parliament. B. Indira Gandhi nationalised 14 private banks. C. Indira Gandhi took the drastic step of devaluing the Indian rupee by a sharp 57%. D. This budget lowered direct taxes for companies and raised exemption limits for income tax. E. The dismantling of the licence Raj by the Narasimha Rao-led government.",
+      "options": {
+        "1": "A, E, C, D, B",
+        "2": "A, B, C, D, E",
+        "3": "A, C, B, D, E",
+        "4": "B, C, A, E, D"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 136,
+      "question": "Which of the following best describes the concept of a vulnerability profile in disaster management?",
+      "options": {
+        "1": "A list of all past disasters that have occurred in a region",
+        "2": "A detailed plan for emergency response and recovery operations",
+        "3": "An assessment of the susceptibility of a community or system to the impacts of hazards",
+        "4": "A document outlining the roles and responsibilities of various agencies during a disaster"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Disaster Management and GIS"
+    },
+    {
+      "question_number": 137,
+      "question": "Select the most appropriate option to answer the given question. Which of the following factors contributes the least to a community's vulnerability profile in a disaster?",
+      "options": {
+        "1": "Limited access to healthcare facilities",
+        "2": "Strong social networks and community cohesion",
+        "3": "Presence of elderly or disabled residents",
+        "4": "Availability of early warning systems Note: For this question, ambiguity is found in question/answer. Candidate will get full marks for this question if any of the correct options are chosen."
+      },
+      "answer": [
+        1,
+        3
+      ],
+      "topic": "Disaster Management and GIS"
+    },
+    {
+      "question_number": 138,
+      "question": "Public education about evacuation routes and safety procedures falls under which disaster management phase?",
+      "options": {
+        "1": "Prevention",
+        "2": "Mitigation",
+        "3": "Preparedness",
+        "4": "Recovery"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Disaster Management and GIS"
+    },
+    {
+      "question_number": 139,
+      "question": "Afforestation (planting trees) in flood-prone areas is a strategy for:",
+      "options": {
+        "1": "evacuation planning",
+        "2": "flood control",
+        "3": "search and rescue",
+        "4": "damage assessment"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Disaster Management and GIS"
+    },
+    {
+      "question_number": 140,
+      "question": "GIS allows the integration of various data layers. During a disaster, which of the following types of data would be the least useful to be included in a situational awareness map?",
+      "options": {
+        "1": "Real-time weather data",
+        "2": "Locations of hospitals and shelters",
+        "3": "Pre-disaster population density maps",
+        "4": "Satellite imagery showing the extent of damage"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Disaster Management and GIS"
+    },
+    {
+      "question_number": 141,
+      "question": "Which of the following is NOT a component of a comprehensive vulnerability profile?",
+      "options": {
+        "1": "Location and housing structures",
+        "2": "Availability of emergency shelters",
+        "3": "Presence of hazardous materials",
+        "4": "Popular tourist attractions"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Disaster Management and GIS"
+    },
+    {
+      "question_number": 142,
+      "question": "Communities with strong social networks and a culture of volunteerism are generally:",
+      "options": {
+        "1": "more likely to experience frequent disasters",
+        "2": "better equipped to recover from disasters",
+        "3": "more susceptible to misinformation",
+        "4": "less likely to receive government assistance"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 143,
+      "question": "The primary purpose of a hazard map is to:",
+      "options": {
+        "1": "identify the areas that are at risk, for specific disasters",
+        "2": "coordinate rescue efforts",
+        "3": "provide emotional support after a disaster",
+        "4": "secure funding for recovery"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Disaster Management and GIS"
+    },
+    {
+      "question_number": 144,
+      "question": "Stockpiling food, water, and essential supplies is a key element of which disaster management phase?",
+      "options": {
+        "1": "Prevention",
+        "2": "Mitigation",
+        "3": "Preparedness",
+        "4": "Recovery Note: For this question, ambiguity is found in question/answer. Candidate will get full marks for this question if any of the correct options are chosen."
+      },
+      "answer": [
+        3,
+        4
+      ],
+      "topic": "Disaster Management and GIS"
+    },
+    {
+      "question_number": 145,
+      "question": "Distributing vaccines before a disease outbreak is an example of a:",
+      "options": {
+        "1": "mitigation strategy",
+        "2": "preparedness measure",
+        "3": "response action",
+        "4": "recovery effort Note: For this question, ambiguity is found in question/answer. Candidate will get full marks for this question if any of the correct options are chosen."
+      },
+      "answer": [
+        1,
+        2
+      ],
+      "topic": "Disaster Management and GIS"
+    },
+    {
+      "question_number": 146,
+      "question": "Disaster risk reduction strategies are most effective when they:",
+      "options": {
+        "1": "focus solely on technological solutions",
+        "2": "address the underlying causes of vulnerability",
+        "3": "ignore the input of local communities",
+        "4": "prioritise economic growth over safety measures"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Disaster Management and GIS"
+    },
+    {
+      "question_number": 147,
+      "question": "Which of the following is the least effective way to prepare for a hurricane?",
+      "options": {
+        "1": "Securing outdoor furniture",
+        "2": "Having a communication plan",
+        "3": "Boarding up windows",
+        "4": "Leaving valuables in a low-lying area"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Disaster Management and GIS"
+    },
+    {
+      "question_number": 148,
+      "question": "Evacuation drills are important for:",
+      "options": {
+        "1": "identifying potential hazards",
+        "2": "practising escape routes",
+        "3": "assessing damage after a disaster",
+        "4": "distributing food and water"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Disaster Management and GIS"
+    },
+    {
+      "question_number": 149,
+      "question": "The focus of a disaster recovery is on:",
+      "options": {
+        "1": "preventing future disasters",
+        "2": "mitigating the impact of a disaster",
+        "3": "responding to the immediate needs after a disaster",
+        "4": "rebuilding the infrastructure and restoring normalcy Note: For this question, ambiguity is found in question/answer. Candidate will get full marks for this question if any of the correct options are chosen."
+      },
+      "answer": [
+        2,
+        4
+      ],
+      "topic": "Disaster Management and GIS"
+    },
+    {
+      "question_number": 150,
+      "question": "When responding to a flood, high-resolution satellite imagery from GIS can be used to:",
+      "options": {
+        "1": "estimate the number of people affected by the flood",
+        "2": "locate and rescue stranded individuals",
+        "3": "determine the cause of the flood",
+        "4": "predict the future path of the floodwaters Note: For this question, ambiguity is found in question/answer. Candidate will get full marks for this question if any of the correct options are chosen."
+      },
+      "answer": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "topic": "Disaster Management and GIS"
+    }
+  ]
+}

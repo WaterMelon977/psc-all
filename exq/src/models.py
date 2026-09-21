@@ -40,6 +40,7 @@ class Question:
     topic: str = ""
     review_issues: List[str] = field(default_factory=list)
     topic_scores: Dict[str, float] = field(default_factory=dict)
+    exam: str = ""
 
     def to_dict(self) -> Dict[str, Any]:
         return {

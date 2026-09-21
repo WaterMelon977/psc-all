@@ -1,0 +1,25 @@
+{
+  "input_filename": "D:\\appsc-loaded\\pcb-ae\\pdfs\\2022-ae-various-gsma.pdf",
+  "processing_timestamp": "2026-09-21T05:41:33.961482",
+  "total_pages": 63,
+  "total_question_blocks_detected": 150,
+  "english_questions_retained": 150,
+  "telugu_questions_discarded": 0,
+  "questions_with_detected_answers": 143,
+  "review_items_count": 8,
+  "topic_distribution": {
+    "Logical Reasoning and Analytical Ability": 117,
+    "Data Analysis and Tabulation": 1,
+    "Sustainable Development": 5,
+    "Environment": 2,
+    "Disaster Management and GIS": 6,
+    "Geography of India and AP": 8,
+    "History of India and AP": 0,
+    "Indian Polity and Governance": 6,
+    "Indian Economy and Planning": 3,
+    "General Science and Technology": 0,
+    "Current Events and Issues": 2
+  },
+  "warnings": [],
+  "duration_seconds": 1.332
+}
