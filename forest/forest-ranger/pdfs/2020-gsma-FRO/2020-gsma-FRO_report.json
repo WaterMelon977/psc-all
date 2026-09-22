@@ -1,0 +1,24 @@
+{
+  "input_filename": "D:\\appsc-loaded\\forest\\forest-ranger\\pdfs\\2020-gsma-FRO.pdf",
+  "processing_timestamp": "2026-09-22T16:20:37.628331",
+  "total_pages": 37,
+  "total_question_blocks_detected": 150,
+  "english_questions_retained": 150,
+  "telugu_questions_discarded": 0,
+  "questions_with_detected_answers": 140,
+  "review_items_count": 3,
+  "topic_distribution": {
+    "Logical Reasoning and Analytical Ability": 121,
+    "Data Analysis and Tabulation": 0,
+    "Sustainable Development and Environment": 5,
+    "Disaster Management and GIS": 10,
+    "Geography of India and AP": 2,
+    "History of India and AP": 2,
+    "Indian Polity and Governance": 3,
+    "Indian Economy and Planning": 1,
+    "General Science and Technology": 2,
+    "Current Events and Issues": 4
+  },
+  "warnings": [],
+  "duration_seconds": 201.234
+}

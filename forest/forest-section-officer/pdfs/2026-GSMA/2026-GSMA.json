@@ -1,0 +1,2057 @@
+{
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "Which vitamin is essential for blood clotting?",
+      "options": {
+        "1": "Vitamin A",
+        "2": "Vitamin B12",
+        "3": "Vitamin D",
+        "4": "Vitamin K"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 2,
+      "question": "Which of the following is an example of biodegradable plastic?",
+      "options": {
+        "2": "Polystyrene",
+        "1": "Polyethylene",
+        "3": "Polylactic acid",
+        "4": "Polycarbonate"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 3,
+      "question": "Hydrogen fuel production is considered as green when",
+      "options": {
+        "1": "It is made from coal",
+        "2": "It is extracted from sea water",
+        "3": "It is produced using renewable energy",
+        "4": "It emits green-colored gas"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 4,
+      "question": "The term“Blue economy\"refers to",
+      "options": {
+        "2": "Space-based ocean mapping",
+        "1": "Water purification industries",
+        "3": "Sustainableuse ofocean resources",
+        "4": "Deep-sea mining only"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 5,
+      "question": "The organization responsible for approving vaccines and drugs in India",
+      "options": {
+        "1": "WHO",
+        "2": "ICMR",
+        "3": "CDSCO",
+        "4": "DRDO"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 6,
+      "question": "What is“phishing\"in cybersecurity?",
+      "options": {
+        "1": "A virus",
+        "2": "Legal email communication",
+        "3": "Fraudulentattempttoobtain sensitivedata",
+        "4": "Social networkingsite"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 7,
+      "question": "The Chandrayaan-3mission aimed to land on which part of the Moon?",
+      "options": {
+        "2": "Western side",
+        "1": "Equator of Moon",
+        "4": "South pole",
+        "3": "North pole"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Current Events and Issues"
+    },
+    {
+      "question_number": 8,
+      "question": "Which Indian body certifies organic products ?",
+      "options": {
+        "3": "BIS",
+        "4": "CSIR",
+        "1": "FSSAI",
+        "2": "APEDA"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 9,
+      "question": "WhichofthefollowingusesCRISPR-Cas9technology?",
+      "options": {
+        "2": "Gene editing",
+        "1": "Plant breeding",
+        "4": "Immunization",
+        "3": "Radio therapy"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 10,
+      "question": "Which district of AP has been chosen for the\"One District One Product\"(ODOP) initiative for Banana ?",
+      "options": {
+        "3": "Guntur",
+        "4": "Kadapa",
+        "2": "Nellore",
+        "1": "Vizianagaram"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 11,
+      "question": "How cloud burst is formed ? ()Sudden and extremely heavyrainfall for a short period",
+      "options": {
+        "2": "Low rainfall in a short period",
+        "3": "Thunderstorm without rainfall",
+        "4": "High wind with low rainfall"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 12,
+      "question": "What is cancer ? ()Abnormalgrowthofcells",
+      "options": {
+        "2": "Slowgrowthof cells",
+        "3": "Normal growth of cells",
+        "4": "Absence of cells inbody"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 13,
+      "question": "One important application of the biotechnology is",
+      "options": {
+        "1": "Gene editing",
+        "2": "Space exploration",
+        "3": "Progress in quantum computing",
+        "4": "Innovation in clean energy"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "General Science and Technology"
+    },
+    {
+      "question_number": 14,
+      "question": "Which part of the human body useful for organ transplantation ?",
+      "options": {
+        "3": "Brain",
+        "2": "Tail bone",
+        "4": "Kidney",
+        "1": "Nose"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 15,
+      "question": "The costliest plant available in Tirumala hills ?",
+      "options": {
+        "2": "Redsanders",
+        "1": "Neem",
+        "4": "Indian blackberry",
+        "3": "Karanja"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 16,
+      "question": "Which of the following is a noble gas ?",
+      "options": {
+        "4": "Nitrogen",
+        "3": "Oxygen",
+        "2": "Helium",
+        "1": "Hydrogen"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 17,
+      "question": "Which blood group is known as the Universal Donor ?",
+      "options": {
+        "2": "‘A'blood group",
+        "4": "“AB'blood group",
+        "3": "“B\"bloodgroup"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 18,
+      "question": "How is the acid rain formed ?",
+      "options": {
+        "1": "Rain with microorganisms",
+        "2": "Rain with dust",
+        "3": "Sulfuric acid or nitric acid fall to the ground from the atmosphere",
+        "4": ""
+      },
+      "answer": [],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 19,
+      "question": "Which campaign led by the Supreme Court resulted in a new green space called“Nyay Vatika\" in Delhi?",
+      "options": {
+        "1": "GreenDelhi Initiative",
+        "2": "Nyaya Paani Yatra",
+        "3": "EkPed Maa Ke Naam",
+        "4": "JusticeforNatureMovement"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Indian Polity and Governance"
+    },
+    {
+      "question_number": 20,
+      "question": "On 4July2025,the IndianForestDepartment andIISc launched a 4.7crore research project to address human-elephant conflict in which reserve?",
+      "options": {
+        "1": "Bandipur",
+        "2": "Nagarhole",
+        "3": "Coorg",
+        "4": "Mysore Elephant Reserve"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 21,
+      "question": "By when doesAPaim to become a“Green Hydrogen Valley\"?",
+      "options": {
+        "1": "2025",
+        "3": "2029",
+        "2": "2027",
+        "4": "2030"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 22,
+      "question": "Whoresignedas VicePresidentof India recently?",
+      "options": {
+        "1": "M. Venkaiah Naidu",
+        "2": "HarivanshNarayanSingh",
+        "3": "JagdeepDhankhar",
+        "4": "DroupadiMurmu"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 23,
+      "question": "How many civilians were reportedly killed in the Pahalgam terror attack on 22 April 2025?",
+      "options": {
+        "1": "15",
+        "3": "32",
+        "4": "28",
+        "2": "26"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 24,
+      "question": "What does“Gig economy\"mean?",
+      "options": {
+        "1": "Only government jobs",
+        "2": "Long-termoffice jobs",
+        "3": "Short-termworkusingapps orwebsites",
+        "4": "Farming work"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 25,
+      "question": "In January 2025,Gukesh Dommaraju was honored with which of India's highest sporting awards ?",
+      "options": {
+        "2": "MajorDhyanchandKhelRatnaAward",
+        "1": "Arjuna Award",
+        "4": "DronacharyaAward",
+        "3": "Padma Shri"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Current Events and Issues"
+    },
+    {
+      "question_number": 26,
+      "question": "What is the oficial theme of International Day of Yoga 2025?",
+      "options": {
+        "1": "Yoga for Self and Society",
+        "2": "Yoga forHumanity",
+        "3": "YogaforOneEarth,OneHealth",
+        "4": "YogaforVasudhaiva Kutumbakam"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 27,
+      "question": "How many UNESCO World Heritage Sites does India have as on July 2025?",
+      "options": {
+        "4": "48",
+        "2": "40",
+        "3": "44",
+        "1": "38"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 28,
+      "question": "When was the PM Dhan-Dhaanya Krishi Yojana officially approved by the Union Cabinet?",
+      "options": {
+        "1": "February 1, 2025",
+        "2": "July16,2025",
+        "3": "January1,2025",
+        "4": "July 1, 2026"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 29,
+      "question": "When was the P4(Public-Private-People-Partnership) Programme officially launched by the Andhra Pradesh Government?",
+      "options": {
+        "1": "Ugadi,March30,2025",
+        "2": "Independence Day, August 15, 2025",
+        "3": "Republic Day, January26, 2025",
+        "4": "Diwali,November2024"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 30,
+      "question": "Which ofthe following Andhra Pradesh temples was sanctioned a PRASHAD development project in 2022-23 ?",
+      "options": {
+        "1": "Amaravati",
+        "2": "Srisailam Temple",
+        "3": "SimhachalamTemple",
+        "4": "Annavaram Temple"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 31,
+      "question": "Who was appointed by the Andhra Pradesh government as the head of the one-man commission toexamine sub-classification within Scheduled Castes(SCs)?",
+      "options": {
+        "1": "Manohar Pershad",
+        "2": "K. S. Jawahar",
+        "3": "Rajiv Ranjan Mishra",
+        "4": "Karem Sivaji"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 32,
+      "question": "Which organization signed an MoU with theAndhra PradeshGovernment in 2025 to improve health, education and agricultureusing technology?",
+      "options": {
+        "1": "WHO",
+        "2": "NITIAayog",
+        "3": "BillandMelindaGatesFoundation",
+        "4": "Tata Trusts"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 33,
+      "question": "Under which mission was Andhra Pradesh recognized as a top-performing state by the Union MinistryofTribalAffairs?",
+      "options": {
+        "1": "PM-JAY",
+        "2": "PM-KISAN",
+        "3": "PMJanjatiyaVikasMission",
+        "4": "Tribal Health Mission"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 34,
+      "question": "On which date has theGovernment of Andhra Pradesh officially declared Vadde Obanna Jayanti to be celebrated annually?",
+      "options": {
+        "4": "October 2",
+        "3": "August 15",
+        "2": "May 5",
+        "1": "January 11"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 35,
+      "question": "Union Civil Aviation Minister K.Rammohan Naidu was selected for which prestigious recognition?",
+      "options": {
+        "1": "Raman Magsaysay Award",
+        "2": "Indian ConfederationAward",
+        "3": "",
+        "4": "UNESCO Global Peace Award"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 36,
+      "question": "Which Gram Panchayat from NTR district in Andhra Pradesh was selected for the National “Aatmanirbhar Panchayat Special Award\"by the Union Ministry of Panchayati Raj for the assessmentyear2023-24(Awards 2025)?",
+      "options": {
+        "1": "Muppalla Gram Panchayat",
+        "3": "GollapudiGramPanchayat",
+        "4": "Nyayampudi Gram Panchayat"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Indian Polity and Governance"
+    },
+    {
+      "question_number": 37,
+      "question": "In the Tamil Epic Silappadikaram, who is wrongly accused of stealing the queen's anklet ?",
+      "options": {
+        "1": "Kovalan",
+        "2": "Kannagi",
+        "3": "Madhavi",
+        "4": "Nedunchezhelian"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 38,
+      "question": "Templeentrybill of 1933under theBritish was related to",
+      "options": {
+        "1": "Permitting women toperformrituals inside thetemples",
+        "2": "Granting access toDalits andmarginalisedcommunities intotemples",
+        "3": "Regulating temple administration",
+        "4": "Appointment of priests and officers in temples"
+      },
+      "answer": [],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 39,
+      "question": "What was the important contribution of Tripuraneni Ramaswamy to Social Reform in Andhra ? ()Promoted ritual orthodoxy through classical poetry",
+      "options": {
+        "2": "Advocated rationalism and challenged caste based discrimination through literature",
+        "3": "Focused on linguisticreform and standardisationof Telugu Grammar",
+        "4": "Supported temple-centric education"
+      },
+      "answer": [],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 40,
+      "question": "T. G. Rutherford, who lead the operation resulting in the death of Alluri Seetha Rama Raju, served in which capacity under the British ? (l)DistrictForestOfficerandColonialAdministrator",
+      "options": {
+        "2": "Commander of theMadras InfantryRegiment",
+        "3": "Officer of the Bengal Army",
+        "4": "SPin BombayPresidency"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 41,
+      "question": "The first High Court for Andhra province under Madras Presidency was established at",
+      "options": {
+        "1": "Hyderabad",
+        "2": "Guntur",
+        "3": "Kurnool",
+        "4": "Vishakapatnam"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Indian Polity and Governance"
+    },
+    {
+      "question_number": 42,
+      "question": "As per the AP Reorganisation Act, 2014,for how many years, Hyderabad city was declared as the common capital of both AP and Telangana states ?",
+      "options": {
+        "1": "5 years",
+        "2": "10 years",
+        "3": "15 years",
+        "4": "25 years"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 43,
+      "question": "On October 21st, 1943 Subhashchandra Bose formed the Provisional Government for the free India at",
+      "options": {
+        "1": "Tokyo",
+        "2": "Rangoon",
+        "3": "Berlin",
+        "4": "Singapore"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 44,
+      "question": "The1937elections inBritish India wereheldunder whichAct?",
+      "options": {
+        "1": "IndianCouncilsAct,1909",
+        "2": "The Government of India Act,1935",
+        "3": "India Act, 1919",
+        "4": "TheRowlatt Act"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 45,
+      "question": "Under 1947,Indian Independence Act what was the status of princely states?",
+      "options": {
+        "1": "TheyremainedunderBritishcontrol",
+        "2": "TheymustmergeintoIndia orPakisthan",
+        "3": "They were free to join either dominion",
+        "4": "Theywereabolished"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 46,
+      "question": "Hala wrote Gathasaptasati in",
+      "options": {
+        "2": "Pali N",
+        "4": "Gandhari",
+        "3": "Prakrit",
+        "1": "Sanskrit"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 47,
+      "question": "Who shifted the Kakatiya Capital from Hanumakonda to Warangal?",
+      "options": {
+        "2": "Ganapatideva",
+        "1": "Rudramadevi",
+        "4": "Kapaya Nayaka",
+        "3": "Prataparudra"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "History of India and AP"
+    },
+    {
+      "question_number": 48,
+      "question": "Who built the Balakrishna Temple in Hampi?",
+      "options": {
+        "2": "Devaraya II",
+        "1": "Narasa Nayaka",
+        "4": "Srikrishnadevaraya",
+        "3": "Tirumala Raya"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 49,
+      "question": "Vivekavardhini was started at Rajahmundry by",
+      "options": {
+        "2": "P. Rangaiah Naidu",
+        "4": "N.Subbarao",
+        "3": "Veeresalingam",
+        "1": "8.3. 5s"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 50,
+      "question": "On 16May 1884, theMadras Mahajana Sabha was formed with as the President.",
+      "options": {
+        "1": "P. Ramakrishnayya",
+        "2": "R.Ramachandra Rao",
+        "3": "V.Venkataraya Sastri",
+        "4": "P.RamakanthaRao"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 51,
+      "question": "In January 1914, an English weekly“Common Weal\"was started in Madras by",
+      "options": {
+        "1": "Kesava Pillai",
+        "2": "Annie Besant",
+        "3": "Ranganatha Mudaliar",
+        "4": "V. Ramadas"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 52,
+      "question": "The First Session of the Indian National Congress was held in 1885 in",
+      "options": {
+        "2": "Calcutta",
+        "1": "Delhi",
+        "4": "Bombay",
+        "3": "Madras"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "History of India and AP"
+    },
+    {
+      "question_number": 53,
+      "question": "Who organized a Separate Political Association called \"The Deccan Sabha\"?",
+      "options": {
+        "1": "Gokhale",
+        "2": "Lal Chand",
+        "3": "Majumdar",
+        "4": "Ram Manohar"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 54,
+      "question": "The Ghadar Party was organized in November1913 in theUS at",
+      "options": {
+        "1": "New York",
+        "2": "San Francisco",
+        "4": "Boston",
+        "3": "California"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 55,
+      "question": "The‘Congra Valley'of theHimalayas isfound in ()  Himachal Pradesh",
+      "options": {
+        "2": "Uttarakhand",
+        "3": "Sikkim",
+        "4": "Arunachal Pradesh"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 56,
+      "question": "Which of the following is not a Tributary to the river Godavari ?",
+      "options": {
+        "3": "Sabari",
+        "4": "Panchganga",
+        "2": "Indravathi",
+        "1": "Manjeera"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 57,
+      "question": "The Indus River Water Treaty signed by the Indian and Pakisthan Governments in the year",
+      "options": {
+        "4": "1960",
+        "3": "1950",
+        "2": "1957",
+        "1": "1947"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 58,
+      "question": "In Andhra Pradesh which district of the following is not having ‘Mica'deposits ?",
+      "options": {
+        "2": "NTR District",
+        "1": "SPS Nellore District",
+        "4": "West Godawari District",
+        "3": "ChitturDistrict"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 59,
+      "question": "The Hindustan Shipyard Ltd. is located in state.",
+      "options": {
+        "4": "Goa",
+        "3": "Maharastra",
+        "2": "Andhra Pradesh",
+        "1": "Kerala"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 60,
+      "question": "Which of the following Wildlife Sanctuary is not located in Andhra Pradesh ?",
+      "options": {
+        "2": "Rolla Padu Bird Sanctuary",
+        "1": "Coringa Sanctuary",
+        "4": "Gundla Brahmeswaram Sanctuary",
+        "3": "Manjra Wildlife Sanctuary"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 61,
+      "question": "Which of the following state is having Tropical Wet Evergreen Forests grow ?",
+      "options": {
+        "4": "Andhra Pradesh",
+        "3": "Madhya Pradesh",
+        "2": "Uttar Pradesh",
+        "1": "Assam"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 62,
+      "question": "The northernmost point of India is known as",
+      "options": {
+        "1": "Indira point",
+        "2": "Indira Col.",
+        "3": "Pigmalion point",
+        "4": "CapeComorin"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 63,
+      "question": "In which year the Border Roads Organisation was created in India?",
+      "options": {
+        "1": "1950",
+        "2": "1960",
+        "3": "1970",
+        "4": "1980"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 64,
+      "question": "Which is the most recent physical feature of India?",
+      "options": {
+        "1": "Himalayas",
+        "2": "DeccanPlateau",
+        "3": "Coastal Plains",
+        "4": "Indo-Gangeticplain"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 65,
+      "question": "Which of the following is the correct order of rivers from North to South?",
+      "options": {
+        "1": "Ganga-Mahanadi-Godayari-Krishna",
+        "2": "Yamuna--Ganga-Narmada-Kaveri",
+        "3": "Godavari-Krishna-Mahanadi-Kaveri",
+        "4": "Indus-Ganga-Godavari-Krishna"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 66,
+      "question": "Which of the following pairs is not correctly matched? ()Mica-Jharkhand",
+      "options": {
+        "2": "Bauxite-Odisha",
+        "3": "Copper-Rajasthan",
+        "4": "Coal-Kerala",
+        "1": "3050-20g0"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 67,
+      "question": "The Western Coastal plain of India is known for",
+      "options": {
+        "1": "High tidal range",
+        "2": "Extensivedeltas",
+        "3": "Backwaters andlagoons",
+        "4": "Arid Climate"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 68,
+      "question": "Where is the India's permanent research station Dakshin Gangotri?",
+      "options": {
+        "2": "Indian Ocean",
+        "1": "GreatHimalayas",
+        "4": "Arabian Sea",
+        "3": "Antarctica"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 69,
+      "question": "The standard meridian of India passes through",
+      "options": {
+        "4": "84°E",
+        "3": "75° E",
+        "2": "90° E",
+        "1": "82°30'E"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 70,
+      "question": "The delta of which river is known as the“Granary of South India\"?",
+      "options": {
+        "4": "Kaveri",
+        "3": "Krishna",
+        "2": "Godavari",
+        "1": "Mahanadi"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 71,
+      "question": "Andhra Pradesh shares its longest inter state boundary with which state ?",
+      "options": {
+        "4": "Karnataka",
+        "3": "Telangana",
+        "2": "Odisha",
+        "1": "Tamil Nadu"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 72,
+      "question": "The primary soil type found in Rayalaseema region is",
+      "options": {
+        "4": "Laterite soil",
+        "2": "Black cotton soil",
+        "3": "Red soil",
+        "1": "Alluvial soil"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 73,
+      "question": "Andhra Pradesh contributes significantly to which minerals production in India ?",
+      "options": {
+        "1": "Gold",
+        "2": "Manganese",
+        "4": "Zinc",
+        "3": "Bauxite"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 74,
+      "question": "The Tropic of Cancer does not pass through which of the following states ?",
+      "options": {
+        "1": "Rajasthan",
+        "2": "Gujarat",
+        "3": "Uttar Pradesh",
+        "4": "Chhattisgarh"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 75,
+      "question": "What does the writ of Habeas Corpus literallymean?",
+      "options": {
+        "1": "To produce the body",
+        "2": "Tocommand thegovernment",
+        "3": "To prohibit an act",
+        "4": "To protect property rights"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 76,
+      "question": "On which date National Panchayati Raj Day is observed annually in India ?",
+      "options": {
+        "1": "April 24",
+        "2": "December 24",
+        "4": "October 2",
+        "3": "March 15"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Indian Polity and Governance"
+    },
+    {
+      "question_number": 77,
+      "question": "On which date did NITI Aayog officially come into force, according to the Cabinet Secretariat notification?",
+      "options": {
+        "1": "15March 1950",
+        "2": "1January2015",
+        "3": "16February2015",
+        "4": "1April2015"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Indian Economy and Planning"
+    },
+    {
+      "question_number": 78,
+      "question": "Who was elected as the permanent Chairman (President) of the Constituent Assembly of India on 11December1946?",
+      "options": {
+        "1": "Jawaharlal Nehru",
+        "2": "Dr.RajendraPrasad",
+        "3": "Dr. B.R.Ambedkar",
+        "4": "Harendra Coomar Mookerjee"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 79,
+      "question": "The words“socialist\"and\"secular\"were officially incorporated into the Preamble of the Indian Constitution by which Constitutional Amendment?",
+      "options": {
+        "2": "42Amendment",
+        "1": "39th Amendment",
+        "4": "52ndAmendment",
+        "3": "44th Amendment"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Indian Polity and Governance"
+    },
+    {
+      "question_number": 80,
+      "question": "Which of the following countries is not a member of the South Asian Association for Regional Cooperation (SAARC)?",
+      "options": {
+        "3": "Maldives",
+        "4": "Myanmar",
+        "2": "Pakistan",
+        "1": "Afghanistan"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 81,
+      "question": "Which constitutional provision enables the Finance Commission to recommend distribution of tax revenuebetween the Centre and States?",
+      "options": {
+        "4": "Article 275",
+        "3": "Article 266",
+        "2": "Article 280",
+        "1": "Article 270"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Indian Polity and Governance"
+    },
+    {
+      "question_number": 82,
+      "question": "The concept of inclusive growth'was emphasized in which five year plan in India ?",
+      "options": {
+        "4": "Ninth plan",
+        "3": "Twelfth plan",
+        "2": "Eleventh plan",
+        "1": "Tenth plan"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 83,
+      "question": "What event triggered the declaration of Emergency in 1975? ()Railway strikeledbyGeorgeFernandes",
+      "options": {
+        "2": "AllahabadHigh Courtverdict invalidatingIndira Gandhi's election",
+        "3": "NavNirmanAndolan inGujarat",
+        "4": "Economiccrisisduetoinflation"
+      },
+      "answer": [],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 84,
+      "question": "Match thefollowing Parts of the Constitution associated with their subjects : A. Part III 1.Directive Principles B. Part IV 2.Panchayats C. Part IX 3.Fundamental Rights D. Part XII 4.Financeand Property (I) A-3, B-1, C-2, D-4",
+      "options": {
+        "2": "A-1, B-2, C-3, D-4",
+        "3": "A-3, B-2, C-1, D-4",
+        "4": "A-2, B-1, C-3, D-4"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Indian Polity and Governance"
+    },
+    {
+      "question_number": 85,
+      "question": "Which of the following subjects falls exclusively under the Union List, where only the Union Legislature can make laws?",
+      "options": {
+        "1": "Agriculture",
+        "2": "Education",
+        "4": "Public health",
+        "3": "Defense"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 86,
+      "question": "On the recommendations of which among the following, the Fundamental Duties were incorporated in the Indian Constitution?",
+      "options": {
+        "1": "Sarkaria Commission",
+        "2": "SwaranSinghCommittee",
+        "3": "Shekatkar Commission",
+        "4": "Fazl Ali Commission"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Indian Polity and Governance"
+    },
+    {
+      "question_number": 87,
+      "question": "Article 356 was used for the first time in which of the following states ?",
+      "options": {
+        "3": "Karnataka",
+        "4": "Assam",
+        "2": "Punjab",
+        "1": "Tamil Nadu"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Indian Polity and Governance"
+    },
+    {
+      "question_number": 88,
+      "question": "Who was the First CJI to be appointed as an acting President ?",
+      "options": {
+        "2": "V. V. Giri",
+        "1": "Zakir Hussain",
+        "4": "M.Hidayutullah",
+        "3": "FakhruddinAliAhmed"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 89,
+      "question": "India borrowed the feature of Amendment of the constitution from which constitution?",
+      "options": {
+        "4": "Ireland",
+        "3": "SouthAfrica",
+        "2": "USA",
+        "1": ""
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Indian Polity and Governance"
+    },
+    {
+      "question_number": 90,
+      "question": "Government of India's“Make in India\"intiative was launched on",
+      "options": {
+        "2": "26th January 2015",
+        "1": "25th September 2014",
+        "4": "25th December 2014",
+        "3": "15August2014"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 91,
+      "question": "In which of the following years was the introduction of GST (Goods and Services Tax) was announced in the Union Budget?",
+      "options": {
+        "2": "2006-07",
+        "1": "2005-06",
+        "4": "2016-17",
+        "3": "2015-16"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Indian Economy and Planning"
+    },
+    {
+      "question_number": 92,
+      "question": "The workforce population in India includes the age group between",
+      "options": {
+        "1": "15-62",
+        "3": "18-62",
+        "2": "18-59",
+        "4": "15-59"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 93,
+      "question": "Which ofthe following Industrial Policy Resolution (IPR)'s set socialistic pattern of society as its maineconomicgoal",
+      "options": {
+        "1": "IPR 1948",
+        "2": "IPR1956",
+        "4": "IPR 1991",
+        "3": "IPR 1978"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 94,
+      "question": "When was the Planning Commission dissolved?",
+      "options": {
+        "1": "August2014",
+        "2": "December2014",
+        "3": "October2014",
+        "4": "March 2014"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Indian Economy and Planning"
+    },
+    {
+      "question_number": 95,
+      "question": "Who was the Deputy Chairman of the Planning Commission during the Second Five-Year plan period ?",
+      "options": {
+        "1": "Mahalanobis",
+        "2": "V. T. Krishnamachari",
+        "3": "Gulzarilal Nanda",
+        "4": "Jawaharlal Nehru"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Indian Economy and Planning"
+    },
+    {
+      "question_number": 96,
+      "question": "What is not included in the time period of NITI Aayog's action plan documents?",
+      "options": {
+        "1": "3 years",
+        "2": "5 years",
+        "3": "7 years",
+        "4": "15years"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Indian Economy and Planning"
+    },
+    {
+      "question_number": 97,
+      "question": "As part of economic reforms, how many times did the Indian government devalue the rupee in 1991 to adjust the balance of payments deficit ?",
+      "options": {
+        "4": "0",
+        "2": "3",
+        "3": "2",
+        "1": "1"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Indian Economy and Planning"
+    },
+    {
+      "question_number": 98,
+      "question": "The international organization that provided loan assistance to overcome the economic crisis in 1991 is",
+      "options": {
+        "2": "GATT",
+        "1": "World Bank",
+        "4": "International Monetary Fund",
+        "3": "New Development Bank"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 99,
+      "question": "Which Article of the Constitution provides for the establishment of the Finance Commission?",
+      "options": {
+        "2": "Article 270",
+        "1": "Article 112",
+        "4": "Article 282",
+        "3": "Article280"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Indian Polity and Governance"
+    },
+    {
+      "question_number": 100,
+      "question": "The Article that states the President of India can ask advice of the Chief Justice of the Supreme Court is",
+      "options": {
+        "4": "Article 146",
+        "3": "Article 144",
+        "2": "Article143",
+        "1": "Article 142"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Indian Polity and Governance"
+    },
+    {
+      "question_number": 101,
+      "question": "When did Nehru propose the objectives resolution related to the Preamble of the Constitution ?",
+      "options": {
+        "2": "26November 1946",
+        "1": "13December1946",
+        "4": "26 January 1947",
+        "3": "22January1947"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Indian Polity and Governance"
+    },
+    {
+      "question_number": 102,
+      "question": "The committee that recommended a three-tier system for local self-governance institutions is",
+      "options": {
+        "1": "AshokMehta Committee",
+        "2": "NarasimhanCommittee",
+        "3": "Balwant Rai Mehta Committee",
+        "4": "Raj Committee"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 103,
+      "question": "What is correct regarding the election of a Gram Panchayat Sarpanch?",
+      "options": {
+        "1": "Winsonapartysymbol",
+        "2": "No relation to parties",
+        "3": "No voting procedure",
+        "4": "Through indirectmethod"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 104,
+      "question": "The Global Hunger Index (GHI)is a tool for comprehensively measuring hunger at global, regional and national levels. What are the values of four component indicators of GHI scores ?",
+      "options": {
+        "1": "Nutrition, Child stunting, Child wasting and Child mortality",
+        "2": "Gender justice,Climate resilience, Food and nutrition security",
+        "3": "Undernourishment, Child stunting, Child wasting and Child mortality",
+        "4": "Gender justice, Child stunting, Food security and Nutrition security"
+      },
+      "answer": [],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 105,
+      "question": "Most of the disguised unemployed persons in India are found in following sectors",
+      "options": {
+        "1": "Industry",
+        "2": "Trade",
+        "3": "Transport",
+        "4": "Agriculture"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 106,
+      "question": "Which of the following is not correct regarding Manmohan Singh's landmark achievements as Prime Minister of India?",
+      "options": {
+        "1": "Mahatma Gandhi National Rural EmploymentGuaranteeAct",
+        "2": "RighttoInformationAct",
+        "3": "National Food Security Act",
+        "4": "2002020"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 107,
+      "question": "Which of thefollowing scheme is associated with India's first phase of Economic Reforms (1991-2001)?",
+      "options": {
+        "2": "Antyodaya Scheme",
+        "1": "Golden ShakeHand",
+        "4": "IRDP",
+        "3": "Food for work"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 108,
+      "question": "In which Five Year Plan, the Tata Institute ofFundamental Research and Atomic Energy Commission of India were established as research institutes?",
+      "options": {
+        "2": "1956-61",
+        "1": "1951-56",
+        "4": "1974-78",
+        "3": "1969-74"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 109,
+      "question": "The Twelfth Plan (2012-2017) vision and aspirations are built on the following subtitle",
+      "options": {
+        "1": "Faster, sustainable and more inclusive growth",
+        "2": "Faster and more inclusive growth",
+        "3": "Inclusive growth, food work and productivity",
+        "4": "Minimum needs programme"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 110,
+      "question": "ThePlanning Commissionwas constituted inwhichyear? () 1950",
+      "options": {
+        "2": "1948",
+        "3": "1951",
+        "4": "1947",
+        "1": "1950"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 112,
+      "question": "In the series 10, 7, 4, .. what will be the 30th term ?",
+      "options": {
+        "1": "97",
+        "2": "77",
+        "3": "-77",
+        "4": "-87"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 113,
+      "question": "In the question given below equations havebecome wrong dueto wrong order of signs (+,-,x,+,) choose the correct order of signs from the alternatives given under question so that the equation becomes right 210+15=15+15",
+      "options": {
+        "2": "+=+",
+        "3": "-××",
+        "4": "=×",
+        "1": "+=×"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 114,
+      "question": "In a test (+4)marks are given for every correct answer and (-2)marks are given for every incorrect answer.A student answered all the questions and scored 26 marks from 8 correct answers. How many incorrectanswers had a student attempted?",
+      "options": {
+        "4": "4",
+        "3": "6",
+        "2": "3",
+        "1": "2"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 115,
+      "question": "In the following alphabetical series a term (next term) is missing.Choose the missing term from the options AB, EF, IJ, MN,",
+      "options": {
+        "4": "PQ",
+        "3": "XY",
+        "2": "OP",
+        "1": "QR"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 116,
+      "question": "The angle between the minute hand and the hour hand of a clock when the time is 4 hours 20minutes is",
+      "options": {
+        "4": "20°",
+        "3": "59",
+        "2": "100",
+        "1": ""
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 117,
+      "question": "Out of 120members of a class,50 play cricket, 60 play football, 48 play hockey,18 play cricket and hockey, 20 play cricket and football, 24 play hockey and football and 10 play all the three games. How many of them play only cricket?",
+      "options": {
+        "2": "14 )",
+        "1": "22",
+        "3": "26",
+        "4": "16"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 118,
+      "question": "In the series given below, next term is 3, 9, 21, 45, 93, ...",
+      "options": {
+        "1": "184",
+        "2": "187",
+        "3": "186",
+        "4": "189"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 119,
+      "question": "In 1oth class if 3 students sit on each bench one student will be left, if four students sit on each bench, one bench will beleft.Find thenumber of students.",
+      "options": {
+        "2": "11",
+        "1": "5",
+        "3": "16",
+        "4": "10"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 121,
+      "question": "In a class of 26 students,8 take tea but not coffee and 16take tea.Howmany take coffee but nottea?",
+      "options": {
+        "3": "18",
+        "4": "10",
+        "1": "16",
+        "2": "8"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 122,
+      "question": "In thefollowing number series 12, 20, 30, 44, 56, 72 One number doesnot follow thepattern of other numbers.The number is",
+      "options": {
+        "4": "48",
+        "3": "44",
+        "2": "38",
+        "1": "34"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 123,
+      "question": "There is some relationship between the two terms to the left of::and the same relationship holds between the two terms to its right. The missing term (?) is DRIVER:CEQSHJUWDFQS:TICKET:?",
+      "options": {
+        "2": "SUJHBDLJDFSU",
+        "1": "SUHJBDLJDFSU",
+        "4": "SUHJBDJLDFSU",
+        "3": "SUHJBDJLFDUS"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 124,
+      "question": "In thefiguregiven below,square represents lawyers,trianglerepresents cyclists,circlerepresents men and rectangle represents post-graduates. The set of letters that represent 'men who are not cyclists'is",
+      "options": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": ""
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 125,
+      "question": "A walks 10km towards South.From there hetakes aU-turn and walks 6km.Then he takes a left turn and walks 3km,Thedistance and thedirection of his present location with respect tohis starting point are",
+      "options": {
+        "1": "4km, South-West",
+        "2": "5 km, South-West",
+        "3": "5 km, North-West",
+        "4": "4km,North-West"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 126,
+      "question": "If the code for STABLE is123456'and LABOUR is “534789'.Then the code for BOTTLE is",
+      "options": {
+        "4": "475526",
+        "3": "472256",
+        "2": "472265",
+        "1": "472556"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 127,
+      "question": ",What is the main goal of sustainable development ?",
+      "options": {
+        "1": "Economic growth only",
+        "2": "Environment protection only",
+        "3": "Balanced growth of environment and economy",
+        "4": "Urbanization"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Sustainable Development"
+    },
+    {
+      "question_number": 128,
+      "question": "Which of the following is a non-renewable resource ?",
+      "options": {
+        "2": "Wind energy",
+        "1": "Solar energy",
+        "4": "Water",
+        "3": "Coal"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Sustainable Development"
+    },
+    {
+      "question_number": 129,
+      "question": "Which organization introduced the term“Sustainable Development\"?",
+      "options": {
+        "2": "WHO",
+        "4": "UNDP",
+        "3": "BrundtlandCommission",
+        "1": "ow..5.a..."
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Sustainable Development"
+    },
+    {
+      "question_number": 130,
+      "question": "Kyoto Protocol deals with",
+      "options": {
+        "1": "Biodiversity",
+        "2": "Ozone depletion",
+        "3": "Climate change",
+        "4": "Forests"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Environment"
+    },
+    {
+      "question_number": 131,
+      "question": "Whichis ameasuretocontrol airpollution?",
+      "options": {
+        "1": "Deforestation",
+        "2": "More vehicles",
+        "3": "Use of CNG",
+        "4": "Burning plastic"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 132,
+      "question": "Which international event first introduced the concept of\"Sustainable Development\"widely?",
+      "options": {
+        "1": "Rio Earth Summit 1992",
+        "2": "Kyoto Protocol 1997",
+        "3": "ParisAgreement 2015",
+        "4": "StockholmConference1972"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Sustainable Development"
+    },
+    {
+      "question_number": 133,
+      "question": "Which of the following is NOT a principle of sustainable development ?",
+      "options": {
+        "1": "Inter-generational equity",
+        "2": "Precautionary principle",
+        "3": "Over-exploitationofresources",
+        "4": "Integration of environment and economy"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Sustainable Development"
+    },
+    {
+      "question_number": 134,
+      "question": "Which sector is most dependent on natural resources?",
+      "options": {
+        "1": "IT sector",
+        "3": "Banking",
+        "2": "Agriculture",
+        "4": "Real estate"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 135,
+      "question": "What is meant by'Carbon Footprint'?",
+      "options": {
+        "2": "Amount of CO released by humans",
+        "1": "Carbon in soil",
+        "4": "Trees absorbing sunlight",
+        "3": "Plants absorbing CO"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Sustainable Development"
+    },
+    {
+      "question_number": 136,
+      "question": "Sustainable agriculture includes",
+      "options": {
+        "2": "Crop rotation",
+        "1": "Chemical fertilizers",
+        "4": "Monoculture",
+        "3": "Over-irrigation"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 137,
+      "question": "Which human activity affects biodiversity the most?",
+      "options": {
+        "2": "Afforestation",
+        "1": "Fishing",
+        "4": "Organic farming",
+        "3": "Deforestation"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Environment"
+    },
+    {
+      "question_number": 138,
+      "question": "What is EIA (Environmental Impact Assessment)?",
+      "options": {
+        "1": "Animal census",
+        "2": "Checkingpollutionlevels",
+        "3": "Studying environmental effects ofaproject",
+        "4": "Tree plantation program"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Environment"
+    },
+    {
+      "question_number": 139,
+      "question": "What is the main aim of disaster management?",
+      "options": {
+        "1": "Saving economy",
+        "2": "Preventing migration",
+        "3": "Saving lives and reducing damage",
+        "4": "Promotingtourism"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Disaster Management and GIS"
+    },
+    {
+      "question_number": 140,
+      "question": "Which Indian State is most vulnerable to cyclones ?",
+      "options": {
+        "1": "Gujarat",
+        "2": "Tamil Nadu",
+        "3": "Odisha",
+        "4": "Rajasthan"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 141,
+      "question": "What is the main cause of tsunamis ?",
+      "options": {
+        "1": "Volcanic eruption",
+        "2": "Landslides",
+        "3": "Undersea earthquakes",
+        "4": "Cyclones"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 142,
+      "question": "Which practice helps in flood control ?",
+      "options": {
+        "1": "Deforestation",
+        "2": "Afforestation",
+        "3": "Overgrazing",
+        "4": "Urbanization"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Disaster Management and GIS"
+    },
+    {
+      "question_number": 143,
+      "question": "Which cyclone severely affected Odisha in 1999? ()Hudhud",
+      "options": {
+        "2": "Fani",
+        "3": "Super Cyclone",
+        "4": "Titli",
+        "1": "505 05"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Disaster Management and GIS"
+    },
+    {
+      "question_number": 144,
+      "question": "Which body coordinates cyclone warnings in India ?",
+      "options": {
+        "1": "NDMA",
+        "2": "IMD",
+        "3": "NDRF",
+        "4": "ISRO"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Disaster Management and GIS"
+    },
+    {
+      "question_number": 145,
+      "question": "In August 2025, which Indian State faced severe monsoon floods with 21 deaths and large scale evacuations ?",
+      "options": {
+        "4": "Odisha",
+        "3": "Assam",
+        "1": "Gujarat",
+        "2": "Maharashtra"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 146,
+      "question": "Which disaster is measured using the Saffir-Simpson scale?",
+      "options": {
+        "4": "Flood",
+        "3": "Tsunami",
+        "2": "Cyclone",
+        "1": "Earthquake"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Disaster Management and GIS"
+    },
+    {
+      "question_number": 147,
+      "question": "Which Indian ministry is responsiblefor disastermanagement?",
+      "options": {
+        "2": "MinistryofHomeAffairs",
+        "1": "Ministryof Mines",
+        "4": "MinistryofHealth",
+        "3": "Ministry of Transport"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 148,
+      "question": "Which technique is used for flood forecasting?",
+      "options": {
+        "2": "Richter scale",
+        "1": "GIS and Radar",
+        "4": "MRI scanning",
+        "3": "Pascal scale"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Disaster Management and GIS"
+    },
+    {
+      "question_number": 149,
+      "question": "What is retrofitting in disaster management ?",
+      "options": {
+        "2": "Strengtheningoldbuildings",
+        "1": "Building new structures",
+        "3": "Disaster survey",
+        "4": "590028938"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Disaster Management and GIS"
+    },
+    {
+      "question_number": 150,
+      "question": "Which zone is the most earthquake-prone in India?",
+      "options": {
+        "4": "Zone-5",
+        "3": "Zone-4",
+        "2": "Zone-3",
+        "1": "Zone-2"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Disaster Management and GIS"
+    }
+  ]
+}

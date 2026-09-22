@@ -17,6 +17,8 @@ from src.markdown_renderer import MarkdownRenderer
 from src.json_renderer import JSONRenderer
 from src.review_generator import ReviewGenerator
 from src.report_generator import ReportGenerator
+from src.local_ocr_extractor import LocalOcrExtractor
+from src.booklet_extractor import BookletExtractor
 
 # Ensure utf-8 output on standard output across platforms
 if sys.stdout.encoding != "utf-8":
@@ -49,54 +51,98 @@ def run_conversion(pdf_path: str, topics_path: str, output_dir: str = None, exam
     out_dir.mkdir(parents=True, exist_ok=True)
 
     print("Loading PDF...")
-    extractor = PDFExtractor(str(pdf_file))
-    raw_blocks, total_pages = extractor.extract()
-
-    print("Extracting questions...")
-    total_blocks_count = len(raw_blocks)
-    print(f"Detected {total_blocks_count} question blocks.")
-
-    lang_detector = LanguageDetector()
-    english_blocks, telugu_discarded, anomalies = lang_detector.filter_language(raw_blocks)
-
-    print(f"Retaining {len(english_blocks)} English questions.")
-    print(f"Discarded {telugu_discarded} Telugu duplicates.")
-
-    print("Detecting answers...")
-    print("Classifying topics...")
+    is_booklet = PDFExtractor.is_booklet_format(str(pdf_file))
     topic_classifier = TopicClassifier(str(topics_file))
-    question_parser = QuestionParser()
-    answer_detector = AnswerDetector()
-
+    topic_distribution = {t: 0 for t in topic_classifier.topics_order}
     structured_questions = []
     answers_detected_count = 0
-    topic_distribution = {t: 0 for t in topic_classifier.topics_order}
+    anomalies = []
 
-    for block in english_blocks:
-        q_text, parsed_opts, parse_issues = question_parser.parse_block(block)
-        detected_answers, ans_issues = answer_detector.detect_answers(parsed_opts)
+    if is_booklet:
+        print("Detected Offline Question Booklet format.")
+        print("Extracting questions & boxed answers via BookletExtractor...")
+        booklet_extractor = BookletExtractor(str(pdf_file), exam_name=cleaned_exam_name)
+        extracted_questions, total_pages = booklet_extractor.extract_questions()
+        total_blocks_count = len(extracted_questions)
+        telugu_discarded = 0
+        print(f"Extracted {len(extracted_questions)} questions.")
 
-        if detected_answers:
-            answers_detected_count += 1
+        print("Classifying topics...")
+        for q in extracted_questions:
+            if q.answer:
+                answers_detected_count += 1
+            topic, scores = topic_classifier.classify(q.question_text, q.options)
+            q.topic = topic
+            q.topic_scores = scores
+            topic_distribution[topic] = topic_distribution.get(topic, 0) + 1
+            structured_questions.append(q)
+    else:
+        print("Detected Online CBT format.")
+        extractor = PDFExtractor(str(pdf_file))
+        raw_blocks, total_pages = extractor.extract()
 
-        opts_dict = {str(opt.number): opt.text for opt in parsed_opts}
-        topic, scores = topic_classifier.classify(q_text, opts_dict)
-        topic_distribution[topic] = topic_distribution.get(topic, 0) + 1
+        print("Extracting questions...")
+        total_blocks_count = len(raw_blocks)
+        print(f"Detected {total_blocks_count} question blocks.")
 
-        all_issues = parse_issues + ans_issues
+        lang_detector = LanguageDetector()
+        english_blocks, telugu_discarded, anomalies = lang_detector.filter_language(raw_blocks)
 
-        q = Question(
-            question_number=block.qnum,
-            page_number=block.page_number,
-            question_text=q_text,
-            options=opts_dict,
-            answer=detected_answers,
-            topic=topic,
-            review_issues=all_issues,
-            topic_scores=scores,
-            exam=cleaned_exam_name,
-        )
-        structured_questions.append(q)
+        print(f"Retaining {len(english_blocks)} English questions.")
+        print(f"Discarded {telugu_discarded} Telugu duplicates.")
+
+        print("Detecting answers...")
+        print("Classifying topics...")
+        question_parser = QuestionParser()
+        answer_detector = AnswerDetector()
+        ocr_extractor = LocalOcrExtractor()
+
+        for block in english_blocks:
+            q_text, parsed_opts, parse_issues = question_parser.parse_block(block)
+
+            # Fallback to local RapidOCR strictly when question text or options could not be extracted (or options are blank image options)
+            has_empty_options = len(parsed_opts) == 0 or all(not opt.text.strip() for opt in parsed_opts)
+            if (not q_text.strip() or has_empty_options):
+                print(f"  [Local OCR Fallback] Question {block.qnum} has missing text/options. Extracting via RapidOCR...")
+                vis_text, vis_opts, vis_ans = ocr_extractor.extract(block)
+                if vis_text or vis_opts:
+                    if vis_text:
+                        q_text = vis_text
+                    opts_dict = vis_opts
+                    detected_answers = vis_ans
+                    ans_issues = []
+                    # Clear option/marker failure warnings from parse_issues since vision extracted them
+                    parse_issues = [
+                        i for i in parse_issues
+                        if "No options" not in i and "marker in question block" not in i and "Only " not in i
+                    ]
+                else:
+                    detected_answers, ans_issues = answer_detector.detect_answers(parsed_opts)
+                    opts_dict = {str(opt.number): opt.text for opt in parsed_opts}
+            else:
+                detected_answers, ans_issues = answer_detector.detect_answers(parsed_opts)
+                opts_dict = {str(opt.number): opt.text for opt in parsed_opts}
+
+            if detected_answers:
+                answers_detected_count += 1
+
+            topic, scores = topic_classifier.classify(q_text, opts_dict)
+            topic_distribution[topic] = topic_distribution.get(topic, 0) + 1
+
+            all_issues = parse_issues + ans_issues
+
+            q = Question(
+                question_number=block.qnum,
+                page_number=block.page_number,
+                question_text=q_text,
+                options=opts_dict,
+                answer=detected_answers,
+                topic=topic,
+                review_issues=all_issues,
+                topic_scores=scores,
+                exam=cleaned_exam_name,
+            )
+            structured_questions.append(q)
 
     # Markdown rendering
     print("Generating Markdown...")

@@ -21,6 +21,13 @@ class RawQuestionBlock:
     page_number: int
     header_text: str
     lines: List[RawLine] = field(default_factory=list)
+    pdf_path: str = ""
+    bbox: Tuple[float, float, float, float] = (0.0, 0.0, 0.0, 0.0)
+    has_images: bool = False
+    end_page_number: int = 0
+    end_y: float = 0.0
+    content_page_number: int = 0
+    content_start_y: float = 0.0
 
 @dataclass
 class ParsedOption:

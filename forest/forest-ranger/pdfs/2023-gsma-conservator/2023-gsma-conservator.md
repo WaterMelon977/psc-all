@@ -188,979 +188,6 @@
 
 ---
 
-# Logical Reasoning and Analytical Ability
-
-## Question 82
-
-**Topic:** Logical Reasoning and Analytical Ability
-
-### Question
-
-From the given pairs, choose the correctly matched pair. Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.
-
-### Options
-
-1. Indus - Arabian Sea
-2. Mahanadi - Bay of Bengal
-3. Vaigai - Bay of Bengal
-4. Thamirabarani - Gulf of Mannar
-
-### Answer
-
-> **Answer: None**
-
-### Exam
-
-conservator-2023
-
----
-
-## Question 111
-
-**Topic:** Logical Reasoning and Analytical Ability
-
-### Question
-
-### Options
-
-1.
-2.
-3.
-4.
-
-### Answer
-
-> **Answer: 3**
-
-### Exam
-
-conservator-2023
-
----
-
-## Question 112
-
-**Topic:** Logical Reasoning and Analytical Ability
-
-### Question
-
-### Options
-
-1.
-2.
-3.
-4.
-
-### Answer
-
-> **Answer: 1**
-
-### Exam
-
-conservator-2023
-
----
-
-## Question 113
-
-**Topic:** Logical Reasoning and Analytical Ability
-
-### Question
-
-### Options
-
-1.
-2.
-3.
-4.
-
-### Answer
-
-> **Answer: 2**
-
-### Exam
-
-conservator-2023
-
----
-
-## Question 114
-
-**Topic:** Logical Reasoning and Analytical Ability
-
-### Question
-
-### Options
-
-1.
-2.
-3.
-4.
-
-### Answer
-
-> **Answer: 2**
-
-### Exam
-
-conservator-2023
-
----
-
-## Question 115
-
-**Topic:** Logical Reasoning and Analytical Ability
-
-### Question
-
-### Options
-
-1.
-2.
-3.
-4.
-
-### Answer
-
-> **Answer: 4**
-
-### Exam
-
-conservator-2023
-
----
-
-## Question 116
-
-**Topic:** Logical Reasoning and Analytical Ability
-
-### Question
-
-### Options
-
-1.
-2.
-3.
-4.
-
-### Answer
-
-> **Answer: 3**
-
-### Exam
-
-conservator-2023
-
----
-
-## Question 117
-
-**Topic:** Logical Reasoning and Analytical Ability
-
-### Question
-
-### Options
-
-1.
-2.
-3.
-4.
-
-### Answer
-
-> **Answer: 1**
-
-### Exam
-
-conservator-2023
-
----
-
-## Question 118
-
-**Topic:** Logical Reasoning and Analytical Ability
-
-### Question
-
-### Options
-
-1.
-2.
-3.
-4.
-
-### Answer
-
-> **Answer: 2**
-
-### Exam
-
-conservator-2023
-
----
-
-## Question 119
-
-**Topic:** Logical Reasoning and Analytical Ability
-
-### Question
-
-### Options
-
-1.
-2.
-3.
-4.
-
-### Answer
-
-> **Answer: 1**
-
-### Exam
-
-conservator-2023
-
----
-
-## Question 120
-
-**Topic:** Logical Reasoning and Analytical Ability
-
-### Question
-
-### Options
-
-1.
-2.
-3.
-4.
-
-### Answer
-
-> **Answer: 4**
-
-### Exam
-
-conservator-2023
-
----
-
-## Question 121
-
-**Topic:** Logical Reasoning and Analytical Ability
-
-### Question
-
-### Options
-
-1.
-2.
-3.
-4.
-
-### Answer
-
-> **Answer: 2**
-
-### Exam
-
-conservator-2023
-
----
-
-## Question 122
-
-**Topic:** Logical Reasoning and Analytical Ability
-
-### Question
-
-### Options
-
-1.
-2.
-3.
-4.
-
-### Answer
-
-> **Answer: 1**
-
-### Exam
-
-conservator-2023
-
----
-
-## Question 123
-
-**Topic:** Logical Reasoning and Analytical Ability
-
-### Question
-
-### Options
-
-1.
-2.
-3.
-4.
-
-### Answer
-
-> **Answer: 4**
-
-### Exam
-
-conservator-2023
-
----
-
-## Question 124
-
-**Topic:** Logical Reasoning and Analytical Ability
-
-### Question
-
-### Options
-
-1.
-2.
-3.
-4.
-
-### Answer
-
-> **Answer: 2**
-
-### Exam
-
-conservator-2023
-
----
-
-## Question 125
-
-**Topic:** Logical Reasoning and Analytical Ability
-
-### Question
-
-### Options
-
-1.
-2.
-3.
-4.
-
-### Answer
-
-> **Answer: 4**
-
-### Exam
-
-conservator-2023
-
----
-
-## Question 126
-
-**Topic:** Logical Reasoning and Analytical Ability
-
-### Question
-
-### Options
-
-1.
-2.
-3.
-4.
-
-### Answer
-
-> **Answer: 3**
-
-### Exam
-
-conservator-2023
-
----
-
-## Question 127
-
-**Topic:** Logical Reasoning and Analytical Ability
-
-### Question
-
-### Options
-
-1.
-2.
-3.
-4.
-
-### Answer
-
-> **Answer: 1**
-
-### Exam
-
-conservator-2023
-
----
-
-## Question 128
-
-**Topic:** Logical Reasoning and Analytical Ability
-
-### Question
-
-### Options
-
-1.
-2.
-3.
-4.
-
-### Answer
-
-> **Answer: 2**
-
-### Exam
-
-conservator-2023
-
----
-
-## Question 129
-
-**Topic:** Logical Reasoning and Analytical Ability
-
-### Question
-
-### Options
-
-1.
-2.
-3.
-4.
-
-### Answer
-
-> **Answer: 4**
-
-### Exam
-
-conservator-2023
-
----
-
-## Question 130
-
-**Topic:** Logical Reasoning and Analytical Ability
-
-### Question
-
-### Options
-
-1.
-2.
-3.
-4.
-
-### Answer
-
-> **Answer: 3**
-
-### Exam
-
-conservator-2023
-
----
-
-## Question 131
-
-**Topic:** Logical Reasoning and Analytical Ability
-
-### Question
-
-### Options
-
-1.
-2.
-3.
-4.
-
-### Answer
-
-> **Answer: 2**
-
-### Exam
-
-conservator-2023
-
----
-
-## Question 132
-
-**Topic:** Logical Reasoning and Analytical Ability
-
-### Question
-
-### Options
-
-1.
-2.
-3.
-4.
-
-### Answer
-
-> **Answer: 1**
-
-### Exam
-
-conservator-2023
-
----
-
-## Question 133
-
-**Topic:** Logical Reasoning and Analytical Ability
-
-### Question
-
-### Options
-
-1.
-2.
-3.
-4.
-
-### Answer
-
-> **Answer: 2**
-
-### Exam
-
-conservator-2023
-
----
-
-## Question 134
-
-**Topic:** Logical Reasoning and Analytical Ability
-
-### Question
-
-### Options
-
-1.
-2.
-3.
-4.
-
-### Answer
-
-> **Answer: 4**
-
-### Exam
-
-conservator-2023
-
----
-
-## Question 135
-
-**Topic:** Logical Reasoning and Analytical Ability
-
-### Question
-
-### Options
-
-1.
-2.
-3.
-4.
-
-### Answer
-
-> **Answer: 2**
-
-### Exam
-
-conservator-2023
-
----
-
-## Question 136
-
-**Topic:** Logical Reasoning and Analytical Ability
-
-### Question
-
-### Options
-
-1.
-2.
-3.
-4.
-
-### Answer
-
-> **Answer: 4**
-
-### Exam
-
-conservator-2023
-
----
-
-## Question 137
-
-**Topic:** Logical Reasoning and Analytical Ability
-
-### Question
-
-Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.
-
-### Options
-
-1.
-2.
-3.
-4.
-
-### Answer
-
-> **Answer: None**
-
-### Exam
-
-conservator-2023
-
----
-
-## Question 138
-
-**Topic:** Logical Reasoning and Analytical Ability
-
-### Question
-
-Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.
-
-### Options
-
-1.
-2.
-3.
-4.
-
-### Answer
-
-> **Answer: None**
-
-### Exam
-
-conservator-2023
-
----
-
-## Question 139
-
-**Topic:** Logical Reasoning and Analytical Ability
-
-### Question
-
-Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.
-
-### Options
-
-1.
-2.
-3.
-4.
-
-### Answer
-
-> **Answer: None**
-
-### Exam
-
-conservator-2023
-
----
-
-## Question 140
-
-**Topic:** Logical Reasoning and Analytical Ability
-
-### Question
-
-Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.
-
-### Options
-
-1.
-2.
-3.
-4.
-
-### Answer
-
-> **Answer: None**
-
-### Exam
-
-conservator-2023
-
----
-
-## Question 141
-
-**Topic:** Logical Reasoning and Analytical Ability
-
-### Question
-
-Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.
-
-### Options
-
-1.
-2.
-3.
-4.
-
-### Answer
-
-> **Answer: None**
-
-### Exam
-
-conservator-2023
-
----
-
-## Question 142
-
-**Topic:** Logical Reasoning and Analytical Ability
-
-### Question
-
-Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.
-
-### Options
-
-1.
-2.
-3.
-4.
-
-### Answer
-
-> **Answer: None**
-
-### Exam
-
-conservator-2023
-
----
-
-## Question 143
-
-**Topic:** Logical Reasoning and Analytical Ability
-
-### Question
-
-Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.
-
-### Options
-
-1.
-2.
-3.
-4.
-
-### Answer
-
-> **Answer: None**
-
-### Exam
-
-conservator-2023
-
----
-
-## Question 144
-
-**Topic:** Logical Reasoning and Analytical Ability
-
-### Question
-
-Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.
-
-### Options
-
-1.
-2.
-3.
-4.
-
-### Answer
-
-> **Answer: None**
-
-### Exam
-
-conservator-2023
-
----
-
-## Question 145
-
-**Topic:** Logical Reasoning and Analytical Ability
-
-### Question
-
-Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.
-
-### Options
-
-1.
-2.
-3.
-4.
-
-### Answer
-
-> **Answer: None**
-
-### Exam
-
-conservator-2023
-
----
-
-## Question 146
-
-**Topic:** Logical Reasoning and Analytical Ability
-
-### Question
-
-Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.
-
-### Options
-
-1.
-2.
-3.
-4.
-
-### Answer
-
-> **Answer: None**
-
-### Exam
-
-conservator-2023
-
----
-
-## Question 147
-
-**Topic:** Logical Reasoning and Analytical Ability
-
-### Question
-
-Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.
-
-### Options
-
-1.
-2.
-3.
-4.
-
-### Answer
-
-> **Answer: None**
-
-### Exam
-
-conservator-2023
-
----
-
-## Question 148
-
-**Topic:** Logical Reasoning and Analytical Ability
-
-### Question
-
-Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.
-
-### Options
-
-1.
-2.
-3.
-4.
-
-### Answer
-
-> **Answer: None**
-
-### Exam
-
-conservator-2023
-
----
-
-## Question 149
-
-**Topic:** Logical Reasoning and Analytical Ability
-
-### Question
-
-### Options
-
-1.
-2.
-3.
-4.
-
-### Answer
-
-> **Answer: 2**
-
-### Exam
-
-conservator-2023
-
----
-
-## Question 150
-
-**Topic:** Logical Reasoning and Analytical Ability
-
-### Question
-
-Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.
-
-### Options
-
-1.
-2.
-3.
-4.
-
-### Answer
-
-> **Answer: None**
-
-### Exam
-
-conservator-2023
-
----
-
 # Sustainable Development
 
 ## Question 23
@@ -1169,7 +196,7 @@ conservator-2023
 
 ### Question
 
-How many Sustainable Development Goals (SDGs) were adopted by United Nations Organization in the year 2015?
+How many Sustainable Development Goals (**SDGs**) were adopted by United Nations Organization in the year 2015?
 
 ### Options
 
@@ -1194,7 +221,7 @@ conservator-2023
 
 ### Question
 
-Which of the following actions taken by a government can be considered as a step taken towards achievement of Sustainable Development Goals?
+Which of the following actions taken by a government can be considered as a step taken towards achievement of **Sustainable Development Goals**?
 
 ### Options
 
@@ -1219,7 +246,7 @@ conservator-2023
 
 ### Question
 
-Which of the following state has highest potential for wind energy in India (according to Ministry of New and Renewable Energy)?
+Which of the following state has highest **potential for wind energy** in India (according to Ministry of New and Renewable Energy)?
 
 ### Options
 
@@ -1244,7 +271,7 @@ conservator-2023
 
 ### Question
 
-How much amount, the ministry of housing and urban affairs has approved under ‘Garbage free cities’ in Andhra Pradesh in February 2022?
+How much amount, the ministry of housing and urban affairs has approved under **‘Garbage free cities’** in Andhra Pradesh in February 2022?
 
 ### Options
 
@@ -3208,7 +2235,7 @@ conservator-2023
 
 ### Question
 
-Karnataka Chief Minister Basavaraj Bommai Launched a new health and wellness app AAYU to address and heal chronic diseases and lifestyle disorders through ______. Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.
+Karnataka Chief Minister Basavaraj Bommai Launched a new health and wellness app AAYU to address and heal chronic diseases and lifestyle disorders through ______.
 
 ### Options
 
@@ -3258,7 +2285,7 @@ conservator-2023
 
 ### Question
 
-Which of the following is NOT one of the functions of Glucagon?
+Which of the following is NOT one of the functions of **Glucagon**?
 
 ### Options
 
@@ -3287,10 +2314,10 @@ Which of the following is matched INCORRECTLY?
 
 ### Options
 
-1. Protein - Needed for the building of antibodies and immune system cells.
-2. Vitamin A - Helps regulate the immune system and protect the body by keeping skin and tissues in the mouth.
-3. Vitamin C - helps the body build healthy skin.
-4. Zinc - Helps to activate immune cells and properly regulate their function.
+1. **Protein** - Needed for the building of antibodies and immune system cells.
+2. **Vitamin A** - Helps regulate the immune system and protect the body by keeping skin and tissues in the mouth.
+3. **Vitamin C** - helps the body build healthy skin.
+4. **Zinc** - Helps to activate immune cells and properly regulate their function.
 
 ### Answer
 
@@ -3335,7 +2362,7 @@ conservator-2023
 
 ### Question
 
-Who won the World Food Prize 2022?
+Who won the **World Food Prize 2022**?
 
 ### Options
 
@@ -3360,7 +2387,7 @@ conservator-2023
 
 ### Question
 
-Noble prize for the physical modelling of Earth’s climate, quantifying variability and reliably predicting global warming has been awarded to ______.
+**Noble prize** for the physical modelling of Earth’s climate, quantifying variability and reliably predicting global warming has been awarded to ______.
 
 ### Options
 
@@ -3385,7 +2412,7 @@ conservator-2023
 
 ### Question
 
-Where was the UN Climate Change Conference (COP26) held?
+Where was the **UN Climate Change Conference (COP26)** held?
 
 ### Options
 
@@ -3410,7 +2437,7 @@ conservator-2023
 
 ### Question
 
-Where the Commonwealth Games 2022 held?
+Where the **Commonwealth Games 2022** held?
 
 ### Options
 
@@ -3435,7 +2462,7 @@ conservator-2023
 
 ### Question
 
-Where is India's first Agriculture Export Facilitation Centre (AFEC) established in May 2021?
+Where is India's first **Agriculture Export Facilitation Centre (AFEC)** established in May 2021?
 
 ### Options
 
@@ -3460,7 +2487,7 @@ conservator-2023
 
 ### Question
 
-On April 13, 2021, the Department of Agriculture, Cooperation and Farmers Welfare, entered into a Memorandum of Understanding (MoU) with which company to start a pilot project (AgriStack) in 100 villages of Uttar Pradesh, Madhya Pradesh, Gujarat, Haryana, Rajasthan and Andhra Pradesh?
+On April 13, 2021, the Department of Agriculture, Cooperation and Farmers Welfare, entered into a Memorandum of Understanding (MoU) with which company to start a pilot project (**AgriStack**) in 100 villages of Uttar Pradesh, Madhya Pradesh, Gujarat, Haryana, Rajasthan and Andhra Pradesh?
 
 ### Options
 
@@ -3485,7 +2512,7 @@ conservator-2023
 
 ### Question
 
-ISRO ‘Human Spaceflight Expo’ at Jawaharlal Nehru Planetarium,2022 is scheduled to be held in Bengaluru on: Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.
+**ISRO ‘Human Spaceflight Expo’** at Jawaharlal Nehru Planetarium,2022 is scheduled to be held in Bengaluru on:
 
 ### Options
 
@@ -3510,7 +2537,7 @@ conservator-2023
 
 ### Question
 
-Who launched the “PM-Ayushman Bharat Health Infrastructure Mission” on October 25, 2021, in Varanasi, Uttar Pradesh?
+Who launched the **“PM-Ayushman Bharat Health Infrastructure Mission”** on October 25, 2021, in Varanasi, Uttar Pradesh?
 
 ### Options
 
@@ -3535,7 +2562,7 @@ conservator-2023
 
 ### Question
 
-MoHUA has launched Swachh Survekshan 2023 under Swachh Bharat Mission Urban 2.0, with the theme of ______.
+MoHUA has launched **Swachh Survekshan 2023** under Swachh Bharat Mission Urban 2.0, with the theme of ______.
 
 ### Options
 
@@ -3560,7 +2587,7 @@ conservator-2023
 
 ### Question
 
-Which of the following state is the winner of Ranji trophy 2022?
+Which of the following state is the winner of **Ranji trophy 2022**?
 
 ### Options
 
@@ -3585,7 +2612,7 @@ conservator-2023
 
 ### Question
 
-Which ministry has launched National Air Sport Policy 2022?
+Which ministry has launched **National Air Sport Policy 2022**?
 
 ### Options
 
@@ -3610,7 +2637,7 @@ conservator-2023
 
 ### Question
 
-In which field Michellee Poonawall received the Shiromani Award at NRI World Summit 2022 in the United Kingdom?
+In which field **Michellee Poonawall** received the **Shiromani Award** at **NRI World Summit 2022** in the United Kingdom?
 
 ### Options
 
@@ -3635,7 +2662,7 @@ conservator-2023
 
 ### Question
 
-Who of the following is NOT the winner of Pulitzer awards in 2022?
+Who of the following is NOT the winner of **Pulitzer awards in 2022**?
 
 ### Options
 
@@ -3660,7 +2687,7 @@ conservator-2023
 
 ### Question
 
-The 31st edition of the Southeast Asian Games was hosted in Hanoi Vietnam in the year 2022. How many participating countries were there in the 31st SEA Games?
+The 31st edition of the **Southeast Asian Games** was hosted in Hanoi Vietnam in the year 2022. How many participating countries were there in the 31st SEA Games?
 
 ### Options
 
@@ -3685,7 +2712,7 @@ conservator-2023
 
 ### Question
 
-What was the time taken by the female sprinter Sifan Hassan When she set a new world record in the 10,000 meters race in the year 2021?
+What was the time taken by the female sprinter **Sifan Hassan** When she set a new world record in the 10,000 meters race in the year 2021?
 
 ### Options
 
@@ -3710,7 +2737,7 @@ conservator-2023
 
 ### Question
 
-The Union Education Minister has launched the reading campaign ‘Padhe Bharat’. The launch of the ______ Days reading Campaign is in alignment with National Education Policy 2020 which lays emphasis on the promotion of joyful reading culture for children by ensuring the availability of age -appropriate reading books for children in local/mother tongue/regional/tribal language.
+The Union Education Minister has launched the reading campaign **‘Padhe Bharat’**. The launch of the ______ Days reading Campaign is in alignment with **National Education Policy 2020** which lays emphasis on the promotion of joyful reading culture for children by ensuring the availability of age -appropriate reading books for children in local/mother tongue/regional/tribal language.
 
 ### Options
 
@@ -3735,7 +2762,7 @@ conservator-2023
 
 ### Question
 
-Who has become the first athlete to complete the race in less than nine minutes in the women’s 3000m race event in 2022?
+Who has become the first athlete to complete the race in less than nine minutes in the **women’s 3000m race event** in 2022?
 
 ### Options
 
@@ -3760,7 +2787,7 @@ conservator-2023
 
 ### Question
 
-Which of the following is NOT related to the Khelo India Programme?
+Which of the following is NOT related to the **Khelo India Programme**?
 
 ### Options
 
@@ -3785,7 +2812,7 @@ conservator-2023
 
 ### Question
 
-In August 2015 Tata Trust signed a Mou with the Andhra Pradesh Government to develop 264 villages in Vijayawada Lok Sabha constituency to work. Which of the following works is NOT related to Tata Trust to the development plan?
+In August 2015 **Tata Trust signed a Mou with the Andhra Pradesh Government** to develop 264 villages in Vijayawada Lok Sabha constituency to work. Which of the following works is NOT related to Tata Trust to the development plan?
 
 ### Options
 
@@ -3835,7 +2862,7 @@ conservator-2023
 
 ### Question
 
-What is the amount approved by the ministry of housing and urban affairs for dumpsite restoration in the state of Andhra Pradesh under the ‘Garbage Free Cities’ Scheme?
+What is the amount approved by the ministry of housing and urban affairs for dumpsite restoration in the state of Andhra Pradesh under the **‘Garbage Free Cities’ Scheme**?
 
 ### Options
 
@@ -3860,7 +2887,7 @@ conservator-2023
 
 ### Question
 
-Which of the following is NOT the eligibility criterion to apply for YSR Cheyutha Scheme?
+Which of the following is NOT the eligibility criterion to apply for **YSR Cheyutha Scheme**?
 
 ### Options
 
@@ -3885,7 +2912,7 @@ conservator-2023
 
 ### Question
 
-In February 2021, the state government approved ______ new Employees ‘state Insurance hospital. Of these, construction of a 100 -bed ESI hospital in Vizianagaram is estimated to be completed by March 2023.
+In February 2021, the state government approved ______ new **Employees ‘state Insurance hospital**. Of these, construction of a 100 -bed ESI hospital in Vizianagaram is estimated to be completed by March 2023.
 
 ### Options
 

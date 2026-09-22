@@ -3,7 +3,7 @@ from typing import List, Tuple, Dict
 from src.models import RawQuestionBlock, ParsedOption, RawLine, RawSpan
 
 METADATA_PATTERNS = [
-    re.compile(r"^(?:None\s+)?(?:Response\s+Time|Think\s+Time|Minimum\s+Instruction\s+Time|Maximum\s+Instruction\s+Time|Instruction\s+Time|Calculator|Correct\s+Marks|Wrong\s+Marks|Question\s+Number|Question\s+Id|Question\s+Type|Is\s+Question\s+Mandatory)\s*:", re.IGNORECASE),
+    re.compile(r"^(?:None\s+)?(?:Response\s+Time|Think\s+Time|Minimum\s+Instruction\s+Time|Maximum\s+Instruction\s+Time|Instruction\s+Time|Calculator|Correct\s+Marks|Wrong\s+Marks|Question\s+Number|Question\s+Id|Question\s+Type|Is\s+Question\s+Mandatory|Question\s+Mandatory|Option\s+Shuffling|Display\s+Question\s+Number|Single\s+Line\s+Question\s+Option|Negative\s+Marks\s+Display\s+Text|Option\s+Orientation)\s*:", re.IGNORECASE),
     re.compile(r"^None\s+(?:Response|Think|Minimum|Instruction|Correct|Wrong|Calculator)", re.IGNORECASE),
     re.compile(r"^Instruction\s+Time\s*:\s*\d+", re.IGNORECASE),
     re.compile(r"^(?:N\.A\.?\s+)?(?:Minimum\s+)?Instruction\s+Time\s*:\s*\d+", re.IGNORECASE),
