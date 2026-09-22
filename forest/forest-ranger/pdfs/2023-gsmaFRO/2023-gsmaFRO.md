@@ -3432,7 +3432,7 @@ FRO-2023
 
 ### Question
 
-Defence Minister Rajnath Singh addressed the strategically significant India-________ Army Chiefs’ Conclave in Pune on 28 March 2023.
+**Defence Minister Rajnath Singh** addressed the strategically significant India-________ Army Chiefs’ Conclave in Pune on 28 March 2023.
 
 ### Options
 
@@ -3457,7 +3457,7 @@ FRO-2023
 
 ### Question
 
-Which of the following statements is NOT correct with reference to iDEX?
+Which of the following statements is NOT correct with reference to **iDEX**?
 
 ### Options
 
@@ -3507,7 +3507,14 @@ FRO-2023
 
 ### Question
 
-Read the given statement and conclusions carefully. Select the correct option based on the full form of the abbreviation SATHI. Statement: The Department of Science and Technology has launched a unique scheme called SATHI. Conclusions: i. SATHI will address the problems of accessibility, maintenance, redundancy and duplication of expensive equipment in the institutions. ii. SATHI will also foster a strong culture of collaboration between institutions and across disciplines to take advantage of developments, innovations and expertise in diverse areas.
+Read the given statement and conclusions carefully. Select the correct option based on the full form of the abbreviation **SATHI**.
+
+**Statement**:
+The Department of Science and Technology has launched a unique scheme called SATHI.
+
+**Conclusions**:
+i. SATHI will address the problems of accessibility, maintenance, redundancy and duplication of expensive equipment in the institutions.
+ii. SATHI will also foster a strong culture of collaboration between institutions and across disciplines to take advantage of developments, innovations and expertise in diverse areas.
 
 ### Options
 
@@ -3532,7 +3539,7 @@ FRO-2023
 
 ### Question
 
-Which of the following is NOT the correct full form of INSPIRE and its components?
+Which of the following is NOT the correct full form of **INSPIRE** and its components?
 
 ### Options
 
@@ -3557,7 +3564,7 @@ FRO-2023
 
 ### Question
 
-Which of the following institutions have joined hands for JIGYASA – Student-Scientist Connect Programme connecting school students and scientists so as to extend student’s classroom learning with that of a very well planned research laboratory-based learning?
+Which of the following institutions have joined hands for **JIGYASA** – Student-Scientist Connect Programme connecting school students and scientists so as to extend student’s classroom learning with that of a very well planned research laboratory-based learning?
 
 ### Options
 
@@ -3582,7 +3589,7 @@ FRO-2023
 
 ### Question
 
-According to a report published by the National Survey of India, which of the following statements is NOT correct with reference to literacy in India, as of 2023?
+According to a report published by the National Survey of India, which of the following statements is NOT correct with reference to **literacy in India**, as of 2023?
 
 ### Options
 
@@ -3607,7 +3614,7 @@ FRO-2023
 
 ### Question
 
-A ________, spearheaded by Nikhat Zareen and Lovlina Borgohain, will represent India at the Asian Games 2023, which will be held in Hangzhou, China, from 23 September to 8 October this year.
+A ________, spearheaded by **Nikhat Zareen** and **Lovlina Borgohain**, will represent India at the **Asian Games 2023**, which will be held in Hangzhou, China, from 23 September to 8 October this year.
 
 ### Options
 
@@ -3632,7 +3639,7 @@ FRO-2023
 
 ### Question
 
-Karthik Reddy Arabandi from Tirupati won gold in the 14-15-year age group category at the X Commonwealth ________ Championships held at the University of Birmingham in the United Kingdom (UK) in September 2022.
+**Karthik Reddy Arabandi** from Tirupati won gold in the 14-15-year age group category at the **X Commonwealth** ________ Championships held at the University of Birmingham in the United Kingdom (UK) in September 2022.
 
 ### Options
 
@@ -3657,7 +3664,7 @@ FRO-2023
 
 ### Question
 
-Pullela Gopichand won his National Badminton Championship _____ times in a row.
+**Pullela Gopichand** won his National Badminton Championship _____ times in a row.
 
 ### Options
 
@@ -3682,7 +3689,7 @@ FRO-2023
 
 ### Question
 
-When will the Dr YSR Memorial International Run 2023, a run for the cause of those who cannot be held at Vishakhapatnam?
+When will the **Dr YSR Memorial International Run 2023**, a run for the cause of those who cannot be held at Vishakhapatnam?
 
 ### Options
 
@@ -3707,7 +3714,7 @@ FRO-2023
 
 ### Question
 
-Who was the first Indian woman to have won an Olympic medal in badminton?
+Who was the first Indian woman to have won an **Olympic medal in badminton**?
 
 ### Options
 
@@ -3732,7 +3739,10 @@ FRO-2023
 
 ### Question
 
-Which of the following statements is/are correct with reference to Sports Authority of Andhra Pradesh? I. SAAP decided to request the government to effect registration, recognition and regulation of sports associations as per the Sports Act 2022. II. SAAP approved the new sports policy 2022-32 in 2022.
+Which of the following statements is/are correct with reference to **Sports Authority of Andhra Pradesh**?
+
+I. SAAP decided to request the government to effect registration, recognition and regulation of sports associations as per the Sports Act 2022.
+II. SAAP approved the new sports policy 2022-32 in 2022.
 
 ### Options
 
@@ -3757,7 +3767,7 @@ FRO-2023
 
 ### Question
 
-When will the Hyderabad Juniorthon 2023 be held?
+When will the **Hyderabad Juniorthon 2023** be held?
 
 ### Options
 
@@ -3782,7 +3792,7 @@ FRO-2023
 
 ### Question
 
-Jyothi Yarraji of Andhra Pradesh won _____ at the National Games 2022 in Gujarat.
+**Jyothi Yarraji of Andhra Pradesh** won _____ at the National Games 2022 in Gujarat.
 
 ### Options
 
@@ -3807,7 +3817,7 @@ FRO-2023
 
 ### Question
 
-When was Ayushman Bharat Health Infrastructure Mission launched by PM Narendra Modi?
+When was **Ayushman Bharat Health Infrastructure Mission** launched by PM Narendra Modi?
 
 ### Options
 
@@ -3832,7 +3842,7 @@ FRO-2023
 
 ### Question
 
-In which year was the Pradhan Mantri Surakshit Matritva Abhiyan (PMSMA) launched by the Government of India to provide assured, comprehensive and quality antenatal care, free of cost, universally to all pregnant women on the 9th of every month?
+In which year was the **Pradhan Mantri Surakshit Matritva Abhiyan (PMSMA)** launched by the Government of India to provide assured, comprehensive and quality antenatal care, free of cost, universally to all pregnant women on the 9th of every month?
 
 ### Options
 
@@ -3857,7 +3867,7 @@ FRO-2023
 
 ### Question
 
-What is the rank of India among 191 countries in the Human Development Index report 2022 released by United Nations Development Program (UNDP)?
+What is the rank of India among 191 countries in the **Human Development Index report 2022** released by **United Nations Development Program (UNDP)**?
 
 ### Options
 
@@ -3882,7 +3892,7 @@ FRO-2023
 
 ### Question
 
-On the birth anniversary of which national leader did the Prime Minister Narendra Modi launch Saansad Adarsh Gram Yojana (SAGY) in 2014?
+On the birth anniversary of which national leader did the Prime Minister Narendra Modi launch **Saansad Adarsh Gram Yojana (SAGY)** in 2014?
 
 ### Options
 
