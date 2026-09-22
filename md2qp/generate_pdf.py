@@ -1,26 +1,30 @@
-﻿import os
+import os
 import re
 from reportlab.lib.pagesizes import A4
 from reportlab.lib import colors
 from reportlab.platypus import (
-    Paragraph, Spacer, HRFlowable, Table, TableStyle, KeepTogether, BaseDocTemplate, PageTemplate, Frame
+    Paragraph, Spacer, HRFlowable, Table, TableStyle, KeepTogether,
+    BaseDocTemplate, PageTemplate, Frame
 )
 from reportlab.lib.styles import ParagraphStyle
 from reportlab.pdfgen import canvas
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 
+# ---------------------------------------------------------------------------
+# Font Registration
+# ---------------------------------------------------------------------------
 FONTS_DIR = r'C:\Windows\Fonts'
-font_regular = os.path.join(FONTS_DIR, 'BOOKOS.TTF')
-font_bold = os.path.join(FONTS_DIR, 'BOOKOSB.TTF')
-font_italic = os.path.join(FONTS_DIR, 'BOOKOSI.TTF')
-font_bolditalic = os.path.join(FONTS_DIR, 'BOOKOSBI.TTF')
+font_regular   = os.path.join(FONTS_DIR, 'BOOKOS.TTF')
+font_bold      = os.path.join(FONTS_DIR, 'BOOKOSB.TTF')
+font_italic    = os.path.join(FONTS_DIR, 'BOOKOSI.TTF')
+font_bolditalic= os.path.join(FONTS_DIR, 'BOOKOSBI.TTF')
 
 if os.path.exists(font_regular) and os.path.exists(font_bold):
-    pdfmetrics.registerFont(TTFont('Bookman', font_regular))
-    pdfmetrics.registerFont(TTFont('Bookman-Bold', font_bold))
+    pdfmetrics.registerFont(TTFont('Bookman',          font_regular))
+    pdfmetrics.registerFont(TTFont('Bookman-Bold',     font_bold))
     FONT_REGULAR = 'Bookman'
-    FONT_BOLD = 'Bookman-Bold'
+    FONT_BOLD    = 'Bookman-Bold'
     if os.path.exists(font_italic):
         pdfmetrics.registerFont(TTFont('Bookman-Italic', font_italic))
         FONT_ITALIC = 'Bookman-Italic'
@@ -33,75 +37,112 @@ if os.path.exists(font_regular) and os.path.exists(font_bold):
         FONT_BOLDITALIC = 'Bookman-Bold'
     pdfmetrics.registerFontFamily(
         'Bookman',
-        normal='Bookman',
-        bold='Bookman-Bold',
-        italic=FONT_ITALIC,
-        boldItalic=FONT_BOLDITALIC
+        normal='Bookman', bold='Bookman-Bold',
+        italic=FONT_ITALIC, boldItalic=FONT_BOLDITALIC
     )
 else:
-    FONT_REGULAR = 'Times-Roman'
-    FONT_BOLD = 'Times-Bold'
-    FONT_ITALIC = 'Times-Italic'
+    FONT_REGULAR    = 'Times-Roman'
+    FONT_BOLD       = 'Times-Bold'
+    FONT_ITALIC     = 'Times-Italic'
     FONT_BOLDITALIC = 'Times-BoldItalic'
     pdfmetrics.registerFontFamily(
         'Times-Roman',
-        normal='Times-Roman',
-        bold='Times-Bold',
-        italic='Times-Italic',
-        boldItalic='Times-BoldItalic'
+        normal='Times-Roman', bold='Times-Bold',
+        italic='Times-Italic', boldItalic='Times-BoldItalic'
     )
 
+# ---------------------------------------------------------------------------
+# Colour palette  (charcoal ink, no blue)
+# ---------------------------------------------------------------------------
+C_INK       = '#111827'   # near-black for all body text
+C_Q_NUM     = '#111827'   # question number (same ink, weight does the work)
+C_META      = '#9CA3AF'   # light gray for exam tag, footer
+C_DIVIDER   = '#D1D5DB'   # single light-gray rule after each question
+C_ANS_BG    = '#F3F4F6'   # subtle gray strip behind answer
+C_ANS_TEXT  = '#111827'   # answer text: dark charcoal, bold
+C_HDR_BG    = '#1E293B'   # topic header background (dark charcoal)
+C_HDR_ACC   = '#6B7280'   # topic header left-accent stripe (slate, not blue)
+C_TOPIC_TXT = '#FFFFFF'   # topic header white text
+C_TBL_HDR   = '#1E293B'   # match-table header row bg
+C_TBL_Z1    = '#FFFFFF'   # table zebra row 1
+C_TBL_Z2    = '#F9FAFB'   # table zebra row 2
 
-def _derive_header_title(md_path):
-    """[#2] Derive running header title from markdown filename."""
+
+# ---------------------------------------------------------------------------
+# Utility: derive header title from filename
+# ---------------------------------------------------------------------------
+def _derive_header_title(md_path, header_override=None):
+    if header_override:
+        return header_override
+
     base = os.path.splitext(os.path.basename(md_path))[0]
     parts = base.replace('_', '-').split('-')
-    parts_clean = [p.upper() for p in parts if p]
-    title_core = ' '.join(parts_clean)
-    return f"APPSC {title_core} - Topic-wise Question Bank"
+    title_core = ' '.join(p.upper() for p in parts if p)
+    return f" {title_core}  \u2013  "
 
 
+# ---------------------------------------------------------------------------
+# Numbered canvas: header, column divider, quiet footer
+# ---------------------------------------------------------------------------
 class NumberedCanvas(canvas.Canvas):
-    """Two-pass canvas for running header, vertical divider, page numbers."""
-    def __init__(self, *args, header_title="APPSC - Topic-wise Question Bank", **kwargs):
-        super(NumberedCanvas, self).__init__(*args, **kwargs)
+    """Two-pass canvas: header, column divider, 'Page X \u00b7 Y' footer."""
+
+    def __init__(self, *args, header_title="APPSC \u2013 Topic-wise Question Bank",
+                 outer_margin=42.0, **kwargs):
+        super().__init__(*args, **kwargs)
         self._saved_page_states = []
         self._header_title = header_title
+        self._outer_margin  = outer_margin
 
     def showPage(self):
         self._saved_page_states.append(dict(self.__dict__))
         self._startPage()
 
     def save(self):
-        num_pages = len(self._saved_page_states)
+        n = len(self._saved_page_states)
         for state in self._saved_page_states:
             self.__dict__.update(state)
-            self.draw_decorations(num_pages)
+            self._draw_page(n)
             canvas.Canvas.showPage(self)
         canvas.Canvas.save(self)
 
-    def draw_decorations(self, total_pages):
+    def _draw_page(self, total):
         self.saveState()
-        page_w, page_h = A4
-        margin = 32.0
-        self.setFont(FONT_REGULAR, 8.5)
-        self.setFillColor(colors.HexColor('#1E293B'))
-        self.drawString(margin, page_h - 25, self._header_title)
-        self.setLineWidth(0.6)
-        self.setStrokeColor(colors.HexColor('#64748B'))
-        self.line(margin, page_h - 29, page_w - margin, page_h - 29)
+        pw, ph = A4
+        m = self._outer_margin
+
+        # --- Header text (small, charcoal) ---
+        self.setFont(FONT_REGULAR, 8.0)
+        self.setFillColor(colors.HexColor('#374151'))
+        self.drawString(m, ph - 24, self._header_title)
+
+        # --- Thin gray rule under header ---
         self.setLineWidth(0.4)
-        self.setStrokeColor(colors.HexColor('#94A3B8'))
-        self.line(page_w / 2.0, 32, page_w / 2.0, page_h - 35)
-        self.setLineWidth(0.4)
-        self.setStrokeColor(colors.HexColor('#CBD5E1'))
-        self.line(margin, 28, page_w - margin, 28)
-        self.setFont(FONT_REGULAR, 8.5)
-        self.setFillColor(colors.HexColor('#334155'))
-        self.drawCentredString(page_w / 2.0, 16, f"Page {self._pageNumber} of {total_pages}")
+        self.setStrokeColor(colors.HexColor(C_DIVIDER))
+        self.line(m, ph - 28, pw - m, ph - 28)
+
+        # --- Central column divider (light gray) ---
+        self.setLineWidth(0.3)
+        self.setStrokeColor(colors.HexColor(C_DIVIDER))
+        self.line(pw / 2.0, 34, pw / 2.0, ph - 34)
+
+        # --- Footer: thin rule + "Page X \u00b7 Y" ---
+        self.setLineWidth(0.3)
+        self.setStrokeColor(colors.HexColor(C_DIVIDER))
+        self.line(m, 30, pw - m, 30)
+
+        self.setFont(FONT_REGULAR, 7.5)
+        self.setFillColor(colors.HexColor(C_META))
+        self.drawCentredString(
+            pw / 2.0, 17,
+            f"{self._pageNumber}/{total}"
+        )
         self.restoreState()
 
 
+# ---------------------------------------------------------------------------
+# Markdown parser
+# ---------------------------------------------------------------------------
 def parse_markdown_questions(md_path):
     with open(md_path, 'r', encoding='utf-8') as f:
         text = f.read()
@@ -112,76 +153,71 @@ def parse_markdown_questions(md_path):
         for line in idx_match.group(1).split('\n'):
             line = line.strip()
             if line.startswith('### '):
-                t_name = line.replace('### ', '').strip()
-                if t_name and t_name not in topic_order:
-                    topic_order.append(t_name)
+                t = line.replace('### ', '').strip()
+                if t and t not in topic_order:
+                    topic_order.append(t)
 
     q_blocks = re.split(r'## Question (\d+)', text)
     questions = []
     ans_map = {'1': 'A', '2': 'B', '3': 'C', '4': 'D'}
 
     for i in range(1, len(q_blocks), 2):
-        q_num = int(q_blocks[i])
-        q_body = q_blocks[i+1]
+        q_num  = int(q_blocks[i])
+        q_body = q_blocks[i + 1]
 
-        t_match = re.search(r'\*\*Topic:\*\*\s*(.+)', q_body)
-        topic = t_match.group(1).strip() if t_match else 'General'
+        t_m   = re.search(r'\*\*Topic:\*\*\s*(.+)', q_body)
+        topic = t_m.group(1).strip() if t_m else 'General'
 
-        q_match = re.search(r'### Question\s*\n\s*(.*?)\s*### Options', q_body, re.DOTALL)
-        raw_q_text = q_match.group(1).strip() if q_match else ''
+        q_m       = re.search(r'### Question\s*\n\s*(.*?)\s*### Options',  q_body, re.DOTALL)
+        raw_q     = q_m.group(1).strip() if q_m else ''
 
-        o_match = re.search(r'### Options\s*\n\s*(.*?)\s*### Answer', q_body, re.DOTALL)
-        raw_o_text = o_match.group(1).strip() if o_match else ''
+        o_m       = re.search(r'### Options\s*\n\s*(.*?)\s*### Answer',    q_body, re.DOTALL)
+        raw_o     = o_m.group(1).strip() if o_m else ''
 
-        a_match = re.search(r'### Answer\s*\n\s*>\s*\*\*Answer:\s*(.*?)\*\*', q_body, re.DOTALL)
-        raw_ans = a_match.group(1).strip() if a_match else ''
+        a_m       = re.search(r'### Answer\s*\n\s*>\s*\*\*Answer:\s*(.*?)\*\*', q_body, re.DOTALL)
+        raw_ans   = a_m.group(1).strip() if a_m else ''
 
-        e_match = re.search(r'### Exam\s*\n\s*(.*?)(?=\n---|\n##|\Z)', q_body, re.DOTALL)
-        raw_exam = e_match.group(1).strip() if e_match else ''
-        clean_exam = raw_exam.replace('-', ' ')
-        clean_exam = re.sub(r'\s+', ' ', clean_exam).strip()
+        e_m       = re.search(r'### Exam\s*\n\s*(.*?)(?=\n---|\n##|\Z)',   q_body, re.DOTALL)
+        raw_exam  = e_m.group(1).strip() if e_m else ''
+        clean_exam = re.sub(r'\s+', ' ', raw_exam.replace('-', ' ')).strip()
 
         note = ''
-        if 'Note:' in raw_o_text:
-            parts = raw_o_text.split('Note:')
-            raw_o_text = parts[0].strip()
-            n_text = parts[1].strip()
-            if n_text:
-                note = f'Note: {n_text}'
+        if 'Note:' in raw_o:
+            parts = raw_o.split('Note:')
+            raw_o = parts[0].strip()
+            if parts[1].strip():
+                note = f'Note: {parts[1].strip()}'
 
         opts = {}
         if q_num == 24:
             opts = {'A': '', 'B': '78%', 'C': '8.89%', 'D': '9.62%'}
         else:
-            opt_matches = list(re.finditer(r'(?:^|\n)\s*([1-4])\.\s*(.*?)(?=(?:\n\s*[1-4]\.|\Z))', raw_o_text, re.DOTALL))
-            for om in opt_matches:
-                digit = om.group(1)
-                letter = ans_map.get(digit, digit)
-                val = om.group(2).strip()
-                val = re.sub(r'\s+', ' ', val)
-                opts[letter] = val
+            for om in re.finditer(
+                r'(?:^|\n)\s*([1-4])\.\s*(.*?)(?=(?:\n\s*[1-4]\.|\Z))',
+                raw_o, re.DOTALL
+            ):
+                letter = ans_map.get(om.group(1), om.group(1))
+                opts[letter] = re.sub(r'\s+', ' ', om.group(2).strip())
 
         if not raw_ans or raw_ans.lower() == 'none':
             ans_display = 'None'
         else:
             tokens = [t.strip() for t in raw_ans.split(',')]
-            ans_display = ', '.join([f'({ans_map.get(t, t)})' for t in tokens])
+            ans_display = ', '.join(f'({ans_map.get(t, t)})' for t in tokens)
 
-        questions.append({
-            'q_num': q_num,
-            'topic': topic,
-            'q_text': raw_q_text,
-            'options': opts,
-            'raw_ans': raw_ans,
-            'ans_display': ans_display,
-            'exam': clean_exam,
-            'note': note
-        })
+        questions.append(dict(
+            q_num=q_num, topic=topic, q_text=raw_q,
+            options=opts, raw_ans=raw_ans,
+            ans_display=ans_display, exam=clean_exam, note=note
+        ))
 
     return questions, topic_order
 
 
-def clean_markdown_text(text):
+# ---------------------------------------------------------------------------
+# Markdown -> ReportLab HTML helper
+# ---------------------------------------------------------------------------
+def clean_md(text):
     if not text:
         return ''
     text = text.replace('\xa0', ' ')
@@ -192,24 +228,23 @@ def clean_markdown_text(text):
     return text.strip()
 
 
+# ---------------------------------------------------------------------------
+# Match-the-following table builder  (#7 upgraded)
+# ---------------------------------------------------------------------------
 def build_table_flowable(table_text, col_width, styles):
-    """[#7] Markdown table -> ReportLab Table with zebra rows and dark header."""
-    lines = [line.strip() for line in table_text.strip().split('\n') if line.strip()]
+    lines = [l.strip() for l in table_text.strip().split('\n') if l.strip()]
     if len(lines) < 2:
         return None
 
     table_data = []
-    is_header = True
+    is_header  = True
     for line in lines:
         if re.match(r'^\|?[\s\-:|]+\|?$', line):
             is_header = False
             continue
         cells = [c.strip() for c in line.strip('|').split('|')]
-        row = []
-        for cell in cells:
-            clean_c = clean_markdown_text(cell)
-            style_key = 'TableHeader' if is_header else 'TableCell'
-            row.append(Paragraph(clean_c, styles[style_key]))
+        sk = 'TableHeader' if is_header else 'TableCell'
+        row = [Paragraph(clean_md(c), styles[sk]) for c in cells]
         if row:
             table_data.append(row)
         if is_header:
@@ -218,84 +253,97 @@ def build_table_flowable(table_text, col_width, styles):
     if not table_data:
         return None
 
-    num_cols = max(len(r) for r in table_data)
+    nc = max(len(r) for r in table_data)
     for r in table_data:
-        while len(r) < num_cols:
+        while len(r) < nc:
             r.append(Paragraph('', styles['TableCell']))
 
-    cell_w = col_width / float(num_cols)
-    col_widths = [cell_w] * num_cols
+    cw = col_width / float(nc)
+    t  = Table(table_data, colWidths=[cw] * nc)
 
-    t = Table(table_data, colWidths=col_widths)
-    ts_cmds = [
-        ('BOX', (0, 0), (-1, -1), 0.6, colors.HexColor('#475569')),
-        ('INNERGRID', (0, 0), (-1, -1), 0.3, colors.HexColor('#CBD5E1')),
-        ('BACKGROUND', (0, 0), (-1, 0), colors.HexColor('#1E3A5F')),
-        ('TOPPADDING', (0, 0), (-1, -1), 3),
+    cmds = [
+        ('BOX',       (0, 0), (-1, -1), 0.5, colors.HexColor('#9CA3AF')),
+        ('INNERGRID', (0, 0), (-1, -1), 0.3, colors.HexColor(C_DIVIDER)),
+        ('BACKGROUND',(0, 0), (-1,  0), colors.HexColor(C_TBL_HDR)),
+        ('TOPPADDING',    (0, 0), (-1, -1), 3),
         ('BOTTOMPADDING', (0, 0), (-1, -1), 3),
-        ('LEFTPADDING', (0, 0), (-1, -1), 5),
-        ('RIGHTPADDING', (0, 0), (-1, -1), 5),
-        ('VALIGN', (0, 0), (-1, -1), 'MIDDLE'),
+        ('LEFTPADDING',   (0, 0), (-1, -1), 5),
+        ('RIGHTPADDING',  (0, 0), (-1, -1), 5),
+        ('VALIGN',    (0, 0), (-1, -1), 'MIDDLE'),
     ]
-    for row_idx in range(1, len(table_data)):
-        bg = colors.HexColor('#F1F5F9') if row_idx % 2 == 0 else colors.HexColor('#FFFFFF')
-        ts_cmds.append(('BACKGROUND', (0, row_idx), (-1, row_idx), bg))
+    for ri in range(1, len(table_data)):
+        bg = colors.HexColor(C_TBL_Z2) if ri % 2 == 0 else colors.HexColor(C_TBL_Z1)
+        cmds.append(('BACKGROUND', (0, ri), (-1, ri), bg))
 
-    t.setStyle(TableStyle(ts_cmds))
+    t.setStyle(TableStyle(cmds))
     return t
 
 
-_SUBSTATEMENT_PAT = re.compile(
-    r'^(?:[IVX]+\.|[ivx]+\.|[a-zA-Z]\.\s|Statement\s+[IVXivx\d]+|Assertion\s*:|Reason\s*:|\(\s*[ivxIVX\d]+\s*\))',
+# ---------------------------------------------------------------------------
+# Sub-statement detector
+# ---------------------------------------------------------------------------
+_SUB_PAT = re.compile(
+    r'^(?:[IVX]+\.|[ivx]+\.|[a-zA-Z]\.\s|'
+    r'Statement\s+[IVXivx\d]+|Assertion\s*:|Reason\s*:|'
+    r'\(\s*[ivxIVX\d]+\s*\))',
     re.IGNORECASE
 )
 
+def _is_sub(line):
+    return bool(_SUB_PAT.match(line.strip()))
 
-def _is_substatement_line(line):
-    return bool(_SUBSTATEMENT_PAT.match(line.strip()))
 
-
-def render_question_prompt_flowables(q_num, raw_q_text, col_w, styles):
-    """[#1, #5] Question prompt with hanging-indent and sub-statement indentation."""
+# ---------------------------------------------------------------------------
+# Question prompt renderer
+# ---------------------------------------------------------------------------
+def render_question_flowables(q_num, raw_q_text, col_w, styles, Q_HANG):
     flowables = []
     if raw_q_text == '*(No text)*':
         raw_q_text = ''
 
-    table_match = re.search(r'(\|[^\n]+\|\n\|[\s\-:|]+\|\n(?:\|[^\n]+\|\n?)+)', raw_q_text)
+    # Detect embedded markdown table
+    tbl_match = re.search(
+        r'(\|[^\n]+\|\n\|[\s\-:|]+\|\n(?:\|[^\n]+\|\n?)+)', raw_q_text
+    )
     embedded_table = None
-    pre_text = raw_q_text
+    pre_text  = raw_q_text
     post_text = ''
 
-    if table_match:
-        table_str = table_match.group(1)
-        pre_text = raw_q_text[:table_match.start()].strip()
-        post_text = raw_q_text[table_match.end():].strip()
-        embedded_table = build_table_flowable(table_str, col_w - 4, styles)
+    if tbl_match:
+        tbl_str   = tbl_match.group(1)
+        pre_text  = raw_q_text[:tbl_match.start()].strip()
+        post_text = raw_q_text[tbl_match.end():].strip()
+        embedded_table = build_table_flowable(tbl_str, col_w - Q_HANG - 4, styles)
 
-    paragraphs = [p.strip() for p in re.split(r'\n\s*\n', pre_text) if p.strip()] if pre_text else []
+    paras = [p.strip() for p in re.split(r'\n\s*\n', pre_text) if p.strip()] if pre_text else []
 
-    if not paragraphs:
-        flowables.append(Paragraph(f"<b>Q.{q_num}</b>", styles['QPrompt']))
+    # -- First paragraph: Q.<num> inline, bold+larger, rest is regular body weight
+    if not paras:
+        flowables.append(Paragraph(
+            f'<font fontName="{FONT_BOLD}" size="9.5">Q.{q_num}</font>',
+            styles['QPrompt']
+        ))
     else:
-        first_p_lines = [clean_markdown_text(l.strip()) for l in paragraphs[0].split('\n') if l.strip()]
-        first_p_html = f"<b>Q.{q_num}</b>\u00a0\u00a0" + "<br/>".join(first_p_lines)
-        flowables.append(Paragraph(first_p_html, styles['QPrompt']))
+        first_lines = [clean_md(l.strip()) for l in paras[0].split('\n') if l.strip()]
+        q_label     = f'<font fontName="{FONT_BOLD}" size="9.5">Q.{q_num}</font>\u00a0\u00a0'
+        first_html  = q_label + '<br/>'.join(first_lines)
+        flowables.append(Paragraph(first_html, styles['QPrompt']))
 
-        for p in paragraphs[1:]:
-            lines_in_p = [l.strip() for l in p.split('\n') if l.strip()]
-            accumulated = []
-            for line in lines_in_p:
-                if _is_substatement_line(line):
-                    if accumulated:
-                        flowables.append(Spacer(1, 4))
-                        flowables.append(Paragraph("<br/>".join(accumulated), styles['QPromptSub']))
-                        accumulated = []
-                    flowables.append(Paragraph(clean_markdown_text(line), styles['QPromptSubIndent']))
+        for p in paras[1:]:
+            lines = [l.strip() for l in p.split('\n') if l.strip()]
+            buf   = []
+            for line in lines:
+                if _is_sub(line):
+                    if buf:
+                        flowables.append(Spacer(1, 3))
+                        flowables.append(Paragraph('<br/>'.join(buf), styles['QPromptSub']))
+                        buf = []
+                    flowables.append(Paragraph(clean_md(line), styles['QSubIndent']))
                 else:
-                    accumulated.append(clean_markdown_text(line))
-            if accumulated:
-                flowables.append(Spacer(1, 4))
-                flowables.append(Paragraph("<br/>".join(accumulated), styles['QPromptSub']))
+                    buf.append(clean_md(line))
+            if buf:
+                flowables.append(Spacer(1, 3))
+                flowables.append(Paragraph('<br/>'.join(buf), styles['QPromptSub']))
 
     if embedded_table:
         flowables.append(Spacer(1, 5))
@@ -303,278 +351,278 @@ def render_question_prompt_flowables(q_num, raw_q_text, col_w, styles):
         flowables.append(Spacer(1, 5))
 
     if post_text:
-        for p in [p.strip() for p in re.split(r'\n\s*\n', post_text) if p.strip()]:
-            p_lines = [clean_markdown_text(l.strip()) for l in p.split('\n') if l.strip()]
-            flowables.append(Spacer(1, 4))
-            flowables.append(Paragraph("<br/>".join(p_lines), styles['QPromptSub']))
+        for p in [x.strip() for x in re.split(r'\n\s*\n', post_text) if x.strip()]:
+            lines = [clean_md(l.strip()) for l in p.split('\n') if l.strip()]
+            flowables.append(Spacer(1, 3))
+            flowables.append(Paragraph('<br/>'.join(lines), styles['QPromptSub']))
 
     return flowables
 
 
-def generate_topicwise_pdf(md_input_path, pdf_output_path):
+# ---------------------------------------------------------------------------
+# Main PDF generator
+# ---------------------------------------------------------------------------
+def generate_topicwise_pdf(md_input_path, pdf_output_path, header_override=None):
     questions, topic_order = parse_markdown_questions(md_input_path)
+    header_title = _derive_header_title(md_input_path, header_override=header_override)
 
-    # [#2] Dynamic header title
-    header_title = _derive_header_title(md_input_path)
-
+    # Group & order by topic
     topics_dict = {}
     for q in questions:
         topics_dict.setdefault(q['topic'], []).append(q)
-
-    ordered_topics = []
-    for t in topic_order:
-        if t in topics_dict:
-            ordered_topics.append(t)
+    ordered_topics = [t for t in topic_order if t in topics_dict]
     for t in topics_dict:
         if t not in ordered_topics:
             ordered_topics.append(t)
 
+    # ----- Page geometry -----
     page_w, page_h = A4
-    margin = 32.0
-    top_margin = 35.0
-    bottom_margin = 35.0
-    gutter = 14.0
-    content_w = page_w - (margin * 2)
-    col_w = (content_w - gutter) / 2.0
+    MARGIN     = 42.0   # wider outer margin (was 32)
+    TOP_M      = 38.0
+    BOTTOM_M   = 38.0
+    GUTTER     = 16.0
+    content_w  = page_w - MARGIN * 2
+    col_w      = (content_w - GUTTER) / 2.0   # ~244 pt
 
-    # Hanging indent constants
-    Q_HANG = 26.0
-    OPT_HANG = 18.0
+    # Indent constants
+    Q_HANG   = 28.0   # hanging indent for Q. label
+    OPT_IND  = Q_HANG # options align below question body (same left edge)
+    OPT_HANG = 20.0   # hanging for (A)/(B) label within option cell
 
-    styles = {
-        'TopicHeading': ParagraphStyle(
-            'TopicHeading',
-            fontName=FONT_BOLD,
-            fontSize=9.0,
-            leading=12.0,
-            textColor=colors.HexColor('#FFFFFF'),
-            spaceBefore=0,
-            spaceAfter=0
-        ),
-        # [#1] Hanging indent: wrap lines align after "Q.XX  "
-        'QPrompt': ParagraphStyle(
-            'QPrompt',
-            fontName=FONT_REGULAR,
-            fontSize=8.3,
-            leading=11.5,
-            textColor=colors.HexColor('#0F172A'),
-            leftIndent=Q_HANG,
-            firstLineIndent=-Q_HANG,
-            spaceAfter=3
-        ),
-        'QPromptSub': ParagraphStyle(
-            'QPromptSub',
-            fontName=FONT_REGULAR,
-            fontSize=8.3,
-            leading=11.5,
-            textColor=colors.HexColor('#0F172A'),
-            leftIndent=Q_HANG,
-            spaceBefore=0,
-            spaceAfter=3
-        ),
-        # [#5] Sub-statement lines with deeper indent
-        'QPromptSubIndent': ParagraphStyle(
-            'QPromptSubIndent',
-            fontName=FONT_REGULAR,
-            fontSize=8.1,
-            leading=11.0,
-            textColor=colors.HexColor('#1E293B'),
-            leftIndent=Q_HANG + 10,
-            spaceBefore=1,
-            spaceAfter=1
-        ),
-        'TableCell': ParagraphStyle(
-            'TableCell',
-            fontName=FONT_REGULAR,
-            fontSize=7.5,
-            leading=9.5,
-            textColor=colors.HexColor('#1E293B')
-        ),
-        # [#7] Table header row: white text on dark bg
-        'TableHeader': ParagraphStyle(
-            'TableHeader',
-            fontName=FONT_BOLD,
-            fontSize=7.5,
-            leading=9.5,
-            textColor=colors.HexColor('#FFFFFF')
-        ),
-        # [#3] Option text with hanging indent
-        'OptText': ParagraphStyle(
-            'OptText',
-            fontName=FONT_REGULAR,
-            fontSize=8.0,
-            leading=10.8,
-            textColor=colors.HexColor('#1E293B'),
-            leftIndent=OPT_HANG,
-            firstLineIndent=-OPT_HANG,
-        ),
-        # [#4] Answer: navy bold
-        'AnsText': ParagraphStyle(
-            'AnsText',
-            fontName=FONT_BOLD,
-            fontSize=8.0,
-            leading=10.5,
-            textColor=colors.HexColor('#1E3A8A'),
-            spaceBefore=2,
-            spaceAfter=2
-        ),
-        'ExamText': ParagraphStyle(
-            'ExamText',
-            fontName=FONT_BOLD,
-            fontSize=7.2,
-            leading=9.2,
-            alignment=2,
-            textColor=colors.HexColor('#475569'),
-            spaceBefore=2,
-            spaceAfter=2
-        ),
-        'NoteText': ParagraphStyle(
-            'NoteText',
-            fontName=FONT_ITALIC,
-            fontSize=7.2,
-            leading=9.2,
-            textColor=colors.HexColor('#475569'),
-            spaceBefore=1,
-            spaceAfter=2
-        ),
+    # ----- Styles -----
+    def S(name, **kw):
+        return ParagraphStyle(name, **kw)
+
+    ST = {
+        # Topic header: white bold on dark charcoal
+        'TopicHeading': S('TopicHeading',
+            fontName=FONT_BOLD, fontSize=9.0, leading=12.0,
+            textColor=colors.HexColor(C_TOPIC_TXT)),
+
+        # Question number: regular style; Q.<n> inline gets larger bold via font tag
+        'QPrompt': S('QPrompt',
+            fontName=FONT_REGULAR, fontSize=8.5, leading=12.0,
+            textColor=colors.HexColor(C_INK),
+            leftIndent=Q_HANG, firstLineIndent=-Q_HANG,
+            spaceAfter=0),
+
+        # Continuation paragraphs (sub-clauses, multi-para)
+        'QPromptSub': S('QPromptSub',
+            fontName=FONT_REGULAR, fontSize=8.5, leading=12.0,
+            textColor=colors.HexColor(C_INK),
+            leftIndent=Q_HANG, spaceAfter=0),
+
+        # Numbered sub-statements (i. ii. iii. / Roman numerals)
+        'QSubIndent': S('QSubIndent',
+            fontName=FONT_REGULAR, fontSize=8.2, leading=11.5,
+            textColor=colors.HexColor('#374151'),
+            leftIndent=Q_HANG + 12, spaceBefore=1, spaceAfter=1),
+
+        # Option text: body weight, hanging for (A) label
+        'OptText': S('OptText',
+            fontName=FONT_REGULAR, fontSize=8.2, leading=11.0,
+            textColor=colors.HexColor(C_INK),
+            leftIndent=OPT_HANG, firstLineIndent=-OPT_HANG),
+
+        # Answer text: dark charcoal bold (no blue)
+        'AnsText': S('AnsText',
+            fontName=FONT_BOLD, fontSize=8.0, leading=10.5,
+            textColor=colors.HexColor(C_ANS_TEXT)),
+
+        # Exam tag: light gray, right-aligned
+        'ExamText': S('ExamText',
+            fontName=FONT_REGULAR, fontSize=7.5, leading=9.5,
+            alignment=2, textColor=colors.HexColor(C_META)),
+
+        # Note text
+        'NoteText': S('NoteText',
+            fontName=FONT_ITALIC, fontSize=7.2, leading=9.5,
+            textColor=colors.HexColor(C_META)),
+
+        # Match-table cells
+        'TableCell': S('TableCell',
+            fontName=FONT_REGULAR, fontSize=7.5, leading=9.5,
+            textColor=colors.HexColor(C_INK)),
+        'TableHeader': S('TableHeader',
+            fontName=FONT_BOLD, fontSize=7.5, leading=9.5,
+            textColor=colors.HexColor('#FFFFFF')),
     }
 
+    # Helper: wrap any flowable in an indent spacer table
+    def indented(flowable, indent, total_w):
+        t = Table([[Spacer(1, 1), flowable]],
+                  colWidths=[indent, total_w - indent])
+        t.setStyle(TableStyle([
+            ('LEFTPADDING',   (0, 0), (-1, -1), 0),
+            ('RIGHTPADDING',  (0, 0), (-1, -1), 0),
+            ('TOPPADDING',    (0, 0), (-1, -1), 0),
+            ('BOTTOMPADDING', (0, 0), (-1, -1), 0),
+            ('VALIGN',        (0, 0), (-1, -1), 'TOP'),
+        ]))
+        return t
+
+    # ---- Story ----
     story = []
 
     for topic_name in ordered_topics:
         topic_qs = topics_dict[topic_name]
 
-        # [#6] Dark navy topic header with sky-blue left accent stripe
-        p_topic = Paragraph(f"<b>{topic_name.upper()}</b>", styles['TopicHeading'])
-        topic_table = Table([[p_topic]], colWidths=[col_w])
-        topic_table.setStyle(TableStyle([
-            ('BACKGROUND', (0, 0), (-1, -1), colors.HexColor('#1E3A5F')),
-            ('BOX', (0, 0), (-1, -1), 0, colors.HexColor('#1E3A5F')),
-            ('LINEBEFORE', (0, 0), (0, 0), 4.0, colors.HexColor('#38BDF8')),
-            ('TOPPADDING', (0, 0), (-1, -1), 5),
+        # Dark charcoal topic banner with slate left stripe
+        p_topic = Paragraph(f'<b>{topic_name.upper()}</b>', ST['TopicHeading'])
+        topic_tbl = Table([[p_topic]], colWidths=[col_w])
+        topic_tbl.setStyle(TableStyle([
+            ('BACKGROUND',    (0, 0), (-1, -1), colors.HexColor(C_HDR_BG)),
+            ('BOX',           (0, 0), (-1, -1), 0, colors.HexColor(C_HDR_BG)),
+            ('LINEBEFORE',    (0, 0), (0,  0), 4.0, colors.HexColor(C_HDR_ACC)),
+            ('TOPPADDING',    (0, 0), (-1, -1), 5),
             ('BOTTOMPADDING', (0, 0), (-1, -1), 5),
-            ('LEFTPADDING', (0, 0), (-1, -1), 8),
-            ('RIGHTPADDING', (0, 0), (-1, -1), 6),
+            ('LEFTPADDING',   (0, 0), (-1, -1), 9),
+            ('RIGHTPADDING',  (0, 0), (-1, -1), 6),
         ]))
-
-        story.extend([Spacer(1, 7), topic_table, Spacer(1, 7)])
+        story.extend([Spacer(1, 8), topic_tbl, Spacer(1, 8)])
 
         for q in topic_qs:
-            prompt_flowables = render_question_prompt_flowables(
-                q_num=q['q_num'],
-                raw_q_text=q['q_text'],
-                col_w=col_w,
-                styles=styles
+            # 1. Question prompt (Q. number bold 9.5pt; body regular 8.5pt)
+            prompt_fls = render_question_flowables(
+                q['q_num'], q['q_text'], col_w, ST, Q_HANG
             )
 
-            opts = q['options']
-            opt_a = opts.get('A', '')
-            opt_b = opts.get('B', '')
-            opt_c = opts.get('C', '')
-            opt_d = opts.get('D', '')
+            # 2. Options: rigid 2-col grid, indented to align below question body
+            opts   = q['options']
+            opt_a  = opts.get('A', '')
+            opt_b  = opts.get('B', '')
+            opt_c  = opts.get('C', '')
+            opt_d  = opts.get('D', '')
 
-            # [#3] Bold label + hanging indent via OptText
-            label_a = f'<font fontName="{FONT_BOLD}"><b>(A)</b></font>\u00a0'
-            label_b = f'<font fontName="{FONT_BOLD}"><b>(B)</b></font>\u00a0'
-            label_c = f'<font fontName="{FONT_BOLD}"><b>(C)</b></font>\u00a0'
-            label_d = f'<font fontName="{FONT_BOLD}"><b>(D)</b></font>\u00a0'
+            lbl_a = f'<font fontName="{FONT_BOLD}">(A)</font>\u00a0'
+            lbl_b = f'<font fontName="{FONT_BOLD}">(B)</font>\u00a0'
+            lbl_c = f'<font fontName="{FONT_BOLD}">(C)</font>\u00a0'
+            lbl_d = f'<font fontName="{FONT_BOLD}">(D)</font>\u00a0'
 
-            p_a = Paragraph(f"{label_a}{clean_markdown_text(opt_a)}", styles['OptText'])
-            p_b = Paragraph(f"{label_b}{clean_markdown_text(opt_b)}", styles['OptText'])
-            p_c = Paragraph(f"{label_c}{clean_markdown_text(opt_c)}", styles['OptText'])
-            p_d = Paragraph(f"{label_d}{clean_markdown_text(opt_d)}", styles['OptText'])
+            p_a = Paragraph(f'{lbl_a}{clean_md(opt_a)}', ST['OptText'])
+            p_b = Paragraph(f'{lbl_b}{clean_md(opt_b)}', ST['OptText'])
+            p_c = Paragraph(f'{lbl_c}{clean_md(opt_c)}', ST['OptText'])
+            p_d = Paragraph(f'{lbl_d}{clean_md(opt_d)}', ST['OptText'])
 
-            max_opt_len = max(len(opt_a), len(opt_b), len(opt_c), len(opt_d))
+            opts_inner_w  = col_w - OPT_IND - 4
+            max_len = max(len(opt_a), len(opt_b), len(opt_c), len(opt_d))
 
-            if max_opt_len <= 26 and '\n' not in (opt_a + opt_b + opt_c + opt_d):
-                half_w = (col_w - 4) / 2.0
-                t_opts = Table([[p_a, p_b], [p_c, p_d]], colWidths=[half_w, half_w])
+            if max_len <= 26 and '\n' not in (opt_a + opt_b + opt_c + opt_d):
+                hw = opts_inner_w / 2.0
+                t_opts = Table([[p_a, p_b], [p_c, p_d]], colWidths=[hw, hw])
             else:
-                t_opts = Table([[p_a], [p_b], [p_c], [p_d]], colWidths=[col_w - 4])
+                t_opts = Table([[p_a], [p_b], [p_c], [p_d]], colWidths=[opts_inner_w])
 
             t_opts.setStyle(TableStyle([
-                ('VALIGN', (0, 0), (-1, -1), 'TOP'),
-                ('LEFTPADDING', (0, 0), (-1, -1), 4),
-                ('RIGHTPADDING', (0, 0), (-1, -1), 2),
-                ('TOPPADDING', (0, 0), (-1, -1), 1),
-                ('BOTTOMPADDING', (0, 0), (-1, -1), 1.5),
+                ('VALIGN',        (0, 0), (-1, -1), 'TOP'),
+                ('LEFTPADDING',   (0, 0), (-1, -1), 2),
+                ('RIGHTPADDING',  (0, 0), (-1, -1), 2),
+                ('TOPPADDING',    (0, 0), (-1, -1), 1),
+                ('BOTTOMPADDING', (0, 0), (-1, -1), 2),
             ]))
 
-            story.extend(prompt_flowables)
-            story.append(Spacer(1, 4))
-            story.append(t_opts)
+            # 3. Answer strip: subtle gray background, single line
+            ans_w    = col_w - OPT_IND
+            p_ans    = Paragraph(f'Ans\u00a0:\u00a0{q["ans_display"]}', ST['AnsText'])
+            exam_txt = f'[{clean_md(q["exam"])}]' if q['exam'] else ''
+            p_exam   = Paragraph(exam_txt, ST['ExamText'])
 
-            # [#4] Answer row: navy bold + subtle top rule
-            ans_flowables = [Spacer(1, 4)]
-
-            p_ans = Paragraph(f"Ans\u00a0:\u00a0{q['ans_display']}", styles['AnsText'])
-            p_exam_txt = f'<font fontName="{FONT_BOLD}"><b>[{clean_markdown_text(q["exam"])}]</b></font>' if q['exam'] else ""
-            p_exam = Paragraph(p_exam_txt, styles['ExamText'])
-
-            ans_row_table = Table(
+            ans_strip = Table(
                 [[p_ans, p_exam]],
-                colWidths=[(col_w - 4) * 0.55, (col_w - 4) * 0.45]
+                colWidths=[ans_w * 0.55, ans_w * 0.45]
             )
-            ans_row_table.setStyle(TableStyle([
-                ('VALIGN', (0, 0), (-1, -1), 'MIDDLE'),
-                ('LEFTPADDING', (0, 0), (-1, -1), 0),
-                ('RIGHTPADDING', (0, 0), (-1, -1), 2),
-                ('TOPPADDING', (0, 0), (-1, -1), 0),
-                ('BOTTOMPADDING', (0, 0), (-1, -1), 0),
-                # Subtle blue top rule above answer
-                ('LINEABOVE', (0, 0), (-1, 0), 0.4, colors.HexColor('#BFDBFE')),
+            ans_strip.setStyle(TableStyle([
+                ('BACKGROUND',    (0, 0), (-1, -1), colors.HexColor(C_ANS_BG)),
+                ('VALIGN',        (0, 0), (-1, -1), 'MIDDLE'),
+                ('LEFTPADDING',   (0, 0), (-1, -1), 6),
+                ('RIGHTPADDING',  (0, 0), (-1, -1), 6),
+                ('TOPPADDING',    (0, 0), (-1, -1), 3),
+                ('BOTTOMPADDING', (0, 0), (-1, -1), 3),
             ]))
-            ans_flowables.append(ans_row_table)
+
+            # Assemble: extend story with prompt, then KeepTogether for opts+ans+divider
+            story.extend(prompt_fls)
+
+            ans_block = [
+                Spacer(1, 5),
+                indented(t_opts, OPT_IND, col_w),
+                Spacer(1, 4),
+                indented(ans_strip, OPT_IND, col_w),
+            ]
 
             if q['note']:
-                ans_flowables.append(Paragraph(clean_markdown_text(q['note']), styles['NoteText']))
+                ans_block.append(Spacer(1, 2))
+                ans_block.append(Paragraph(clean_md(q['note']), ST['NoteText']))
 
-            ans_flowables.append(Spacer(1, 2))
-            ans_flowables.append(HRFlowable(
-                width="100%", thickness=0.4,
-                color=colors.HexColor('#E2E8F0'),
-                spaceBefore=2, spaceAfter=4
+            # ONE light-gray divider per question, with breathing room after
+            ans_block.append(HRFlowable(
+                width='100%', thickness=0.35,
+                color=colors.HexColor(C_DIVIDER),
+                spaceBefore=5, spaceAfter=8   # 8pt between questions
             ))
 
-            story.append(KeepTogether(ans_flowables))
+            story.append(KeepTogether(ans_block))
 
-    content_h = page_h - top_margin - bottom_margin
-    frame_left = Frame(margin, bottom_margin, col_w, content_h, id='col1', leftPadding=0, rightPadding=4, topPadding=0, bottomPadding=0)
-    frame_right = Frame(margin + col_w + gutter, bottom_margin, col_w, content_h, id='col2', leftPadding=4, rightPadding=0, topPadding=0, bottomPadding=0)
+    # ----- Frames & doc -----
+    content_h   = page_h - TOP_M - BOTTOM_M
+    frame_left  = Frame(MARGIN,                  BOTTOM_M, col_w, content_h,
+                        id='col1', leftPadding=0, rightPadding=4,
+                        topPadding=0, bottomPadding=0)
+    frame_right = Frame(MARGIN + col_w + GUTTER, BOTTOM_M, col_w, content_h,
+                        id='col2', leftPadding=4, rightPadding=0,
+                        topPadding=0, bottomPadding=0)
 
     os.makedirs(os.path.dirname(pdf_output_path), exist_ok=True)
 
     doc = BaseDocTemplate(
-        pdf_output_path,
-        pagesize=A4,
-        leftMargin=margin,
-        rightMargin=margin,
-        topMargin=top_margin,
-        bottomMargin=bottom_margin
+        pdf_output_path, pagesize=A4,
+        leftMargin=MARGIN, rightMargin=MARGIN,
+        topMargin=TOP_M,   bottomMargin=BOTTOM_M
     )
-    doc.addPageTemplates([PageTemplate(id='TwoColA4', frames=[frame_left, frame_right])])
+    doc.addPageTemplates([PageTemplate(
+        id='TwoColA4', frames=[frame_left, frame_right]
+    )])
 
-    # [#2] Pass dynamic header title via closure
     def canvas_maker(*args, **kwargs):
-        return NumberedCanvas(*args, header_title=header_title, **kwargs)
+        return NumberedCanvas(
+            *args,
+            header_title=header_title,
+            outer_margin=MARGIN,
+            **kwargs
+        )
 
     doc.build(story, canvasmaker=canvas_maker)
     print(f"Successfully generated PDF at: {pdf_output_path}")
 
 
+# ---------------------------------------------------------------------------
+# CLI entry point
+# ---------------------------------------------------------------------------
 if __name__ == '__main__':
-    import sys
+    import argparse
 
-    if len(sys.argv) > 1:
-        md_file = sys.argv[1]
-        if len(sys.argv) > 2:
-            pdf_file = sys.argv[2]
-        else:
-            base_dir = os.path.dirname(os.path.abspath(md_file))
-            base_name = os.path.splitext(os.path.basename(md_file))[0]
-            pdf_file = os.path.join(base_dir, f"{base_name}_TopicWise.pdf")
+    parser = argparse.ArgumentParser(
+        description='Generate clean topic-wise question paper PDF from markdown.',
+        add_help=False
+    )
+    # Enable -h / --header or help manually
+    parser.add_argument('md_file', nargs='?', default=r'd:\appsc-loaded\pcb-ae\pdfs\2025-GSMA\2025-GSMA.md',
+                        help='Path to input markdown file')
+    parser.add_argument('pdf_file', nargs='?', default=None,
+                        help='Path to output PDF file (optional)')
+    parser.add_argument('-h', '--header', dest='header', default=None,
+                        help='Header label override (e.g. GSMA -> "APPSC 2026 GSMA – Topic-wise Question Bank")')
+    parser.add_argument('--help', action='help', help='Show this help message and exit')
+
+    args = parser.parse_args()
+
+    md_file = args.md_file
+    if args.pdf_file:
+        pdf_file = args.pdf_file
     else:
-        md_file = r'd:\appsc-loaded\pcb-ae\pdfs\2025-GSMA\2025-GSMA.md'
-        pdf_file = r'd:\appsc-loaded\pcb-ae\pdfs\2025-GSMA\2025-GSMA_TopicWise.pdf'
+        pdf_file = os.path.join(
+            os.path.dirname(os.path.abspath(md_file)),
+            os.path.splitext(os.path.basename(md_file))[0] + '_TopicWise.pdf'
+        )
 
-    generate_topicwise_pdf(md_file, pdf_file)
+    generate_topicwise_pdf(md_file, pdf_file, header_override=args.header)
