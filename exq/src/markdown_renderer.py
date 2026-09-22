@@ -11,8 +11,8 @@ class MarkdownRenderer:
     def render(self, questions: List[Question]) -> str:
         lines: List[str] = []
 
-        # Filter out questions where no question text was extracted
-        valid_questions = [q for q in questions if q.question_text and q.question_text.strip()]
+        # Filter out questions where neither text nor options were extracted
+        valid_questions = [q for q in questions if (q.question_text and q.question_text.strip()) or q.options]
 
         # 1. Main Title
         lines.append(f"# {self.paper_title}")

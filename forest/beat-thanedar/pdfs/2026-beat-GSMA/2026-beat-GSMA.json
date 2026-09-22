@@ -1,0 +1,1369 @@
+{
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "Which blood group is known as the universal recipient?",
+      "options": {
+        "1": "0",
+        "2": "B",
+        "3": "A",
+        "4": "AB"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 2,
+      "question": "What percentage of nitrogen is present in the atmosphere?",
+      "options": {
+        "1": "60",
+        "2": "90",
+        "3": "78",
+        "4": "40"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 3,
+      "question": "Vitamin‘A'deficiency cause which type of disease?",
+      "options": {
+        "1": "Rickets",
+        "3": "Muscle damage",
+        "4": "Blood clotting"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 4,
+      "question": "Whatis themain function of nucleicacids in human beings? ()Storage and expressionof genetic information",
+      "options": {
+        "2": "Totransportoxygen",
+        "3": "Toprovideenergyformuscles",
+        "4": "Tomaintain thebodytemperature"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 5,
+      "question": "What is the main function of the kidneys in the human body? (l)Toproducedigestive enzymes",
+      "options": {
+        "2": "Tofilterwasteproductsandexcessofwaterfromtheblood",
+        "3": "Helpthebodytoabsorbnutrientsfromthefood",
+        "4": "To pump the blood throughout the body"
+      },
+      "answer": [],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 6,
+      "question": "What is the main role of photosynthesis in plants?",
+      "options": {
+        "1": "Tomaketheirownfood",
+        "2": "Toabsorbwaterfromthesoil",
+        "3": "Totake in carbondioxideand releasehelium",
+        "4": "To transport vitamins through the stem"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "General Science and Technology"
+    },
+    {
+      "question_number": 7,
+      "question": "Whichorganelleis calledpowerhouseof thecell?",
+      "options": {
+        "1": "Ribosomes",
+        "2": "Lysosomes",
+        "3": "Mitochondria",
+        "4": "Golgi apparatus"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "General Science and Technology"
+    },
+    {
+      "question_number": 8,
+      "question": "What is therole of the ozone layer in earth's atmosphere?",
+      "options": {
+        "1": "To produce oxygen for living things",
+        "2": "Act as earth's shield andabsorbing harmful ultravioletradiationfromthe sun",
+        "3": "To trap heat and keep the earth warm",
+        "4": "Toreflectsunlightbackintothespace"
+      },
+      "answer": [],
+      "topic": "Environment"
+    },
+    {
+      "question_number": 9,
+      "question": "What is a gene ?",
+      "options": {
+        "1": "Ahereditary unit",
+        "2": "Onetypeofcellsfound inthebrain",
+        "3": "Aprotein that helpsfordigestionoffood",
+        "4": "Itgives energyto themuscle"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 10,
+      "question": "What is vermicompost? (l)Achemical fertilizermadeinfactories",
+      "options": {
+        "2": "Red soilwithrichnutrients",
+        "3": "Theearthwormsconverttheorganicwaste intorichmanure",
+        "4": "Farmyardmanure"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 11,
+      "question": "What is the meaning of white revolution?",
+      "options": {
+        "1": "Toincreasetheproductionofmilk inIndia",
+        "2": "To increase thericeproductioninIndia",
+        "3": "ToPromotetextile industriesinIndia",
+        "4": "ToincreasethegroundnutproductioninIndia"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 12,
+      "question": "Which of these is a renewablesourceof energy?",
+      "options": {
+        "2": "Petroleum",
+        "1": "Coal",
+        "3": "Wind",
+        "4": "Natural gas"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 13,
+      "question": "Which State hosted theKhelo India Youth Games in2025?",
+      "options": {
+        "2": "Bihar",
+        "1": "ArunachalPradesh",
+        "4": "Nagaland",
+        "3": "Meghalaya"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 15,
+      "question": "Whichcitywas declared thecleanestcityinthe SwachhSurvekshan2024-25?",
+      "options": {
+        "1": "Bhopal",
+        "2": "Surat",
+        "3": "Indore",
+        "4": "Lucknow"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 16,
+      "question": "Which country honored Indian Prime Minister Shri Narendra Modi with the“Grand Cross of the Order of Makarios Ill\", its highest civilian award?",
+      "options": {
+        "1": "Greece",
+        "2": "Cyprus",
+        "3": "Egypt",
+        "4": "Brazil"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 17,
+      "question": "Which Indian Air Force Officer,selected for ISRO's Gaganyaan Mission, became the first Indian astronaut to travel to the International Space Station (ISS)aboard the Axiom Mission 4 in 2025?",
+      "options": {
+        "1": "RakeshSharma",
+        "2": "Shubhanshu Shukla",
+        "3": "Kalpana Chawla",
+        "4": "Sunita Williams"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Current Events and Issues"
+    },
+    {
+      "question_number": 18,
+      "question": "Who were the two distinguished women officers who led the Indian government's media briefing on Operation Sindoor, showcasing their pivotal roles in the strategic militaryresponse? (l)Colonel PrernaDeosthaleeand WingCommanderVyomika Singh",
+      "options": {
+        "2": "Colonel SofiyaQureshiand WingCommanderVyomika Singh",
+        "3": "Colonel Sofiya QureshiandCommanderPrerna Deosthalee",
+        "4": "Wing CommanderVyomika Singh and CommanderPrernaDeosthalee"
+      },
+      "answer": [],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 19,
+      "question": "What is the primary objective of the'Stree Shakti'Scheme launched by the Andhra Pradesh government?",
+      "options": {
+        "1": "To provide free healthcare services towomen",
+        "2": "",
+        "3": "To distribute financial aid to women entrepreneurs",
+        "4": "Toestablishwomen'sempowermentcenters"
+      },
+      "answer": [],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 20,
+      "question": "Which district in Andhra Pradesh was chosen as the site for a major new wind power project partnershipin2025?",
+      "options": {
+        "3": "Visakhapatnam",
+        "1": "Guntur",
+        "4": "Krishna",
+        "2": "Anantapur"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 21,
+      "question": "Hindalco Industries plans to invest 586 crore in Andhra Pradesh tomanufacture aluminium parts for whichcompany's products?",
+      "options": {
+        "2": "Xiaomi",
+        "1": "Samsung",
+        "3": "OnePlus",
+        "4": "Apple"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 22,
+      "question": "Which district in Andhra Pradesh became the first to have 100% CCTV camera coverage?",
+      "options": {
+        "1": "Guntur",
+        "2": "NTRDistrict",
+        "3": "Visakhapatnam",
+        "4": "Tirupati"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 23,
+      "question": "The Department of adult education launched the programme of to achieve 100% literacyinAndhraPradesh.",
+      "options": {
+        "1": "Swarna Andhra",
+        "2": "Sakshara Andhra",
+        "3": "Akshara Andhra",
+        "4": "Chaduvula Andhra"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 24,
+      "question": "Indian Railways successfully tested country's first Hydrogen powered coach at",
+      "options": {
+        "1": "Chennai",
+        "2": "Mumbai",
+        "3": "Visakhapatnam",
+        "4": "Gujarat"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 25,
+      "question": "Which religious sect enjoyed great popularity under eastern Chalukyaas of Vengi ? ()Saivism",
+      "options": {
+        "2": "Vaishnavism",
+        "3": "Buddhism",
+        "4": "Jainism",
+        "1": "00"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "History of India and AP"
+    },
+    {
+      "question_number": 26,
+      "question": "Along with Madhan Mohan Malaviya, who is the founding member of Benaras Hindu College?",
+      "options": {
+        "1": "Annie Besant",
+        "2": "SwamiSahajananda",
+        "3": "Dayananda Saraswati",
+        "4": "Swami Vivekananda"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 27,
+      "question": "Fromwhichuniversity,Dr.B.R.Ambedkar received anhonoraryD.LittDegreein1953?",
+      "options": {
+        "1": "University of Bombay",
+        "2": "UniversityofKolkata",
+        "3": "University of Madras",
+        "4": "Osmania University"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 28,
+      "question": "Who was the foreign ambassador who visited Mauryan court and provided detailed accounts of its administration,economy and urban life?",
+      "options": {
+        "1": "Megasthenes",
+        "2": "Fa-Hien",
+        "4": "Marco Polo",
+        "3": "Al-Masaudi"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 29,
+      "question": "Which ofthefollowingwas acommonfeatureof RajputWarstrategy?",
+      "options": {
+        "1": "Gorilla war fare",
+        "2": "Navalwarfareand searides",
+        "3": "Directcombatwithemphasisonpersonalvalor",
+        "4": "Useofgunpowderandcannons"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 30,
+      "question": "Avestawaswrittenin language.",
+      "options": {
+        "1": "Arabic",
+        "2": "Turkish",
+        "3": "Iranian",
+        "4": "Hebrew"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 31,
+      "question": "The24thJainThirthankarawas",
+      "options": {
+        "1": "Rishabha",
+        "2": "Parshavanatha",
+        "3": "Siddhartha",
+        "4": "Vardhamana Mahavira"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 32,
+      "question": "In326BCAlexandermarchedtoIndiathroughthe pass.",
+      "options": {
+        "1": "Jelep La",
+        "2": "Nathula",
+        "3": "Khyber",
+        "4": "Balan"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 33,
+      "question": "TheOfficial Languageof the Satavahanaswas",
+      "options": {
+        "1": "Pali",
+        "2": "Prakrit",
+        "3": "Apabhramsa",
+        "4": "Khariboli"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 34,
+      "question": "Rajataranginiwascomposedby",
+      "options": {
+        "1": "Jayanaka",
+        "2": "Hasan Nizami",
+        "3": "Humayun",
+        "4": "Kalhana"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 35,
+      "question": "The Kailasa Temple at Ellora was carved during the reign of",
+      "options": {
+        "1": "KrishnaI",
+        "2": "Rajendra",
+        "3": "Narasimha I",
+        "4": "Raja raja"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "History of India and AP"
+    },
+    {
+      "question_number": 36,
+      "question": "Harihara and Bukka belonged to the",
+      "options": {
+        "1": "Saluva",
+        "2": "Sangama",
+        "3": "Araveti",
+        "4": "Tuluva"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 37,
+      "question": "The Deccan Plateau is mostly composed of which type of rock?",
+      "options": {
+        "2": "Basalt",
+        "1": "Granite",
+        "3": "Sandstone",
+        "4": "Limestone"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 38,
+      "question": "Which soil is best suited for cotton cultivation in India?",
+      "options": {
+        "3": "Red soil",
+        "2": "Black soil",
+        "1": "Alluvial soil",
+        "4": "Laterite soil"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 39,
+      "question": "Thehighest peak in South India is",
+      "options": {
+        "3": "Mahendragiri",
+        "4": "Nallamala Hills",
+        "2": "Anamudi",
+        "1": "Doddabetta"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 40,
+      "question": "TheEastern Ghats inAndhraPradesharemostly",
+      "options": {
+        "2": "Discontinuous and eroded hills",
+        "1": "Continuousmountainrange",
+        "4": "Volcanic mountains",
+        "3": "Snow-cappedpeaks"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 41,
+      "question": "TheStatewhich is thelargestproducerofmica in India is",
+      "options": {
+        "1": "Andhra Pradesh",
+        "2": "Rajasthan",
+        "3": "Jharkhand",
+        "4": "Odisha"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 42,
+      "question": "The Longest National Highway passing through Andhra Pradesh is",
+      "options": {
+        "1": "NH 16",
+        "2": "NH 44",
+        "3": "NH 65",
+        "4": "NH 30"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 43,
+      "question": "The Chilika Lake, Asia's largest brackish water lagoon, is located in",
+      "options": {
+        "1": "Odisha",
+        "2": "AndhraPradesh",
+        "3": "Tamil Nadu",
+        "4": "Kerala"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 44,
+      "question": "Which State in India has thelongest Coastline?",
+      "options": {
+        "1": "Andhra Pradesh",
+        "2": "Gujarat",
+        "3": "Tamil Nadu",
+        "4": "Maharashtra"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 45,
+      "question": "The Godavari River divides into how many distributaries before entering the Bay of Bengal?",
+      "options": {
+        "2": "2",
+        "4": "5",
+        "1": "3",
+        "3": "4"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 46,
+      "question": "Which irrigation project in Andhra Pradesh isknown as the“Lifeline of North Coastal Andhra Pradesh\"?",
+      "options": {
+        "1": "Polavaram",
+        "2": "Vamsadara",
+        "4": "Sri Sailam",
+        "3": "Nagarjuna Sagar"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 47,
+      "question": "Which of the following irrigation projects is constructed across the Tungabhadra River?",
+      "options": {
+        "2": "Tungabhadra Dam",
+        "1": "Pulichintala Project",
+        "4": "Nagarjuna Sagar",
+        "3": "DhavaleswaramBarrage"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Geography of India and AP"
+    },
+    {
+      "question_number": 48,
+      "question": "ThePulicat Lake is separated from theBayof Bengal bywhich island?",
+      "options": {
+        "3": "Sagar Island",
+        "4": "Pamban",
+        "1": "Sriharikota",
+        "2": "Netrani"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 49,
+      "question": "WhichArticleoftheIndian ConstitutionGuarantees theRighttoEquality?",
+      "options": {
+        "4": "Article 25",
+        "3": "Article 21",
+        "1": "Article 14",
+        "2": "Article 19"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Indian Polity and Governance"
+    },
+    {
+      "question_number": 50,
+      "question": "Which Schedule of the Constitution contains the list of official languages?",
+      "options": {
+        "1": "Fifth Schedule",
+        "2": "Eighth Schedule",
+        "3": "Ninth Schedule",
+        "4": "Tenth Schedule"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 51,
+      "question": "Which Constitutional Amendment added the words“Socialist'and“Secular'to the Preamble?",
+      "options": {
+        "1": "42nAmendment",
+        "2": "44th Amendment",
+        "3": "52nd Amendment",
+        "4": "86th Amendment"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Indian Polity and Governance"
+    },
+    {
+      "question_number": 52,
+      "question": "Who appoints the Chief Justice of India ?",
+      "options": {
+        "1": "President",
+        "2": "PrimeMinister",
+        "3": "Law Minister",
+        "4": "SupremeCourtCollegium"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 53,
+      "question": "Which of the following features of the Indian Constitution indicates that India has adopted the ParliamentarySystemof Government?",
+      "options": {
+        "1": "Separationof Powers",
+        "2": "Ruleof Law",
+        "3": "Collective responsibility of the Council of Ministers",
+        "4": "Judicial Review"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Indian Polity and Governance"
+    },
+    {
+      "question_number": 54,
+      "question": "Under whichArticle can thePresident of India proclaim a National Emergency?",
+      "options": {
+        "1": "Article352",
+        "2": "Article 356",
+        "4": "Article 365",
+        "3": "Article 360"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Indian Polity and Governance"
+    },
+    {
+      "question_number": 55,
+      "question": "Theeconomist who spokeaboutthevicious circles of poverty is",
+      "options": {
+        "1": "Ragnar Nurkse",
+        "2": "Hirschman",
+        "4": "Amartya Sen",
+        "3": "Rodan"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 56,
+      "question": "When did the Indian rupee sign  come into effect?",
+      "options": {
+        "2": "July 2009",
+        "1": "July2008",
+        "4": "July 2007",
+        "3": "July2010"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 57,
+      "question": "Andhra Bank wasmerged in whichBank?",
+      "options": {
+        "1": "Central Bankof India",
+        "2": "Union Bank of India",
+        "3": "Punjab Bank of India",
+        "4": "StateBank of India"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 58,
+      "question": "When was theMid-dayMeal Scheme,establishedtoincreasethenutritional level ofall school children in the country, introduced?",
+      "options": {
+        "1": "1992",
+        "2": "19952",
+        "3": "1999",
+        "4": "2005"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 59,
+      "question": "For digital transactions, the Reserve Bank has assigned an Indian Financial System Code to each bank branch.How many letters and digits are there in total in this code?",
+      "options": {
+        "1": "7",
+        "2": "9",
+        "3": "11",
+        "4": "12"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Indian Economy and Planning"
+    },
+    {
+      "question_number": 60,
+      "question": "What is Primary Deficit?",
+      "options": {
+        "1": "Fiscal Deficit -Interest Payments",
+        "2": "RevenueDeficit-InterestPayments",
+        "3": "Previous Year's Deficit",
+        "4": "CurrentAccountDeficit-FiscalDeficit"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Indian Economy and Planning"
+    },
+    {
+      "question_number": 61,
+      "question": "Arrangethefollowinginlogicalorder a. Frog b. Eagle c. Grasshopper d.Snake e. Grass",
+      "options": {
+        "1": "a, c, e, b, d",
+        "2": "e, c,a, d, b",
+        "3": "c, d, b, e, a",
+        "4": "e, c, d, b, a"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 62,
+      "question": "Pand Q are brothers.R and S are sisters.P's son is S's brother.How is R related to P?",
+      "options": {
+        "1": "Aunt",
+        "2": "Sister",
+        "3": "Mother",
+        "4": "Daughter"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 63,
+      "question": "Whatcomes next? 7,9,16,25,41,66,",
+      "options": {
+        "1": "117",
+        "2": "133",
+        "3": "127",
+        "4": "107"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 64,
+      "question": "There are some benches in a classroom.If 4 students sit on each bench, then 3 benches are left unoccupied.However, if 3 students sit on each bench, 3 students are left standing.How many students are there in the class?",
+      "options": {
+        "2": "48",
+        "1": "36",
+        "3": "56",
+        "4": "64"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 65,
+      "question": "IfPdenotes,Qdenotes×,Rdenotes+andSdenotes-,then thevalueof14Q27P9R5S19.",
+      "options": {
+        "1": "47",
+        "2": "42",
+        "4": "28",
+        "3": "32"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 66,
+      "question": "Garima is taller than Saritabut nottaller than Rina.Rina and Tanya are of the same height.Garima is shorter than Anu. Among all the girls, who is the shortest ?",
+      "options": {
+        "1": "Anu",
+        "2": "Sarita",
+        "3": "Garima",
+        "4": "Rina and Tanya"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 67,
+      "question": "Whichnumbercomesnext inthefollowing series? 2,5,10,17,26,37,50,",
+      "options": {
+        "1": "17",
+        "2": "37",
+        "3": "65",
+        "4": "26"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 68,
+      "question": "IfE=10,J=20,0=30andT=40,whatwillbeP+E+S+T=?",
+      "options": {
+        "1": "120",
+        "2": "164",
+        "3": "82",
+        "4": "51"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 69,
+      "question": "Theacuteanglebetween thetwohands of a clock when it shows 4:15PMin degrees is",
+      "options": {
+        "1": "45",
+        "2": "36",
+        "3": "37%2",
+        "4": "67%"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 70,
+      "question": "Ravi walks 10 meters in front and 10 meters to the right. Then every time, turning to his left he walks 5, 15 and 15 meters respectively.How far is he now from his starting position ?",
+      "options": {
+        "3": "10 meters",
+        "4": "5 meters",
+        "1": "25meters",
+        "2": "20meters"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 71,
+      "question": "In the given diagram, three classes of population are represented by three figures. The triangle represents the school teachers,the squarerepresents the married persons and the circlerepresents thepersons living in jointfamily. The married persons living in joint families but not working as school teachers are represented by",
+      "options": {
+        "4": "A",
+        "3": "D",
+        "2": "F",
+        "1": "C"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 72,
+      "question": "Ifyouwritedownall thenumbersfrom1to100,thenhowmanytimesdoyouwrite5?",
+      "options": {
+        "1": "11",
+        "2": "20",
+        "3": "19",
+        "4": "21"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 73,
+      "question": "P, Q, R, S and T are sitting around a circular table.R is to the right of P and is second to the left of S.T is not betweenP and S.Who is second to the left ofR?",
+      "options": {
+        "1": "Q",
+        "2": "S",
+        "3": "T",
+        "4": "P"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 74,
+      "question": "How many triangles are there in the figurebelow?",
+      "options": {
+        "1": "8",
+        "2": "10",
+        "3": "12",
+        "4": "14"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 75,
+      "question": "Which of the following is not a goal of sustainable development?",
+      "options": {
+        "1": "Eradicatingpovertyand hunger",
+        "2": "Promotingsocial inclusion",
+        "3": "Exploiting natural resources to thefullest",
+        "4": "Ensuring environmental sustainability"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Sustainable Development"
+    },
+    {
+      "question_number": 76,
+      "question": "Which of the following is a sustainable practice in agriculture? (l)Excessiveuseofchemicalfertilizers",
+      "options": {
+        "2": "Crop rotation and organic farming",
+        "3": "Overuseofpesticides",
+        "4": "Monoculturefarming"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 77,
+      "question": "What does green economy'focus on ? (l)Economicgrowthat the costof the environment",
+      "options": {
+        "2": "Fostering green industries and creating green jobs",
+        "3": "Promoting industrial growth at the expense of natural resources",
+        "4": "Reducinggovernmentinvolvement intheeconomy"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Environment"
+    },
+    {
+      "question_number": 78,
+      "question": "What role does biodiversity play in sustainable development?",
+      "options": {
+        "1": "Increasespollutionlevels",
+        "2": "Supports ecosystem services such as food, water and air quality",
+        "3": "Limits food production",
+        "4": "Reduces the impactof naturaldisasters"
+      },
+      "answer": [],
+      "topic": "Sustainable Development"
+    },
+    {
+      "question_number": 79,
+      "question": "How does energy efficiency contribute to sustainable development?",
+      "options": {
+        "1": "Increases energy consumption",
+        "2": "Reduces the need for new energy sources",
+        "3": "Promotes morefossil fuel usage",
+        "4": "Increases greenhousegas emissions"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Sustainable Development"
+    },
+    {
+      "question_number": 80,
+      "question": "What is the primary cause of global warming?",
+      "options": {
+        "1": "Increase in greenhouse gases",
+        "2": "Deforestation",
+        "3": "Over-population",
+        "4": "Ozonedepletion"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Environment"
+    },
+    {
+      "question_number": 81,
+      "question": "Which sector is the largest contributor to environmental pollution?",
+      "options": {
+        "1": "Transport",
+        "2": "Agriculture",
+        "3": "Industry",
+        "4": "Forestry"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 82,
+      "question": "What is the concept of‘carbon footprint'? (l)The amount ofcarbon absorbed byplants",
+      "options": {
+        "2": "The total amount of greenhouse gases emitted by human activities",
+        "3": "The amount of CO, released by volcanoes",
+        "4": "The amount of CO,absorbed by oceans"
+      },
+      "answer": [],
+      "topic": "Sustainable Development"
+    },
+    {
+      "question_number": 83,
+      "question": "Which of the following gases is primarily responsible for air pollution?",
+      "options": {
+        "1": "Oxygen",
+        "2": "Nitrogen",
+        "3": "Carbon monoxide",
+        "4": "Helium"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 84,
+      "question": "TheI992UnitedNationsConferenceonEnvironmentandDevelopment(UNCED)is commonly knownasthe",
+      "options": {
+        "1": "EarthSummit",
+        "2": "ClimateSummit",
+        "3": "Montreal Summit",
+        "4": "Paris Summit"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Current Events and Issues"
+    },
+    {
+      "question_number": 85,
+      "question": "DisasterManagementmeans",
+      "options": {
+        "1": "Creating disasters",
+        "2": "Reducing the impact of disasters",
+        "3": "Ignoring disasters",
+        "4": "Spreadingawareness only"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 86,
+      "question": "NDMAstandsfor (I) National Disaster Management Authority",
+      "options": {
+        "2": "National Defence Management Authority",
+        "3": "Natural Disaster Monitoring Agency",
+        "4": "NationalDamageManagementAuthority"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Disaster Management and GIS"
+    },
+    {
+      "question_number": 87,
+      "question": "Which Stateof Indiaismostpronetocyclones?",
+      "options": {
+        "2": "Andhra Pradesh",
+        "1": "Gujarat",
+        "3": "Punjab",
+        "4": "Rajasthan"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 88,
+      "question": "The instrument used to measure earthquakes is",
+      "options": {
+        "2": "Altimeter",
+        "1": "Barometer",
+        "4": "Hygrometer",
+        "3": "Seismograph"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 89,
+      "question": "Cyclones form overwhich type of waterbodies?",
+      "options": {
+        "2": "Lakes",
+        "1": "Rivers",
+        "4": "Ponds",
+        "3": "Oceans"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 90,
+      "question": "TheBhopal GasTragedywascausedby",
+      "options": {
+        "1": "Earthquake",
+        "2": "Gas leakage",
+        "4": "Terrorattack",
+        "3": "Flood"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Disaster Management and GIS"
+    },
+    {
+      "question_number": 91,
+      "question": "The State Disaster Management Authority is headed by",
+      "options": {
+        "1": "ChiefMinister",
+        "2": "Governor",
+        "3": "DistrictCollector",
+        "4": "Local MLA"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Disaster Management and GIS"
+    },
+    {
+      "question_number": 92,
+      "question": "Tsunamis affecting India mostly originate from which ocean?",
+      "options": {
+        "1": "PacificOcean",
+        "2": "Indian Ocean",
+        "3": "Atlantic Ocean",
+        "4": "Arctic Ocean"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 93,
+      "question": "Which organization manages disaster response in India ?",
+      "options": {
+        "1": "ISRO",
+        "2": "NDMA",
+        "3": "WHO",
+        "4": "UNESCO"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Disaster Management and GIS"
+    },
+    {
+      "question_number": 94,
+      "question": "Which disaster is measured using the Saffir-Simpson scale?",
+      "options": {
+        "1": "Earthquake",
+        "2": "Hurricanes",
+        "3": "Tsunami",
+        "4": "Flood"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Disaster Management and GIS"
+    },
+    {
+      "question_number": 95,
+      "question": "Which of the following is important for disaster preparedness at schools?",
+      "options": {
+        "1": "Conducting mock drills",
+        "2": "Ignoringevacuationplans",
+        "3": "Storing onlybooks",
+        "4": "Closingschool permanently"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Disaster Management and GIS"
+    },
+    {
+      "question_number": 96,
+      "question": "Who first explained the idea of SustainableDevelopment clearly in the modern world?",
+      "options": {
+        "1": "Mahatma Gandhi",
+        "2": "BrundtlandCommission",
+        "3": "AlbertEinstein",
+        "4": "United Nations in 2000"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 97,
+      "question": "Planting trees and reducing plastic use mainly support which pillar of sustainable development?",
+      "options": {
+        "1": "Economic sustainability",
+        "2": "Social sustainability",
+        "3": "Environmental sustainability",
+        "4": "Technological sustainability"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Sustainable Development"
+    },
+    {
+      "question_number": 98,
+      "question": "How many SustainableDevelopmentGoals(SDGs)were adopted by theUnited Nations in2015?",
+      "options": {
+        "1": "10",
+        "2": "12",
+        "3": "17",
+        "4": "20"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    },
+    {
+      "question_number": 99,
+      "question": "Which of the following global treaties focuses on protecting the ozone layer?",
+      "options": {
+        "1": "Montreal Protocol",
+        "2": "KyotoProtocol",
+        "3": "ParisAgreement",
+        "4": "StockholmConvention"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Environment"
+    },
+    {
+      "question_number": 100,
+      "question": "Which of the following gases traps heat in the atmosphere and contributes most to the greenhouse effect?",
+      "options": {
+        "1": "Oxygen",
+        "2": "Nitrogen",
+        "3": "Carbon dioxide",
+        "4": "Argon"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Logical Reasoning and Analytical Ability"
+    }
+  ]
+}

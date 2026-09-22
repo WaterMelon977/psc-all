@@ -4,7 +4,6 @@ from typing import Dict, List, Tuple, Optional
 import fitz
 import numpy as np
 from PIL import Image
-from rapidocr_onnxruntime import RapidOCR
 
 from src.models import RawQuestionBlock
 
@@ -26,11 +25,12 @@ class LocalOcrExtractor:
     Zero external API calls, zero token consumption.
     """
     def __init__(self):
-        self._engine: Optional[RapidOCR] = None
+        self._engine = None
 
     @property
-    def engine(self) -> RapidOCR:
+    def engine(self):
         if self._engine is None:
+            from rapidocr_onnxruntime import RapidOCR
             self._engine = RapidOCR()
         return self._engine
 
@@ -55,9 +55,9 @@ class LocalOcrExtractor:
             if content_pno == end_pno:
                 page = doc[content_pno]
                 rect = fitz.Rect(
-                    max(0, block.bbox[0] - 5),
-                    start_y + 2, # Start strictly below Correct Marks line
-                    min(page.rect.width, block.bbox[2] + 5),
+                    0,
+                    start_y + 1, # Start right below Correct Marks line
+                    page.rect.width,
                     min(page.rect.height, block.end_y - 2) # End right before next question header
                 )
                 return page.get_pixmap(clip=rect, dpi=200)
@@ -66,19 +66,19 @@ class LocalOcrExtractor:
             # Slices from content_pno down to bottom of page, then from top of end_pno down to end_y (next question header)
             page1 = doc[content_pno]
             rect1 = fitz.Rect(
-                max(0, block.bbox[0] - 5),
-                start_y + 2,
-                min(page1.rect.width, block.bbox[2] + 5),
-                page1.rect.height - 20
+                0,
+                start_y + 1,
+                page1.rect.width,
+                page1.rect.height - 15
             )
             pix1 = page1.get_pixmap(clip=rect1, dpi=200)
 
             page2 = doc[end_pno]
-            end_y = block.end_y if block.end_y > 30 else page2.rect.height - 35.0
+            end_y = block.end_y if block.end_y > 30 else page2.rect.height - 15.0
             rect2 = fitz.Rect(
-                max(0, block.bbox[0] - 5),
-                25,
-                min(page2.rect.width, block.bbox[2] + 5),
+                0,
+                20,
+                page2.rect.width,
                 end_y - 2 # End right before next question header
             )
             pix2 = page2.get_pixmap(clip=rect2, dpi=200)

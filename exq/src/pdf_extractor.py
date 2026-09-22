@@ -89,17 +89,17 @@ class PDFExtractor:
                             # Finalize previous block's bbox bottom
                             if current_block.page_number == pno + 1:
                                 current_block.bbox = (
-                                    35.0,
+                                    0.0,
                                     current_block.bbox[1],
-                                    page_rect.width - 20.0,
+                                    page_rect.width,
                                     line_bbox[1]
                                 )
                             else:
                                 current_block.bbox = (
-                                    35.0,
+                                    0.0,
                                     current_block.bbox[1],
-                                    page_rect.width - 20.0,
-                                    page_rect.height - 35.0
+                                    page_rect.width,
+                                    page_rect.height - 15.0
                                 )
                             raw_blocks.append(current_block)
 
@@ -109,9 +109,9 @@ class PDFExtractor:
                             header_text=line_text,
                             lines=[raw_line],
                             pdf_path=self.pdf_path,
-                            bbox=(35.0, line_bbox[1], page_rect.width - 20.0, page_rect.height - 35.0),
+                            bbox=(0.0, line_bbox[1], page_rect.width, page_rect.height - 15.0),
                             end_page_number=pno + 1,
-                            end_y=page_rect.height - 35.0,
+                            end_y=page_rect.height - 15.0,
                             content_page_number=pno + 1,
                             content_start_y=line_bbox[3]
                         )
@@ -128,23 +128,33 @@ class PDFExtractor:
             current_block.end_y = page_rect.height - 35.0
             raw_blocks.append(current_block)
 
-        # Check if question blocks contain embedded images within their page and bbox
+        # Check if question blocks contain embedded images within their page range and bbox
         for b in raw_blocks:
             try:
-                page = doc[b.page_number - 1]
-                p_dict = page.get_text("dict")
-                q_top = b.bbox[1] - 5.0
-                q_bottom = b.bbox[3] + 5.0
-                for img_b in p_dict.get("blocks", []):
-                    if img_b.get("type") == 1:
-                        w = img_b.get("width", 0)
-                        h = img_b.get("height", 0)
-                        # Question content image is usually > 24px
-                        if w > 24 or h > 24:
-                            img_y0 = img_b.get("bbox", [0, 0, 0, 0])[1]
-                            if q_top <= img_y0 <= q_bottom:
-                                b.has_images = True
-                                break
+                start_p = b.content_page_number if b.content_page_number > 0 else b.page_number
+                end_p = b.end_page_number if (b.end_page_number and b.end_page_number >= start_p) else start_p
+                has_img = False
+
+                for pno in range(start_p, end_p + 1):
+                    page = doc[pno - 1]
+                    p_dict = page.get_text("dict")
+                    top_limit = (b.content_start_y - 5.0) if pno == start_p else 0.0
+                    bottom_limit = (b.end_y + 5.0) if pno == end_p else page.rect.height
+
+                    for img_b in p_dict.get("blocks", []):
+                        if img_b.get("type") == 1:
+                            w = img_b.get("width", 0)
+                            h = img_b.get("height", 0)
+                            # Question content image is usually > 24px (excluding 16x16 checkmark/cross icons)
+                            if w > 24 or h > 24:
+                                img_bbox = img_b.get("bbox", [0, 0, 0, 0])
+                                if img_bbox[3] >= top_limit and img_bbox[1] <= bottom_limit:
+                                    has_img = True
+                                    break
+                    if has_img:
+                        break
+
+                b.has_images = has_img
             except Exception:
                 pass
 

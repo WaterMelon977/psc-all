@@ -1,0 +1,25 @@
+{
+  "input_filename": "D:\\appsc-loaded\\forest\\forest-section-officer\\pdfs\\2020-GSMA.pdf",
+  "processing_timestamp": "2026-09-23T01:25:33.661961",
+  "total_pages": 25,
+  "total_question_blocks_detected": 146,
+  "english_questions_retained": 146,
+  "telugu_questions_discarded": 0,
+  "questions_with_detected_answers": 59,
+  "review_items_count": 83,
+  "topic_distribution": {
+    "Logical Reasoning and Analytical Ability": 134,
+    "Data Analysis and Tabulation": 0,
+    "Sustainable Development": 2,
+    "Environment": 4,
+    "Disaster Management and GIS": 1,
+    "Geography of India and AP": 3,
+    "History of India and AP": 0,
+    "Indian Polity and Governance": 1,
+    "Indian Economy and Planning": 1,
+    "General Science and Technology": 0,
+    "Current Events and Issues": 0
+  },
+  "warnings": [],
+  "duration_seconds": 558.25
+}

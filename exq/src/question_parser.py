@@ -88,9 +88,13 @@ class QuestionParser:
         cur_opt_text_parts: List[str] = []
         cur_opt_spans: List[RawSpan] = []
 
-        option_regex = re.compile(r"^([1-9]\d*)\.\s*(.*)$")
+        opt_lines = lines[options_idx + 1:]
+        # Check if the options use large CBT IDs (e.g., 8277885801.)
+        cbt_id_regex = re.compile(r"^\d{6,}\.\s*(.*)$")
+        standard_regex = re.compile(r"^([1-9]\d*)\.\s*(.*)$")
+        has_cbt_markers = any(re.match(r"^\d{6,}\.", l.text.strip()) for l in opt_lines)
 
-        for line in lines[options_idx + 1:]:
+        for line in opt_lines:
             line_txt = line.text.strip()
             if not line_txt:
                 continue
@@ -100,16 +104,27 @@ class QuestionParser:
                 break
 
             # Check if this line starts a new option
-            m = option_regex.match(line_txt)
             is_new_option = False
+            new_opt_num = None
+            new_rest = ""
 
-            if m:
-                opt_val = int(m.group(1))
-                # Validate option sequence: expect 1 initially, then next expected number
-                next_expected = 1 if cur_opt_num is None else (cur_opt_num + 1)
-                # Allow next expected or reasonable option index (1..10)
-                if opt_val == next_expected or (cur_opt_num is None and opt_val == 1) or (cur_opt_num is not None and opt_val > cur_opt_num and opt_val <= cur_opt_num + 2):
+            if has_cbt_markers:
+                m = cbt_id_regex.match(line_txt)
+                if m:
                     is_new_option = True
+                    new_opt_num = (cur_opt_num + 1) if cur_opt_num is not None else 1
+                    new_rest = m.group(1).strip()
+            else:
+                m = standard_regex.match(line_txt)
+                if m:
+                    opt_val = int(m.group(1))
+                    # Validate option sequence: expect 1 initially, then next expected number
+                    next_expected = 1 if cur_opt_num is None else (cur_opt_num + 1)
+                    # Allow next expected or reasonable option index (1..10)
+                    if opt_val == next_expected or (cur_opt_num is None and opt_val == 1) or (cur_opt_num is not None and opt_val > cur_opt_num and opt_val <= cur_opt_num + 2):
+                        is_new_option = True
+                        new_opt_num = opt_val
+                        new_rest = m.group(2).strip()
 
             if is_new_option:
                 # Save previous option if exists
@@ -121,9 +136,8 @@ class QuestionParser:
                         spans=cur_opt_spans
                     ))
 
-                cur_opt_num = int(m.group(1))
-                rest = m.group(2).strip()
-                cur_opt_text_parts = [rest] if rest else []
+                cur_opt_num = new_opt_num
+                cur_opt_text_parts = [new_rest] if new_rest else []
                 cur_opt_spans = list(line.spans)
             else:
                 if cur_opt_num is not None:

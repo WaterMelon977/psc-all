@@ -1,0 +1,25 @@
+{
+  "input_filename": "D:\\appsc-loaded\\forest\\beat-thanedar\\pdfs\\2026-beat-GSMA.pdf",
+  "processing_timestamp": "2026-09-23T00:55:51.963455",
+  "total_pages": 32,
+  "total_question_blocks_detected": 99,
+  "english_questions_retained": 99,
+  "telugu_questions_discarded": 0,
+  "questions_with_detected_answers": 93,
+  "review_items_count": 12,
+  "topic_distribution": {
+    "Logical Reasoning and Analytical Ability": 68,
+    "Data Analysis and Tabulation": 0,
+    "Sustainable Development": 5,
+    "Environment": 4,
+    "Disaster Management and GIS": 6,
+    "Geography of India and AP": 4,
+    "History of India and AP": 2,
+    "Indian Polity and Governance": 4,
+    "Indian Economy and Planning": 2,
+    "General Science and Technology": 2,
+    "Current Events and Issues": 2
+  },
+  "warnings": [],
+  "duration_seconds": 285.347
+}

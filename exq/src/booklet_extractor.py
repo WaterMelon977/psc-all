@@ -3,7 +3,6 @@ import cv2
 import numpy as np
 import re
 from typing import List, Dict, Tuple, Optional
-from rapidocr_onnxruntime import RapidOCR
 
 from src.models import Question
 
@@ -17,16 +16,25 @@ class BookletExtractor:
     def __init__(self, pdf_path: str, exam_name: str = ""):
         self.pdf_path = pdf_path
         self.exam_name = exam_name
-        self.ocr = RapidOCR()
+        self._ocr = None
+
+    @property
+    def ocr(self):
+        if self._ocr is None:
+            from rapidocr_onnxruntime import RapidOCR
+            self._ocr = RapidOCR()
+        return self._ocr
 
     @staticmethod
     def is_booklet_format(doc: fitz.Document) -> bool:
         """
         Determines whether the document follows the offline booklet format:
-        Does NOT contain 'Question Number :' and contains numbered questions like '1. ', '2. '
+        Does NOT contain 'Question Number :' and contains numbered questions or booklet markers.
         """
         cbt_regex = re.compile(r"Question Number\s*:\s*\d+", re.IGNORECASE)
-        booklet_regex = re.compile(r"^\s*1\.\s+", re.MULTILINE)
+        # Matches '1. ', '1) ', 'I. ', 'l. ' at start of lines or booklet keywords
+        booklet_q_regex = re.compile(r"^\s*[1Il|]\s*[\.\)]\s+", re.MULTILINE)
+        booklet_kw_regex = re.compile(r"Question Booklet|Paper\s*-\s*I|OMR|Series\s*:", re.IGNORECASE)
         
         sample_pages = min(8, len(doc))
         has_cbt = False
@@ -36,7 +44,7 @@ class BookletExtractor:
             if cbt_regex.search(txt):
                 has_cbt = True
                 break
-            if booklet_regex.search(txt):
+            if booklet_q_regex.search(txt) or booklet_kw_regex.search(txt):
                 has_booklet = True
 
         return (not has_cbt) and has_booklet
@@ -72,18 +80,17 @@ class BookletExtractor:
         total_pages = len(doc)
         all_questions: List[Question] = []
         
-        # Identify question pages (pages 4 to 37 in 1-based numbering)
+        # Identify question pages (skip instruction front matter and end rough work pages)
         question_pages = []
         for pno in range(total_pages):
             txt = doc[pno].get_text()
-            if "SPACE FOR ROUGH WORK" in txt or "SPACE FOR ROUGH WORI" in txt:
+            if re.search(r"SPACE FOR ROUGH", txt, re.IGNORECASE):
                 continue
-            if "Question Booklet Sl. No." in txt or "Enter the Registered Number" in txt:
+            if "Question Booklet Sl. No." in txt or "Enter the Registered Number" in txt or "Enter &o Registered" in txt:
                 continue
-            if "Invigilator" in txt or "OMR" in txt:
+            if pno < 3 and ("Invigilator" in txt or "OMR" in txt):
                 continue
-            if "GS/M" in txt or "Paper - I" in txt or re.search(r"\b\d{1,3}\.\s+", txt):
-                question_pages.append(pno)
+            question_pages.append(pno)
 
         current_q: Optional[Dict] = None
 

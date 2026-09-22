@@ -27,7 +27,7 @@ if sys.stdout.encoding != "utf-8":
     except AttributeError:
         sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
 
-def run_conversion(pdf_path: str, topics_path: str, output_dir: str = None, exam: str = None):
+def run_conversion(pdf_path: str, topics_path: str, output_dir: str = None, exam: str = None, format_mode: str = None):
     start_time = time.time()
     pdf_file = Path(pdf_path).resolve()
     topics_file = Path(topics_path).resolve()
@@ -41,7 +41,9 @@ def run_conversion(pdf_path: str, topics_path: str, output_dir: str = None, exam
         sys.exit(1)
 
     paper_name = pdf_file.stem
-    cleaned_exam_name = exam if exam else paper_name.replace('_', ' ').replace('-', ' ').strip()
+    default_exam_tag = exam if exam else paper_name.replace('_', ' ').replace('-', ' ').strip()
+    cleaned_exam_name = default_exam_tag
+
     if output_dir:
         out_dir = Path(output_dir).resolve()
     else:
@@ -51,7 +53,30 @@ def run_conversion(pdf_path: str, topics_path: str, output_dir: str = None, exam
     out_dir.mkdir(parents=True, exist_ok=True)
 
     print("Loading PDF...")
-    is_booklet = PDFExtractor.is_booklet_format(str(pdf_file))
+    auto_is_booklet = PDFExtractor.is_booklet_format(str(pdf_file))
+    
+    if format_mode:
+        is_booklet = (format_mode.lower() in ["offline", "booklet", "2"])
+    else:
+        # If running interactively in terminal, confirm with user
+        detected_label = "Offline Booklet" if auto_is_booklet else "Online CBT"
+        default_choice = "2" if auto_is_booklet else "1"
+        try:
+            if sys.stdin.isatty():
+                prompt = (
+                    f"\nSelect Format (detected: {detected_label}):\n"
+                    f"  [1] Online CBT\n"
+                    f"  [2] Offline Booklet\n"
+                    f"Choice [{default_choice}]: "
+                )
+                user_choice = input(prompt).strip()
+                if not user_choice:
+                    user_choice = default_choice
+                is_booklet = (user_choice in ["2", "offline", "booklet"])
+            else:
+                is_booklet = auto_is_booklet
+        except Exception:
+            is_booklet = auto_is_booklet
     topic_classifier = TopicClassifier(str(topics_file))
     topic_distribution = {t: 0 for t in topic_classifier.topics_order}
     structured_questions = []
@@ -108,10 +133,15 @@ def run_conversion(pdf_path: str, topics_path: str, output_dir: str = None, exam
                 if vis_text or vis_opts:
                     if vis_text:
                         q_text = vis_text
-                    opts_dict = vis_opts
-                    detected_answers = vis_ans
-                    ans_issues = []
-                    # Clear option/marker failure warnings from parse_issues since vision extracted them
+                    # Prefer text options if parsed_opts already had text
+                    if any(opt.text.strip() for opt in parsed_opts):
+                        opts_dict = {str(opt.number): opt.text for opt in parsed_opts}
+                        detected_answers, ans_issues = answer_detector.detect_answers(parsed_opts)
+                    else:
+                        opts_dict = vis_opts
+                        detected_answers = vis_ans
+                        ans_issues = []
+                    # Clear option/marker failure warnings from parse_issues since content was extracted
                     parse_issues = [
                         i for i in parse_issues
                         if "No options" not in i and "marker in question block" not in i and "Only " not in i
@@ -239,6 +269,14 @@ def main():
         default=None,
         help="Name of the exam (default: cleaned PDF file name)."
     )
+    parser.add_argument(
+        "--format",
+        "-f",
+        dest="format_mode",
+        choices=["cbt", "offline", "booklet"],
+        default=None,
+        help="Force format mode: 'cbt' or 'offline' / 'booklet'."
+    )
     args = parser.parse_args()
 
     # Determine topics path from positional arg, flag, or default fallback
@@ -249,7 +287,19 @@ def main():
             default_topics = str(script_dir_topics)
 
     topics_path = args.topics_flag or args.topics or default_topics
-    run_conversion(args.pdf, topics_path, args.output_dir, args.exam)
+
+    # Interactive prompt for Exam tag if not provided
+    exam_tag = args.exam
+    if not exam_tag and sys.stdin.isatty():
+        default_tag = Path(args.pdf).stem.replace('_', ' ').replace('-', ' ').strip()
+        try:
+            user_tag = input(f"Exam tag [-e] (press Enter for '{default_tag}'): ").strip()
+            if user_tag:
+                exam_tag = user_tag
+        except Exception:
+            pass
+
+    run_conversion(args.pdf, topics_path, args.output_dir, exam_tag, args.format_mode)
 
 if __name__ == "__main__":
     main()
