@@ -6,7 +6,7 @@ A specialized Python utility to convert extracted exam MCQ markdown question ban
 
 ## What It Does
 
-- **Topic-Wise Grouping & Sorting**: Reads questions and automatically groups them under categorized topic banners based on the `**Topic:**` tag (matching the syllabus index order).
+- **Topic & Subtopic Grouping**: Reads questions and automatically groups them under categorized topic banners (`**Topic:**`) and pronounced yet elegant subtopic headers (`**Subtopic:**`), strictly preserving the syllabus hierarchy.
 - **Bookman Old Style Typography**: Registers Windows native Bookman Old Style (`BOOKOS.TTF`, `BOOKOSB.TTF`, `BOOKOSI.TTF`) with full bold and italic font-family support.
 - **Publication Layout**:
   - Standard A4 2-column layout with 14 pt central gutter.
@@ -103,16 +103,22 @@ generate_topicwise_pdf(
 
 ## Supported Markdown Structure
 
-The input markdown should follow the standard question bank schema:
+The input markdown supports both flat topic question banks and hierarchical subtopics:
 
 ```markdown
 ## Topic Index
-### Logical Reasoning and Analytical Ability
-...
+### 1. Ramayanam
+#### Characters
+- Q1
+#### Kandaas (Parts)
+- Q2
+
+---
 
 ## Question 1
 
-**Topic:** Logical Reasoning and Analytical Ability
+**Topic:** 1. Ramayanam
+**Subtopic:** Characters
 
 ### Question
 Question text here...
@@ -126,3 +132,6 @@ Question text here...
 ### Answer
 > **Answer: 1**
 ```
+
+*(When `**Subtopic:**` is absent, questions are grouped cleanly under the topic banner directly).*
+

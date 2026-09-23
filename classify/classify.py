@@ -32,43 +32,76 @@ DEFAULT_MODEL = "google/gemini-2.5-flash-lite"
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 
-def load_topics(topics_path: str) -> List[str]:
+def load_topic_hierarchy(topics_path: str) -> Dict[str, List[str]]:
     """
-    Loads topic names from a topics.md or topics.txt file.
-    Accepts:
-    - Markdown headings (### Topic)
-    - Markdown lists (- Topic, * Topic, 1. Topic)
-    - Plain text lines
+    Loads topic and subtopic hierarchy from a topics.md file.
+    Returns:
+        Ordered dict { topic: [subtopic1, subtopic2, ...] }
+    If the file only has flat topics without subtopics, values will be empty lists.
     """
     p = Path(topics_path).resolve()
     if not p.exists():
         raise FileNotFoundError(f"Topics file not found: {topics_path}")
 
-    topics = []
+    hierarchy = {}
+    current_topic = None
+
     with open(p, "r", encoding="utf-8") as f:
         for raw_line in f:
             line = raw_line.strip()
             if not line:
                 continue
-            # Skip top-level title lines like # Topics ...
-            if line.startswith("# ") and "topic" in line.lower():
-                continue
-            # Strip markdown heading
-            line = re.sub(r"^#+\s*", "", line).strip()
-            # Strip list numbers or bullets
-            line = re.sub(r"^(\d+\.|\-|\*)\s*", "", line).strip()
-            # Strip backticks
-            line = line.strip("`").strip()
-            # Skip horizontal rules or empty strings
-            if not line or line.startswith("---") or line.lower().startswith("markdown tag") or line.lower().startswith("all topics") or "topics for classification" in line.lower():
-                continue
-            if line not in topics:
-                topics.append(line)
 
-    if not topics:
+            # Skip title lines like # Topics ...
+            if line.startswith("# ") and not line.startswith("### "):
+                continue
+
+            # Check if this is a topic heading (### Topic)
+            if line.startswith("### "):
+                clean_topic = re.sub(r"^###\s*", "", line).strip()
+                clean_topic = clean_topic.strip("`").strip()
+                if clean_topic:
+                    current_topic = clean_topic
+                    if current_topic not in hierarchy:
+                        hierarchy[current_topic] = []
+                continue
+
+            # Check if this is a subtopic bullet under current_topic
+            if (line.startswith("- ") or line.startswith("* ")) and current_topic:
+                sub = re.sub(r"^(\-|\*)\s*", "", line).strip().strip("`").strip()
+                if sub and not sub.startswith("---") and sub not in hierarchy[current_topic]:
+                    hierarchy[current_topic].append(sub)
+                continue
+
+            # Flat fallback: numbered or bullet item before or without any ### heading
+            flat_item = re.sub(r"^#+\s*", "", line).strip()
+            flat_item = re.sub(r"^(\d+\.|\-|\*)\s*", "", flat_item).strip().strip("`").strip()
+            if not flat_item or flat_item.startswith("---") or flat_item.lower().startswith("markdown tag") or flat_item.lower().startswith("all topics") or "topics for classification" in flat_item.lower():
+                continue
+
+            # If no heading was seen yet, treat as flat topic
+            if current_topic is None:
+                if flat_item not in hierarchy:
+                    hierarchy[flat_item] = []
+
+    if not hierarchy:
         raise ValueError(f"No valid topics could be extracted from {topics_path}")
 
-    return topics
+    return hierarchy
+
+
+def load_topics(topics_path: str) -> List[str]:
+    """
+    Loads flat topic names from a topics.md or topics.txt file.
+    Accepts:
+    - Markdown headings (### Topic)
+    - Markdown lists (- Topic, * Topic, 1. Topic)
+    - Plain text lines
+    Maintains 100% backward compatibility for functions expecting List[str].
+    """
+    hierarchy = load_topic_hierarchy(topics_path)
+    return list(hierarchy.keys())
+
 
 
 def parse_markdown_questions(md_content: str) -> List[Dict]:
@@ -83,9 +116,12 @@ def parse_markdown_questions(md_content: str) -> List[Dict]:
         q_num = int(q_blocks[i])
         raw_text = q_blocks[i + 1]
 
-        # Extract existing topic
+        # Extract existing topic & subtopic
         top_match = re.search(r"\*\*Topic:\*\*\s*(.+)", raw_text)
         curr_topic = top_match.group(1).strip() if top_match else ""
+
+        sub_match = re.search(r"\*\*Subtopic:\*\*\s*(.+)", raw_text)
+        curr_subtopic = sub_match.group(1).strip() if sub_match else ""
 
         # Extract Question text
         q_match = re.search(r"### Question\s*\n\s*([\s\S]*?)(?=\n### Options|\n### Answer|\n### Exam|\n---|\Z)", raw_text)
@@ -110,6 +146,7 @@ def parse_markdown_questions(md_content: str) -> List[Dict]:
         questions.append({
             "num": q_num,
             "topic": curr_topic,
+            "subtopic": curr_subtopic,
             "text": q_text,
             "options_raw": opts_raw,
             "options_dict": opts_dict
@@ -143,14 +180,99 @@ def call_openrouter(prompt_content: str, system_prompt: str, api_key: str, model
     return data["choices"][0]["message"]["content"].strip()
 
 
-def classify_only_batch(batch: List[Dict], topics: List[str], api_key: str, model: str) -> Dict[int, Dict[str, Any]]:
+def build_classification_prompt_context(topics: Any) -> Tuple[str, bool, Dict[str, List[str]]]:
+    """
+    Determines if topics parameter contains subtopics.
+    topics can be List[str] or Dict[str, List[str]].
+    Returns (topics_list_str, has_subtopics, hierarchy)
+    """
+    if isinstance(topics, dict):
+        hierarchy = topics
+    else:
+        hierarchy = {t: [] for t in topics}
+
+    has_subtopics = any(bool(subs) for subs in hierarchy.values())
+
+    lines = []
+    for top, subs in hierarchy.items():
+        if subs:
+            subs_fmt = ", ".join(subs)
+            lines.append(f"- {top} (Subtopics: {subs_fmt})")
+        else:
+            lines.append(f"- {top}")
+
+    topics_list_str = "\n".join(lines)
+    return topics_list_str, has_subtopics, hierarchy
+
+
+def match_best_topic_and_subtopic(
+    raw_topic: str,
+    raw_subtopic: Optional[str],
+    hierarchy: Dict[str, List[str]]
+) -> Tuple[str, Optional[str]]:
+    """
+    Matches raw strings from LLM to canonical topic and subtopic.
+    """
+    topic_list = list(hierarchy.keys())
+    if not topic_list:
+        return raw_topic, raw_subtopic
+
+    topic_set = set(topic_list)
+    topic_lower_map = {t.lower(): t for t in topic_list}
+
+    assigned_topic = topic_list[0]
+    raw_topic_str = str(raw_topic or "").strip()
+
+    if raw_topic_str in topic_set:
+        assigned_topic = raw_topic_str
+    elif raw_topic_str.lower() in topic_lower_map:
+        assigned_topic = topic_lower_map[raw_topic_str.lower()]
+    else:
+        for t in topic_list:
+            if t.lower() in raw_topic_str.lower() or raw_topic_str.lower() in t.lower():
+                assigned_topic = t
+                break
+
+    valid_subs = hierarchy.get(assigned_topic, [])
+    if not valid_subs:
+        return assigned_topic, None
+
+    if not raw_subtopic:
+        return assigned_topic, valid_subs[0]
+
+    raw_sub_str = str(raw_subtopic).strip()
+    sub_set = set(valid_subs)
+    sub_lower_map = {s.lower(): s for s in valid_subs}
+
+    if raw_sub_str in sub_set:
+        return assigned_topic, raw_sub_str
+    elif raw_sub_str.lower() in sub_lower_map:
+        return assigned_topic, sub_lower_map[raw_sub_str.lower()]
+    else:
+        for s in valid_subs:
+            if s.lower() in raw_sub_str.lower() or raw_sub_str.lower() in s.lower():
+                return assigned_topic, s
+
+    return assigned_topic, valid_subs[0]
+
+
+def classify_only_batch(batch: List[Dict], topics: Any, api_key: str, model: str) -> Dict[int, Dict[str, Any]]:
     """
     Sends minimal text (question only, plus options only if question < 50 chars)
-    for topic classification only (no spacing rewrite). Most minimal token consumption.
+    for topic (and optional subtopic) classification only.
     """
-    topics_list_str = "\n".join(f"- {t}" for t in topics)
+    topics_list_str, has_subtopics, hierarchy = build_classification_prompt_context(topics)
 
-    system_prompt = f"""You are an expert exam classifier for APPSC exams.
+    if has_subtopics:
+        system_prompt = f"""You are an expert exam classifier for APPSC exams.
+Classify each question strictly into ONE of the allowed topics, and select the best matching subtopic:
+{topics_list_str}
+
+Respond strictly as a JSON object where keys are question IDs as strings.
+Example:
+{{"1": {{"topic": "1. Ramayanam", "subtopic": "Characters"}}, "2": {{"topic": "5. Temple Agamas", "subtopic": "Vaishnavam (Vaikhanasa, Pancharatra, Chattada Srivaishnava)"}}}}"""
+    else:
+        system_prompt = f"""You are an expert exam classifier for APPSC exams.
 Classify each question strictly into ONE of the allowed topics:
 {topics_list_str}
 
@@ -183,11 +305,9 @@ Example:
     if "classifications" in data and isinstance(data["classifications"], dict):
         data = data["classifications"]
     elif "questions" in data and isinstance(data["questions"], list):
-        data = {str(item.get("id")): item.get("topic") for item in data["questions"]}
+        data = {str(item.get("id")): item for item in data["questions"]}
 
     results = {}
-    topic_set = set(topics)
-    topic_lower_map = {t.lower(): t for t in topics}
 
     for k, v in data.items():
         try:
@@ -195,21 +315,18 @@ Example:
         except ValueError:
             continue
 
-        raw_assigned = str(v).strip()
-        assigned_topic = topics[0]
-
-        if raw_assigned in topic_set:
-            assigned_topic = raw_assigned
-        elif raw_assigned.lower() in topic_lower_map:
-            assigned_topic = topic_lower_map[raw_assigned.lower()]
+        if isinstance(v, dict):
+            raw_top = v.get("topic") or v.get("t")
+            raw_sub = v.get("subtopic") or v.get("s")
         else:
-            for t in topics:
-                if t.lower() in raw_assigned.lower() or raw_assigned.lower() in t.lower():
-                    assigned_topic = t
-                    break
+            raw_top = str(v).strip()
+            raw_sub = None
+
+        assigned_topic, assigned_subtopic = match_best_topic_and_subtopic(raw_top, raw_sub, hierarchy)
 
         results[q_id] = {
             "topic": assigned_topic,
+            "subtopic": assigned_subtopic if has_subtopics else None,
             "q": None,
             "opts": None
         }
@@ -217,21 +334,40 @@ Example:
     return results
 
 
-def classify_and_clean_batch(batch: List[Dict], topics: List[str], api_key: str, model: str) -> Dict[int, Dict[str, Any]]:
+def classify_and_clean_batch(batch: List[Dict], topics: Any, api_key: str, model: str) -> Dict[int, Dict[str, Any]]:
     """
     Sends a compact batch of questions and options to LLM.
     Returns:
     {
        q_id: {
            "topic": "<Classified Topic>",
+           "subtopic": "<Classified Subtopic or None>",
            "q": "<Properly spaced question text>",
            "opts": { "1": "<Properly spaced opt 1>", ... }
        }
     }
     """
-    topics_list_str = "\n".join(f"- {t}" for t in topics)
+    topics_list_str, has_subtopics, hierarchy = build_classification_prompt_context(topics)
 
-    system_prompt = f"""You are an expert exam editor and topic classifier for APPSC exams.
+    if has_subtopics:
+        system_prompt = f"""You are an expert exam editor and topic classifier for APPSC exams.
+Your tasks:
+1. Fix OCR concatenation and spacing errors in question text ('q') and options ('opts') (e.g., 'RecentlyGovernmentof India' -> 'Recently Government of India', 'September23' -> 'September 23', 'TheWorldEconomicforum' -> 'The World Economic Forum'). Retain exact wording, casing, numbers, and meaning.
+2. Classify each question into exactly ONE allowed topic and choose its matching subtopic:
+{topics_list_str}
+
+Output strictly a JSON object where keys are question IDs as strings.
+Example format:
+{{
+  "12": {{
+    "topic": "1. Ramayanam",
+    "subtopic": "Characters",
+    "q": "Recently Government of India declared",
+    "opts": {{"1": "June 23", "2": "July 23", "3": "August 23", "4": "September 23"}}
+  }}
+}}"""
+    else:
+        system_prompt = f"""You are an expert exam editor and topic classifier for APPSC exams.
 Your tasks:
 1. Fix OCR concatenation and spacing errors in question text ('q') and options ('opts') (e.g., 'RecentlyGovernmentof India' -> 'Recently Government of India', 'September23' -> 'September 23', 'TheWorldEconomicforum' -> 'The World Economic Forum'). Retain exact wording, casing, numbers, and meaning.
 2. Classify each question into exactly ONE allowed topic:
@@ -290,8 +426,6 @@ Example format:
             parsed_items = data
 
     results = {}
-    topic_set = set(topics)
-    topic_lower_map = {t.lower(): t for t in topics}
 
     for k, v in parsed_items.items():
         try:
@@ -302,24 +436,17 @@ Example format:
         if not isinstance(v, dict):
             continue
 
-        raw_assigned = str(v.get("topic") or v.get("t") or "").strip()
-        assigned_topic = topics[0]
+        raw_top = v.get("topic") or v.get("t")
+        raw_sub = v.get("subtopic") or v.get("s")
 
-        if raw_assigned in topic_set:
-            assigned_topic = raw_assigned
-        elif raw_assigned.lower() in topic_lower_map:
-            assigned_topic = topic_lower_map[raw_assigned.lower()]
-        else:
-            for t in topics:
-                if t.lower() in raw_assigned.lower() or raw_assigned.lower() in t.lower():
-                    assigned_topic = t
-                    break
+        assigned_topic, assigned_subtopic = match_best_topic_and_subtopic(raw_top, raw_sub, hierarchy)
 
         cleaned_q = v.get("q") or v.get("question")
         cleaned_opts = v.get("opts") or v.get("options") or {}
 
         results[q_id] = {
             "topic": assigned_topic,
+            "subtopic": assigned_subtopic if has_subtopics else None,
             "q": cleaned_q,
             "opts": cleaned_opts
         }
@@ -330,12 +457,22 @@ Example format:
 def update_markdown_file(
     md_path: str,
     results_map: Dict[int, Dict[str, Any]],
-    topics: List[str],
+    topics: Any,
     output_path: Optional[str] = None
 ) -> Path:
     p = Path(md_path).resolve()
     with open(p, "r", encoding="utf-8") as f:
         content = f.read()
+
+    # Determine topic list and hierarchy
+    if isinstance(topics, dict):
+        hierarchy = topics
+        topic_list = list(topics.keys())
+    else:
+        hierarchy = {t: [] for t in topics}
+        topic_list = list(topics)
+
+    has_any_subtopics = any(res.get("subtopic") for res in results_map.values()) or any(bool(s) for s in hierarchy.values())
 
     def replace_question_block(match):
         q_num = int(match.group(1))
@@ -346,14 +483,25 @@ def update_markdown_file(
 
         res = results_map[q_num]
         new_topic = res["topic"]
+        new_subtopic = res.get("subtopic")
         cleaned_q = res.get("q")
         cleaned_opts = res.get("opts")
 
-        # 1. Update Topic
+        # 1. Update Topic & Subtopic
         if re.search(r"\*\*Topic:\*\*[^\n]+", block_body):
             block_body = re.sub(r"\*\*Topic:\*\*[^\n]+", f"**Topic:** {new_topic}", block_body)
         else:
             block_body = f"\n\n**Topic:** {new_topic}\n" + block_body
+
+        if new_subtopic:
+            if re.search(r"\*\*Subtopic:\*\*[^\n]+", block_body):
+                block_body = re.sub(r"\*\*Subtopic:\*\*[^\n]+", f"**Subtopic:** {new_subtopic}", block_body)
+            else:
+                # Insert directly after **Topic:** line
+                block_body = re.sub(r"(\*\*Topic:\*\*[^\n]+)", r"\1\n**Subtopic:** " + new_subtopic, block_body, count=1)
+        else:
+            # If no subtopic assigned, remove any leftover Subtopic tag if present
+            block_body = re.sub(r"\n?\*\*Subtopic:\*\*[^\n]+", "", block_body)
 
         # 2. Update Question text if cleaned text is provided and reasonable
         if cleaned_q and isinstance(cleaned_q, str) and len(cleaned_q.strip()) > 0:
@@ -407,20 +555,43 @@ def update_markdown_file(
     )
 
     # Rebuild Topic Index
+    # Map topic -> subtopic -> [Q#]
+    topic_sub_to_qs = defaultdict(lambda: defaultdict(list))
     topic_to_qs = defaultdict(list)
     for q_num, res in sorted(results_map.items()):
-        topic_to_qs[res["topic"]].append(f"Q{q_num}")
+        t = res["topic"]
+        s = res.get("subtopic")
+        topic_to_qs[t].append(f"Q{q_num}")
+        if s:
+            topic_sub_to_qs[t][s].append(f"Q{q_num}")
 
     index_lines = ["## Topic Index\n\n"]
-    for top in topics:
+    for top in topic_list:
         index_lines.append(f"### {top}\n\n")
-        qs = topic_to_qs[top]
-        if qs:
-            for q in qs:
-                index_lines.append(f"- {q}\n")
+        subs_defined = hierarchy.get(top, [])
+        if has_any_subtopics and (subs_defined or topic_sub_to_qs[top]):
+            all_subs = list(subs_defined)
+            for s in topic_sub_to_qs[top]:
+                if s not in all_subs:
+                    all_subs.append(s)
+
+            for s in all_subs:
+                index_lines.append(f"#### {s}\n\n")
+                qs = topic_sub_to_qs[top].get(s, [])
+                if qs:
+                    for q in qs:
+                        index_lines.append(f"- {q}\n")
+                else:
+                    index_lines.append("*(No questions)*\n")
+                index_lines.append("\n")
         else:
-            index_lines.append("*(No questions)*\n")
-        index_lines.append("\n")
+            qs = topic_to_qs[top]
+            if qs:
+                for q in qs:
+                    index_lines.append(f"- {q}\n")
+            else:
+                index_lines.append("*(No questions)*\n")
+            index_lines.append("\n")
 
     new_index_str = "".join(index_lines).strip()
 
@@ -491,8 +662,14 @@ def main():
         sys.exit(1)
 
     print(f"Loading topics from: {args.topics}")
-    topics = load_topics(args.topics)
-    print(f"Loaded {len(topics)} topics.")
+    hierarchy = load_topic_hierarchy(args.topics)
+    topics = list(hierarchy.keys())
+    has_subtopics = any(bool(s) for s in hierarchy.values())
+    total_subtopics = sum(len(s) for s in hierarchy.values())
+    if has_subtopics:
+        print(f"Loaded {len(topics)} topics with {total_subtopics} subtopics.")
+    else:
+        print(f"Loaded {len(topics)} topics.")
 
     print(f"Reading markdown questions from: {args.md_file}")
     with open(args.md_file, "r", encoding="utf-8") as f:
@@ -531,15 +708,15 @@ def main():
         print(f"  Processing questions Q{start_q} - Q{end_q} ({len(batch)} questions)...")
 
         if mode == "fix_spacing":
-            batch_result = classify_and_clean_batch(batch, topics, api_key, args.model)
+            batch_result = classify_and_clean_batch(batch, hierarchy, api_key, args.model)
         else:
-            batch_result = classify_only_batch(batch, topics, api_key, args.model)
+            batch_result = classify_only_batch(batch, hierarchy, api_key, args.model)
 
         results_map.update(batch_result)
 
     print(f"\nSuccessfully processed {len(results_map)} questions.")
 
-    out_file = update_markdown_file(args.md_file, results_map, topics, args.output)
+    out_file = update_markdown_file(args.md_file, results_map, hierarchy, args.output)
     print(f"Markdown file successfully updated: {out_file}")
 
     if not args.no_sort:
@@ -553,7 +730,7 @@ def main():
                 from postsort import sort_markdown_by_topic
 
         print("Auto-rearranging questions sorted by topic...")
-        sorted_file = sort_markdown_by_topic(str(out_file), topics)
+        sorted_file = sort_markdown_by_topic(str(out_file), hierarchy)
         print(f"Questions successfully sorted by topic: {sorted_file}")
 
 

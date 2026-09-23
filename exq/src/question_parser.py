@@ -1,6 +1,7 @@
 import re
 from typing import List, Tuple, Dict
 from src.models import RawQuestionBlock, ParsedOption, RawLine, RawSpan
+from src.language_detector import line_is_mostly_telugu
 
 METADATA_PATTERNS = [
     re.compile(r"^(?:None\s+)?(?:Response\s+Time|Think\s+Time|Minimum\s+Instruction\s+Time|Maximum\s+Instruction\s+Time|Instruction\s+Time|Calculator|Correct\s+Marks|Wrong\s+Marks|Question\s+Number|Question\s+Id|Question\s+Type|Is\s+Question\s+Mandatory|Question\s+Mandatory|Option\s+Shuffling|Display\s+Question\s+Number|Single\s+Line\s+Question\s+Option|Negative\s+Marks\s+Display\s+Text|Option\s+Orientation)\s*:", re.IGNORECASE),
@@ -67,7 +68,7 @@ class QuestionParser:
             q_text_lines = []
             for l in lines[content_start_idx:]:
                 txt = strip_metadata_prefix(l.text)
-                if txt and not is_metadata_line(txt):
+                if txt and not is_metadata_line(txt) and not line_is_mostly_telugu(txt):
                     q_text_lines.append(txt)
             q_text = " ".join(q_text_lines)
             review_issues.append("Could not find 'Options :' marker in question block.")
@@ -77,7 +78,7 @@ class QuestionParser:
         q_text_parts = []
         for line in lines[content_start_idx:options_idx]:
             txt = strip_metadata_prefix(line.text)
-            if txt and not is_metadata_line(txt):
+            if txt and not is_metadata_line(txt) and not line_is_mostly_telugu(txt):
                 q_text_parts.append(txt)
         question_text = " ".join(q_text_parts)
 
@@ -91,12 +92,17 @@ class QuestionParser:
         opt_lines = lines[options_idx + 1:]
         # Check if the options use large CBT IDs (e.g., 8277885801.)
         cbt_id_regex = re.compile(r"^\d{6,}\.\s*(.*)$")
-        standard_regex = re.compile(r"^([1-9]\d*)\.\s*(.*)$")
+        # Require dot followed by space or end of string — prevents matching decimal numbers like '3.08%'
+        standard_regex = re.compile(r"^([1-9]\d*)\.(?:\s+(.*)|\s*$)")
         has_cbt_markers = any(re.match(r"^\d{6,}\.", l.text.strip()) for l in opt_lines)
 
         for line in opt_lines:
             line_txt = line.text.strip()
             if not line_txt:
+                continue
+
+            # Skip Telugu option text lines
+            if line_is_mostly_telugu(line_txt):
                 continue
 
             # Stop at Hints :
@@ -124,7 +130,7 @@ class QuestionParser:
                     if opt_val == next_expected or (cur_opt_num is None and opt_val == 1) or (cur_opt_num is not None and opt_val > cur_opt_num and opt_val <= cur_opt_num + 2):
                         is_new_option = True
                         new_opt_num = opt_val
-                        new_rest = m.group(2).strip()
+                        new_rest = (m.group(2) or "").strip()
 
             if is_new_option:
                 # Save previous option if exists
@@ -141,8 +147,10 @@ class QuestionParser:
                 cur_opt_spans = list(line.spans)
             else:
                 if cur_opt_num is not None:
-                    cur_opt_text_parts.append(line_txt)
-                    cur_opt_spans.extend(line.spans)
+                    # Skip exact duplicate continuation lines (bilingual PDF mirror lines)
+                    if not cur_opt_text_parts or line_txt != cur_opt_text_parts[-1]:
+                        cur_opt_text_parts.append(line_txt)
+                        cur_opt_spans.extend(line.spans)
 
         # Save last option
         if cur_opt_num is not None:

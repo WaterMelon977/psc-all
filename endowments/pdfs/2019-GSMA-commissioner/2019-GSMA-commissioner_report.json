@@ -1,0 +1,25 @@
+{
+  "input_filename": "D:\\appsc-loaded\\endowments\\pdfs\\2019-GSMA-commissioner.pdf",
+  "processing_timestamp": "2026-09-23T05:13:52.741825",
+  "total_pages": 11,
+  "total_question_blocks_detected": 0,
+  "english_questions_retained": 0,
+  "telugu_questions_discarded": 0,
+  "questions_with_detected_answers": 0,
+  "review_items_count": 0,
+  "topic_distribution": {
+    "Logical Reasoning and Analytical Ability": 0,
+    "Data Analysis and Tabulation": 0,
+    "Sustainable Development": 0,
+    "Environment": 0,
+    "Disaster Management and GIS": 0,
+    "Geography of India and AP": 0,
+    "History of India and AP": 0,
+    "Indian Polity and Governance": 0,
+    "Indian Economy and Planning": 0,
+    "General Science and Technology": 0,
+    "Current Events and Issues": 0
+  },
+  "warnings": [],
+  "duration_seconds": 2.26
+}

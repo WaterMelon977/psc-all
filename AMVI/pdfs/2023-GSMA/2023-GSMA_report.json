@@ -1,0 +1,24 @@
+{
+  "input_filename": "D:\\appsc-loaded\\AMVI\\pdfs\\2023-GSMA.pdf",
+  "processing_timestamp": "2026-09-23T05:39:53.842157",
+  "total_pages": 148,
+  "total_question_blocks_detected": 300,
+  "english_questions_retained": 150,
+  "telugu_questions_discarded": 150,
+  "questions_with_detected_answers": 139,
+  "review_items_count": 6,
+  "topic_distribution": {
+    "Strength of Materials": 149,
+    "Fluid Mechanics": 0,
+    "Material Science": 0,
+    "Theory of Machines": 1,
+    "Machine Design": 0,
+    "Thermodynamics": 0,
+    "Heat Transfer": 0,
+    "Refrigeration and Air Conditioning": 0,
+    "IC Engines": 0,
+    "Production Technology": 0
+  },
+  "warnings": [],
+  "duration_seconds": 529.359
+}

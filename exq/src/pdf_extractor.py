@@ -33,6 +33,7 @@ class PDFExtractor:
         current_block: RawQuestionBlock = None
 
         qnum_regex = re.compile(r"Question Number\s*:\s*(\d+)", re.IGNORECASE)
+        page_images_by_pno = {}
 
         # Track block positions and images per page
         for pno in range(total_pages):
@@ -46,6 +47,7 @@ class PDFExtractor:
                 if b.get("type") == 1:
                     w = b.get("width", 0)
                     h = b.get("height", 0)
+                    # Question content image is usually > 24px (excluding 16x16 checkmark/cross icons)
                     if w > 24 or h > 24:
                         page_images.append(b.get("bbox", (0, 0, 0, 0)))
 
@@ -123,40 +125,35 @@ class PDFExtractor:
                                 current_block.content_page_number = pno + 1
                                 current_block.content_start_y = line.get("bbox", (0, 0, 0, 0))[3]
 
+            # Check images for questions on this page
+            # If current_block is active and on this page, or recently finalized
+            # Store per-page image bboxes for quick lookup
+            page_images_by_pno[pno + 1] = page_images
+
         if current_block is not None:
             current_block.end_page_number = total_pages
             current_block.end_y = page_rect.height - 35.0
             raw_blocks.append(current_block)
 
-        # Check if question blocks contain embedded images within their page range and bbox
+        # Fast image association using page_images_by_pno
         for b in raw_blocks:
-            try:
-                start_p = b.content_page_number if b.content_page_number > 0 else b.page_number
-                end_p = b.end_page_number if (b.end_page_number and b.end_page_number >= start_p) else start_p
-                has_img = False
+            start_p = b.content_page_number if b.content_page_number > 0 else b.page_number
+            end_p = b.end_page_number if (b.end_page_number and b.end_page_number >= start_p) else start_p
+            has_img = False
 
-                for pno in range(start_p, end_p + 1):
-                    page = doc[pno - 1]
-                    p_dict = page.get_text("dict")
-                    top_limit = (b.content_start_y - 5.0) if pno == start_p else 0.0
-                    bottom_limit = (b.end_y + 5.0) if pno == end_p else page.rect.height
+            for pno in range(start_p, end_p + 1):
+                imgs = page_images_by_pno.get(pno, [])
+                top_limit = (b.content_start_y - 5.0) if pno == start_p else 0.0
+                bottom_limit = (b.end_y + 5.0) if pno == end_p else 9999.0
 
-                    for img_b in p_dict.get("blocks", []):
-                        if img_b.get("type") == 1:
-                            w = img_b.get("width", 0)
-                            h = img_b.get("height", 0)
-                            # Question content image is usually > 24px (excluding 16x16 checkmark/cross icons)
-                            if w > 24 or h > 24:
-                                img_bbox = img_b.get("bbox", [0, 0, 0, 0])
-                                if img_bbox[3] >= top_limit and img_bbox[1] <= bottom_limit:
-                                    has_img = True
-                                    break
-                    if has_img:
+                for img_bbox in imgs:
+                    if img_bbox[3] >= top_limit and img_bbox[1] <= bottom_limit:
+                        has_img = True
                         break
+                if has_img:
+                    break
 
-                b.has_images = has_img
-            except Exception:
-                pass
+            b.has_images = has_img
 
         doc.close()
         return raw_blocks, total_pages

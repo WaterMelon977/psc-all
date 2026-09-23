@@ -63,6 +63,9 @@ C_ANS_TEXT  = '#111827'   # answer text: dark charcoal, bold
 C_HDR_BG    = '#1E293B'   # topic header background (dark charcoal)
 C_HDR_ACC   = '#6B7280'   # topic header left-accent stripe (slate, not blue)
 C_TOPIC_TXT = '#FFFFFF'   # topic header white text
+C_SUBTOPIC_BG  = '#F1F5F9' # subtopic header soft tinted background (slate-50)
+C_SUBTOPIC_ACC = '#64748B' # subtopic left-accent stripe (slate-500)
+C_SUBTOPIC_TXT = '#1E293B' # subtopic header dark charcoal text
 C_TBL_HDR   = '#1E293B'   # match-table header row bg
 C_TBL_Z1    = '#FFFFFF'   # table zebra row 1
 C_TBL_Z2    = '#F9FAFB'   # table zebra row 2
@@ -148,14 +151,25 @@ def parse_markdown_questions(md_path):
         text = f.read()
 
     topic_order = []
+    subtopic_order = {}  # topic -> [subtopic1, subtopic2, ...]
+    current_topic_idx = None
+
     idx_match = re.search(r'## Topic Index\s*\n(.*?)\n---', text, re.DOTALL)
     if idx_match:
         for line in idx_match.group(1).split('\n'):
             line = line.strip()
             if line.startswith('### '):
                 t = line.replace('### ', '').strip()
-                if t and t not in topic_order:
-                    topic_order.append(t)
+                if t:
+                    current_topic_idx = t
+                    if t not in topic_order:
+                        topic_order.append(t)
+                    if t not in subtopic_order:
+                        subtopic_order[t] = []
+            elif line.startswith('#### ') and current_topic_idx:
+                s = line.replace('#### ', '').strip()
+                if s and s not in subtopic_order[current_topic_idx]:
+                    subtopic_order[current_topic_idx].append(s)
 
     q_blocks = re.split(r'## Question (\d+)', text)
     questions = []
@@ -167,6 +181,9 @@ def parse_markdown_questions(md_path):
 
         t_m   = re.search(r'\*\*Topic:\*\*\s*(.+)', q_body)
         topic = t_m.group(1).strip() if t_m else 'General'
+
+        s_m      = re.search(r'\*\*Subtopic:\*\*\s*(.+)', q_body)
+        subtopic = s_m.group(1).strip() if s_m else ''
 
         q_m       = re.search(r'### Question\s*\n\s*(.*?)\s*### Options',  q_body, re.DOTALL)
         raw_q     = q_m.group(1).strip() if q_m else ''
@@ -206,12 +223,12 @@ def parse_markdown_questions(md_path):
             ans_display = ', '.join(f'({ans_map.get(t, t)})' for t in tokens)
 
         questions.append(dict(
-            q_num=q_num, topic=topic, q_text=raw_q,
+            q_num=q_num, topic=topic, subtopic=subtopic, q_text=raw_q,
             options=opts, raw_ans=raw_ans,
             ans_display=ans_display, exam=clean_exam, note=note
         ))
 
-    return questions, topic_order
+    return questions, topic_order, subtopic_order
 
 
 # ---------------------------------------------------------------------------
@@ -363,7 +380,12 @@ def render_question_flowables(q_num, raw_q_text, col_w, styles, Q_HANG):
 # Main PDF generator
 # ---------------------------------------------------------------------------
 def generate_topicwise_pdf(md_input_path, pdf_output_path, header_override=None):
-    questions, topic_order = parse_markdown_questions(md_input_path)
+    parsed_res = parse_markdown_questions(md_input_path)
+    if len(parsed_res) == 3:
+        questions, topic_order, subtopic_order = parsed_res
+    else:
+        questions, topic_order = parsed_res
+        subtopic_order = {}
     header_title = _derive_header_title(md_input_path, header_override=header_override)
 
     # Group & order by topic
@@ -398,6 +420,11 @@ def generate_topicwise_pdf(md_input_path, pdf_output_path, header_override=None)
         'TopicHeading': S('TopicHeading',
             fontName=FONT_BOLD, fontSize=9.0, leading=12.0,
             textColor=colors.HexColor(C_TOPIC_TXT)),
+
+        # Subtopic header: pronounced yet soft, dark charcoal bold on soft slate tint
+        'SubtopicHeading': S('SubtopicHeading',
+            fontName=FONT_BOLD, fontSize=7.8, leading=10.5,
+            textColor=colors.HexColor(C_SUBTOPIC_TXT)),
 
         # Question number: regular style; Q.<n> inline gets larger bold via font tag
         'QPrompt': S('QPrompt',
@@ -461,6 +488,20 @@ def generate_topicwise_pdf(md_input_path, pdf_output_path, header_override=None)
         ]))
         return t
 
+    def render_subtopic_banner(subtopic_name, width):
+        p_sub = Paragraph(f'{clean_md(subtopic_name)}', ST['SubtopicHeading'])
+        sub_tbl = Table([[p_sub]], colWidths=[width])
+        sub_tbl.setStyle(TableStyle([
+            ('BACKGROUND',    (0, 0), (-1, -1), colors.HexColor(C_SUBTOPIC_BG)),
+            ('BOX',           (0, 0), (-1, -1), 0.4, colors.HexColor('#CBD5E1')),
+            ('LINEBEFORE',    (0, 0), (0,  0), 2.5, colors.HexColor(C_SUBTOPIC_ACC)),
+            ('TOPPADDING',    (0, 0), (-1, -1), 3),
+            ('BOTTOMPADDING', (0, 0), (-1, -1), 3),
+            ('LEFTPADDING',   (0, 0), (-1, -1), 6),
+            ('RIGHTPADDING',  (0, 0), (-1, -1), 6),
+        ]))
+        return sub_tbl
+
     # ---- Story ----
     story = []
 
@@ -479,89 +520,115 @@ def generate_topicwise_pdf(md_input_path, pdf_output_path, header_override=None)
             ('LEFTPADDING',   (0, 0), (-1, -1), 9),
             ('RIGHTPADDING',  (0, 0), (-1, -1), 6),
         ]))
-        story.extend([Spacer(1, 8), topic_tbl, Spacer(1, 8)])
+        story.extend([Spacer(1, 8), topic_tbl, Spacer(1, 6)])
 
-        for q in topic_qs:
-            # 1. Question prompt (Q. number bold 9.5pt; body regular 8.5pt)
-            prompt_fls = render_question_flowables(
-                q['q_num'], q['q_text'], col_w, ST, Q_HANG
-            )
+        # Subtopic groupings within topic
+        # Check if any question has a subtopic
+        has_subtopics = any(bool(q.get('subtopic')) for q in topic_qs)
 
-            # 2. Options: rigid 2-col grid, indented to align below question body
-            opts   = q['options']
-            opt_a  = opts.get('A', '')
-            opt_b  = opts.get('B', '')
-            opt_c  = opts.get('C', '')
-            opt_d  = opts.get('D', '')
+        if has_subtopics:
+            sub_dict = {}
+            for q in topic_qs:
+                sub_dict.setdefault(q.get('subtopic', ''), []).append(q)
 
-            lbl_a = f'<font fontName="{FONT_BOLD}">(A)</font>\u00a0'
-            lbl_b = f'<font fontName="{FONT_BOLD}">(B)</font>\u00a0'
-            lbl_c = f'<font fontName="{FONT_BOLD}">(C)</font>\u00a0'
-            lbl_d = f'<font fontName="{FONT_BOLD}">(D)</font>\u00a0'
+            defined_sub_order = subtopic_order.get(topic_name, [])
+            ordered_subs = [s for s in defined_sub_order if s in sub_dict]
+            for s in sub_dict:
+                if s and s not in ordered_subs:
+                    ordered_subs.append(s)
+            if '' in sub_dict:
+                ordered_subs.append('')
 
-            p_a = Paragraph(f'{lbl_a}{clean_md(opt_a)}', ST['OptText'])
-            p_b = Paragraph(f'{lbl_b}{clean_md(opt_b)}', ST['OptText'])
-            p_c = Paragraph(f'{lbl_c}{clean_md(opt_c)}', ST['OptText'])
-            p_d = Paragraph(f'{lbl_d}{clean_md(opt_d)}', ST['OptText'])
+            subtopic_groups = [(s, sub_dict[s]) for s in ordered_subs]
+        else:
+            subtopic_groups = [('', topic_qs)]
 
-            opts_inner_w  = col_w - OPT_IND - 4
-            max_len = max(len(opt_a), len(opt_b), len(opt_c), len(opt_d))
+        for sub_name, qs_in_sub in subtopic_groups:
+            if sub_name:
+                sub_banner = render_subtopic_banner(sub_name, col_w)
+                story.extend([Spacer(1, 4), sub_banner, Spacer(1, 6)])
 
-            if max_len <= 26 and '\n' not in (opt_a + opt_b + opt_c + opt_d):
-                hw = opts_inner_w / 2.0
-                t_opts = Table([[p_a, p_b], [p_c, p_d]], colWidths=[hw, hw])
-            else:
-                t_opts = Table([[p_a], [p_b], [p_c], [p_d]], colWidths=[opts_inner_w])
+            for q in qs_in_sub:
+                # 1. Question prompt (Q. number bold 9.5pt; body regular 8.5pt)
+                prompt_fls = render_question_flowables(
+                    q['q_num'], q['q_text'], col_w, ST, Q_HANG
+                )
 
-            t_opts.setStyle(TableStyle([
-                ('VALIGN',        (0, 0), (-1, -1), 'TOP'),
-                ('LEFTPADDING',   (0, 0), (-1, -1), 2),
-                ('RIGHTPADDING',  (0, 0), (-1, -1), 2),
-                ('TOPPADDING',    (0, 0), (-1, -1), 1),
-                ('BOTTOMPADDING', (0, 0), (-1, -1), 2),
-            ]))
+                # 2. Options: rigid 2-col grid, indented to align below question body
+                opts   = q['options']
+                opt_a  = opts.get('A', '')
+                opt_b  = opts.get('B', '')
+                opt_c  = opts.get('C', '')
+                opt_d  = opts.get('D', '')
 
-            # 3. Answer strip: subtle gray background, single line
-            ans_w    = col_w - OPT_IND
-            p_ans    = Paragraph(f'Ans\u00a0:\u00a0{q["ans_display"]}', ST['AnsText'])
-            exam_txt = f'[{clean_md(q["exam"])}]' if q['exam'] else ''
-            p_exam   = Paragraph(exam_txt, ST['ExamText'])
+                lbl_a = f'<font fontName="{FONT_BOLD}">(A)</font>\u00a0'
+                lbl_b = f'<font fontName="{FONT_BOLD}">(B)</font>\u00a0'
+                lbl_c = f'<font fontName="{FONT_BOLD}">(C)</font>\u00a0'
+                lbl_d = f'<font fontName="{FONT_BOLD}">(D)</font>\u00a0'
 
-            ans_strip = Table(
-                [[p_ans, p_exam]],
-                colWidths=[ans_w * 0.55, ans_w * 0.45]
-            )
-            ans_strip.setStyle(TableStyle([
-                ('BACKGROUND',    (0, 0), (-1, -1), colors.HexColor(C_ANS_BG)),
-                ('VALIGN',        (0, 0), (-1, -1), 'MIDDLE'),
-                ('LEFTPADDING',   (0, 0), (-1, -1), 6),
-                ('RIGHTPADDING',  (0, 0), (-1, -1), 6),
-                ('TOPPADDING',    (0, 0), (-1, -1), 3),
-                ('BOTTOMPADDING', (0, 0), (-1, -1), 3),
-            ]))
+                p_a = Paragraph(f'{lbl_a}{clean_md(opt_a)}', ST['OptText'])
+                p_b = Paragraph(f'{lbl_b}{clean_md(opt_b)}', ST['OptText'])
+                p_c = Paragraph(f'{lbl_c}{clean_md(opt_c)}', ST['OptText'])
+                p_d = Paragraph(f'{lbl_d}{clean_md(opt_d)}', ST['OptText'])
 
-            # Assemble: extend story with prompt, then KeepTogether for opts+ans+divider
-            story.extend(prompt_fls)
+                opts_inner_w  = col_w - OPT_IND - 4
+                max_len = max(len(opt_a), len(opt_b), len(opt_c), len(opt_d))
 
-            ans_block = [
-                Spacer(1, 5),
-                indented(t_opts, OPT_IND, col_w),
-                Spacer(1, 4),
-                indented(ans_strip, OPT_IND, col_w),
-            ]
+                if max_len <= 26 and '\n' not in (opt_a + opt_b + opt_c + opt_d):
+                    hw = opts_inner_w / 2.0
+                    t_opts = Table([[p_a, p_b], [p_c, p_d]], colWidths=[hw, hw])
+                else:
+                    t_opts = Table([[p_a], [p_b], [p_c], [p_d]], colWidths=[opts_inner_w])
 
-            if q['note']:
-                ans_block.append(Spacer(1, 2))
-                ans_block.append(Paragraph(clean_md(q['note']), ST['NoteText']))
+                t_opts.setStyle(TableStyle([
+                    ('VALIGN',        (0, 0), (-1, -1), 'TOP'),
+                    ('LEFTPADDING',   (0, 0), (-1, -1), 2),
+                    ('RIGHTPADDING',  (0, 0), (-1, -1), 2),
+                    ('TOPPADDING',    (0, 0), (-1, -1), 1),
+                    ('BOTTOMPADDING', (0, 0), (-1, -1), 2),
+                ]))
 
-            # ONE light-gray divider per question, with breathing room after
-            ans_block.append(HRFlowable(
-                width='100%', thickness=0.35,
-                color=colors.HexColor(C_DIVIDER),
-                spaceBefore=5, spaceAfter=8   # 8pt between questions
-            ))
+                # 3. Answer strip: subtle gray background, single line
+                ans_w    = col_w - OPT_IND
+                p_ans    = Paragraph(f'Ans\u00a0:\u00a0{q["ans_display"]}', ST['AnsText'])
+                exam_txt = f'[{clean_md(q["exam"])}]' if q['exam'] else ''
+                p_exam   = Paragraph(exam_txt, ST['ExamText'])
 
-            story.append(KeepTogether(ans_block))
+                ans_strip = Table(
+                    [[p_ans, p_exam]],
+                    colWidths=[ans_w * 0.55, ans_w * 0.45]
+                )
+                ans_strip.setStyle(TableStyle([
+                    ('BACKGROUND',    (0, 0), (-1, -1), colors.HexColor(C_ANS_BG)),
+                    ('VALIGN',        (0, 0), (-1, -1), 'MIDDLE'),
+                    ('LEFTPADDING',   (0, 0), (-1, -1), 6),
+                    ('RIGHTPADDING',  (0, 0), (-1, -1), 6),
+                    ('TOPPADDING',    (0, 0), (-1, -1), 3),
+                    ('BOTTOMPADDING', (0, 0), (-1, -1), 3),
+                ]))
+
+                # Assemble: extend story with prompt, then KeepTogether for opts+ans+divider
+                story.extend(prompt_fls)
+
+                ans_block = [
+                    Spacer(1, 5),
+                    indented(t_opts, OPT_IND, col_w),
+                    Spacer(1, 4),
+                    indented(ans_strip, OPT_IND, col_w),
+                ]
+
+                if q['note']:
+                    ans_block.append(Spacer(1, 2))
+                    ans_block.append(Paragraph(clean_md(q['note']), ST['NoteText']))
+
+                # ONE light-gray divider per question, with breathing room after
+                ans_block.append(HRFlowable(
+                    width='100%', thickness=0.35,
+                    color=colors.HexColor(C_DIVIDER),
+                    spaceBefore=5, spaceAfter=8   # 8pt between questions
+                ))
+
+                story.append(KeepTogether(ans_block))
 
     # ----- Frames & doc -----
     content_h   = page_h - TOP_M - BOTTOM_M
