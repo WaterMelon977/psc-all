@@ -1,0 +1,24 @@
+{
+  "input_filename": "D:\\appsc-loaded\\endowments\\pdfs\\2021(2)-hindulaw.pdf",
+  "processing_timestamp": "2026-09-23T16:12:04.019899",
+  "total_pages": 62,
+  "total_question_blocks_detected": 150,
+  "english_questions_retained": 150,
+  "telugu_questions_discarded": 0,
+  "questions_with_detected_answers": 150,
+  "review_items_count": 0,
+  "topic_distribution": {
+    "Strength of Materials": 149,
+    "Fluid Mechanics": 0,
+    "Material Science": 0,
+    "Theory of Machines": 1,
+    "Machine Design": 0,
+    "Thermodynamics": 0,
+    "Heat Transfer": 0,
+    "Refrigeration and Air Conditioning": 0,
+    "IC Engines": 0,
+    "Production Technology": 0
+  },
+  "warnings": [],
+  "duration_seconds": 3.272
+}

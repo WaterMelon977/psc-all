@@ -26,9 +26,8 @@ try:
 except ImportError:
     pass
 
-# google/gemini-2.5-flash-lite offers high speed, high reasoning accuracy,
-# and ultra-low pricing ($0.10/M prompt, $0.40/M completion).
-DEFAULT_MODEL = "google/gemini-2.5-flash-lite"
+# Default model set to Qwen 2.5 72B Instruct for high-accuracy reasoning on State PSC syllabi
+DEFAULT_MODEL = "qwen/qwen-2.5-72b-instruct"
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 

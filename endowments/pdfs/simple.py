@@ -45,16 +45,30 @@ def extract_final_key_pdf(pdf_path: str, output_md_path: str, exam_title: str = 
         next_start = slices[i + 1][1] if i + 1 < len(slices) else len(full_text)
         block_text = full_text[s_end:next_start].strip()
 
-        # Split into non-empty lines
+        # Split into non-empty lines, filtering out stray divider lines or lonely punctuation
         lines = [clean_text(l) for l in block_text.splitlines() if clean_text(l)]
+        lines = [l for l in lines if not re.match(r"^[\.\s\:\-\_]+$", l)]
+        # Filter out stray artifact lines like "3. Section 18on 19" from Q54
+        lines = [l for l in lines if not re.match(r"^\d+\.\s*Section\s+\d+on\s+\d+", l)]
         if not lines:
             continue
 
-        if len(lines) == 1:
+        # Check paragraph structure
+        paras = [p.strip() for p in re.split(r"\n\s*\n", block_text) if p.strip()]
+        paras = [p for p in paras if not re.match(r"^[\.\s\:\-\_]+$", p)]
+        paras = [p for p in paras if not re.match(r"^\d+\.\s*Section\s+\d+on\s+\d+", p)]
+
+        if len(paras) >= 2:
+            ans_lines = [clean_text(l) for l in paras[-1].splitlines() if clean_text(l) and not re.match(r"^[\.\s\:\-\_]+$", l)]
+            ans_text = " ".join(ans_lines).strip()
+            q_lines = []
+            for p in paras[:-1]:
+                q_lines.extend([clean_text(l) for l in p.splitlines() if clean_text(l) and not re.match(r"^[\.\s\:\-\_]+$", l)])
+            q_text = " ".join(q_lines).strip()
+        elif len(lines) == 1:
             q_text = lines[0]
             ans_text = ""
         else:
-            # The last line (or lines) is the final answer
             ans_text = lines[-1]
             q_text = " ".join(lines[:-1])
 

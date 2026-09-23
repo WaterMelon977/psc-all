@@ -59,7 +59,7 @@ python exq/app.py d:\appsc-loaded\endowments\pdfs\2025-GSMA.pdf d:\appsc-loaded\
 
 ## 2. Step 2: OCR Spacing Fix & Topic Classification (`classify/classify.py`)
 
-Fixes concatenated OCR text (e.g. `RecentlyGovernmentof India` $\rightarrow$ `Recently Government of India`, `September23` $\rightarrow$ `September 23`) and classifies questions into the 11 official syllabus topics using OpenRouter (`google/gemini-2.5-flash-lite` by default for ultra-low token cost).
+Fixes concatenated OCR text (e.g. `RecentlyGovernmentof India` $\rightarrow$ `Recently Government of India`, `September23` $\rightarrow$ `September 23`) and classifies questions into official syllabus topics using OpenRouter (`qwen/qwen-2.5-72b-instruct` by default for high-accuracy reasoning on State PSC syllabi).
 
 ### Command Syntax
 

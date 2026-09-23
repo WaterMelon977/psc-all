@@ -1,0 +1,2101 @@
+{
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "Why are ecosystems important?",
+      "options": {
+        "1": "They provide a habitat for wildlife only.",
+        "2": "They regulate climate and provide oxygen.",
+        "3": "They are solely responsible for soil formation.",
+        "4": "They serve as source of entertainment for humans."
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 2,
+      "question": "Which of the following is a part of terrestrial ecosystems?",
+      "options": {
+        "1": "Estuaries",
+        "2": "Rivers",
+        "3": "Wetlands",
+        "4": "Grasslands"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 3,
+      "question": "Which of the following is an indirect utilisation of the forest ecosystem?",
+      "options": {
+        "1": "Fruits",
+        "2": "Wood for farm implements",
+        "3": "Grass for grazing",
+        "4": "Paper"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 4,
+      "question": "In an ecosystem, some animals feed on other organisms, while others feed on dead organic matter. What is this type of food chain called?",
+      "options": {
+        "1": "Herbivorous food chain",
+        "2": "Detritus food chain",
+        "3": "Carnivorous food chain",
+        "4": "Omnivorous food chain"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 5,
+      "question": "Which of the following best describes a food web?",
+      "options": {
+        "1": "A linear representation of energy flow from producers to consumers in an ecosystem",
+        "2": "A single chain showing the flow of energy from one trophic level to another",
+        "3": "A complex network of interconnected food chains in an ecosystem",
+        "4": "A graphical representation of the nutrient cycle within an ecosystem"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 6,
+      "question": "Which is the most basic and the first trophic level of an ecological pyramid?",
+      "options": {
+        "1": "Primary consumers",
+        "2": "Secondary consumers",
+        "3": "Producers",
+        "4": "Tertiary consumers"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 7,
+      "question": "In an ecological pyramid, what is the primary direction of energy flow?",
+      "options": {
+        "1": "From consumers to producers",
+        "2": "From producers to consumers",
+        "3": "From decomposers to consumers",
+        "4": "From predators to producers"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 8,
+      "question": "Which of the following best describes an ecosystem?",
+      "options": {
+        "1": "Only plants and animals in a particular area",
+        "2": "Soil, water, and air in a specific location",
+        "3": "Climate and weather patterns of a region",
+        "4": "Involves interaction between living organisms and the environment"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 9,
+      "question": "Which of the following best describes bio-accumulation?",
+      "options": {
+        "1": "The gradual accumulation of pollutants or toxins in the tissues of living organisms over time",
+        "2": "The process by which organisms eliminate toxins from their bodies",
+        "3": "The process by which organisms accumulate food",
+        "4": "The movement of nutrients through different trophic levels in an ecosystem"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 10,
+      "question": "What does the term ‘biogeochemical’ signify?",
+      "options": {
+        "1": "Movement of organisms through the ecosystem",
+        "2": "Flow of energy from sunlight to heat",
+        "3": "Cycling of elements between living and nonliving components",
+        "4": "Geological processes affecting only the biosphere"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 11,
+      "question": "Read the following statement and conclusions carefully and decide which of the conclusions logically follow(s) from the given statement. Statement:In an ecological pyramid, the energy transfer between trophic levels follows a hierarchical structure, with each successive level receiving less energy than the previous one. Conclusions: I. Top predators in an ecosystem, such as apex predators, have the lowest energy availability compared to primary producers. II. Primary producers contribute the most energy to the ecosystem, forming the foundation of the food web.",
+      "options": {
+        "1": "Only conclusion I follows",
+        "2": "Only conclusion II follows",
+        "3": "Neither conclusion I nor II follows",
+        "4": "Both conclusions I and II follow"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 12,
+      "question": "Read the following statement and conclusions carefully and decide which of the conclusions logically follow(s) from the given statement. Statement:Ecosystems provide invaluable services that support life on Earth and contribute to human well-being. Conclusions: I. Therefore, preserving ecosystems is essential for maintaining biodiversity and ecological balance. II. Consequently, investing in ecosystem conservation efforts has no significant impact on socio-economic development.",
+      "options": {
+        "1": "Only conclusion I follows",
+        "2": "Only conclusion II follows",
+        "3": "Neither conclusion I nor II follows",
+        "4": "Both conclusions I and II follow"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 13,
+      "question": "Select the option that is true regarding the following two statements labelled Assertion (A) and Reason (R). Assertion (A):Ecosystem services are essential for sustaining human well-being and economic development. Reason (R):The carrying capacity of an ecosystem determines its ability to provide services such as food production, water purification, and climate regulation. As human populations increase, the demand for these services may exceed the ecosystem’s capacity, leading to degradation and loss of biodiversity.",
+      "options": {
+        "1": "Both A and R are true, and R is the correct explanation of A",
+        "2": "Both A and R are true, and R is not the correct explanation of A",
+        "3": "A is true, but R is false",
+        "4": "A is false, but R is true"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 14,
+      "question": "Match the biogeographic zones of with their key features or locations. Biogeographic zones Key features or locations 1. Trans Himalayan Region A. Rajasthan, arid ecosystem 2. Thar Desert B. Snow-covered mountains, Ladakh 3. Western Ghats C. Maharashtra, Karnataka and Kerala 4. Andaman and Nicobar Islands D. Tropical forests, unique biodiversity",
+      "options": {
+        "1": "1-A,  2-B, 3-C, 4-D",
+        "2": "1-B,  2-A, 3-C, 4-D",
+        "3": "1-A,  2-B, 3-D, 4-C",
+        "4": "1-B,  2-A, 3-D, 4-C"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 15,
+      "question": "Match the following based on ecosystem goods and services. Types of values Examples/Explanations 1. Consumptive Use Value A. Preserving resources for future benefits 2. Productive Use Value B. Commercial resources like timber, fish, medicinal plants 3. Non-consumptive Use Value C. Non-market resources like firewood, fodder, etc. 4. Option Value D. Activities like bird-watching, ecotourism",
+      "options": {
+        "1": "1-A, 2-B, 3-C, 4-D",
+        "2": "1-B, 2-A, 3-D, 4-C",
+        "3": "1-C, 2-B, 3-D, 4-A",
+        "4": "1-B, 2-C, 3-D, 4-A"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 16,
+      "question": "What restricts the number of trophic levels in a food chain to four or five?",
+      "options": {
+        "1": "Limited availability of producers",
+        "2": "Significant energy loss (80-90%) at each transfer",
+        "3": "Competition between top predators",
+        "4": "Decline in biodiversity at higher levels"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 17,
+      "question": "How can droughts be mitigated?",
+      "options": {
+        "1": "By increasing water consumption during dry seasons",
+        "2": "By implementing water conservation measures, such as rain water harvesting",
+        "3": "By promoting deforestation to increase soil moisture retention",
+        "4": "By encouraging excessive irrigation practices"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 18,
+      "question": "Which of the following is an example of non-renewable energy sources?",
+      "options": {
+        "1": "Hydropower",
+        "2": "Geothermal",
+        "3": "Solar energy",
+        "4": "Natural gas"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 19,
+      "question": "Which of the following is NOT an indicator of sustainable lifestyles in human life?",
+      "options": {
+        "1": "No income enhancement",
+        "2": "Increased longevity",
+        "3": "An increase in knowledge",
+        "4": "An enhancement of income"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 20,
+      "question": "Which of the following is a potential problem caused by dams?",
+      "options": {
+        "1": "Increased agricultural productivity",
+        "2": "Reduced risk of flooding downstream",
+        "3": "Disruption of natural river flow",
+        "4": "Preservation of aquatic ecosystems"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 21,
+      "question": "Which modern method is used to locate and exploit mineral deposits?",
+      "options": {
+        "1": "Panning",
+        "2": "Satellite imagery and remote sensing technique",
+        "3": "Traditional mining techniques",
+        "4": "Surface sampling"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 22,
+      "question": "Which of the following is a potential consequence of the use and exploitation of mineral resources?",
+      "options": {
+        "1": "Decreases environmental pollution",
+        "2": "Enhances biodiversity in affected areas",
+        "3": "Ecological balance",
+        "4": "Soil erosion and habitat destruction"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 23,
+      "question": "Which of the following best describes the function of forests?",
+      "options": {
+        "1": "Forests contribute to noise pollution reduction in urban areas.",
+        "2": "Forests are mainly used for urban development and construction purposes.",
+        "3": "Forests primarily serve as recreational areas for tourists.",
+        "4": "Forests prevent flash floods and soil erosion."
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 24,
+      "question": "Which of the following represents the living natural resources?",
+      "options": {
+        "1": "Air",
+        "2": "Plants",
+        "3": "Soil",
+        "4": "Minerals"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 25,
+      "question": "Which of the following is a consequence of overutilisation of surface and groundwater?",
+      "options": {
+        "1": "Enhanced water quality",
+        "2": "Increased aquifer recharge rates",
+        "3": "Drought",
+        "4": "Expansion of wetland habitats"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 26,
+      "question": "Which of the following activities distinguishes the exploitation stage from other stages of mining operations?",
+      "options": {
+        "1": "Identification of mineral deposits through geophysical surveys",
+        "2": "Evaluation of the economic feasibility of extracting a deposit",
+        "3": "Construction of access routes and infrastructure for extraction",
+        "4": "Direct removal of minerals from the deposit for commercial use"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 27,
+      "question": "Read the given statements and conclusions carefully. Assuming that the information given in the statement is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusion(s) logically follow(s) from the statements. Statement: Sixteen percent of India's total area is drought-prone, primarily located in arid and semi-arid regions, due to prolonged lower-than- average rainfall. Conclusions: I. Drought is caused solely by human activities like deforestation. II. Drought-prone regions in India are concentrated in arid and semi-arid zones.",
+      "options": {
+        "1": "Only conclusion I follows.",
+        "2": "Only conclusion II follows.",
+        "3": "Neither conclusion I nor conclusion II follows.",
+        "4": "Both conclusions I and II follow."
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 28,
+      "question": "Select the option that is true regarding the following two statements labelled Assertion (A) and Reason (R). Assertion (A):Mining operations are a significant cause of environmental degradation. Reason (R):The extraction of minerals from the lithosphere leads to various adverse effects such as depletion of land, pollution of land, water, and air by industrial wastes, and conversion of land to industrial use.",
+      "options": {
+        "1": "Both A and R are true, and R is the correct explanation of A",
+        "2": "Both A and R are true, and R is not the correct explanation of A",
+        "3": "A is true, but R is false",
+        "4": "A is false, but R is true"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 29,
+      "question": "Match the following question based on non-renewable and renewable energy sources. Energy Source Type Characteristics or Impacts 1. Non-renewable energy A. Uses resources like solar, wind and hydropower 2. Fossil fuel combustion B. Includes coal, oil and natural gas 3. Renewable energy C. Causes air pollution and global warming 4. Biofuel production D. Derived from plants, garbage and organic matter",
+      "options": {
+        "1": "1-A, 2-C, 3-B, 4-D",
+        "2": "1-B, 2-D, 3-A, 4-C",
+        "3": "1-A, 2-B, 3-C, 4-D",
+        "4": "1-B, 2-C, 3-A, 4-D"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 30,
+      "question": "Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.",
+      "options": {
+        "1": "II-A, III-B, I-C, IV-D",
+        "2": "I-A, II-B, III-C, IV-D",
+        "3": "III-A, II-B, IV-C, I-D",
+        "4": "III-A, II-B, I-C, IV-D"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 31,
+      "question": "Which of the following diversity values can be classified as representing ‘the beauty of a waterfall in the Western Ghats’?",
+      "options": {
+        "1": "Aesthetic values",
+        "2": "Ethical values",
+        "3": "Social values",
+        "4": "Option values"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 32,
+      "question": "Which biogeographical region, known for its high biodiversity, is under threat due to human habitation?",
+      "options": {
+        "1": "Biodiversity hotspot",
+        "2": "Ecosystem",
+        "3": "Genetic diversity",
+        "4": "All geographic regions"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 33,
+      "question": "In which state is the Kailadevi Wildlife Sanctuary situated?",
+      "options": {
+        "1": "Haryana",
+        "2": "Rajasthan",
+        "3": "Madhya Pradesh",
+        "4": "Punjab"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 34,
+      "question": "Which is the direct utilisation of timber, food, fuelwood, and fodder by local communities?",
+      "options": {
+        "1": "Social value",
+        "2": "Productive use value",
+        "3": "Consumptive use value",
+        "4": "Option value"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 35,
+      "question": "Which value is placed on natural products that are consumed after moving through a market?",
+      "options": {
+        "1": "Aesthetic value",
+        "2": "Social value",
+        "3": "Ethical value",
+        "4": "Productive use"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 36,
+      "question": "Which of the following is NOT a value of biodiversity?",
+      "options": {
+        "1": "Consumptive use value",
+        "2": "Productive use value",
+        "3": "Endemic value",
+        "4": "Social value"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 37,
+      "question": "Which value is related to biodiversity conservation based on the importance of protecting all forms of life?",
+      "options": {
+        "1": "Option value",
+        "2": "Ethical value",
+        "3": "Aesthetic value",
+        "4": "Consumptive value"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 38,
+      "question": "What measures can help in controlling the major issue on global warming?",
+      "options": {
+        "1": "Minimising solid waste",
+        "2": "Reducing the use of fossil fuels",
+        "3": "Incinerating human-generated waste",
+        "4": "Limiting water waste"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 39,
+      "question": "In which state is Kokkarebellur village situated, where pelicans are an endangered species?",
+      "options": {
+        "1": "Rajasthan",
+        "2": "Karnataka",
+        "3": "Tamil Nadu",
+        "4": "Kerala"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 40,
+      "question": "What happens when non-native species, like Lantana, are introduced into ecosystems?",
+      "options": {
+        "1": "Stabilises local species",
+        "2": "Disrupts balance, causing extinctions",
+        "3": "Enhances biodiversity",
+        "4": "Promotes agriculture"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 41,
+      "question": "Read the following statement and conclusions carefully and decide which of the conclusions logically follow(s) from the given statement. Statement:It is now recognised globally that biodiversity loss plays a role in climate change. Forests primarily transform carbon dioxide into carbon and oxygen, serving as vital carbon sinks. However, deforestation, along with the escalating emissions of carbon dioxide and other gases from industrial activities, enhances the greenhouse effect. Conclusions: I. Global warming is leading to the melting of ice caps, which in turn causes sea levels to rise and threatens to submerge low-lying regions around the world. II. It is triggering significant changes in the atmosphere, resulting in higher temperatures, severe droughts in certain regions, and sudden floods in others.",
+      "options": {
+        "1": "Only conclusion I follows",
+        "2": "Only conclusion II follows",
+        "3": "Neither conclusion I nor II follows",
+        "4": "Both conclusions I and II follow"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 42,
+      "question": "Select the option that is true regarding the following two statements labelled Assertion (A) and Reason (R). Assertion (A):The ethical approach to biodiversity conservation asserts that every organism holds intrinsic value, and preserving biodiversity is our duty. Reason (R):We are morally obligated to maintain and pass on our biological heritage to future generations in good condition.",
+      "options": {
+        "1": "Both A and R are true, and R is the correct explanation of A",
+        "2": "Both A and R are true, and R is not the correct explanation of A",
+        "3": "A is true, but R is false",
+        "4": "A is false, but R is true"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 43,
+      "question": "List I\t\tList II\nA)Indo-Burma\t\tI) Himalayan region\nB) Himalaya\t\tII)Entirenorth-easternIndia\nC) The Western Ghats and Sri Lanka\t\tIII) Nicobar group of Islands\nD) Sundalands\t\tVWesternGhats",
+      "options": {
+        "1": "A-II, B-I, C-IV, D-III",
+        "2": "A-III, B-I, C-IV, D-II",
+        "3": "A-I, B-II, C-IV, D-III",
+        "4": "A-II, B-I, C-III, D-IV"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 44,
+      "question": "Match List- I with List II with reference to the threats to biodiversity\nList I\t\tList II\nA)Habitatloss\t\tI)Fish species\nB) Poaching\t\t) Humans\nC)Over-exploitation\t\tIII)Animalsandplants\nD) Co-extinction or overharvesting\t\tIV) Specific animals",
+      "options": {
+        "1": "A-II, B-I, C-IV, D-III",
+        "2": "A-III, B-I, C-IV, D-II",
+        "3": "A-I, B-II, C-IV, D-III",
+        "4": "A-III, B-IV, C-II, D-I"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 45,
+      "question": "What is the average number of atoms per unit cell in simple cubic structures if there are 8 atoms corresponding to 8 corners and there are no atoms on the faces or in the interior of the unit cell?",
+      "options": {
+        "1": "1",
+        "2": "2",
+        "3": "4",
+        "4": "6"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 46,
+      "question": "What does a phase diagram represent?",
+      "options": {
+        "1": "The mechanical properties of materials at different pressures",
+        "2": "The phases in equilibrium at various compositions, temperatures and pressures",
+        "3": "The chemical reactions occurring in a system",
+        "4": "The electrical conductivity of materials"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 47,
+      "question": "What distinguishes true stress from nominal (or conventional) stress in a uniaxial tension test?",
+      "options": {
+        "1": "True stress considers the original area of the specimen.",
+        "2": "Nominal stress is based on the actual area at a given instant.",
+        "3": "True stress considers the actual area at a given instant.",
+        "4": "Both true stress and nominal stress use the original area of the specimen."
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 48,
+      "question": "In _______ transformation, a liquid reacts with a solid and forms a new solid at constant temperature during cooling.",
+      "options": {
+        "1": "peritectoid",
+        "2": "peritectic",
+        "3": "eutectoid",
+        "4": "monotectic"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 49,
+      "question": "Which of the following is NOT a primary objective of heat treatment?",
+      "options": {
+        "1": "Improve machinability",
+        "2": "Enhance material formability",
+        "3": "Change the product shape",
+        "4": "Restore ductility after cold working"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Material Science"
+    },
+    {
+      "question_number": 50,
+      "question": "Select the option that is true regarding the following two statements labelled Assertion (A) and Reason (R). Assertion (A): The area under the stress-strain curve represents the energy absorbed by the material during deformation. Reason (R): The integral of stress with respect to strain provides a measure of the work done on the material, which is related to the energy absorbed during deformation.",
+      "options": {
+        "1": "Both A and R are true and R is the correct explanation of A",
+        "2": "Both A and R are true, but R is not the correct explanation of A",
+        "3": "A is true, but R is false",
+        "4": "A is false, but R is true"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 51,
+      "question": "Which of the following is NOT a property of ceramics?",
+      "options": {
+        "1": "High thermal and chemical resistance",
+        "2": "Poor electrical conductivity (except for certain ceramics)",
+        "3": "Usage in electronic and aerospace applications",
+        "4": "High ductility and malleability"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 52,
+      "question": "C.Cuppel anuznc\n4. Terne\t\td. Copper and Tin",
+      "options": {
+        "1": "1-c, 2-d, 3-b, 4-a",
+        "2": "1-c, 2-d, 3-a, 4-b",
+        "3": "1-d, 2-c, 3-a, 4-b",
+        "4": "1-d, 2-c, 3-b, 4-a"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 53,
+      "question": "_______ method is particularly used for measuring the grain size when grains are not equiaxed.",
+      "options": {
+        "1": "The comparison",
+        "2": "The Jeffries planimetric",
+        "3": "Heyn’s intercept",
+        "4": "The equilibrium"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 54,
+      "question": "Read the given statement and conclusions carefully. Assuming that the information given in the statement is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statement. Statement: Alloys with low aluminium content (4% to 7%) are single-phase alloys and can be fabricated by cold working processes, due to their good ductility and malleability. Conclusions: I. Alloys with low aluminium content are fabricated by cold rolling, drawing and pressing. II. These alloys are used in pump castings, valve fittings and gears.",
+      "options": {
+        "1": "Only conclusion I follows.",
+        "2": "Only conclusion II follows.",
+        "3": "Both conclusions I and II follow.",
+        "4": "Neither conclusion I nor II follows."
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Production Technology"
+    },
+    {
+      "question_number": 55,
+      "question": "Read the given statement and conclusions carefully. Assuming that the information given in the statement is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statement. Statement: Increasing the tempering temperature during heat treatment of steel leads to improved ductility and toughness. Conclusions: I. Increasing the tempering temperature improves brittleness, but there is no effect on the toughness of steel. II. Increasing the tempering temperature increases hardness.",
+      "options": {
+        "1": "Only conclusion I follows.",
+        "2": "Only conclusion II follows.",
+        "3": "Both conclusions I and II follow.",
+        "4": "Neither conclusion I nor II follows."
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Material Science"
+    },
+    {
+      "question_number": 56,
+      "question": "Which of the following is a non-ferrous metal?",
+      "options": {
+        "1": "Grey cast iron",
+        "2": "Mild steel",
+        "3": "Copper",
+        "4": "High carbon steel"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 57,
+      "question": "What is the key difference between crystalline and amorphous solids?",
+      "options": {
+        "1": "Crystalline solids have an ordered arrangement of atoms, while amorphous solids lack long-range order.",
+        "2": "Crystalline solids are always metals, and amorphous solids are always non-metals.",
+        "3": "Crystalline solids can only exist at high temperatures, while amorphous solids exist at room temperature.",
+        "4": "Crystalline solids are only man-made, while amorphous solids are natural."
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 58,
+      "question": "Convert 10 GPa pressure into MPa.",
+      "options": {
+        "1": "1000 MPa",
+        "2": "100 MPa",
+        "3": "10,000 MPa",
+        "4": "1,00,000 MPa"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 59,
+      "question": "When the _______ between liquid molecules and a tube is greater than the _______ between liquid molecules, the liquid wets the surface of the tube and there is a capillary rise.",
+      "options": {
+        "1": "adhesion, cohesion",
+        "2": "cohesion, adhesion",
+        "3": "adhesion, adhesion",
+        "4": "cohesion, cohesion"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 60,
+      "question": "According to Bernoulli’s equation, the total energy of any fluid particle is the sum of _______.",
+      "options": {
+        "1": "pressure energy and kinetic energy only",
+        "2": "kinetic energy and potential energy only",
+        "3": "pressure energy and potential energy only",
+        "4": "pressure energy, kinetic energy and potential energy"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Fluid Mechanics"
+    },
+    {
+      "question_number": 61,
+      "question": "Which of the following is NOT an example of a thixotropic fluid?",
+      "options": {
+        "1": "Lipstick",
+        "2": "Printer ink",
+        "3": "Enamel",
+        "4": "Water"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Fluid Mechanics"
+    },
+    {
+      "question_number": 62,
+      "question": "The actual path traced by a fluid particle over a period of time is called _______.",
+      "options": {
+        "1": "pathline",
+        "2": "streamline",
+        "3": "streakline",
+        "4": "steady line"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Fluid Mechanics"
+    },
+    {
+      "question_number": 63,
+      "question": "What does the Darcy–Weisbach equation describe?",
+      "options": {
+        "1": "Pressure distribution in a fluid flow",
+        "2": "Velocity distribution in a laminar flow",
+        "3": "Frictional losses in a pipe flow",
+        "4": "Viscous losses in a turbulent flow"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Fluid Mechanics"
+    },
+    {
+      "question_number": 64,
+      "question": "Match the properties of fluids with the SI units representing them.\nPropertyofFluids\t\tSI Unit\nl.Specificvolume\t\ta. kg/m?\n2. Weight density\t\tb. m²/kg\n3.Kinematic viscosity\t\tc. N/m3\n4. Mass density\t\td. m?/s",
+      "options": {
+        "1": "1-b, 2-c, 3-d, 4-a",
+        "2": "1-b, 2-d, 3-c, 4-a",
+        "3": "1-b, 2-c, 3-a, 4-d",
+        "4": "1-c, 2-b, 3-d, 4-a"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Fluid Mechanics"
+    },
+    {
+      "question_number": 65,
+      "question": "Read the given statement and conclusions carefully. Assuming that the information given in the statement is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statement. Statement: Due to surface tension forces acting on a surface, the pressure intensity inside the droplet, bubble and jet of the liquid is more as compared to that outside. Conclusions: I. When the diameter of a droplet decreases, the intensity of pressure inside the droplet increases. II. All the molecules on the free surface experience an upward pull force.",
+      "options": {
+        "1": "Only conclusion I follows.",
+        "2": "Only conclusion II follows.",
+        "3": "Both conclusions I and II follow.",
+        "4": "Neither conclusion I nor II follows."
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 66,
+      "question": "2. Discharge\t\tb. rad/s?\n3. Kinematic viscosity\t\tc. m3 /s\n4. Shear stress\t\td. m² /s",
+      "options": {
+        "1": "1-b, 2-c, 3-d, 4-a",
+        "2": "1-b, 2-d, 3-c, 4-a",
+        "3": "1-b, 2-c, 3-a, 4-d",
+        "4": "1-c, 2-b, 3-d, 4-a"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Fluid Mechanics"
+    },
+    {
+      "question_number": 67,
+      "question": "Which of the following correctly represents the principle of the continuity equation for an incompressible fluid flowing through a pipe?",
+      "options": {
+        "1": "ρ1⋅V1=ρ2⋅V2",
+        "2": "A1⋅ρ1=A2⋅ρ2",
+        "3": "A1⋅V1=A2⋅V2",
+        "4": "ρ1⋅A1=ρ2⋅A2"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Fluid Mechanics"
+    },
+    {
+      "question_number": 68,
+      "question": "For Newtonian fluids, the relation between shear stress and velocity gradient is a _______.",
+      "options": {
+        "1": "parabolic curve",
+        "2": "zigzag line",
+        "3": "straight line",
+        "4": "sinusoidal curve"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 69,
+      "question": "Find the pressure (in N/m?) due to a column of o.4 m for the oil of density 8oo kg/m and acceleration due to gravity\n10m/s2",
+      "options": {
+        "1": "3200",
+        "2": "3924",
+        "3": "3000",
+        "4": "3150"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 70,
+      "question": "Select the option that is true regarding the following two statements labelled Assertion (A) and Reason (R). Assertion (A): The Hagen–Poiseuille equation describes the laminar flow of an incompressible, Newtonian fluid through a cylindrical pipe. Reason (R): For a flow through a circular pipe, according to the Hagen–Poiseuille law, the flow rate is directly proportional to the pressure drop.",
+      "options": {
+        "1": "Both A and R are true and R is the correct explanation of A",
+        "2": "Both A and R are true, but R is not the correct explanation of A",
+        "3": "A is true, but R is false",
+        "4": "A is false, but R is true Note: For this question, ambiguity is found in question/answer. Candidate will get full marks for this question if any of the correct options are chosen."
+      },
+      "answer": [
+        1,
+        2
+      ],
+      "topic": "Fluid Mechanics"
+    },
+    {
+      "question_number": 71,
+      "question": "Which of the following statements about surface tension is correct?",
+      "options": {
+        "1": "Surface tension acts perpendicular to the surface of a liquid.",
+        "2": "Surface tension is independent of temperature.",
+        "3": "Surface tension is the force per unit length acting parallel to the liquid surface at the interface.",
+        "4": "Surface tension increases as the liquid temperature increases."
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 72,
+      "question": "What is the value of density of water (in gm/cm3 )?",
+      "options": {
+        "1": "1000",
+        "2": "1",
+        "3": "10",
+        "4": "100"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 73,
+      "question": "Which of the following is NOT a minor head loss through a pipe?",
+      "options": {
+        "1": "Loss due to sudden enlargement",
+        "2": "Loss at the entrance of the pipe",
+        "3": "Loss due to bends or pipe fittings",
+        "4": "Loss due to friction"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 74,
+      "question": "Which of the following statements accurately describes the principle of conservation of mass?",
+      "options": {
+        "1": "The principle of conservation of mass states that mass can be created or destroyed in an isolated system.",
+        "2": "The principle of conservation of mass asserts that the total mass of a closed system remains constant over time, regardless of internal changes.",
+        "3": "The principle of conservation of mass applies only to mechanical systems and does not hold true for chemical reactions.",
+        "4": "The principle of conservation of mass is only relevant in the scenarios involving fluid dynamics and does not apply to chemical reactions."
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Fluid Mechanics"
+    },
+    {
+      "question_number": 75,
+      "question": "‘_______’ is a term denoting a process stream that returns the material from downstream of a process unit back to the process unit.",
+      "options": {
+        "1": "Recycle stream",
+        "2": "Bypass stream",
+        "3": "Purge stream",
+        "4": "Fresh feed stream"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 76,
+      "question": "With reference to mechanical systems, which of the following options best describes translational degrees of freedom?",
+      "options": {
+        "1": "Movement around an axis",
+        "2": "Movement along straight lines",
+        "3": "Movement due to rotation",
+        "4": "Movement resulting from deformation"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Theory of Machines"
+    },
+    {
+      "question_number": 77,
+      "question": "Nitrogen in the combustion air passes through unreacted and is used as a tie component. This principle can also be used to measure:",
+      "options": {
+        "1": "the fraction of the reagent that reacts, to optimise the reactor design and to minimise the by-product formation",
+        "2": "the performance of a reactor or a plant",
+        "3": "the flow of a process stream, by introducing a measured flow of some easily analysed (compatible) materials",
+        "4": "the overall performance of a plant that includes all the chemical and physical losses"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 78,
+      "question": "The throttling process involves the passage of a higher-pressure fluid through a narrow constriction. The effect is _______.",
+      "options": {
+        "1": "increase in pressure and reduction in volume",
+        "2": "reduction in pressure as well as volume",
+        "3": "increase in pressure as well as volume",
+        "4": "reduction in pressure and increase in volume"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Fluid Mechanics"
+    },
+    {
+      "question_number": 79,
+      "question": "According to Joule’s law, the specific internal energy of a gas depends on _______.",
+      "options": {
+        "1": "pressure",
+        "2": "volume",
+        "3": "temperature",
+        "4": "mass"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 80,
+      "question": "What does the term 'Degrees of Freedom' represent in process engineering?",
+      "options": {
+        "1": "The total equations used in solving for unknowns",
+        "2": "The energy stored within a system undergoing a change of state",
+        "3": "The number of inlet and outlet streams in a process",
+        "4": "The number of variables that can be manipulated after design specifications are set"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Theory of Machines"
+    },
+    {
+      "question_number": 81,
+      "question": "",
+      "options": {
+        "1": "1-c, 2-d, 3-b, 4-a",
+        "2": "1-c, 2-d, 3-a, 4-b",
+        "3": "1-a, 2-d, 3-b, 4-c",
+        "4": "1-d, 2-c, 3-b, 4-a"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 82,
+      "question": "Which of the following types of stream is used to remove the accumulation of an inert or unwanted material that might otherwise build up in the recycle stream?",
+      "options": {
+        "1": "Recycle stream",
+        "2": "Bypass stream",
+        "3": "Purge stream",
+        "4": "Fresh feed stream"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 83,
+      "question": "Match the following based on the Properties of Thermodynamics of real systems. Category Description 1. Measured properties A. It can be derived by combining measured and fundamental properties. 2. Fundamental properties B. It can be directly observed in a laboratory. 3. Derived properties C. It can be derived from basic thermodynamic laws.",
+      "options": {
+        "1": "1-B, 2-A, 3-C",
+        "2": "1-C, 2-B, 3-A",
+        "3": "1-A, 2-C, 3-B",
+        "4": "1-B, 2-C, 3-A"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 84,
+      "question": "Which of the following is a key correction applied in the Van der Waals equation of state for real gases?",
+      "options": {
+        "1": "The volume term accounts for molecular interactions, and the pressure term accounts for molecular size.",
+        "2": "Both pressure and volume terms account for molecular size.",
+        "3": "The pressure term accounts for intermolecular forces, and the volume term accounts for molecular size.",
+        "4": "Both pressure and volume terms account for intermolecular forces."
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 85,
+      "question": "Which of the following correctly represents the First Law of Thermodynamics for a closed system undergoing a change of state?",
+      "options": {
+        "1": "",
+        "2": "Q − W = ΔE",
+        "3": "Q + W = ΔE",
+        "4": "Q = ΔE × W"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Thermodynamics"
+    },
+    {
+      "question_number": 86,
+      "question": "Read the given statement and conclusions carefully. Assuming that the information given in the statement is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statement. Statement: The degree of freedom in a system represents the number of independent variables or parameters required to describe the state of the system completely. Conclusions: I. Higher degrees of freedom generally mean smaller sample sizes. II. The degree of freedom of a system depends solely on the number of components present.",
+      "options": {
+        "1": "Only conclusion I follows.",
+        "2": "Only conclusion II follows.",
+        "3": "Both conclusions I and II follow.",
+        "4": "Neither conclusion I nor II follows."
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Theory of Machines"
+    },
+    {
+      "question_number": 87,
+      "question": "Which of the following statements is FALSE about the second law of thermodynamics?",
+      "options": {
+        "1": "It is impossible for a heat engine to produce a network in a complete cycle if it exchanges heat only with bodies at a single fixed temperature.",
+        "2": "The magnitude of entropy of the entire universe, as an isolated system, will always increase over time.",
+        "3": "Heat itself flows from a colder body to a hotter body.",
+        "4": "Every isolated system becomes more disordered over time."
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Thermodynamics"
+    },
+    {
+      "question_number": 88,
+      "question": "What is a significant source of thermal pollution in aquatic ecosystems?",
+      "options": {
+        "1": "Agricultural runoff containing pesticides",
+        "2": "Urban stormwater runoff carrying oil and grease",
+        "3": "Discharge of heated water from industrial facilities",
+        "4": "Atmospheric deposition of mercury"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 89,
+      "question": "What is a key benefit of recycling wastewater for industrial applications?",
+      "options": {
+        "1": "Increase in water consumption",
+        "2": "Reduced water quality",
+        "3": "Increased energy efficiency",
+        "4": "Minimised environmental impact"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 90,
+      "question": "Which of the following is a primary anthropogenic source of soil pollution?",
+      "options": {
+        "1": "Volcanic eruptions",
+        "2": "Industrial activities",
+        "3": "Weathering of rocks",
+        "4": "Natural erosion processes"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 91,
+      "question": "Which governmental body in India is responsible for the implementation and enforcement of the Noise Pollution (Regulation and Control) Rules, 2000?",
+      "options": {
+        "1": "Ministry of Environment, Forest and Climate Change",
+        "2": "Ministry of Home Affairs",
+        "3": "Ministry of Urban Development",
+        "4": "Ministry of Health and Family Welfare"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 92,
+      "question": "Which of the following technologies is NOT typically used for controlling particulate emissions from industrial sources?",
+      "options": {
+        "1": "Electrostatic Precipitator (ESP)",
+        "2": "Fabric filter (baghouse)",
+        "3": "Wet scrubber",
+        "4": "Catalytic converter"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 93,
+      "question": "Which of the following pollutants can be controlled using both Selective Catalytic Reduction (SCR) and Selective Non-Catalytic Reduction (SNCR) technologies?",
+      "options": {
+        "1": "Sulphur dioxide (SO2)",
+        "2": "Carbon monoxide (CO)",
+        "3": "Nitrogen oxides (NOx)",
+        "4": "Particulate Matter (PM)"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 94,
+      "question": "What is the primary mechanism by which sedimentation tanks remove solids from wastewater?",
+      "options": {
+        "1": "Biological degradation",
+        "2": "Physical settling",
+        "3": "Chemical precipitation",
+        "4": "Filtration"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Theory of Machines"
+    },
+    {
+      "question_number": 95,
+      "question": "Which of the following describes the composition of activated sludge used in the process?",
+      "options": {
+        "1": "Pure oxygen",
+        "2": "Anaerobic bacteria",
+        "3": "Aerobic microorganisms",
+        "4": "Chemical coagulants"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 96,
+      "question": "What is the primary function of the grit chamber in the wastewater treatment process?",
+      "options": {
+        "1": "Filtering out floating debris",
+        "2": "Sedimenting heavy inorganic particles",
+        "3": "Grinding coarse materials",
+        "4": "Chlorinating wastewater"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Production Technology"
+    },
+    {
+      "question_number": 97,
+      "question": "Select the option that is true regarding the following two statements labelled Assertion (A) and Reason (R). Assertion (A):Secondary pollutants such as ozone (O3) have a more direct impact on human health compared to primary pollutants. Reasoning (R):Primary pollutants like nitrogen oxides (NOx) and sulphur dioxide (SO2) undergo atmospheric transformations to form more harmful secondary pollutants. Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.",
+      "options": {
+        "1": "Both (A) and (R) are true",
+        "2": "Both (A) and (R) are false",
+        "3": "(A) is true and (R) is false",
+        "4": "(A) is false and (R) is true"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 98,
+      "question": "Read the following statement and conclusions carefully and decide which of the given conclusions is/are true based on the statement. Statement:Drinking water quality standards vary globally due to differences in environmental conditions, population demographics, and health considerations. Conclusions: I. Developing countries often have more lenient drinking water quality standards compared to developed nations. II. Adherence to stringent drinking water quality standards can be financially challenging for some regions.",
+      "options": {
+        "1": "Only conclusion I is true",
+        "2": "Only conclusion II is true",
+        "3": "Both conclusions I and II are true",
+        "4": "Neither conclusion I nor II is true"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 99,
+      "question": "Select the option that is true regarding the following two statements labelled Assertion (A) and Reason (R). Assertion (A):The effluent from secondary wastewater treatment processes typically requires further treatment before it can be safely discharged into the environment. Reasoning (R):Secondary treatment processes effectively remove all contaminants and pathogens from wastewater.",
+      "options": {
+        "1": "Both (A) and (R) are true",
+        "2": "Both (A) and (R) are false",
+        "3": "(A) is true and (R) is false",
+        "4": "(A) is false and (R) is true"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 100,
+      "question": "What causes the corrosive impact of sulphur dioxide on respiratory tissues?",
+      "options": {
+        "1": "Formation of sulphur-containing acids",
+        "2": "Direct inhalation of pure sulphur dioxide",
+        "3": "Interaction with nitrogen oxides",
+        "4": "Breakdown into harmless particles"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 101,
+      "question": "What is a common source of noise pollution associated with military activities?",
+      "options": {
+        "1": "Fireworks displays",
+        "2": "Sonic booms",
+        "3": "Bicycle races",
+        "4": "Hiking trails"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 102,
+      "question": "Which of the following is NOT considered a type of soil pollution?",
+      "options": {
+        "1": "Accumulation of heavy metals",
+        "2": "Excessive use of pesticides",
+        "3": "Chemical contamination from industrial waste",
+        "4": "Natural weathering of rocks"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 103,
+      "question": "Which method is primarily used in the screening process of wastewater treatment?",
+      "options": {
+        "1": "Sedimentation",
+        "2": "Grinding large materials",
+        "3": "Physical removal of large pollutants",
+        "4": "Chemical neutralisation"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Production Technology"
+    },
+    {
+      "question_number": 104,
+      "question": "Match the following types of water pollution in List I with their respective descriptions in List II.\n(ListI)Typesofwaterpollution\t\t(List)Descriptions\nA.Pointsourcepollution\t\tI.Pollution that originates from diffuse sources and is challenging to\ntracebacktospecific origins\nB.Non-point source pollution\t\t2.Pollution resultingfrom thedischargeofuntreated orpartiallytreated\nsewageorwastewaterintowaterbodies\nC.Thermal pollution\t\t3.Pollutioncausedbytherunoffofchemicals,fertilisers,andpesticides\nfromagriculturalfieldsintowaterbodies\nD.Organic pollution\t\t4.Pollutioncausedbythereleaseofheatedwaterfromindustrial\nprocessesorpowerplants intowaterbodies\nE. Nutrient pollution\t\t5.Pollutionresultingfromthereleaseofpollutantsfromidentifiableand\ndiscretesources,suchasindustrialfacilitiesorwastewatertreatment\nplants",
+      "options": {
+        "1": "A-5, B-1, C-4, D-2, E-3",
+        "2": "A-1. B-2, C-4, D-5, E-3",
+        "3": "A-2, B-3, C-4, D-5, E-1",
+        "4": "A-3, B-2, C-1, D-4, E-5"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 105,
+      "question": "Match the following based on the activated sludge process. Process Steps Key Features/Outcomes 1. Aeration tank A. Facilitates degradation by microorganisms 2. Sedimentation tank B. Converts organic matter to methane and carbon dioxide 3. Anaerobic digester C. Microorganisms settle out as sludge 4. Sludge drying beds D. Removes water through evaporation and seepage",
+      "options": {
+        "1": "1-A, 2-C, 3-B, 4-D",
+        "2": "1-B, 2-C, 3-A, 4-D",
+        "3": "1-A, 2-D, 3-B, 4-C",
+        "4": "1-B, 2-D, 3-A, 4-C"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 106,
+      "question": "Which of the following types of solid waste best describes ‘municipal solid waste’?",
+      "options": {
+        "1": "Hazardous",
+        "2": "Non-hazardous",
+        "3": "Non-toxic",
+        "4": "Toxic"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 107,
+      "question": "What is the term for the decomposition of biodegradable solid waste by earthworms?",
+      "options": {
+        "1": "Vermicomposting",
+        "2": "Composting",
+        "3": "Landfill",
+        "4": "Disposal"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 108,
+      "question": "Which of the following is NOT included as municipal solid waste (MSW)?",
+      "options": {
+        "1": "Food waste from private homes",
+        "2": "Paper and glass bottles from institutions",
+        "3": "Construction and demolition debris",
+        "4": "Plastic cans from commercial establishments"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 109,
+      "question": "Which waste contains a wide variety of materials such as food waste, vegetable waste, paper, plastic, cardboard, aluminium foil, etc.?",
+      "options": {
+        "1": "Municipal solid waste",
+        "2": "Industrial waste",
+        "3": "Agricultural waste",
+        "4": "Hazardous waste"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 110,
+      "question": "The process of burning municipal solid waste in a designated furnace at appropriate temperatures and conditions is called:",
+      "options": {
+        "1": "landfill",
+        "2": "recycling",
+        "3": "incineration",
+        "4": "vermicomposting"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 111,
+      "question": "Which of the following processes is known for decomposing organic matter in waste?",
+      "options": {
+        "1": "Recycling",
+        "2": "Decomposition",
+        "3": "Incineration",
+        "4": "Composting"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 112,
+      "question": "Which of the following explains the challenge in recycling of plastics?",
+      "options": {
+        "1": "Due to varying sizes of plastic items",
+        "2": "Due to various types of polymer resins",
+        "3": "Because it is a very hard material",
+        "4": "Because it is naturally adhesive"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 113,
+      "question": "What strategy should be adopted for solid waste disposal?",
+      "options": {
+        "1": "Waste reduction management plan",
+        "2": "Waste utilisation management plan",
+        "3": "Recycling waste management plan",
+        "4": "Integrated waste management plan"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 114,
+      "question": "A statement is given below, followed by two conclusions numbered I and II. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions can be drawn definitely from the given statement. Statement: Vermi-composting mimics natural processes to recycle nutrients and create compost, which can be used as manure for agriculture and gardening. Conclusions: I. Vermi-composting helps in managing organic waste sustainably. II. Nutrients in compost are lost permanently and cannot be reused.",
+      "options": {
+        "1": "Only conclusion I follows.",
+        "2": "Only conclusion II follows.",
+        "3": "Neither conclusion I nor II follows.",
+        "4": "Both conclusion I and II follow."
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 115,
+      "question": "What is the primary risk associated with incineration in solid waste management?",
+      "options": {
+        "1": "Insufficient temperature for oxidation",
+        "2": "Air pollution and toxic ash disposal",
+        "3": "Inability to reduce waste volume",
+        "4": "Complete elimination of recyclable materials"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 116,
+      "question": "Select the option that is true regarding the following two statements labelled Assertion (A) and Reason (R). Assertion (A):Reducing the consumption of raw materials is one of the most effective methods to decrease the volume of solid waste. Reason (R):Solid wastes are rarely produced during the conversion of raw materials into consumable goods.",
+      "options": {
+        "1": "Both A and R are true, and R is the correct explanation of A",
+        "2": "Both A and R are true, and R is not the correct explanation of A",
+        "3": "A is true, but R is false",
+        "4": "A is false, but R is true"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 117,
+      "question": "Which of the following is NOT a control measure of urban and industrial wastes?",
+      "options": {
+        "1": "Source reduction",
+        "2": "Dumping and burning in the town",
+        "3": "Recycling",
+        "4": "Disposal"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 118,
+      "question": "Read the following statement and conclusions carefully and decide which of the conclusions logically follow(s) from the given statement. Statement:Incineration involves burning municipal solid waste in a furnace that is specifically designed for this purpose, under appropriate temperature and operational conditions. Conclusions: I. It is a chemical process where the combustible elements of the waste mix with oxygen, resulting in the formation of carbon dioxide and water that are emitted into the atmosphere. II. This process, known as oxidation, generates heat as a byproduct.",
+      "options": {
+        "1": "Only conclusion I follows",
+        "2": "Only conclusion II follows",
+        "3": "Neither conclusion I nor II follows",
+        "4": "Both conclusions I and II follow"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 119,
+      "question": "Which of the following does NOT describe zero waste management?",
+      "options": {
+        "1": "Mix collection",
+        "2": "Segregation of garbage at its origin",
+        "3": "Separate collection of various types of waste",
+        "4": "Involvement of the community"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 120,
+      "question": "What is the primary mechanism by which Ozone-Depleting Substances (ODS) lead to ozone depletion in the stratosphere?",
+      "options": {
+        "1": "Thermal decomposition",
+        "2": "Photolysis by Ultraviolet (UV) radiation",
+        "3": "Hydrolysis by water vapour",
+        "4": "Oxidation by ozone molecules"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Theory of Machines"
+    },
+    {
+      "question_number": 121,
+      "question": "What does World Ozone Day celebrate?",
+      "options": {
+        "1": "Kyoto Protocol",
+        "2": "Paris Agreement",
+        "3": "Montreal Protocol",
+        "4": "UNEP Creation"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 122,
+      "question": "What is the primary reason for careful disposal of biomedical waste from hospitals?",
+      "options": {
+        "1": "To recycle materials like glass and plastics",
+        "2": "To prevent the spread of pathogens like bacteria and viruses",
+        "3": "To reduce the generation of municipal solid waste",
+        "4": "To conserve energy used in waste treatment"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 123,
+      "question": "Which international protocol, resulting from the Earth Summit, aims to stabilise greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic interference with the climate system?",
+      "options": {
+        "1": "Kyoto Protocol",
+        "2": "Montreal Protocol",
+        "3": "Rio Declaration",
+        "4": "Basel Convention"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 124,
+      "question": "The Water Act of 1974 in India primarily focuses on:",
+      "options": {
+        "1": "regulating groundwater extraction",
+        "2": "addressing water scarcity in urban areas",
+        "3": "controlling water pollution and maintaining water quality",
+        "4": "promoting large-scale irrigation projects"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 125,
+      "question": "According to the Municipal Solid Waste Management and Handling Rules, which of the following practices is encouraged for waste disposal?",
+      "options": {
+        "1": "Open dumping on vacant lands",
+        "2": "Incineration without any emission control measures",
+        "3": "Segregation of waste into biodegradable and non-biodegradable categories",
+        "4": "Mixing of hazardous and non-hazardous waste for disposal"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 126,
+      "question": "What was the key feature of the Forest Conservation Act, 1980?",
+      "options": {
+        "1": "Consolidation of all previous forest laws",
+        "2": "Creation of Reserved and Protected Forests",
+        "3": "Restriction on deforestation without government approval",
+        "4": "Transfer of forest management to village communities"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 127,
+      "question": "Read the following statement and conclusions carefully and decide which of the given conclusions is/are true based on the statement. Statement:The depletion of the ozone layer has led to an increase in Ultraviolet (UV) radiation reaching the Earth’s surface. Conclusions: I. Increased UV radiation poses health risks to humans and other organisms. II. Ozone depletion is solely caused by natural processes and is not influenced by human activities.",
+      "options": {
+        "1": "Only conclusion I is true",
+        "2": "Only conclusion II is true",
+        "3": "Both conclusions I and II are true",
+        "4": "Neither conclusion I nor II is true"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Heat Transfer"
+    },
+    {
+      "question_number": 128,
+      "question": "Match the following methods of waste disposal in List I with their descriptions in List II.\nList I (Methods)\t\tList II (Descriptions)\nA.Wastesegregation\t\tl.Disposalofwasteinadesignatedareawithoutanytreatment\nB. Composting\t\t2.Separatingwasteintodifferentcategoriesbasedonitsbiodegradability\nC.Landfilling\t\t3.Recyclingorganicwastetoproducecompost\nD.Biomedical wastemanagement\nfacilities",
+      "options": {
+        "1": "A-2, B-3, C-1, D-4",
+        "2": "A-3, B-2, C-4, D-1",
+        "3": "A-4, B-1, C-2, D-3",
+        "4": "A-1, B-2, C-3, D-4"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 129,
+      "question": "What is the primary objective of the Hazardous Waste Management and Handling Rules?",
+      "options": {
+        "1": "To encourage the indiscriminate dumping of hazardous waste",
+        "2": "To promote the recycling and reuse of hazardous waste",
+        "3": "To regulate the generation, handling, and management of hazardous waste",
+        "4": "To exempt certain industries from hazardous waste regulations"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 130,
+      "question": "Read the following statement and conclusions carefully and decide which of the given conclusions is/are true based on the statement. Statement:The international legal aspects of the Air Act primarily focus on regulating air pollution and mitigating its adverse effects on the environment and public health. Conclusion: I. The international legal aspects of the Air Act aim to establish global standards for air quality and emission control measures. II. The international legal aspects of the Air Act facilitate international cooperation and agreements to address transboundary air pollution issues.",
+      "options": {
+        "1": "Only conclusion I is true",
+        "2": "Only conclusion II is true",
+        "3": "Both conclusions I and II are true",
+        "4": "Neither conclusion I nor II is true"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 131,
+      "question": "What is the primary objective of the Air (Prevention and Control of Pollution) Act, 1981?",
+      "options": {
+        "1": "Regulate industrial emissions in notified areas",
+        "2": "Promote the use of renewable energy",
+        "3": "Control and reduce solid waste",
+        "4": "Develop urban sanitation facilities"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 132,
+      "question": "Under the Indian Environmental Protection Act, which body is responsible for enforcing environmental standards and regulations?",
+      "options": {
+        "1": "Ministry of Agriculture",
+        "2": "Central Pollution Control Board (CPCB)",
+        "3": "Ministry of Finance",
+        "4": "Indian Council of Agricultural Research (ICAR)"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 133,
+      "question": "What is the primary greenhouse gas responsible for anthropogenic climate change?",
+      "options": {
+        "1": "Carbon dioxide (CO2)",
+        "2": "Nitrogen oxides (NOx)",
+        "3": "Ozone (O3)",
+        "4": "Ammonia (NH3)"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 134,
+      "question": "Which of the following is an example of a biological aspect considered in Environmental Impact Assessment (EIA)?",
+      "options": {
+        "1": "Population density of nearby towns",
+        "2": "Migration patterns of birds in the area",
+        "3": "Economic growth projections",
+        "4": "Traffic congestion during construction"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 135,
+      "question": "What role does environmental education play in empowering individuals and communities?",
+      "options": {
+        "1": "It discourages critical thinking and problem-solving skills.",
+        "2": "It promotes apathy and indifference towards environmental issues.",
+        "3": "It enables informed decision-making and encourages active participation in sustainability initiatives.",
+        "4": "It reinforces unsustainable behaviours and practices."
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 136,
+      "question": "Which transportation choice contributes the least to carbon emissions?",
+      "options": {
+        "1": "Driving a conventional gasoline car",
+        "2": "Riding a bicycle",
+        "3": "Taking a long flight",
+        "4": "Using a diesel-powered vehicle"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 137,
+      "question": "Which method is often employed to acquire baseline data on soil characteristics in Environmental Impact Assessment (EIA)?",
+      "options": {
+        "1": "Satellite imagery analysis",
+        "2": "Soil coring and sampling",
+        "3": "Soil erosion modelling",
+        "4": "Surveys of vegetation cover"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 138,
+      "question": "How does crazy consumerism impact environmental sustainability?",
+      "options": {
+        "1": "It promotes recycling and waste reduction initiatives.",
+        "2": "It encourages mindful consumption of natural resources.",
+        "3": "It leads to overexploitation of resources and environmental degradation.",
+        "4": "It fosters sustainable production practices."
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 139,
+      "question": "Which of the following best describes urban sprawl?",
+      "options": {
+        "1": "Compact and efficient urban development",
+        "2": "Concentrated growth within city centres",
+        "3": "Unplanned expansion of urban areas into surrounding rural lands",
+        "4": "Sustainable and environmentally-friendly urban planning"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 140,
+      "question": "Which of the following is a potential health benefit of active transportation modes, such as walking and cycling?",
+      "options": {
+        "1": "Increased air pollution exposure",
+        "2": "Reduced risk of chronic diseases like obesity and heart disease",
+        "3": "Higher dependence on fossil fuels",
+        "4": "Limited access to green spaces"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 141,
+      "question": "What is the primary purpose of a Life Cycle Assessment (LCA)?",
+      "options": {
+        "1": "To measure profit",
+        "2": "To analyse environmental impact",
+        "3": "To study political effects",
+        "4": "To raise product cost"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 142,
+      "question": "Read the following statement and conclusions carefully and decide which of the given conclusions is/are true based on the statement. Statement:Environmental Management Plans (EMPs) play a crucial role in enhancing corporate sustainability by integrating environmental considerations into project planning and implementation. Conclusions: I. EMPs prioritise short-term economic gains over long-term environmental sustainability. II. Stakeholder engagement and participation are key components of developing effective EMPs.",
+      "options": {
+        "1": "Only conclusion I is true",
+        "2": "Only conclusion II is true",
+        "3": "Both conclusions I and II are true",
+        "4": "Neither conclusion I nor II is true"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 143,
+      "question": "Which of the following best defines sustainable development?",
+      "options": {
+        "1": "Maximising economic growth without considering environmental impacts",
+        "2": "Balancing economic growth with social equity and environmental protection",
+        "3": "Prioritising environmental protection over social and economic concerns",
+        "4": "Focusing solely on social equity without regard for economic or environmental factors"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Theory of Machines"
+    },
+    {
+      "question_number": 144,
+      "question": "Read the following statement and conclusions carefully and decide which of the given conclusions is/are true based on the statement. Statement:Adopting energy-efficient appliances reduces the ecological footprint of households. Conclusions: I. Energy-efficient appliances consume less electricity, reducing carbon emissions. II. Energy-efficient appliances are least expensive and easily accessible to most households.",
+      "options": {
+        "1": "Only conclusion I is true",
+        "2": "Only conclusion II is true",
+        "3": "Both conclusions I and II are true",
+        "4": "Neither conclusion I nor II is true"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 145,
+      "question": "Read the following statement and conclusions carefully and decide which of the given conclusions is/are true based on the statement. Statement:Life Cycle Assessment (LCA) considers the environmental impacts of a product throughout its entire life cycle. Conclusions: I. LCA provides insights into the environmental effects of product disposal. II. LCA focuses solely on the production phase of a product.",
+      "options": {
+        "1": "Only conclusion I is true",
+        "2": "Only conclusion II is true",
+        "3": "Both conclusions I and II are true",
+        "4": "Neither conclusion I nor II is true"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 146,
+      "question": "Which of the following is a qualitative method used in risk assessment for Environmental Impact Assessment (EIA)?",
+      "options": {
+        "1": "Monte Carlo simulation",
+        "2": "Fault tree analysis",
+        "3": "Matrix technique",
+        "4": "Sensitivity analysis"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 147,
+      "question": "A statement is given below, followed by two conclusions numbered I and II. Assuming that the information given in the statement is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions can be drawn definitely from the given statement. Statement: Risk assessment and vulnerability analysis require identifying key areas of concern, evaluating the frequency and intensity of hazards, and utilising tools like GIS for updates and assessments. Conclusions: I. GIS enables efficient updates and assessments during risk analysis. II. Risk assessment does not need periodic revision after it is initially done.",
+      "options": {
+        "1": "Only conclusion I follows.",
+        "2": "Only conclusion II follows.",
+        "3": "Neither I nor II follows.",
+        "4": "Both I and II follow."
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 148,
+      "question": "Match the following terms in List I with their descriptions in List I.\nListI (Terms)\t\tList II (Descriptions)\nA.Populationexplosion\t\t1. A sudden, rapid increase in the global population due to high birth rates and\ndeclining death rates\nB.Demographictransition\t\t2.The process of a society transitioning from high birth and death rates to low\nbirth and death rates as it undergoes industrialisation and economic development\nC. Carrying capacity\nindefinitely,given the resources available and the level of technology and\ninfrastructure\nD.Overpopulation\t\t4.The conditionwhere the numberof people inan area exceeds thecapacityof\nthe environment to support life at a decent standard of living",
+      "options": {
+        "1": "A-4, B-2, C-3, D-1",
+        "2": "A-1, B-2, C-3, D-4",
+        "3": "A-3, B-4, C-1, D-2",
+        "4": "A-2, B-3, C-4, D-1"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 149,
+      "question": "What is the key purpose of the Environmental Impact Assessment (EIA)?",
+      "options": {
+        "1": "To provide financial assistance for large projects",
+        "2": "To evaluate and mitigate environmental impacts of proposed projects",
+        "3": "To promote unregulated economic development",
+        "4": "To approve projects without public input"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 150,
+      "question": "Match the columns based on the concept of ecological footprint in 2023 and select the correct option from the following. Concepts Details 1. Ecological footprint A. 2.3 hectares per capita 2. Global average footprint B. Exceeding available resources 3. Sustainable land availability C. 1.7 hectares per capita 4. Unsustainable usage D. Land required for resources and waste disposal",
+      "options": {
+        "1": "1-D, 2-B, 3-C, 4-A",
+        "2": "1-C, 2-A, 3-D, 4-B",
+        "3": "1-D, 2-A, 3-C, 4-B",
+        "4": "1-C, 2-B, 3-D, 4-A"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    }
+  ]
+}

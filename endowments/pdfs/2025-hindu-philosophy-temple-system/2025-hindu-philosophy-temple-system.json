@@ -1,0 +1,2018 @@
+{
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "Who was Mandodari and what was her lineage? ()Ravana's sisteranddaughterof SageVishrava [2)Ravana'swifeanddaughterof thedemonMayasura",
+      "options": {
+        "3": "Vibhishana'swifeand daughterof theOcean God",
+        "4": "Shurpanakha's daughter andqueen of Lanka"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 2,
+      "question": "Which place in the Ramayana is associated with the exile period and is believed to be where Sita was abducted by Ravana ?t",
+      "options": {
+        "4": "Kishkindha",
+        "1": "Panchavati",
+        "2": "Chitrakoot",
+        "3": "Dandakaranya"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 3,
+      "question": "Whokilled thedemoness Tataka,and why? (l)Rama, because she attacked Vishwamitra's hermitage",
+      "options": {
+        "2": "Lakshmana,becausesheinsultedRama",
+        "3": "Rama, under Vishwamitra's order,despite her being a woman",
+        "4": "Bharata, duringthesearchforRama"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 4,
+      "question": "Whowas Shabari? (l)A sagewhogaveRamaabow",
+      "options": {
+        "2": "Rama'sdevoteelivinginaforest",
+        "3": "Arakshasiwholaterbecameadevotee",
+        "4": "Aqueen whodonatedherkingdomtoRama"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 5,
+      "question": "What is the name of the mountain to which Hanuman went to obtain the Sanjeevani herb?",
+      "options": {
+        "1": "Mahendragiri",
+        "2": "Kailasha",
+        "4": "Dronagiri",
+        "3": "Gandhamadana"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 6,
+      "question": "Which dynasty did Lord Rama belongto?",
+      "options": {
+        "1": "YadavaDynasty",
+        "2": "MauryaDynasty",
+        "4": "Chandravansha",
+        "3": "Suryavansha"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 7,
+      "question": "According to the Yuddha Kanda,which weapon did Rama use to kill Ravana ?",
+      "options": {
+        "1": "Narayanastra",
+        "2": "Agneyastra",
+        "4": "Indrastra",
+        "3": "Brahmastra"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 8,
+      "question": "Who has been called Daasharathiin‘Ramayana'?",
+      "options": {
+        "1": "Vali",
+        "4": "Dasharatha",
+        "2": "Hanuma",
+        "3": "Rama"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 9,
+      "question": "Rama navami iscelebrated inwhichTelugumonth?",
+      "options": {
+        "4": "In Kartika",
+        "3": "In Phalguna",
+        "1": "In Vaishakha",
+        "2": "In Chaitra"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 10,
+      "question": "What istheSecondChapter (Kanda)of Ramayana?",
+      "options": {
+        "4": "Sundarakanda",
+        "3": "Ayodhyakanda",
+        "1": "Aranyakanda",
+        "2": "Balakanda"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 11,
+      "question": "The incarnation of Rama is mentioned in which verse(Skandha) in the Bhagavatam?",
+      "options": {
+        "2": "In the Prathamaskandha",
+        "4": "IntheDashamaskandha",
+        "3": "IntheSaptamaskandha"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 12,
+      "question": "What is the nameof Lakshmana'swife?",
+      "options": {
+        "3": "Uurmila",
+        "2": "Uttara",
+        "1": "Mandodari",
+        "4": "Priyamvada"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 13,
+      "question": "Among these, Shukracharya is the teacher of whom ?",
+      "options": {
+        "4": "For yakhshas",
+        "1": "For gods",
+        "3": "Fordemons",
+        "2": "Forhumans"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 14,
+      "question": "What uniqueweapon didArjuna receivefrom Lord Shiva?",
+      "options": {
+        "1": "Vajrayudha",
+        "2": "Sudarshana Chakra",
+        "3": "Brahmastra",
+        "4": "Pashupatastra"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 15,
+      "question": "WhokilledDronacharyaintheKurukshetrawar?",
+      "options": {
+        "1": "Arjuna",
+        "2": "Bhima",
+        "4": "Yudhishthira",
+        "3": "Dhrishtadyumna"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 16,
+      "question": "Who was the onlywarriorwho survived fromtheKaurava sideafter thewar?",
+      "options": {
+        "2": "Shakuni",
+        "1": "Dushasana",
+        "4": "Karna",
+        "3": "Ashwatthama"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 17,
+      "question": "What curse did Arjuna suffer when he rejected Urvashi's advances in Indra's court?",
+      "options": {
+        "1": "Hewouldneverbeabletomarry",
+        "2": "Hewouldbebornasaeunuchinhisnextlife",
+        "3": "Hewouldloseallinterestinwomen",
+        "4": "He would liveas a eunuch for one year"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 18,
+      "question": "Before the Kurukshetra war, who went to Hastinapura as a peace envoy on behalf of the Pandavas?",
+      "options": {
+        "1": "Vidura",
+        "2": "Krishna",
+        "4": "Sanjaya",
+        "3": "Yudhishthira"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 19,
+      "question": "How manyParvas are there in theMahabharata?",
+      "options": {
+        "3": "12",
+        "4": "20",
+        "1": "16",
+        "2": "18"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 20,
+      "question": "On whichday of the Kurukshetra war was Bhishma fatally wounded and forced to lie on a bed ofarrows?",
+      "options": {
+        "1": "5th day",
+        "2": "10th day)",
+        "3": "12th day",
+        "4": "15th day"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 21,
+      "question": "In which chapter of the Bhagavad Gita does Lord Krishna describe the concept of the“Kshetra\" and\"Kshetrajna\"?",
+      "options": {
+        "3": "Chapter 12",
+        "1": "Chapter 10",
+        "4": "Chapter 15",
+        "2": "Chapter13"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 22,
+      "question": "According to Bhagavad Gita, which of the following is not one of the three gunas (qualities) of material nature?",
+      "options": {
+        "2": "Tamasu",
+        "1": "Sattva",
+        "3": "Rajasu",
+        "4": "Atma"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 23,
+      "question": "According to the Bhagavad Gita,Krishna tells Arjuna that he has the right to perform his duty, but not to claim what?",
+      "options": {
+        "2": "Expectfame",
+        "1": "Ask for help",
+        "3": "Abandon action",
+        "4": "Thefruits of his actions"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 24,
+      "question": "As stated in the Bhagavad Gita, which power or discipline does Krishna describe as capable of burning all karmic bondage to ashes?",
+      "options": {
+        "1": "Meditation",
+        "2": "Fasting",
+        "3": "Selfless service",
+        "4": "Trueknowledge"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 25,
+      "question": "WhotaughttheMahabharatatoJanamejaya?",
+      "options": {
+        "1": "Vyasa",
+        "2": "Vaisampayana",
+        "3": "Shuka",
+        "4": "Asteeka"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 26,
+      "question": "Who narrated the Srimad Bhagavatam to King Pariksit?",
+      "options": {
+        "2": "Suka Maharshi",
+        "1": "Veda Vyasa",
+        "3": "NaradaMuni",
+        "4": "SanatKumara"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 27,
+      "question": "Which incarnation of Lord Vishnu appeared to return the Vedas that had been stolen by the demon Somakasurudu?",
+      "options": {
+        "1": "Kurma",
+        "2": "Matsya",
+        "3": "Varaha",
+        "4": "Narasimha"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 28,
+      "question": "Which incarnation of LordVishnu lifted Govardhana Hill?",
+      "options": {
+        "2": "Rama",
+        "1": "Kurma",
+        "3": "Vamana",
+        "4": ""
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 29,
+      "question": "Who was thedemonkilledbyLord Varaha in theBhagavatam?",
+      "options": {
+        "2": "Hiranyaksa",
+        "1": "Hiranyakasipu",
+        "4": "Baka",
+        "3": "Ravana"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 30,
+      "question": "What was the cursegiven bythe sage that led toKing Pariksit's death?",
+      "options": {
+        "1": "Hewouldbeturned intoa demon",
+        "2": "Hewould losehiskingdom",
+        "3": "Hewouldbekilledbya snakebite",
+        "4": "He would forget all scriptures"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 31,
+      "question": "Who instructed thegoddess of devotion to sing Kesavakirtanam in the Bhagavatam?",
+      "options": {
+        "1": "Narada",
+        "2": "Sanaka",
+        "4": "Parashara",
+        "3": "Vaishampayana"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 32,
+      "question": "Why did Krishnadvaipayana Maharshi get the name Vyasa?",
+      "options": {
+        "1": "ForwritingthePuranas",
+        "2": "For dividing theVedas",
+        "3": "Forwriting theMahabharata",
+        "4": "For preaching the Brahma Sutras"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 33,
+      "question": "WhoisthemotherofHiranyaksha?",
+      "options": {
+        "3": "Diti",
+        "1": "Aditi",
+        "2": "Kadru",
+        "4": "Suparni"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 34,
+      "question": "In which skandha of theBhagavatam is the story of Ambareesh?",
+      "options": {
+        "1": "Intheninthverse",
+        "2": "Inthe sixth verse",
+        "4": "In the eleventh verse",
+        "3": "Intheseventhverse"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 35,
+      "question": "WhatistherealnameofBhishma?",
+      "options": {
+        "4": "Yudhishtira",
+        "2": "Devavrata",
+        "1": "Devadatta",
+        "3": "Dhanunjaya"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 36,
+      "question": "Whobrought Ganga to the earth?",
+      "options": {
+        "2": "Dileepa",
+        "1": "Bhagiratha",
+        "4": "Raghu",
+        "3": "Sagara"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 37,
+      "question": "Who cursed Parikshit?",
+      "options": {
+        "1": "Astika",
+        "4": "Krusha",
+        "2": "Jaratkaru",
+        "3": "Srungi"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 38,
+      "question": "As per the Matsya Purana, who is saved byLord Vishnu inHis Matsya (fish)avatar during the great deluge ?",
+      "options": {
+        "4": "Vyasa",
+        "2": "Manu",
+        "3": "Daksha",
+        "1": "Parikshit"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 39,
+      "question": "What critical preservation role does the Matsya avatar of Vishnufulfill in the Matsya Purana's flood narrative?",
+      "options": {
+        "1": "Destroys demons",
+        "2": "Rescues the Vedas and seeds for mankind",
+        "3": "Brings back the sun after eclipse",
+        "4": "Guides the gods in battle"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 40,
+      "question": "According to the Brahma Purana, how is Varaha (the boar incarnation of Vishnu)associated with the Pitrus (ancestors)?",
+      "options": {
+        "1": "Heforgotthemduringcosmicdissolution",
+        "2": "He performed Shraddha rites for them after rescuing them from a curse",
+        "3": "He judged their sins inYamaloka",
+        "4": "He sentthemto Swarga based onmerit"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 41,
+      "question": "Which phrase best describes the Vishnu Purana's theological stance, as reflected in the identification ofVishnu?",
+      "options": {
+        "1": "Vishnu as a limited deity among many",
+        "2": "Vishnuasthepervaderofcosmicdivision",
+        "3": "Vishnuas theall-pervading Brahman",
+        "4": "Vishnuasone among thetrimurti"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 42,
+      "question": "According to the Garuda Purana, what is the primary purpose of human birth?",
+      "options": {
+        "1": "Accumulatingwealth",
+        "2": "Seeking pleasures",
+        "4": "Gaining power over others",
+        "3": "Attaining liberation"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 43,
+      "question": "What is the recommended practice in the Garuda Purana to aid a soul after death?",
+      "options": {
+        "1": "Buildingtemples",
+        "2": "PerformingShraddhaandcharity",
+        "3": "Reciting mantras for wealth",
+        "4": "Constructingatomb"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 44,
+      "question": "What was the main reason for Lord Vishnu's Matsya (Fish)avatar as per the Matsya Purana?",
+      "options": {
+        "2": "To recover the stolenVedas",
+        "1": "Todefeata demon in the ocean",
+        "3": "To create the universe",
+        "4": "ToteachManu about warfare"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 45,
+      "question": "According to the Matsya Purana, how many major Kalpas (cosmic cycles) are described? DELETED",
+      "options": {
+        "4": "18",
+        "2": "10",
+        "1": "7",
+        "3": "14"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 46,
+      "question": "What is the main significance of the Kurma avatar of Lord Vishnu as described in theKurma Purana?",
+      "options": {
+        "1": "Saving theVedasfromdemons",
+        "2": "Supportingthechurningoftheocean",
+        "3": "DefeatingthedemonHiranyakashipu",
+        "4": "ProtectingKingManufromtheflood"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 47,
+      "question": "TheSkanda Purana is traditionallydivided intohowmanysections orkhandas?",
+      "options": {
+        "4": "20",
+        "2": "7",
+        "3": "18",
+        "1": "6"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 48,
+      "question": "Which mountain,sacredinHinduism andcloselyassociatedwith Lord Shiva,isprominently mentioned in the Skanda Purana?",
+      "options": {
+        "2": "Himalaya",
+        "4": "Aravalli",
+        "3": "Kailash",
+        "1": "09s 0900"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 49,
+      "question": "WhichPuranaisthelongest,withover81,000verses?",
+      "options": {
+        "3": "Vishnu Purana",
+        "4": "GarudaPurana",
+        "1": "Padma Purana",
+        "2": "SkandaPurana"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 50,
+      "question": "In whichregion did Suta Mahamuni narrate thePurana stories to thegreat sages?",
+      "options": {
+        "2": "Naimisharanyam",
+        "1": "Dandakaranyam",
+        "4": "Brundavanam",
+        "3": "Chitrakootam"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 51,
+      "question": "Which of the following Agamic traditions is primarily followed in the worship practices at the Tirumala Venkateswara Templein Tirupati?",
+      "options": {
+        "2": "PancharatraAgama",
+        "1": "Chattada SriVaishnavam",
+        "3": "ShaktaAgama",
+        "4": "VaikhanasaAgama"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 52,
+      "question": "Which of the following texts is a key scripture of the Pancharatra Agama tradition and lays out its theological and ritual framework?",
+      "options": {
+        "1": "Vishnu Purana",
+        "2": "BhagavadGita",
+        "4": "Narada Bhakti Sutra",
+        "3": "Satvata Samhita"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 53,
+      "question": "Which of the following is a unique feature of the Vaikhanasa Agama tradition in temple worship?",
+      "options": {
+        "1": "It worships Vishnu exclusively in five forms known as the Panchabhera",
+        "2": "Itgivesprimacyto Shiva anduses Saivarituals",
+        "3": "Itemphasizes personalmeditation overtemplerituals",
+        "4": "It allows non-Brahmins toperform all templerites"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 54,
+      "question": "Who is considered thepreacher of theSriVaishnava Sampradayam? 1111305",
+      "options": {
+        "2": "Ramanujacharya",
+        "1": "Madhvacharya",
+        "3": "Shankaracharya",
+        "4": "Nimbarkacharya"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 55,
+      "question": "Whichprominentfestival of North India commemoratesthevictoryofLordRama overthe demon king Ravana?",
+      "options": {
+        "2": "Holi",
+        "1": "Diwali",
+        "3": "Dussehra",
+        "4": "Makar Sankranti"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 56,
+      "question": "During Rath Yatra in Puri, which three deities are taken out in grand chariots?",
+      "options": {
+        "1": "Vishnu, Shiva,Brahma",
+        "2": "Jagannath,Balabhadra,Subhadra",
+        "4": "Krishna,Balarama,Radha",
+        "3": "Rama, Lakshmana, Sita"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 57,
+      "question": "Which festival is known as theFestival of Lights\"and celebrates the return of Lord Rama to Ayodhya ?",
+      "options": {
+        "2": "Diwali",
+        "1": "Navratri",
+        "4": "KarvaChauth",
+        "3": "Baisakhi"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 58,
+      "question": "During whichfestival dopeoplecelebrate the arrival of spring with colors and water? () Holi",
+      "options": {
+        "3": "Lohri",
+        "4": "Bihu",
+        "2": "Onam"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 59,
+      "question": "Which festival of Andhra Pradesh is renownedfor thegrand celebration of Lord Venkateswara at Tirupati ?",
+      "options": {
+        "1": "Sankranti",
+        "2": "Brahmotsavam",
+        "3": "Vasanthotsavam",
+        "4": "Pavitrostavam"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 60,
+      "question": "What is the primary content of the Rigveda ?",
+      "options": {
+        "1": "Ritual formulas and sacrificial instructions",
+        "2": "Melodic chants formusical recitation",
+        "3": "Philosophical dialogues on the nature of self",
+        "4": "Hymnsandpraisesdedicatedtovariousdeities"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 61,
+      "question": "TheYajurvedaisprimarilyamanualfor",
+      "options": {
+        "1": "Meditationtechniques",
+        "2": "Musicalperformance",
+        "3": "Conducting sacrificial rituals",
+        "4": "Healing andmedicinal knowledge"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 62,
+      "question": "Which of the following best describes the Samaveda's role in Vedic rituals?",
+      "options": {
+        "1": "It contains philosophical dialogues on Brahman",
+        "2": "ItsetsRigvedichymnstomusical notationsforchanting",
+        "3": "It details military strategies and archery",
+        "4": "It contains incantationsfor healing and protection"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 63,
+      "question": "Which unique aspect of the Atharvaveda distinguishes it from the other threeVedas?",
+      "options": {
+        "1": "Itisentirelycomposed inprose",
+        "2": "Itemphasizesphilosophical monism",
+        "3": "It includes spells,charms andeveryday life concerns",
+        "4": "It is used exclusively for coronation ceremonies"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 64,
+      "question": "The philosophical teachings and mysticalknowledge in the Vedas aremainlyfound in which part ?",
+      "options": {
+        "1": "Samhitas",
+        "2": "Brahmanas",
+        "4": "Upanishads",
+        "3": "Aranyakas"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 65,
+      "question": "HowmanyrenownedVedicUpanishadsarethere?",
+      "options": {
+        "3": "10",
+        "1": "21",
+        "2": "18",
+        "4": "28"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 66,
+      "question": "Which of thefollowingpairs is correctlymatched with its associated Upaveda? Ayurveda",
+      "options": {
+        "1": "SthapatyaVeda",
+        "2": "Dhanurveda",
+        "3": "Ayurveda",
+        "4": "Gandharvaveda"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 67,
+      "question": "The concept of \"Tat Tvam Asi\"(That Thou Art),which signifies the identity of the individual soul with the universal soul, is found in which Upanishad?",
+      "options": {
+        "2": "Isa Upanishad",
+        "1": "Kena Upanishad",
+        "4": "Prashna Upanishad",
+        "3": "Chandogya Upanishad"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 68,
+      "question": "Which philosophical school is associated with Adi Shankaracharya and what is its core teaching? Dualism between soul and God",
+      "options": {
+        "1": "Dvaita",
+        "2": "Advaita",
+        "3": "Vishishtadvaita",
+        "4": "Achintya Bheda Abheda"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 69,
+      "question": "Ramanujacharya's concept of\"Vishishtadvaita\"differs from Shankaracharya's Advaita mainly in that (l)Itdenies theexistenceof Brahman",
+      "options": {
+        "2": "It sees the world as entirelyunreal",
+        "3": "It accepts a qualifiednon-dualism,whereAtman and Brahman are distinct yet inseparable",
+        "4": "It proposes a purelydualisticviewof God and Soul"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 70,
+      "question": "What is akey difference in Madhvacharya's Dvaita philosophy compared to other Vedanta schools?",
+      "options": {
+        "1": "It claims all deities are egual and non-distinct",
+        "2": "ItassertscompleteidentitybetweenAtmanandBrahman",
+        "3": "It proposes an eternal differencebetweenGod, Souls and Matter",
+        "4": "Itdeniestheauthorityof theVedas"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 71,
+      "question": "Which of the following Vaishnavite gurus propagated the philosophy of Vishishtadvaita and emphasized surrender (prapatti)to Lord Vishnu for liberation?",
+      "options": {
+        "1": "Madhvacharya",
+        "2": "Adi Shankaracharya",
+        "3": "Ramanujacharya",
+        "4": "Chaitanya Mahaprabhu"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 72,
+      "question": "In traditional Hindu society,what is thetypical formoffamily structure?",
+      "options": {
+        "2": "Jointfamily system",
+        "1": "Nuclearfamilyonly",
+        "4": "Familieswithnoelders",
+        "3": "Matriarchalfamiliesonly"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 73,
+      "question": "InclassicalHindulaw,whatwasakeyreasonforadoption?",
+      "options": {
+        "1": "To increase political power",
+        "2": "Togainpropertyfromanotherfamily",
+        "3": "To ensure continuity of family lineage and perform funeral rites",
+        "4": "Toavoid taxes"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 74,
+      "question": "Under Hindu succession, who is typicallyfirst in line to inherit property if a Hindu male dies intestate (without a will)?",
+      "options": {
+        "1": "His friends",
+        "2": "His daughter's husband",
+        "3": "His Class I heirs likewife,sons,daughters andmother",
+        "4": "The village head"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 75,
+      "question": "In Hindu adoption, which of the following is a valid condition?",
+      "options": {
+        "1": "A child above 21 years can be adopted",
+        "2": "Onlymarriedwomencanadopt",
+        "3": "Theadoptedchildmust not alreadybeadopted",
+        "4": "A child canbeadopted morethan once"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 76,
+      "question": "Who practiced the Sarpa Yaga ?",
+      "options": {
+        "1": "Parikshit",
+        "2": "Janamejaya",
+        "3": "Aswatthama",
+        "4": "Arjuna"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 77,
+      "question": "In which Skandham is the story of Prahlada in theBhagavata?",
+      "options": {
+        "1": "In twelfthverse",
+        "2": "In eleventh verse",
+        "3": "In sixth verse",
+        "4": "In seventh verse"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 78,
+      "question": "Whoisthemotherof snakes?",
+      "options": {
+        "1": "Kadru",
+        "2": "Vinata",
+        "3": "Diti",
+        "4": "Aditi"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 79,
+      "question": "Who are theparents of Vyasa Maharshi?",
+      "options": {
+        "2": "Satyavati-Parashara",
+        "1": "Aditi-Kashyapa",
+        "3": "Devaki- Vasudeva",
+        "4": "Arundhati--Vasishta"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 80,
+      "question": "Whomdid Vamanaaskthreefeetof earth?",
+      "options": {
+        "1": "Prahlada",
+        "2": "Ambarisha",
+        "4": "Shukracharya",
+        "3": ""
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 81,
+      "question": "TowhomdidVyasa preach theRigveda?",
+      "options": {
+        "2": "To Jaimini",
+        "1": "ToVaishampayan",
+        "3": "To Paila",
+        "4": "ToYajnavalkya"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 82,
+      "question": "In which Veda is theValakhilya Sukta found?",
+      "options": {
+        "1": "In the Rigveda",
+        "2": "IntheSamaveda",
+        "3": "In the Atharvaveda",
+        "4": "In theYajurveda"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 83,
+      "question": "The Kanva Shakha is related to which Veda ?",
+      "options": {
+        "2": "To Samaveda",
+        "1": "To Rigveda",
+        "4": "To Yajurveda",
+        "3": "To Atharvaveda"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 84,
+      "question": "In which Purana is the story of Gokarna mentioned? DELETED",
+      "options": {
+        "1": "In the Bhagavata Purana",
+        "2": "In theMatsyaPurana",
+        "3": "In the Vaman Purana",
+        "4": "In the Varaha Purana"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 85,
+      "question": "Who wrote the commentary on the Brahma Sutras called Anubhasya?",
+      "options": {
+        "2": "The Madhwacharya",
+        "1": "TheRamanujacharya",
+        "4": "TheRaghavendratirtha",
+        "3": "TheShankaracharya"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 86,
+      "question": "In which area (kshetra)is Swami Pushkarinilocated?",
+      "options": {
+        "2": "In Mahanandi",
+        "4": "In Badari",
+        "3": "In Tirumala",
+        "1": "800n0"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 87,
+      "question": "Which is the last episode of Mahabharata?",
+      "options": {
+        "1": "Shalya Parva",
+        "2": "AnushasanaParva",
+        "4": "Swargarohana Parva",
+        "3": "Bhishma Parva"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 88,
+      "question": "Who taught Drona the arts of war?",
+      "options": {
+        "1": "Sandipani",
+        "2": "Parashurama",
+        "3": "Bhishma",
+        "4": "Parashara"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 89,
+      "question": "Where is Pratimalakshanam (The procedure of the statue of God)mentioned?",
+      "options": {
+        "1": "In the Veda",
+        "2": "In theVyakarna",
+        "3": "In the Agama",
+        "4": "In the Shiksha"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 90,
+      "question": "The book Rauravaagama is related to which Agama ?",
+      "options": {
+        "1": "ToShaivagama",
+        "2": "To Vaikanasagama",
+        "4": "ToVaishnavism",
+        "3": "ToChattadagamama"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 91,
+      "question": "WhenisAvabhrithamperformedduringfestivals?",
+      "options": {
+        "2": "At the end of the festival",
+        "4": "In the above three stages",
+        "3": "Inthemiddleof thefestival",
+        "1": ""
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 92,
+      "question": "Whowastheguruof ShankaraBhagavatpada?",
+      "options": {
+        "1": "Gaudapada",
+        "2": "Govindabhagavatpada",
+        "3": "Uvvatacharya",
+        "4": "Yamunacharya"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 93,
+      "question": "Aniruddha Samhita is related towhichAgama?",
+      "options": {
+        "2": "To Saivagama",
+        "1": "ToVaikhanasagama",
+        "4": "To Shaktagama",
+        "3": "ToPancharatragama"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 94,
+      "question": "Howmany ways is bathing described in the Agamas? DELETED",
+      "options": {
+        "2": "Eight",
+        "1": "Sixteen",
+        "4": "Five",
+        "3": "Seven"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 95,
+      "question": "What should be understood by the word \"Bera\"in the Agamas?",
+      "options": {
+        "2": "Dvara",
+        "4": "Balipeetha",
+        "3": "Vimana"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 96,
+      "question": "Which Agama proposes the five sanskarams:Tapa-Pundra-Nama-Mantra-Yaga?",
+      "options": {
+        "2": "Pancharatragama",
+        "1": "Vaikhanasagama",
+        "3": "Saivagama",
+        "4": "Shaktagama"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 97,
+      "question": "WhowrotethebookPrashnottaramalika?",
+      "options": {
+        "1": "Ramanujacharya",
+        "2": "Shankaracharya",
+        "4": "Vikhanas",
+        "3": "Madhvacharya"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 98,
+      "question": "WhoisthefounderofChaturamnayaPeethas?",
+      "options": {
+        "1": "Vidyaranya",
+        "2": "Shankaracharya",
+        "3": "Ramanujacharya",
+        "4": "Raghavendra Swami"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 99,
+      "question": "TowhichVedaistheMundakaUpanishadrelated?",
+      "options": {
+        "2": "To Rigveda",
+        "1": "ToKrishnaYajurveda",
+        "3": "To Atharvaveda",
+        "4": "To Samaveda"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 100,
+      "question": "What is the original name of Sutapauranika?",
+      "options": {
+        "1": "Dalbhya",
+        "2": "Badarayana",
+        "4": "Kahola",
+        "3": "Romaharshana"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 101,
+      "question": "Thestoryof ShashtiDeviisnarrated inwhichPurana?",
+      "options": {
+        "1": "InAgniPuranam",
+        "2": "In VayuPuranam",
+        "3": "In Shiva Puranam",
+        "4": "In Brahma Vaivarta Puranam"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 102,
+      "question": "Sahadeva's name in the incognito existence of the Pandavas for the last year of their exile was",
+      "options": {
+        "2": "Tantipala",
+        "1": "Kankubhatt",
+        "4": "Damagranthi",
+        "3": "Valala"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 103,
+      "question": "The Karna was theking of which country?",
+      "options": {
+        "2": "To the Vanga",
+        "1": "To the Anga",
+        "4": "To the Chedi",
+        "3": "To theKalinga"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 104,
+      "question": "How many branches does Yajurveda have?",
+      "options": {
+        "2": "21",
+        "1": "61",
+        "4": "71",
+        "3": "101"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 105,
+      "question": "WhoisDuryodhana'ssister?",
+      "options": {
+        "2": "Dusshala",
+        "1": "Shakuntala",
+        "3": "Vishala",
+        "4": "Subala"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 106,
+      "question": "ThenameofEmperorBali'swife",
+      "options": {
+        "1": "Vindhyawali",
+        "2": "Virochani",
+        "4": "Shatarupa",
+        "3": "Ratnamala"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 107,
+      "question": "What is the name of Shishupala's brother?",
+      "options": {
+        "1": "Dantavaktra",
+        "2": "Jarasandha",
+        "4": "Mahipala",
+        "3": "Damaghosh"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 108,
+      "question": "Underwhich Sec.Budget Estimate of a Charitable or Religious Institution or Endowment is sanctioned?",
+      "options": {
+        "1": "Sec. 57",
+        "2": "Sec. 56",
+        "3": "Sec. 55",
+        "4": "Sec. 58"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 109,
+      "question": "Abudget estimation is showing the details of",
+      "options": {
+        "1": "Audit Report",
+        "2": "Probable receipts and expenditure for thefinancial year",
+        "3": "Onlyincomeassessedforthefinancialyear",
+        "4": "Onlyexpenditureassessedforthefinancial year"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 110,
+      "question": "How many days before an executive authority of institution shall submit budget estimate to the competentauthorityforsanction?",
+      "options": {
+        "1": "30daysbefore",
+        "2": "50 days before",
+        "3": "60 days before",
+        "4": "90daysbefore"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 111,
+      "question": "Competent authority for sanction of annual budgets of institutions for whose annual net income is above 1 crore upto Deputy Commissioner cadre institutions",
+      "options": {
+        "1": "DeputyCommissioner",
+        "2": "Commissioner",
+        "3": "Regional Joint Commissioner",
+        "4": "AdditionalCommissioner"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 112,
+      "question": "Competent authorityfor sanction of annual budgets of6 (d) institutions i.e., Mutts 1305",
+      "options": {
+        "1": "Commissioner",
+        "2": "AdditionalCommissioner",
+        "3": "DeputyCommissioner",
+        "4": "RegionalJointCommissioner"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 113,
+      "question": "The competent authority for sanction of annual budgets for the Joint Commissioner cadre institutions 11305 (l)AdditionalCommissioner",
+      "options": {
+        "2": "DeputyCommissioner",
+        "3": "Commissioner",
+        "4": "RegionalJointCommissioner",
+        "1": "6"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 115,
+      "question": "If not applied for supplemental sanction for the amount incurred in excess of budget sanction in the samefinancial year, whether excess expenditure can ratified in the next financial years? (l)The excess expenditure incurred over the budget/supplemental sanction can ratified in the nextfinancialyears",
+      "options": {
+        "2": "Not ratified",
+        "3": "TheExecutiveAuthorityisheldresponsiblefortheexcess expenditure",
+        "4": "Theexcessexpenditureisobjectionableintheauditand surchargable"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 116,
+      "question": "Who is the competent authorityfor sanction of budget for 6 (a)institutions whose annual net incomeisbetweenRs.50lakhstolcrore?",
+      "options": {
+        "1": "DeputyCommissioner",
+        "2": "Regional Joint Commissioner",
+        "3": "Additional Commissioner",
+        "4": "Commissioner"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 117,
+      "question": "Who is the competent authorityfor sanction of budgetfor6 (b)institutions whose annual net incomeisbetweenRs.15lakhsto50lakhs?",
+      "options": {
+        "1": "AdditionalCommissioner",
+        "2": "RegionalJointCommissioner",
+        "3": "DeputyCommissioner",
+        "4": "AssistantCommissioner"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 118,
+      "question": "Annual Budgets shall be submitted to the concerned authorities for sanction throughFAS(Financial Accounting System),onlyfor the institutions under the administrative control of the",
+      "options": {
+        "1": "CommissionerandAdditionalCommissioner",
+        "2": "AdditionalCommissioner",
+        "3": "Commissioner,Additional Commissioner,Regional JointCommissionerandDeputy",
+        "4": "Commissioner"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 119,
+      "question": "Under Section 57of theEndowments Act30/87Budget is in theChapterof",
+      "options": {
+        "1": "Chapter-VI",
+        "2": "Chapter-V",
+        "3": "Chapter -VIII",
+        "4": "Chapter-VII"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 120,
+      "question": "Competent authority for sanction of Budget to the Tirumala Tirupati Devasthanam, Tirupati",
+      "options": {
+        "1": "Government",
+        "2": "Commissioner",
+        "3": "AdditionalCommissioner",
+        "4": "Regional Joint Commissioner"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 121,
+      "question": "If there is a non hereditary trust board to an institution, before submission of Budget for sanction, the approval of the Budget in the Board is necessary or not?",
+      "options": {
+        "1": "Not necessary",
+        "2": "Approval of theBudget intheBoardis necessary",
+        "3": "Only approvalofChairman is sufficient",
+        "4": "Approvaloftrusteeissufficient"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 122,
+      "question": "Section29of theEndowmentsAct30/87describes",
+      "options": {
+        "1": "AppointmentofCommissioner",
+        "2": "Appointment andduties ofanExecutiveOficer",
+        "3": "AppointmentofMatadhipathi",
+        "4": "AppointmentofDeputyCommissioner"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 123,
+      "question": "Grade-,Grade-II and Grade-II EOs are appointed by the",
+      "options": {
+        "2": "Commissioner",
+        "1": "Government",
+        "3": "Principal Secretary",
+        "4": "AdditionalCommissioner"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 124,
+      "question": "Competent authority to create a single group of institutions to appoint an EO",
+      "options": {
+        "2": "Government",
+        "1": "Commissioner",
+        "3": "AssistantCommissioner",
+        "4": "Deputy Commissioner"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 125,
+      "question": "How much % (percentage)of vacancies in Ist Grade EO posts shall befilled by the employees belonging to institutions?",
+      "options": {
+        "2": "25% of vacancies",
+        "1": "30%ofvacancies",
+        "3": "15%ofvacancies",
+        "4": "20% of vacancies"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 126,
+      "question": "Competent authority to appoint Regional Joint Commissioner as an EO to any institution basing ontheannualincome",
+      "options": {
+        "1": "Government",
+        "2": "Principal Secretary",
+        "3": "Commissioner",
+        "4": "AdditionalCommissioner"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 127,
+      "question": "Competent authority to appoint a Deputy Commissioner as an EO to any institution basing on the annual income 130",
+      "options": {
+        "2": "Commissioner",
+        "1": "Principal Secretary",
+        "4": "Government",
+        "3": "AdditionalCommissioner"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 128,
+      "question": "Whether EO can have power to encash any FDR (Fixed Deposit Receipt) of an institution? (I) No",
+      "options": {
+        "2": "Yes",
+        "3": "In view of the urgency EO can have power to encash FDR",
+        "4": "With permission oftheTrustBoard theEO can have powerto encashFDR"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 129,
+      "question": "Who is the competent authority to transfer theEOs of institutions?",
+      "options": {
+        "1": "Government",
+        "2": "Regional JointCommissioner",
+        "3": "AdditionalCommissioner",
+        "4": "Commissioner"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 130,
+      "question": "Who is the competent authority to draw and disburse the salaries of EOs?",
+      "options": {
+        "1": "Self",
+        "2": "AssistantCommissioner",
+        "3": "Regional JointCommissioner",
+        "4": "DeputyCommissioner"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 131,
+      "question": "EOsof1stGradeshouldapplyforsanctionof EL/HPL/Medical leave/EOLtothe",
+      "options": {
+        "2": "DeputyCommissioner",
+        "1": "Commissioner",
+        "3": "AssistantCommissioner",
+        "4": "AdditionalCommissioner"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 132,
+      "question": "Grade-IIEOsearnedleavesanctioningauthority DELETED (l)Regional JointCommissioner",
+      "options": {
+        "2": "Commissioner",
+        "4": "AssistantCommissioner",
+        "3": "DeputyCommissioner",
+        "1": "6a5 2woe5 s354"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 133,
+      "question": "To incurring expenditure by an EO of institution the budget sanction is necessary or not? (l)Budget sanction is not necessary",
+      "options": {
+        "2": "Trustee permission is sufficient",
+        "3": "ChairmanofTrustBoardpermission is sufficient",
+        "4": "No expenditure incurred without Budget sanction by the competent authority"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 134,
+      "question": "ChapterX of EndowmentsAct is describes",
+      "options": {
+        "1": "Contents of Audit Report",
+        "2": "Alienationof any immovablepropertyand resumptionof Inam lands",
+        "3": "Rectification of defects in audit",
+        "4": "Accounts andAudit"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 135,
+      "question": "Section77of theEndowmentsAct describes",
+      "options": {
+        "1": "Prohibition of transfer of lands granted for rendering service to an institution",
+        "2": "Appeals",
+        "3": "Alienationof immovableproperty",
+        "4": "Resumption of Inam lands"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 136,
+      "question": "Section84,85and86oftheEndowmentsAct30/87describes",
+      "options": {
+        "1": "Eviction of encroacherfrom the propertyof an institution",
+        "2": "Evictionofgroupofencroachersfromthepropertyof aninstitution",
+        "3": "These3Sections omittedbyAct36of2023",
+        "4": "Penalty including imprisonmentandfinesfor individuals whocommit offences in"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 137,
+      "question": "Section75oftheEndowmentsActdescribes",
+      "options": {
+        "1": "Lease, sale of Inams tobe void in certain cases",
+        "2": "Prohibitionof transferof lands grantedforrendering service toa institution",
+        "3": "Resumptionof Inamlands",
+        "4": "Appealsontheorderof RevenueDivisionalOfficer"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 138,
+      "question": "HowtoresumeInamlands? (l)Right of appeal againstthedecisionof theEndowments Tribunal U/S87",
+      "options": {
+        "2": "RDO on the application of the Executive Authority of an institution resume the whole or",
+        "3": "Eviction of an encroacher on theland of an institution",
+        "4": "Invalidation ofunauthorized sale"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 139,
+      "question": "Section79describes",
+      "options": {
+        "1": "Alienationofimmovableproperty",
+        "3": "Invalidationofunauthorisedsale",
+        "4": "Permitting unauthorized sale"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 140,
+      "question": "Competent authority to evict an.encroacher U/s 83 of Amendment Act 36/2023",
+      "options": {
+        "1": "Deputy Commissioner only",
+        "2": "AssistantCommissioneronly",
+        "4": "Regional JointCommissioneronly"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 141,
+      "question": "Is giving a notice to the encroacher before removal of encroachment as per Amended Act 36/2023compulsory?",
+      "options": {
+        "1": "Compulsory. EO shall by notice requested the encroacher to remove the encroachment",
+        "2": "Not compulsory. Without giving a notice the EO can evict an encroacher",
+        "3": "Not necessaryto give timeto evict the encroacher",
+        "4": "Compulsory by Thasildar"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 142,
+      "question": "If a tenant failed to hand over the land/shop/vacant site/building etc., after completion of approved leaseperiod,heshall be",
+      "options": {
+        "1": "EvictedaspertheevictionorderspassedbytheAPEndowmentsTribunal",
+        "2": "EvictedaspertheevictionorderspassedbytheCommissioner",
+        "3": "EvictedUnderSection87oftheAct30/87",
+        "4": "EvictedUnderSection83oftheAmendedAct36/2023"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 143,
+      "question": "Section76oftheAct30/87defines DELETED",
+      "options": {
+        "1": "Thepropertyandreligiousofferingswhether incashorkind,givenorendowed",
+        "2": "Prohibition oflandsgivenforrendering servicein the institutions",
+        "3": "Lease of the lands of endowments institutions",
+        "4": "Grantingof InamtoanArchaka,Serviceholderorotheremployeeof institution"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 144,
+      "question": "The Ordinance no.2/2019passed by the Government vide G.0.Ms.No.26, law (F)Dept., Dt; 23-02-2019is belongs to",
+      "options": {
+        "1": "Non agricultural lands",
+        "2": "Vacantsites",
+        "3": "Inamlands,AmendmenttoAct1956",
+        "4": "Agricultural lands"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 145,
+      "question": "Sec.83ofAmendmentAct36/2023defines",
+      "options": {
+        "1": "Encroachment of land,building oranypropertyof an institution and evictionof encroacher",
+        "2": "Invalidation of un-authorised sale",
+        "3": "Howtomakecompromises",
+        "4": "RightofappealagainstthedecisionoftheEndowmentsTribunal U/s87"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 146,
+      "question": "CompromisehowtobemadeisintheSectionof",
+      "options": {
+        "1": "Section 88",
+        "2": "Section 82",
+        "3": "Section 87",
+        "4": "Section 89"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 147,
+      "question": "Inhowmany daysfrom thedate of receipt of decisionof Endowments Tribunal U/S87preferon Appeal totheHighCourtU/S88?",
+      "options": {
+        "1": "Within30 days",
+        "2": "Within 90 days",
+        "3": "Within 60 days",
+        "4": "Within 40 days"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 148,
+      "question": "Section82defines",
+      "options": {
+        "1": "Powers of Endowments Tribunal todecide certaindisputes andmatters",
+        "2": "Invalidation ofun-authorised sale",
+        "3": "Lease of agricultural lands",
+        "4": "Alienationof immovableproperty"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 149,
+      "question": "Any person aggrieved by an order of RDO under Sub-Section (1) of Section 77 may appeal to DistrictCollectorunderSection",
+      "options": {
+        "2": "U/S 82",
+        "4": "U/S 89",
+        "1": "U/S 88",
+        "3": "U/S 78"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 150,
+      "question": "Any person aggrieved by an order passed by Executive Authority under Sub-Section (2) of the Section83of theAmendedAct36/2023maypreferanappealwithin(15)daysfromthedateof ordertothe",
+      "options": {
+        "1": "High Court",
+        "2": "A.P.EndowmentsTribunal",
+        "3": "Government",
+        "4": "Commissioner"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    }
+  ]
+}

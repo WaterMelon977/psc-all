@@ -1,0 +1,1796 @@
+{
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "Who has been called Devarshi in ‘Ramayana’?",
+      "options": {
+        "1": "Valmiki ࢐ࡰघ ړ",
+        "2": "Vishwamitra",
+        "3": "Narada ߕర޶ݡ",
+        "4": "Vashishtha వࢢࢵध ݡ"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 2,
+      "question": "How many branches of ancient knowledge (Vidya) are there?",
+      "options": {
+        "1": "5",
+        "2": "7",
+        "3": "11",
+        "4": "14"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 3,
+      "question": "Which ‘guna’ is predominant in Vishnu?",
+      "options": {
+        "1": "Sattva",
+        "2": "Rajas",
+        "3": "Tamas",
+        "4": "Sattva with Tamas"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 4,
+      "question": "Who is called ‘the fifth Veda’?",
+      "options": {
+        "1": "Ramayana",
+        "2": "Upanishadas",
+        "3": "Agamas",
+        "4": "Puranas"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 5,
+      "question": "The Mimamsa Sutras were written by:",
+      "options": {
+        "1": "Vedavyasa",
+        "2": "Gauthama ۀత࠭ݡ",
+        "3": "Kapila",
+        "4": "Jaimini ܒࠫߖ"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 6,
+      "question": "Classification of the institutions in the Andhra Pradesh Charitable and Hindu Religious Institutions and Endowments Act, 1987 is based on which of the following?",
+      "options": {
+        "1": "Annual income",
+        "2": "Daily income",
+        "3": "Monthly income",
+        "4": "Total number of Archakas"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 7,
+      "question": "‘Vinayaka chavaithi’ is celebrated in which Telugu month?",
+      "options": {
+        "1": "Chaitra ۰ऴత࠭",
+        "2": "Ashwin",
+        "3": "Bhadrapada",
+        "4": "Magha ࠪఘ࠭"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 8,
+      "question": "The first chapter (Parva) of ‘Mahabharata’ is:",
+      "options": {
+        "1": "Sabha Parva",
+        "2": "Adi Parva",
+        "3": "Shanti Parva",
+        "4": "Aswamedha Parva"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 9,
+      "question": "Vinayaka Pooja is done with how many types of leaves?",
+      "options": {
+        "1": "11",
+        "2": "16",
+        "3": "21",
+        "4": "28"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 10,
+      "question": "As per Hindu mythology, the total number of Shakti Peetha is:",
+      "options": {
+        "1": "36",
+        "2": "40",
+        "3": "48",
+        "4": "51"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 11,
+      "question": "Durga Sapthashathi is mentioned in which Purana?",
+      "options": {
+        "1": "Markandeya Purana",
+        "2": "Devi Purana",
+        "3": "Bhagavatha Purana",
+        "4": "Skanda Purana"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 12,
+      "question": "What was the name of King Dasharatha's father?",
+      "options": {
+        "1": "Raghu",
+        "2": "Nabhaga",
+        "3": "Dilipa ޴ࡰߩݡ",
+        "4": "Aja అ܉ޔݡ"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 13,
+      "question": "In 1987, the Andhra Pradesh government constituted the _______ to review and suggest measures for better management of institutions and endowments.",
+      "options": {
+        "1": "Fazlali Commission",
+        "2": "Dhar Commission",
+        "3": "Justice Shri Challa Kondaiah Commission",
+        "4": "Reddy Commission"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 14,
+      "question": "Vedas are also known as:",
+      "options": {
+        "1": "Ihihasa",
+        "2": "Purana",
+        "3": "Shruthi",
+        "4": "Smrithi"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 15,
+      "question": "Which Alwar is also known as Godadevi?",
+      "options": {
+        "1": "Nammalwar",
+        "2": "Andal",
+        "3": "Perialwar",
+        "4": "Poigai Alwar"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 16,
+      "question": "What was the name of city where the Pandavas spent their incognito period?",
+      "options": {
+        "1": "Ekachakra Nagari",
+        "2": "Hastinapur",
+        "3": "Panchalnagar",
+        "4": "Viratanagar"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 17,
+      "question": "According to the Andhra Pradesh Charitable and Hindu Religious Institutions and Endowments Act, 1987, the Common Good Fund shall vest in a committee constituted by the________________.",
+      "options": {
+        "1": "Assistant commissioner",
+        "2": "Executive officer",
+        "3": "Chairman ۰రघ ߤ",
+        "4": "Government"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 18,
+      "question": "Prabhasa Tirth is described in which Purana? Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.",
+      "options": {
+        "1": "Shiva Purana",
+        "2": "Bhagavatha Purana",
+        "3": "Skanda Purana",
+        "4": "Agni Purana"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 19,
+      "question": "Surplus amounts, if any remains after repaying the amounts specified in Sub-section 3 Section 69 of the Andhra Pradesh Charitable and Hindu Religious Institutions and Endowments Act 1987, shall be transferred to:",
+      "options": {
+        "1": "common good fund",
+        "2": "public fund ऴప܉ ߖ߅",
+        "3": "Mathadhipathi మݍ߅పޒ",
+        "4": "trustees"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 20,
+      "question": "Which of the following states celebrates New Year’s day on Deepavali festival?",
+      "options": {
+        "1": "Bihar",
+        "2": "Gujarat",
+        "3": "Punjab",
+        "4": "Kerala"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 21,
+      "question": "How many Purusharthas of life were propounded by Manu?",
+      "options": {
+        "1": "Two ࡓంݡ",
+        "2": "Three ࠮ݡ",
+        "3": "Four ߕࡱڷ",
+        "4": "Five"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 22,
+      "question": "On the advice of sage Agastya, at which place did Rama start living by building an ashram?",
+      "options": {
+        "1": "Prayaga",
+        "2": "Kishkindha ړࢳए ంధ",
+        "3": "Panchavati",
+        "4": "Anjanadri"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 23,
+      "question": "Rigveda is divided into ten:",
+      "options": {
+        "1": "Anuvakas అߘ࢐ڒࡱ",
+        "2": "Mandalas",
+        "3": "Suktas ࣇڒफࡱ",
+        "4": "Adhyayas అ߄ङ ࠻ࡱ"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 24,
+      "question": "Which day is celebrated as Akshaya Tritiya?",
+      "options": {
+        "1": "Phalguna Tritiya",
+        "2": "Jyeshtha Tritiya",
+        "3": "Chaitra Tritiya",
+        "4": "Vaisakha Tritiya"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 25,
+      "question": "The authority competent to file a case of encroachment under Section 85 of the Andhra Pradesh Charitable and Hindu Religious Institutions and Endowments Act-1987 is:",
+      "options": {
+        "1": "the executive officer",
+        "2": "the deputy commissioner",
+        "3": "the board of trustees",
+        "4": "the government"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 26,
+      "question": "What was the name of the younger brother of King Janak?",
+      "options": {
+        "1": "Kushdhvaja",
+        "2": "Viradhvaja",
+        "3": "Sudhanva ࣆధߘछ ݡ",
+        "4": "Saumitra"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 29,
+      "question": "The book that describes the words, tunes and connections used in Vedas is called: అంܼࡏ:",
+      "options": {
+        "1": "Shika",
+        "2": "Pratishakhya",
+        "3": "Mantra",
+        "4": "Vidhi ࢑߅"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 30,
+      "question": "The religious festival ‘Thai Poosam’ is celebrated in which Indian State?",
+      "options": {
+        "1": "Tamil Nadu తࠫళߕݡ",
+        "2": "Karnataka",
+        "3": "Kerala",
+        "4": "Telangana"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 31,
+      "question": "The lands belonging to the Institutions or Endowments situated in scheduled areas can be purchased by which of the following authorities?",
+      "options": {
+        "1": "District Collector",
+        "2": "Executive Officer",
+        "3": "Government",
+        "4": "Chairman ۰రघ ߤ"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 32,
+      "question": "Which philosophy is followed by followers of Chattada Sri Vaishnava community?",
+      "options": {
+        "1": "Philosophy of Ramanujacharya",
+        "2": "Philosophy of Shankaracharya",
+        "3": "Philosophy of Nimbarkacharya",
+        "4": "Philosophy of Vallabhacharya"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 33,
+      "question": "The authority competent to determine cultivating tenant as a landless poor person defined under Section 82 of the Andhra Pradesh Charitable and Hindu Religious Institutions and Endowments Act 1987 is:",
+      "options": {
+        "1": "the Regional Joint Commissioner",
+        "2": "the Assistant Commissioner",
+        "3": "the Chairman and Member of TTD",
+        "4": "the Executive Officer"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 34,
+      "question": "‘Taittiriya Brahmana’ is related to which Veda?",
+      "options": {
+        "1": "Rigveda",
+        "2": "Shukla Yajurveda",
+        "3": "Krishna Yajurveda",
+        "4": "Samaveda"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 35,
+      "question": "Who said “Rama is dharma incarnate” (Rāmō vigrahavān dharmaḥ)?",
+      "options": {
+        "1": "Hanuman",
+        "2": "Sugriva ࣆऴڶ࢓ݡ",
+        "3": "Ravana ࡌవރݡ",
+        "4": "Maricha ࠪࡎ۪ݡ"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 36,
+      "question": "Which festival is also celebrated as ‘Madanotsavam’?",
+      "options": {
+        "1": "Holi ࣟࡰ",
+        "2": "Ugadi ఉڴ޴",
+        "3": "Navaratri నవࡌऴޒ",
+        "4": "Sankranti"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 37,
+      "question": "Who is the competent authority for preparing the code of conduct for the trustee, Archakas and other office holders?",
+      "options": {
+        "1": "The Commissioner",
+        "2": "The Board of Trustees",
+        "3": "The Endowment Tribunal",
+        "4": "Mathadhipathi మݍ߅పޒ"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 38,
+      "question": "Who was the priest of the Pandavas?",
+      "options": {
+        "1": "Vedavyasa",
+        "2": "Drona ऴ޾ރݡ",
+        "3": "Dhoumya ߐ࠭ङ ݡ",
+        "4": "Vishwamitra"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 39,
+      "question": "Which Upanishad describes the ‘Viswajit’ Yajna performed by Sage Uddalaka?",
+      "options": {
+        "1": "Isavasyopanishad",
+        "2": "Mundakopanishad",
+        "4": "Nimbarkacharya"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 42,
+      "question": "Who is known as Gangeya in ‘Mahabharata’?",
+      "options": {
+        "1": "Krishna కృࢵप ݡ",
+        "2": "Arjuna అࡏणߘݡ",
+        "3": "Karna కࡏपݡ",
+        "4": "Bhishma ࠛࢵघ ݡ"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 43,
+      "question": "The marriage of Shakuntala and Dushyantha is a classic example of which kind of marriage?",
+      "options": {
+        "1": "Daiva Vivaha",
+        "2": "Gandharva Vivaha",
+        "3": "Arsha Vivaha",
+        "4": "Brahma Vivaha"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 44,
+      "question": "‘Kanuma’ is the third day of Makar Sankranti. It is celebrated as a thanksgiving to:",
+      "options": {
+        "1": "kings and queens",
+        "2": "gods and goddesses",
+        "3": "Brahmanas and Purohitas",
+        "4": "cattle and birds"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 45,
+      "question": "Which philosophy was propagated by Basaveswara?",
+      "options": {
+        "1": "Advaita philosophy",
+        "2": "Chaitanya philosophy",
+        "3": "Veera Shaivam philosophy",
+        "4": "Dvaita philosophy"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 46,
+      "question": "Cancellation of leases of Agricultural lands U/s 82 of the Andhra Pradesh Charitable and Hindu Religious Institutions and Endowments Act 1987 was upheld in which of the following cases?",
+      "options": {
+        "1": "Pappu Venkat Rao vs. Commissioner of Endowments",
+        "2": "AS Narayana Deekshithulu vs. State of Andhra Pradesh",
+        "3": "Sri Vallabharayeshwara Swamy Temple vs. Bellamkonda Subramanya Sarma and another",
+        "4": "State of AP and Others vs. Nallamalli Ramireddy and Others"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 47,
+      "question": "Ayodhya was situated on the banks of which river?",
+      "options": {
+        "1": "Pampa",
+        "2": "Sarayu",
+        "3": "Ganga",
+        "4": "Tamasa"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 48,
+      "question": "The Revenue Divisional Officer, either suo-moto or an application of the Trustee, EO or the Commissioner, etc., resume which of the following lands?",
+      "options": {
+        "1": "Inam land ఈߕం ࠝࠫ",
+        "2": "Personal land",
+        "3": "Public land",
+        "4": "Cultivation land ࣃڷ ࠝࠫ"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 49,
+      "question": "In which area did the Pandavas seek shelter after escaping from the lacquer house (Lākṣāg̥rha)?",
+      "options": {
+        "1": "Maghadha",
+        "2": "Ekachakrapura",
+        "3": "Kausambhi ڞࢡంࠚ",
+        "4": "Indraprastha"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 50,
+      "question": "Shachi is the wife of which god?",
+      "options": {
+        "1": "Brahma",
+        "2": "Agni అڵऒ",
+        "3": "Surya ࣇࡏङ ݡ",
+        "4": "Indra ఇంऴ޶ݡ"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 51,
+      "question": "What was the name of Drona's brother-in-law?",
+      "options": {
+        "1": "Shalya శࡱङ ݡ",
+        "2": "Kripacharya",
+        "3": "Drupada ऴ޶ప޶ݡ",
+        "4": "Vidura ࢑޶ࡏݡ"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 52,
+      "question": "An Executive Officer appointed under the Andhra Pradesh Charitable and Hindu Religious Institutions and Endowments Act 1987 to TTD shall be:",
+      "options": {
+        "1": "the chief administrative officer",
+        "2": "a member",
+        "3": "a chairman",
+        "4": "a commissioner"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 53,
+      "question": "‘Archaka’ EXCLUDES:",
+      "options": {
+        "1": "Pujari ߪ܉ࡍ",
+        "2": "Panda",
+        "3": "Executive Officer",
+        "4": "Archakatvam Mirandar"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 54,
+      "question": "Section 29 of the Andhra Pradesh Charitable and Hindu Religious Institutions and Endowments Act 1987 makes provision for the _____________?",
+      "options": {
+        "1": "punishment of office holders and servants",
+        "3": "Padmapada",
+        "4": "Vachaspati Mishra"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 57,
+      "question": "The anthology of the biographies of the Nayanars is called:",
+      "options": {
+        "1": "Periya Puranam",
+        "2": "Basava Puranam",
+        "3": "Linga Puranam",
+        "4": "Shaiva Puranam"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 58,
+      "question": "In the ‘Ramayana’, in which Kanda does Sampati describe his past account to monkeys?",
+      "options": {
+        "1": "Sundarkanda",
+        "2": "Aranyakanda",
+        "3": "Kishkindakanda",
+        "4": "Lankakanda"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 59,
+      "question": "Which chapter of the Andhra Pradesh Charitable and Hindu Religious Institutions and Endowments Act 1987 deals with Budget, Accounts and Audit?",
+      "options": {
+        "1": "Chapter V",
+        "2": "Chapter VII",
+        "3": "Chapter IX",
+        "4": "Chapter X"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 60,
+      "question": "In which kingdom did Narakasura kidnap and detain 16,000 princesses?",
+      "options": {
+        "1": "Kamarupa",
+        "2": "Dwarka",
+        "3": "Vidarbha",
+        "4": "Maghadha"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 61,
+      "question": "In the most famous Tirumala temple, worship is done according to which tradition?",
+      "options": {
+        "1": "Pancharatra tradition",
+        "2": "Vaikhanasa tradition",
+        "3": "Shaiva tradition",
+        "4": "Shakta tradition"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 62,
+      "question": "How many ‘Ashramas’ are there in Hindu tradition?",
+      "options": {
+        "1": "2",
+        "2": "3",
+        "3": "4",
+        "4": "5"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 63,
+      "question": "In which of the following tirtha did Lord Krishna leave his mortal body?",
+      "options": {
+        "1": "Haridwar",
+        "2": "Prayaga Tirtha",
+        "3": "Prabhasa Tirtha",
+        "4": "Avanthika Tirtha"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 64,
+      "question": "The type of marriage in which one man marries one woman is called:",
+      "options": {
+        "1": "monogamy",
+        "2": "polygyny",
+        "3": "polyandry",
+        "4": "hypergamy"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 65,
+      "question": "Hieir\n4. ¥ Nambudri Law",
+      "options": {},
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 68,
+      "question": "Bhagavathama is a/an:",
+      "options": {
+        "1": "Mahapurana",
+        "2": "Upapurana",
+        "3": "Mahakavya",
+        "4": "Ithihasa"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 69,
+      "question": "Which place did Maharaj Parikshit give Kali to reside?",
+      "options": {
+        "1": "Temple",
+        "2": "Yajna",
+        "3": "Tirtha",
+        "4": "Gambling 3. Commissioner 4. Executive Officer"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 71,
+      "question": "‘Ṛtvik’ of Sama Veda is called:",
+      "options": {
+        "1": "Adhvaryu",
+        "2": "Brahma",
+        "3": "Udgata ఉదठޔݡ",
+        "4": "Hota ࣟޔݡ"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 72,
+      "question": "Vaikhanasa and Pancharatra are the traditions of which Aagam?",
+      "options": {
+        "1": "Shaiva Agamas",
+        "2": "Vaishnava Agamas",
+        "3": "Shakta Agama",
+        "4": "Ganapatya Agama"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 73,
+      "question": "The mind-born Sons of Brahma were:",
+      "options": {
+        "1": "Manu-Shatarupa",
+        "2": "Indra-Shachi",
+        "3": "Vashishtha-Arundhathi",
+        "4": "Vasudeva-Yashoda"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 74,
+      "question": "Abolition of shares in Hundi and other Rusums are mentioned in ____________ of the Andhra Pradesh Charitable and Hindu Religious Institutions And Endowments Act 1987 .",
+      "options": {
+        "1": "Section 140",
+        "2": "Section 142",
+        "3": "Section 145",
+        "4": "Section 144"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 75,
+      "question": "Tirumala Tirupati Devasthanams (TTD) was established in which year?",
+      "options": {
+        "1": "1932",
+        "2": "1947",
+        "3": "1952",
+        "4": "1956"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 76,
+      "question": "‘Jangama’ is a sect of which Agamas?",
+      "options": {
+        "1": "Vaishnava Agamas",
+        "2": "Shakti Agamas",
+        "3": "Shaiva Agamas",
+        "4": "Pancharatra Agamas"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 77,
+      "question": "Which sage performed the ‘Putreshti Yaga’ of Dasaratha?",
+      "options": {
+        "1": "Vishwamitra",
+        "2": "Vashishtha వࢢࢵध ݡ",
+        "3": "Valmiki ࢐ࡰघ ړ",
+        "4": "Rushyasrunga"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 78,
+      "question": "How many questions are there in Vaikhanasa Kalpasutra?",
+      "options": {
+        "1": "18",
+        "2": "32",
+        "3": "40",
+        "4": "48"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 79,
+      "question": "The Bhagavata Purana belongs to whom among the following?",
+      "options": {
+        "1": "Vishnu ࢑ࢵप ࢓",
+        "2": "Shiva ࢢ࢓ݡ",
+        "3": "Brahma",
+        "4": "Indra ఇంऴ޶ݡ"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 80,
+      "question": "Resumption of Inam Lands is mentioned in _________ of the Andhra Pradesh Charitable and Hindu Religious Institutions And Endowments Act 1987.",
+      "options": {
+        "1": "Section 77",
+        "3": "Kumarila Bhatt",
+        "4": "Mandan Mishra"
+      },
+      "answer": [
+        1,
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 83,
+      "question": "In which ‘Parva’ of Mahabharata did Krishna preach the Bhagavad Gita to Arjuna?",
+      "options": {
+        "1": "Drona Parva",
+        "2": "Bhishma Parva",
+        "3": "Ashram Parva",
+        "4": "Souptika Parva 3. Surplus Funds 4. Employees Welfare Fund ߖ߅"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 85,
+      "question": "Extraordinary powers under Section 110 of the Andhra Pradesh Charitable and Hindu Religious Institutions And Endowments Act 1987 are initiated by:",
+      "options": {
+        "1": "the government",
+        "2": "the executive officer",
+        "3": "the commissioner",
+        "4": "the district collector"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 86,
+      "question": "Which of the following Prajapati intentionally did not invite Shiva and Sati to the Brihaspatistava Yajna?",
+      "options": {
+        "1": "Brahma",
+        "2": "Manu",
+        "3": "Daksha",
+        "4": "Indra"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 87,
+      "question": "Mahadev fought with Arjuna while under the disguise of ____________.",
+      "options": {
+        "1": "Indra ఇంऴ޶ݡ",
+        "2": "Kirata ړࡌޔݡ",
+        "3": "Gandharva",
+        "4": "Yaksha యंݡ"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 88,
+      "question": "According to Ramanujacharya, the Supreme Lord incarnates himself in how many forms?",
+      "options": {
+        "1": "5",
+        "2": "8",
+        "3": "11",
+        "4": "12"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 89,
+      "question": "The Dowry Prohibition Act was passed in the year ___________.",
+      "options": {
+        "1": "1954",
+        "2": "1961",
+        "3": "1654",
+        "4": "1952"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 90,
+      "question": "An employee of any Institution or Endowment can be authorised to exercise the powers and perform the functions and discharge the duties of the Executive Officer under _________________ of the Andhra Pradesh Charitable and Hindu Religious Institutions And Endowments Act 1987.",
+      "options": {
+        "1": "Section 16 ࣊ࣾߤ 16",
+        "2": "Section 26 ࣊ࣾߤ 26",
+        "3": "Section 29 ࣊ࣾߤ 29",
+        "4": "Section 33 ࣊ࣾߤ 33"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 91,
+      "question": "Among the six Prajapatis, the ____ Prajapati, born by the thought of Lord Brahma, is famous as Pulastya. Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.",
+      "options": {
+        "1": "second",
+        "2": "third",
+        "3": "fourth",
+        "4": "fifth"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 92,
+      "question": "Who among the following deities is NOT the main part of Panchayatana worship?",
+      "options": {
+        "1": "Vishnu ࢑ࢵप ࢓",
+        "2": "Ayyappa",
+        "3": "Surya ࣇࡏङ ݡ",
+        "4": "Bhairava इర࢓ݡ"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 93,
+      "question": "Identify the option that arranges the parts of the Vedas in the proper sequence.",
+      "options": {
+        "1": "Samhita, Upanishads, Brahmana, Aranyaka",
+        "2": "Upanishads, Samhita, Aranyaka, Brahmana",
+        "3": "Upanishads, Brahmana, Samhita, Aranyaka",
+        "4": "Samhita, Brahmana, Aranyaka, Upanishads"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 94,
+      "question": "Who gave his thumb as ‘Gurudakshina’ to Dronacharya?",
+      "options": {
+        "1": "Arjuna అࡏणߘݡ",
+        "2": "Karna కࡏपݡ",
+        "3": "Ekalavya",
+        "4": "Duryodhana"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 95,
+      "question": "In which Purana ten characteristics of Puranas are mentioned?",
+      "options": {
+        "1": "Agni Purana",
+        "2": "Vishnu Purana",
+        "3": "Bhagavata Purana",
+        "4": "Garuda Purana"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 96,
+      "question": "_______ is the commentary written by Ramanujacharya on Brahma Sutras.",
+      "options": {
+        "1": "Adhyasa Bhashya",
+        "2": "Shri Bhashya",
+        "3": "Shariraka Bhashya",
+        "4": "Parijatha Bhashya"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 97,
+      "question": "“Dharmika Parishad” is constituted under the following provisions of the Andhra Pradesh Charitable and Hindu Religious Institutions and Endowments Act 1987:",
+      "options": {
+        "1": "Section 65 ࣊ࣾߤ 65",
+        "2": "Section 79 ࣊ࣾߤ 79",
+        "3": "Section 149",
+        "4": "Section 152"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 98,
+      "question": "At which of the following places did Sage Shuka narrate the stories of Bhagavata? Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.",
+      "options": {
+        "1": "Kurushetra",
+        "2": "Prayagraja",
+        "3": "Naimisharanya",
+        "4": "Himalaya"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 99,
+      "question": "Which of the following Section of the Andhra Pradesh Charitable and Hindu Religious Institutions and Endowments Act 1987 deals with the appointment of the Board of Trustees?",
+      "options": {
+        "1": "Section 10 ࣊ࣾߤ 10",
+        "2": "Section 15 ࣊ࣾߤ 15",
+        "3": "Section 12 ࣊ࣾߤ 12",
+        "4": "Section 9 ࣊ࣾߤ 9"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 100,
+      "question": "Who stole the sacrificial horse released by King Sagara?",
+      "options": {
+        "1": "Indra ఇంऴ޶ݡ",
+        "2": "Vishnu ࢑ࢵप ࢓",
+        "3": "Ravana ࡌవރݡ",
+        "4": "Bhagirath భڶరޥݡ"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 101,
+      "question": "Who narrated ‘Vishnu Sahasranama Stotra’ to Yudhishthira?",
+      "options": {
+        "1": "Suta ࣇޔݡ",
+        "2": "Shaunaka ࢭనڕݡ",
+        "3": "Vaishmpayana",
+        "4": "Bhishma ࠛࢵघ ݡ"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 102,
+      "question": "To which of the following philosophies does the ‘Pratyabhijna Shastra’ belong?",
+      "options": {
+        "1": "Kashmir Shavism",
+        "2": "Vaishnavism",
+        "3": "Buddhism",
+        "4": "Jainism"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 103,
+      "question": "‘Sangita Ratnakara’ is authored by:",
+      "options": {
+        "1": "Jagannatha",
+        "2": "Appaya Dikshita",
+        "3": "Sharang Deva",
+        "4": "Jayadeva జయ޻࢓ݡ"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 104,
+      "question": "The early version of the Mahabharata was:",
+      "options": {
+        "1": "Jaya Samhita",
+        "2": "Vijaya Samhita",
+        "3": "Bharata Samhita",
+        "4": "Mahakavya Samhita"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 105,
+      "question": "According to Bhagavata Purana, the husband of Diti was:",
+      "options": {
+        "1": "Marichi మࡎ۪ݡ",
+        "2": "Angirasa",
+        "3": "Pulasthya",
+        "4": "Kashyapa కశङ ߩݡ"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 106,
+      "question": "Who made the Pancharatra Agama popular?",
+      "options": {
+        "1": "Nimbarkacharya",
+        "2": "Ramanujacharya",
+        "3": "Madhvacharya",
+        "4": "Shankaracharya"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 107,
+      "question": "Central Adoption Resource Authority (CARA) is a statutory body of which ministry?",
+      "options": {
+        "1": "Ministry of Education",
+        "2": "Ministry of Home Affairs",
+        "3": "Ministry of Human Resource Development"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 110,
+      "question": "Which ancient text describers the 64 arts in detail?",
+      "options": {
+        "1": "Samaveda",
+        "2": "Manu Smriti",
+        "3": "Kamasutra",
+        "4": "Arthashastrta"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 111,
+      "question": "What was the name of the Conch of Arjuna?",
+      "options": {
+        "1": "Panchajanya",
+        "2": "Sughosha",
+        "3": "Anantha",
+        "4": "Devadatta"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 112,
+      "question": "‘Religious charity’ means: :",
+      "options": {
+        "1": "public charity that is associated with Hindu festival",
+        "2": "public charity that is associated with all festivals",
+        "3": "property and religious offerings whether in cash or kind",
+        "4": "a person whether known as mathadhipati, mohant or dharmakarta"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 113,
+      "question": "In the Mahabharata, Drupada belongs to which dynasty?",
+      "options": {
+        "1": "Haihaya dynasty",
+        "2": "Kuru dynasty",
+        "3": "Panchala dynasty",
+        "4": "Chedi dynasty"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 114,
+      "question": "3. * Patanjali\n4. Yaska",
+      "options": {},
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 117,
+      "question": "The Hindu Adoption and Maintenance Act was passed in which year?",
+      "options": {
+        "1": "1955",
+        "2": "1956",
+        "3": "1965",
+        "4": "1971"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 118,
+      "question": "Veerashaivism is a sect of which tradition?",
+      "options": {
+        "1": "Vaishnavism",
+        "2": "Pancharatra",
+        "3": "Vaikhanasa",
+        "4": "Shaivism 4. The Commissioner"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 121,
+      "question": "Name of the sage, who recited Aditya’s heart hymn (Ādityah̥rdayastōtra) to Rama?",
+      "options": {
+        "1": "Agastya",
+        "2": "Vishwamitra",
+        "3": "Matanga Rishi",
+        "4": "Vashishtha వࢢࢵध ݡ"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 122,
+      "question": "The prohibition of purchase of immovable property in certain cases is mentioned in which of the following Sections of the Andhra Pradesh Charitable and Hindu Religious Institutions and Endowments Act 1987?",
+      "options": {
+        "1": "Section 80 ࣊ࣾߤ 80",
+        "2": "Section 79 ࣊ࣾߤ 79",
+        "3": "Section 85 ࣊ࣾߤ 85",
+        "4": "Section 77 ࣊ࣾߤ 77"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 123,
+      "question": "Who is known as Deva Guru (teacher of the gods)?",
+      "options": {
+        "1": "Brihaspathi",
+        "2": "Brahma",
+        "3": "Vashishtha వࢢࢵध ݡ",
+        "4": "Dadhichi ద߆ۨ"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 124,
+      "question": "Which of the following mountains acted as a churning rod during the Sea Churning (Samudra Manthana)?",
+      "options": {
+        "1": "Mainaka ࠳ߕక",
+        "2": "Rishyamuka",
+        "3": "Vindhya",
+        "4": "Mandar"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 125,
+      "question": "The ‘Shatapatha Brahmana’ is a part of which Veda?",
+      "options": {
+        "1": "Samaveda",
+        "2": "Krishna Yajurveda",
+        "3": "Shukla Yajurveda",
+        "4": "Rigveda"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 126,
+      "question": "In Kapalika Saivam, the word ‘Kapala’ means:",
+      "options": {
+        "1": "face",
+        "2": "hand",
+        "3": "chest",
+        "4": "skull ߩऴࡓ"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 127,
+      "question": "Which of the following is the vehicle of Lord Shiva?",
+      "options": {
+        "1": "Nandiswara",
+        "2": "Garuda",
+        "3": "Lion",
+        "4": "Peacock ߜమ࡯"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 128,
+      "question": "The ‘Saptapadi’ ritual is performed in which ceremony?",
+      "options": {
+        "1": "Upanayana",
+        "2": "Marriage",
+        "3": "Annaprashana",
+        "4": "Punsavana"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 129,
+      "question": "Vishwamitra was also called:",
+      "options": {
+        "1": "Raghava",
+        "2": "Manava",
+        "3": "Gadheya",
+        "4": "Saurya ࢭࡏङ ݡ"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 130,
+      "question": "Who wrote ‘Mahabharata Tatparya Nirnaya’?",
+      "options": {
+        "1": "Shankaracharya",
+        "2": "Nimbarkacharya",
+        "3": "Ramanujacharya",
+        "4": "Madhvacharya"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 131,
+      "question": "How many letters does the Gayatri Mantra contain?",
+      "options": {
+        "1": "16",
+        "2": "24",
+        "3": "32",
+        "4": "40"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 132,
+      "question": "Who is having the jurisdiction by either suo motu or upon a complaint made by the trustee, has reason to believe that any person has encroached upon any land etc. belonging to the institution or endowment?",
+      "options": {
+        "1": "The District Collector",
+        "2": "The Executive Officer",
+        "3": "The Trustees of the Board",
+        "4": "The Assistant Commissioner"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 133,
+      "question": "Solar dynasty (Surya Vansha) was founded by:",
+      "options": {
+        "1": "Kuru ڕࡏ",
+        "2": "Pururavas ߩࡐర࢓ݡ",
+        "3": "Ikshvaku",
+        "4": "Raghu"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 134,
+      "question": "Chandogyopanishad is a part of which Veda?",
+      "options": {
+        "1": "Rigveda",
+        "2": "Samaveda",
+        "3": "Yajurveda",
+        "4": "Atharvaveda"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 135,
+      "question": "In which Purana is Kapila, the expounder of Samkhya Philosophy, mentioned as an incarnation of Vishnu?",
+      "options": {
+        "1": "Vishnu Purana",
+        "2": "Naada Purana",
+        "3": "Kurma Purana",
+        "4": "Bhagavata Purana"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 136,
+      "question": "Which of the following is the feminine form of Vishnu helping Devatas to retain their immortality?",
+      "options": {
+        "1": "Lakshami లऀघ",
+        "2": "Padma",
+        "3": "Mohini ࠵ࣕߖ",
+        "4": "Aditi అ޴ޒ"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 137,
+      "question": "The Hindu Marriage Act was passed in which year?",
+      "options": {
+        "1": "1947",
+        "2": "1971",
+        "3": "1954",
+        "4": "1955"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 138,
+      "question": "‘Chairman of the Endowment Tribunal’ means:",
+      "options": {
+        "1": "Minister of Endowments",
+        "2": "Endowment Commissioner",
+        "3": "Deputy Commissioner",
+        "4": "Judicial officer not below the rank of District Judge"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 139,
+      "question": "How many traditional forms are there of Hindu marriage?",
+      "options": {
+        "1": "4",
+        "2": "6",
+        "3": "8",
+        "4": "12"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 140,
+      "question": "Maghadha is situated in which place of modern India?",
+      "options": {
+        "1": "Bihar ࠊ࡛ࣔ",
+        "2": "Rajasthan ࡌజࣃब ߤ",
+        "3": "Himachal Pradesh",
+        "4": "Delhi ߙङ ݰࡰऱ"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 141,
+      "question": "Which god is the architect of gods and the founder of Sthapatya Veda?",
+      "options": {
+        "1": "Agni అڵऒ",
+        "2": "Varuna వࡏރݡ",
+        "3": "Brahma",
+        "4": "Vishwakarma"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 142,
+      "question": "Under Section 29 of the Andhra Pradesh Charitable and Hindu Religious Institutions and Endowments Act 1987, who among the following persons is/are appointed?",
+      "options": {
+        "1": "The Chairman of TTD",
+        "2": "The Deputy Commissioner",
+        "3": "The Executive Officer",
+        "4": "Administrative Staff"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 143,
+      "question": "Which purana deals with the episode of Nachiketa’s visit to Yama Loka to seek Brahmavidya?",
+      "options": {
+        "1": "Vishnu Purana",
+        "2": "Narada Purana",
+        "3": "Varaha Purana",
+        "4": "Linga Purana"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 144,
+      "question": "Samhita means:",
+      "options": {
+        "1": "prosody",
+        "2": "compilation of mantras",
+        "3": "poetic composition",
+        "4": "commentary on Upanishads"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 145,
+      "question": "Which Mandala in Rigveda is called ‘Pavamana’ Mandala?",
+      "options": {
+        "1": "7th",
+        "2": "9th",
+        "3": "1st",
+        "4": "10th 10వ"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 146,
+      "question": "A concurrent audit shall take place when the income exceeds ____________ according to the Andhra Pradesh Charitable and Hindu Religious Institutions and Endowments Act 1987?",
+      "options": {
+        "1": "₹25 lakhs",
+        "2": "₹10 lakhs",
+        "3": "₹8 lakhs"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 149,
+      "question": "How many incarnations of Vishnu appeared in Satya Yuga from his Dasavatara?",
+      "options": {
+        "1": "4",
+        "2": "8",
+        "3": "10",
+        "4": "12"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 150,
+      "question": "The third Ashram system is called ________.",
+      "options": {
+        "1": "Brahmacharya",
+        "2": "Sanyasa",
+        "3": "Vanaprastha",
+        "4": "Grihastha"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    }
+  ]
+}
