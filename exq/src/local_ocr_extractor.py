@@ -114,7 +114,7 @@ class LocalOcrExtractor:
 
         return detected
 
-    def extract(self, block: RawQuestionBlock) -> Tuple[str, Dict[str, str], List[int]]:
+    def extract(self, block: RawQuestionBlock) -> Tuple[str, Dict[str, str], List[int], str]:
         """
         Runs RapidOCR on the cropped block, separates question stem and options,
         formats side-by-side columns into clean text, and detects answer keys locally.
@@ -126,16 +126,16 @@ class LocalOcrExtractor:
             arr = np.array(img)
         except Exception as e:
             print(f"  [LocalOcr Error] Failed to crop Question {block.qnum}: {e}")
-            return "", {}, []
+            return "", {}, [], ""
 
         try:
             ocr_result, _ = self.engine(img_bytes)
         except Exception as e:
             print(f"  [LocalOcr Error] RapidOCR failed for Question {block.qnum}: {e}")
-            return "", {}, []
+            return "", {}, [], ""
 
         if not ocr_result:
-            return "", {}, []
+            return "", {}, [], ""
 
         items = []
         for bbox, text, score in ocr_result:
@@ -291,4 +291,14 @@ class LocalOcrExtractor:
         # 4. Detect answer from green pixel markers
         detected_answers = self.detect_answers_from_image(arr, option_y_ranges)
 
-        return question_text, cleaned_options, detected_answers
+        # ── Final Key detection ──────────────────────────────────────────────
+        # A "Final Key" PDF only shows the correct answer option (no full list).
+        # Pattern: exactly 1 option was OCR'd AND it has a green checkmark.
+        # In that case: return the answer text directly, leave options empty.
+        if len(cleaned_options) == 1 and len(detected_answers) == 1:
+            only_key = next(iter(cleaned_options))
+            answer_text = cleaned_options[only_key]
+            return question_text, {}, [], answer_text
+
+        return question_text, cleaned_options, detected_answers, ""
+

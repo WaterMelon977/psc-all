@@ -1,0 +1,2081 @@
+{
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "As per IS 456:2000, the static modulus of elasticity of M25 grade concrete is_______.",
+      "options": {
+        "1": "20000 N/mm2",
+        "2": "25000 N/mm2",
+        "3": "200 N/sq mm",
+        "4": "250 N/sq mm"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 2,
+      "question": "As per IS 456:2000, the partial factor of safety to be considered for steel reinforcement to asses the strength of a steel reinforced cement concrete structure, according to limit state method of design is______.",
+      "options": {
+        "1": "1.5",
+        "2": "1.15",
+        "3": "1.65",
+        "4": "2"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Machine Design"
+    },
+    {
+      "question_number": 3,
+      "question": "Which of the following statements are INCORRECT? Statement 1: Microsilica is a chemical admixture used in making concrete. Statement 2: Microsilica particles are spherical in shape. Statement 3: Mean particle size of micro silica ranges between 10 to 90 microns. Statement 4: Specific surface are of micro silica is in the range of 20000 m2/kg.",
+      "options": {
+        "1": "Statements 1 and 2 are incorrect",
+        "2": "Statements 1 and 3 are incorrect",
+        "3": "Statements 2 and 3 are incorrect",
+        "4": "Statements 3 and 4 are incorrect"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 4,
+      "question": "As per IS 10262 : 2019, if angular coarse aggregates are replaced by sub-angular coarse aggregates in normal concrete, the quantity of mixing water per unit volume of concrete can be __________ to produce the same workability as that of angular coarse aggregates.",
+      "options": {
+        "1": "reduced by 10 kg",
+        "2": "reduced by 20 kg",
+        "3": "increased by 10 kg",
+        "4": "increased by 20 kg"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 5,
+      "question": "As per National building code of India: 2016 (volume 1- part 4), Which of the following civil engineering facility is classified as Group H buildings?",
+      "options": {
+        "1": "Warehouses",
+        "2": "Railways",
+        "3": "Oil refineries",
+        "4": "Highways"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 6,
+      "question": "Thecriticalpathforthegivennetworkdiagramis",
+      "options": {
+        "1": "¥ A-B-C-H",
+        "2": "VA-D-F-H",
+        "3": "A-D-F-G-I",
+        "4": "× A-D-E-I Hints : Civil Engg_K M Chaitanya_Const Material Mgmt_Set 1&2 Critical Path is the path in a network connecting initial and final nodes and has a maximum duration.Path A -B-C-Hhas a duration of 18 days.Path A-D-F-G I has a duration of 18 days.Path A - D - E - I has a duration of 15 days.Path A - D - F - H has a duration of 19 days. Hence the solution."
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 7,
+      "question": "As per IS 456-2000, what is the value of slump for degree of workability ‘High’? Consider the placing condition as Tremie concrete.",
+      "options": {
+        "1": "25 – 50 mm",
+        "2": "50 – 100 mm",
+        "3": "10 – 150 mm",
+        "4": "100 – 150 mm"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 8,
+      "question": "D-cracking on concrete slabs is caused due to __________.",
+      "options": {
+        "1": "thermal expansion",
+        "2": "surface wear",
+        "3": "freezing and thawing",
+        "4": "crystallisation of salts in pores"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 9,
+      "question": "Pre-planning phase of a construction project does NOT involve __________.",
+      "options": {
+        "1": "formulation of general framework",
+        "2": "cost-benefit analysis",
+        "3": "investment alternatives",
+        "4": "placing and tying reinforcement"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 10,
+      "question": "The function of management that involves proper communication, leadership and motivation to accomplish the set objectives is _________.",
+      "options": {
+        "1": "coordination",
+        "2": "controlling",
+        "3": "directing",
+        "4": "organising"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 11,
+      "question": "",
+      "options": {
+        "1": "1 and 0, respectively",
+        "2": "0 and 1, respectively",
+        "3": "1 and 1, respectively",
+        "4": "0 and 0, respectively"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 12,
+      "question": "Which of the following property of water is determined by EDTA (ethylene-diaminetetraacetate) titration?",
+      "options": {
+        "1": "hardness in water",
+        "2": "turbidity in water",
+        "3": "dissolved oxygen in water",
+        "4": "residual chlorine in water"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Material Science"
+    },
+    {
+      "question_number": 13,
+      "question": "The cleaning of slow sand filter is done by:",
+      "options": {
+        "1": "scrapping",
+        "2": "back washing",
+        "3": "air cleaning",
+        "4": "mechanical staining"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 14,
+      "question": "Which of the following comparision is correct with respect to rate of filteration in water purification?. Where SSF=slow sand filter, RSF=rapid sand filter, DMF=dual media filter and MMF=mixed media filter.",
+      "options": {
+        "1": "MMF ≥ RSF > DMF > SSF",
+        "2": "MMF ≥ DMF > RSF > SSF",
+        "3": "DMF < MMF ≥ RSF < SSF",
+        "4": "DMF ≥ MMF < RSF > SSF"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 15,
+      "question": "In a water treatement process by sedimentation the flocculent particles follows_______.",
+      "options": {
+        "1": "Type - I settling",
+        "2": "Type - II settling",
+        "3": "Type - III settling",
+        "4": "Type - IV settling"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 16,
+      "question": "Which of the following statements about the tube settler is INCORRECT?",
+      "options": {
+        "1": "It is the combination of multiple channels at an angle of 60°.",
+        "2": "Settling depth is less than conventional one.",
+        "3": "Settling time is less than conventional one.",
+        "4": "Effective settling area is decreased by providing multiple tubular channels sloped at an angle of 60° and adjacent to each other."
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 17,
+      "question": "The horizontal tunnels constructed at shallow depths along the banks of a river to intercept ground water tables are called_______.",
+      "options": {
+        "1": "canals",
+        "2": "infiltration galleries",
+        "3": "springs",
+        "4": "lakes"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 18,
+      "question": "Copper sulfate is most commonly used(added) to control_______in lakes.",
+      "options": {
+        "1": "chlorine demand of water",
+        "2": "growth of algae",
+        "3": "dispersion of silt",
+        "4": "suspended particles"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 19,
+      "question": "As per IS 10500:2012, the mximum permissible limit for fluoride content present in drinking water shall not exceed _______in the absence of alternate source.",
+      "options": {
+        "1": "0.015 ppm",
+        "2": "1.5 ppm",
+        "3": "15 ppm",
+        "4": "150 ppm"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 20,
+      "question": "B-coli or E-coli are harmless organisms, but their presence in water indicates the:",
+      "options": {
+        "1": "presence of pathogenic bacteria",
+        "2": "absence of pathogenic bacteria",
+        "3": "presence of non-pathogenic bacteria",
+        "4": "absence of non-pathogenic bacteria"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 21,
+      "question": "When centrifugal pump is used to lift water, the direction of flowing water is changed by_______.",
+      "options": {
+        "1": "45°",
+        "2": "60°",
+        "3": "90°",
+        "4": "180°"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Fluid Mechanics"
+    },
+    {
+      "question_number": 22,
+      "question": "Which of the following can measure the head loss?",
+      "options": {
+        "1": "Weir",
+        "2": "Notch",
+        "3": "Scrubber",
+        "4": "Piezometer"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Fluid Mechanics"
+    },
+    {
+      "question_number": 23,
+      "question": "A surge tank is a storage reservoir at the ________ end of a close aqueduct to absorb a sudden ________ of pressure.",
+      "options": {
+        "1": "downstream, rise",
+        "2": "upstream, rise",
+        "3": "upstream, fall",
+        "4": "downstream, fall"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 24,
+      "question": "The valves which are used to remove the sediment in the pipelines are called:",
+      "options": {
+        "1": "butterfly valves",
+        "2": "scour valves",
+        "3": "air valves",
+        "4": "check valves"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 25,
+      "question": "To control the water hammer, which of the following valves will be used?",
+      "options": {
+        "1": "Air valves",
+        "2": "Pilot valves",
+        "3": "Scour valves",
+        "4": "Blow off valves"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 26,
+      "question": "In a water distribution system using circular system, the main pipe line will be_______.",
+      "options": {
+        "1": "in the centre of the city",
+        "2": "at any one side of city",
+        "3": "on the periphery of the city",
+        "4": "anywhere in the city"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 27,
+      "question": "The rugosity coefficient value used in the design of sewer lines depends on_______.",
+      "options": {
+        "1": "longitudinal gradient",
+        "2": "hydraulic radius of pipe",
+        "3": "material used in sewer pipe",
+        "4": "cross sectional area of sewer pipe"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 28,
+      "question": "Which of the following formulas is used to find Chezy’s constant?",
+      "options": {
+        "1": "Ryve's equation",
+        "2": "Hazen’s equation",
+        "3": "Bazin’s equation",
+        "4": "Continuity equation"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Fluid Mechanics"
+    },
+    {
+      "question_number": 29,
+      "question": "According to general standards for discharge of environmental pollutants part -A : effluents, the maximum chemical oxygen demand for effluents from inland surface water shall be_______",
+      "options": {
+        "1": "250 mg/l",
+        "2": "300 mg/l",
+        "3": "350 mg/l",
+        "4": "500 mg/l"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 30,
+      "question": "Sludge thickening will reduce the volume of sludge by_______ conditioning",
+      "options": {
+        "1": "physical",
+        "2": "chemical",
+        "3": "biological",
+        "4": "physico-chemical"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 31,
+      "question": "Fresh sludge has moisture content of 99%, and after thickening, its moisture content is reduced to 96%.The reduction in the volume of sludge is:",
+      "options": {
+        "1": "197%",
+        "2": "5%",
+        "3": "75%",
+        "4": "3%"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 32,
+      "question": "The two main gases liberated from an anaerobic sludge digestion tank would include:",
+      "options": {
+        "1": "NH3 and CH4",
+        "2": "CO2 and CH4",
+        "3": "CH4 and Ne",
+        "4": "NH3 and CO2"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 33,
+      "question": "On what media does the sludge drying bed work?",
+      "options": {
+        "1": "Sand",
+        "2": "polypropylene membrane",
+        "3": "Geotextile cloth",
+        "4": "Plastic"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 34,
+      "question": "When carbon monoxide reacts with hemoglobin, it forms_______.",
+      "options": {
+        "1": "carboxy-haemoglobin",
+        "2": "carbomino-haemoglobin",
+        "3": "amino acid",
+        "4": "carbon di oxide and hydrogen"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 35,
+      "question": "Collection efficiency of an electrostatic precipitator ranges between ______for particles size between 0.1μm to 0.2μm.",
+      "options": {
+        "1": "99.8% to 100%",
+        "2": "96% to 97%",
+        "3": "86% to 88%",
+        "4": "83% to 85%"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 36,
+      "question": "The collection efficiency of an electrostatic precipitator under ideal conditions is generally estimated by using______",
+      "options": {
+        "1": "Vander Waals equation",
+        "2": "Dobson equation",
+        "3": "Deutsch-Anderson equation",
+        "4": "Schmutzdecke equation"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 37,
+      "question": "A venture scrubber used to control air pollution is an example of______.",
+      "options": {
+        "1": "dry scrubbers",
+        "2": "wet scrubbers",
+        "3": "gravity scrubbers",
+        "4": "pressure scrubbers"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 38,
+      "question": "Which of the following wastes is NOT generated from domestic processes?",
+      "options": {
+        "1": "Coconut shell",
+        "2": "Food waste",
+        "3": "Garden trimming",
+        "4": "scrap lumber"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 39,
+      "question": "When a retaining wall moves towards the backfill, the pressure exerted on the wall is termed as ________.",
+      "options": {
+        "1": "passive earth pressure",
+        "2": "swelling pressure",
+        "3": "pore pressure",
+        "4": "active earth pressure"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 40,
+      "question": "iswallfrictionangle,andisinclinationofbackofwalltothevertical.",
+      "options": {
+        "1": "= 90° + 0 +",
+        "2": "9-日+。06=木",
+        "3": "W=90°-+",
+        "4": "= 90°-  - Hints : ForReview Civil-SSSJ-Foundation-set1&216ItemsTranslationTemplate Dr.B CPunmia,Soil Mechanics and Foundations,LaxmiPublications PvtLtd,16,562"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 41,
+      "question": "The load carrying capacity of an individual friction pile is 200 kN. What is the total load carrying capacity of a group of nine such piles with a group efficiency factor of 0.8?",
+      "options": {
+        "1": "1800 kN",
+        "2": "1640 kN",
+        "3": "1440 kN",
+        "4": "900 kN"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 42,
+      "question": "In the static cone penetration method, for calculation of settlement in cohesionless soils, __________.",
+      "options": {
+        "1": "the sand layer is divided into small layers such that each small layer has approximately constant value of the cone resistance",
+        "2": "the sand layer is divided into small layers such that each small layer has different value of the cone resistance",
+        "3": "the sand layer considered to be a single layer so that there is zero value of the cone resistance",
+        "4": "the sand layer is divided into small layers of equal size such that each small layer undergoes same amount of settlement"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 43,
+      "question": "The upward pressure developed by the soil on the bottom face of a footing is termed as_______.",
+      "options": {
+        "1": "surface tension",
+        "2": "confining pressure",
+        "3": "contact pressure",
+        "4": "deviatoric pressure"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 44,
+      "question": "Contact pressure\t\tVescription ottootings\ndistribution diagrams\n1. Rigid footing on cohesive soil\n2.Flexible footing on cohesive soil\nB.\n3. Rigid footing on cohesion-less\nsoil at ground level\n4.Flexiblefooting oncohesionless\nsoil at ground level",
+      "options": {
+        "1": "A-3, B-1, C-4, D-2",
+        "2": "A-4, B-3, C-2, D-1",
+        "3": "A-3, B-2, C-4, D-1",
+        "4": "A-4, B-1, C-3, D-2"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 45,
+      "question": "In cohesive-frictional soils, to obtain safe load by Static Pile load formula, a factor of safety of _______ in compression and _______ in uplift are recommended respectively.",
+      "options": {
+        "1": "1.5 ; 3",
+        "2": "3; 4.5",
+        "3": "2.5; 3",
+        "4": "3; 6"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Machine Design"
+    },
+    {
+      "question_number": 46,
+      "question": "rallways,reservoirs, sewerage,\nwater supply schemes, etc.\nD. City Survey\t\t4. To locate the boundaries of\nfields, houses, etc.",
+      "options": {
+        "1": "A-1; B-3; C-4; D-2",
+        "2": "A-1; B-2; C-3; D-4",
+        "3": "A-4; B-3; C-2; D-1",
+        "4": "A-1; B-4; C-3; D-2"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 47,
+      "question": "Which of the following is NOT an advantage of chain surveying?",
+      "options": {
+        "1": "It does not require costly equipment.",
+        "2": "It is suitable for small areas with a fair degree of accuracy.",
+        "3": "Computations and plotting are simple.",
+        "4": "It is suitable for large and hilly areas."
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 48,
+      "question": "Which of the following is an advantage of chain surveying?",
+      "options": {
+        "1": "It is suitable for large areas because chaining for large areas is simple.",
+        "2": "It is suitable for undulated areas.",
+        "3": "It is suitable for small areas with a fair degree of accuracy.",
+        "4": "Results are always accurate."
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 49,
+      "question": "The principle of compass surveying is_______.",
+      "options": {
+        "1": "direct and indirect ranging",
+        "2": "triangulation",
+        "3": "traversing",
+        "4": "chaining"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 50,
+      "question": "If the bearing of line PQ is N65° 35’ 00”E and the deflection angle (clockwise) between the lines PQ and QR is 34° 45’ 00”, then the bearing of line QR is:",
+      "options": {
+        "1": "N30° 50’E",
+        "2": "N34° 45’E",
+        "3": "S79° 40’E",
+        "4": "N10° 20’E"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 51,
+      "question": "Identify the INCORRECT statement about magnetic dip.",
+      "options": {
+        "1": "The horizontal angle made by the magnetic needle with vertical is known as dip of the needle.",
+        "2": "Angle of dip varies from 0° at the equator to 90° at the magnetic poles.",
+        "3": "The value of dip varies from place to place.",
+        "4": "Dip angle increases as we go from the equator to the poles."
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 52,
+      "question": "The variation in which magnetic meridian swings like a pendulum is known as _________.",
+      "options": {
+        "1": "irregular variation",
+        "2": "annual variation",
+        "3": "secular variation",
+        "4": "diurnal variation"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 53,
+      "question": "Select the option that is correct regarding the following two statements. Statement 1: Local attraction at any station is detected by observing the fore bearing and the back bearing of the line. Statement 2: If the difference between FB and BB is 180°, both the end stations are considered to be free from local attraction.",
+      "options": {
+        "1": "Both Statement 1 and Statement 2 are individually true and Statement 2 is the correct explanation of Statement 1.",
+        "2": "Both Statement 1 and Statement 2 are individually true, but Statement 2 is not the correct explanation of Statement 1.",
+        "3": "Statement 1 is true, but Statement 2 is false.",
+        "4": "Statement 1 is false, but Statement 2 is true."
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Machine Design"
+    },
+    {
+      "question_number": 54,
+      "question": "Given are the bearings of the lines of an open traverse. Correct the bearings\nby finding local attraction at the affected stations.\nPQ: 36°00*\t\tQP: 216° 45'\nQR: 98° 15'\t\tRQ:276°00\nRS:201°45\t\tSR: 23° 15'\nSP: 322°45\"\t\tPS: 142°45\"",
+      "options": {
+        "1": "QP: 215° 00’; QR: 87° 30’; RQ: 276° 30’; RS: 201° 15’",
+        "2": "QP: 216° 10’; QR: 93° 50’; RQ: 287° 10’; RS: 208° 45’",
+        "3": "QP: 210° 30’; QR: 76° 50’; RQ: 217° 20’; RS: 210° 15’",
+        "4": "QP: 216° 00’; QR: 97° 30’; RQ: 277° 30’; RS: 203° 15’"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 55,
+      "question": "The tangential method of tacheometery uses:",
+      "options": {
+        "1": "the readings against the top and bottom cross-hairs only",
+        "2": "the readings against the middle cross-hair only",
+        "3": "a constant intercept on the staff",
+        "4": "the readings against all the three cross-hairs"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 56,
+      "question": "The line joining points of equal depths of evapotranspiration is __________.",
+      "options": {
+        "1": "isohyets",
+        "2": "isopluvial",
+        "3": "isopleth",
+        "4": "isothermal"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Thermodynamics"
+    },
+    {
+      "question_number": 57,
+      "question": "The daily flows of a river have 1050 data points, and the number of days the flow being equal to or greater than its class value is 205. Find the percentage probability of the flow magnitude being equalled or exceeded.",
+      "options": {
+        "1": "0.15",
+        "2": "0.195",
+        "3": "0.255",
+        "4": "0.295"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 58,
+      "question": "Which of the following is the Aridity Index (AI)?\nPET = Potential evapotranspiration\nAET = Actual evapotranspiration",
+      "options": {
+        "1": "× AET",
+        "2": "AET",
+        "3": "PET",
+        "4": "V PET Hints : CE_Hydrology_BG_AKK_22 Items_Translation Template-TM Aridity index = PET-AET *100 PET K Subramanya Engineering hydrology 4, 212 McGrawHillEducationPrivateLimited"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 59,
+      "question": "interval\nDischarge\n15\t\t25\t\t32\t\t18\t\t12\nm3/s",
+      "options": {
+        "1": "30.33%",
+        "2": "22.33%",
+        "3": "29.49%",
+        "4": "V 33.33% Hints : CE_Hydrology_BG_AKK_22 Items_Translation Template-TM N=5 M=2 Pp= N+1 *100% * 100 = 33.3% 5+1 K Subramanya Engineering hydrology McGraw HillEducationPrivateLimited 4, 165"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 60,
+      "question": "The precipitation falling directly over the streams is called:",
+      "options": {
+        "1": "channel precipitation",
+        "2": "throughfall",
+        "3": "interception",
+        "4": "runoff"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 61,
+      "question": "In the chart of weighing bucket rain gauge, the pen had reversed its path of travel at 4 hours of the next day after recording 100 mm of rainfall and the rainfall recorded in the next day at next two hours is 50 mm, then the cumulative rainfall recorded by gauge at say 6 hours of the next day is:",
+      "options": {
+        "1": "150 mm",
+        "2": "50 mm",
+        "3": "200 mm",
+        "4": "100 mm"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 62,
+      "question": "Rate of transpiration depends upon the:",
+      "options": {
+        "1": "base period of the plant",
+        "2": "harvesting period of the plant",
+        "3": "Atmospheric humidity and wind",
+        "4": "sowing period of the plant"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 63,
+      "question": "Matchthe characteristics of catchment.\n1.\t\tStream density\t\tA.\t\tElevationdifferencebetweenthecatchmentoutlet\nand thehighest point on thebasin perimeter\n2.\t\tDrainage density\t\tB.\t\tRatioofnumberof streams of all orderstothearea\nofbasin\n3.\t\tRelief\t\tC.\t\tRatiooftotal lengthofstreamsof all orderswithin\nthebasinto thearea of basin\nReflecting the pattern of branches that unite to\nform the trunk stream",
+      "options": {
+        "1": "1 - A, 2 - B, 3 - C",
+        "2": "1 - A, 2 - D, 3 - C",
+        "3": "1 - B, 2 - D, 3 - A",
+        "4": "1 - B, 2 - C, 3 - A"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 64,
+      "question": "Two channels of order 2 and order 3 joined together produces an order of which of the following streams?",
+      "options": {
+        "1": "3rd order",
+        "2": "2nd order",
+        "3": "1st order",
+        "4": "5th order"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 65,
+      "question": "What is the average value of duty for crop rice in India?",
+      "options": {
+        "1": "775 hectares/cumec",
+        "2": "1000 hectares/cumec",
+        "3": "1500 hectares/cumec",
+        "4": "1275 hectares/cumec"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 66,
+      "question": "A canal commands an irrigated area of 500 hectares. The intensity of irrigation of paddy in this area is 50%. The transplantation of paddy requires 30 days and total depth of water required by the paddy is 50cm on the field during transplantation. The available water during transplantation on the field is 15 cm. Calculate the duty of water , on the field for the given details.",
+      "options": {
+        "1": "730.5 hectares/cumec",
+        "2": "750 hectares/cumec",
+        "3": "740.5 hectares/cumec",
+        "4": "745.5 hectares/cumec"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 67,
+      "question": "Which of the following soil group has excellent workability as construction material?",
+      "options": {
+        "1": "SC",
+        "2": "GM",
+        "3": "SM",
+        "4": "GW"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 68,
+      "question": "A soil having Specific gravity ‘G’ equal to 2.66 has a theoretical maximum dry density of 1.865 g/cm3 which corresponds to zero air voids at the OMC. Calculate the corresponding dry unit weight, if the density of water (ρw) = 1 g/ cm3.",
+      "options": {
+        "1": "18.29 kN/m3",
+        "2": "21.56 kN/m3",
+        "3": "22.78 kN/m3",
+        "4": "24.79 kN/m3"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 69,
+      "question": "A granular soil is subjected to major and minor principal stress of 8 MN/m2 and 2 MN/m2, respectively. What will be the radius of Mohr’s circle?",
+      "options": {
+        "1": "6 MN/m2",
+        "2": "3 MN/m2",
+        "3": "4 MN/m2",
+        "4": "10 MN/m2"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 70,
+      "question": "Determine the unconfined compressive strength of normally consolidated deposit of clay, if the effective stress at a depth of 15 m is 180 kN/m2, plasticity index of the clay is 75% and the undrained cohesion value of clay equal to 69.75 kN/m2.",
+      "options": {
+        "1": "34.87 kN/m2",
+        "2": "139.5 kN/m2",
+        "3": "69.75 kN/m2",
+        "4": "208.35 kN/m2"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 71,
+      "question": "A dry sand specimen was tested in a triaxial machine with the cell pressure of 50 kPa. If the deviator stress at failure was 100 kPa, calculate the major principal stress at failure.",
+      "options": {
+        "1": "100 kPa",
+        "2": "150 kPa",
+        "3": "50 kPa",
+        "4": "500 kPa"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 72,
+      "question": "Laxmi Publications (P) LTD\n17th Edition\n477\n=() /0)=  = - =“d",
+      "options": {},
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 73,
+      "question": "Which of the following expression is correct to calculate permissible stresses used in working stress method of design?",
+      "options": {
+        "1": "Permissible Stress = Yield Stress × Factor of Safety",
+        "2": "Permissible Stress = Yield Stress / Factor of Safety",
+        "3": "Yield Stress = Permissible Stress / Factor of Safety",
+        "4": "Permissible Stress = Yield Stress - Factor of Safety"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Machine Design"
+    },
+    {
+      "question_number": 74,
+      "question": "Which of the following does NOT belong to the limit state of strength?",
+      "options": {
+        "1": "Fracture due to fatigue",
+        "2": "Brittle fracture",
+        "3": "Rupture of the structure",
+        "4": "Vibrations in structures"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Material Science"
+    },
+    {
+      "question_number": 75,
+      "question": "As per IS 800:2007, The thickness of the lacing bar for single lacing should not be less than\t\tof its effective length.",
+      "options": {
+        "1": "30",
+        "2": "40",
+        "3": "50",
+        "4": "60 Hints : Civil Engg - Steel Structure -AS_SK_16 Clear_Translation Template_P1El IS 800, 2007,50 Steel Structure Design , Dr. BC Punimia, Laxmi Publication"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 76,
+      "question": "Which ofthe following is NOT a type of bolted joint?",
+      "options": {
+        "1": "Lap joint",
+        "2": "Single cover butt joint",
+        "3": "Double cover lap joint",
+        "4": "Double cover butt joint"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Machine Design"
+    },
+    {
+      "question_number": 77,
+      "question": "In lightly stressed structures, where stiffness, rather than strength, controls the design and fatigue or brittle fracture is not a problem, the ________ welds are entirely adequate and generally more economical.",
+      "options": {
+        "1": "fillet",
+        "2": "butt",
+        "3": "plug",
+        "4": "slot"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Material Science"
+    },
+    {
+      "question_number": 78,
+      "question": "The reduction in the weld strength as per long joint is done when the length of the welded joint of a splice or end connections in a compression or tension element exceeds _________ times the throat size of the weld.",
+      "options": {
+        "1": "16",
+        "2": "150",
+        "3": "100",
+        "4": "120"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Machine Design"
+    },
+    {
+      "question_number": 79,
+      "question": "Which of the following causes fatigue in a structure? 1. Stress due to self-weight 2. Residual stress 3. Large number of loading cycles 4. Wide range of stress variation",
+      "options": {
+        "1": "1 and 2",
+        "2": "3 and 4",
+        "3": "2, 3 and 4",
+        "4": "1, 2 and 4"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Material Science"
+    },
+    {
+      "question_number": 80,
+      "question": "A metal specimen having a diameter of 20 mm is tested in universal testing machine. It was found that the strain in longitudinal, lateral direction was 4.5x10-4 and 1.5x10-4 respectively. What will be its fraction of Poisson's?",
+      "options": {
+        "1": "0.33",
+        "2": "0.30",
+        "3": "0.25",
+        "4": "0.5"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 81,
+      "question": "Identify the correct statement with respect to the materials used in steel reinforced cement concrete structures",
+      "options": {
+        "1": "Cement concrete has poor compressive strength when compare to its tensile strength",
+        "2": "Steel is weak in compression",
+        "3": "Steel has a good tensile strength",
+        "4": "Cement concrete has good tensile strength when compared to steel"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 82,
+      "question": "Let us consider two bars made of materials ‘X’ and ‘Y’. The area of cross-section and length is the same for both materials. The free elongation produced by material ‘X’ and ‘Y’, individually, when subjected to a rise in temperature ‘T’ is 35mm and 45mm.If both the bars are combined to form a compound bar and are subjected to a rise in temperature T1, the stresses setup within the material ‘X’ and ‘Y’ are:",
+      "options": {
+        "1": "tensile, compressive",
+        "2": "tensile, tensile",
+        "3": "compressive, compressive",
+        "4": "compressive, tensile"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 83,
+      "question": "At a location in a simply supported beam, the variation in the bending moment is given by 50x - 10x2 kN - m. The shear force at x=2 is ________ kN.",
+      "options": {
+        "1": "20",
+        "2": "30",
+        "3": "10",
+        "4": "40"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 84,
+      "question": "",
+      "options": {
+        "1": "0",
+        "2": "-1",
+        "3": "1",
+        "4": "3"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 85,
+      "question": "Identify the deficient truss from the following figures.",
+      "options": {
+        "3": "",
+        "4": "Hints : CE_StructuralAnalysis_SFS_QH_42 Items_TranslationTemplate-TM M=2j-r M=4, J=4 = 8-3 4<5 The number of members are less than the required numbers CSREDDY BASIC STRUCTURALANALYSIS Tata Mcgraw hill education pvt ltd, 2nd, 49"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 86,
+      "question": "The horizontal thrust in a cable structure is/will________.",
+      "options": {
+        "1": "always zero",
+        "2": "decrease when there is increase in temperature",
+        "3": "decrease when there is decrease in temperature",
+        "4": "independent of temperature"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 87,
+      "question": "Calculate the degree of external static indeterminacy for the given framed structure.",
+      "options": {
+        "1": "2",
+        "2": "-1",
+        "3": "0",
+        "4": "1"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 88,
+      "question": "Calculate the internal static indeterminacy for the given plane\nframe shown in figure.",
+      "options": {
+        "1": "18",
+        "2": "3",
+        "3": "0",
+        "4": "1"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 89,
+      "question": "Which of the following statement is incorrect with respect to design considerations for taxiway layout?",
+      "options": {
+        "1": "As far as possible, the intersection of the taxiway and runway should be avoided.",
+        "2": "Exit taxiways are always placed at right angles to the runways.",
+        "3": "The route for the taxiway selected should provide the shortest practicable distance from the apron to the runway end.",
+        "4": "Taxiways should be arranged so that aircraft taxiing towards the apron do not interfere with the aircraft taxiing for take-off."
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 90,
+      "question": "The main function of taxiways is to provide access from the runways to the terminal area and service hangers. Which of the following statements related to the length of a taxiway is/are true or false? 1: Taxiway length depends upon the distance between the apron and entry end or exit end of the runway. 2:To save fuel consumption, the length of the taxiway should be as short as practicable.",
+      "options": {
+        "1": "1 is true but 2 is false",
+        "2": "Both the statements are true",
+        "3": "1 is false but 2 is true",
+        "4": "Both the statements are false"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 91,
+      "question": "The function of exit taxiways is to minimise the runway occupancy by the landing aircraft. The location of exit taxiways does NOT depend on _________.",
+      "options": {
+        "1": "Touchdown speed",
+        "2": "Mix of aircrafts",
+        "3": "Size of apron",
+        "4": "Rate of deceleration of aircrafts"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 92,
+      "question": "The aircraft are berthed on the aprons before they are loaded and unloaded. Hence, the loading apron is also known as the____________.",
+      "options": {
+        "1": "landing apron",
+        "2": "parking apron",
+        "3": "service apron",
+        "4": "hangar"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 93,
+      "question": "The relatively small aprons placed at a convenient location in the airport for the temporary storage of the aircraft is called ____________.",
+      "options": {
+        "1": "the loading apron",
+        "2": "the holding apron",
+        "3": "the holding bay",
+        "4": "the parking apron"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 94,
+      "question": "In the case of flexible pavements, ineffective road surface drainage system is mainly due to:",
+      "options": {
+        "1": "reduced thickness of wearing coat",
+        "2": "poor quality of subgrade soil",
+        "3": "Poor compaction of pavement layers",
+        "4": "Inadequate cross slope of pavement surface as well as longitudinal slope of the roadside drains"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 95,
+      "question": "Holes of 30 to 50 mm diameter are drilled through the CC pavement slab at a spacing of 1.5 to 3m. The sand-cement slurry is grouted under high pressure through these holes until the gaps under the slabs are filled up and the cracked slab starts lifting. This process is called ____________.",
+      "options": {
+        "1": "mud pumping",
+        "2": "mud jacking",
+        "3": "scaling",
+        "4": "Ravelling"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 96,
+      "question": "The turning zone is the area of the airport other than the approach area and it is intended for turning operations of the aircraft in case of emergencies like the failure of engine or trouble in the smooth working of aircraft experienced at the start of the take-off. Which of the following statements related to the turning zone of the aircraft is/are true or false? 1. Any object located within a distance of 4.5 km from the airport reference point is considered as an obstruction, if its height exceeds 51 m above the ground or the established airport elevation, whichever is more. 2.\tAn aircraft operates at a higher height in the turning zone, so it is necessary to ascertain the fact that the area of the turning zone should be free from any obstructions.",
+      "options": {
+        "1": "1 is true but 2 is false",
+        "2": "Both the statements are true",
+        "3": "1 is false but 2 is true",
+        "4": "Both the statements are false"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 97,
+      "question": "The runway is usually oriented in the direction of the prevailing winds.\nThe orientation of a runway is selected after a careful analysis of wind\nvelocity and direction and duration over the past years.\nMatch the wind directions used in runway orientation with the\ndefinition.\nWind direction\t\tDefinition\nA. Headwind\t\t1. It acts in the perpendicular\ndirection of aircraft\nB. Tailwind\t\t2. It acts in the opposite\ndirection ofthe head of the\naircraft\nC. Crosswind\t\t3.It acts in the direction of the\nlanding operation",
+      "options": {
+        "1": "A- 1, B -2, C - 3",
+        "2": "A-2, B -1, C -3",
+        "3": "A-3, B -2, C -1",
+        "4": "A-2, B -3, C -1"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 98,
+      "question": "The ideal orientation of the runway decided from the study of the wind rose diagram may have to be altered or changed because of the following factors. 1. The orientation of the runway demands excessive grading and earthwork. 2. The location of the runway does not create excessive noise nuisance to the surrounding residential areas and public places of importance. Which of the following statements is/are true or false?",
+      "options": {
+        "1": "Both the statements are true",
+        "2": "1 is false but 2 is true",
+        "3": "1 is true but 2 is false",
+        "4": "Both the statements are false"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 99,
+      "question": "Which of the following is an INCORRECT assumption in calculating the basic runway length?",
+      "options": {
+        "1": "The airport is at sea level.",
+        "2": "No wind is blowing on the runway.",
+        "3": "The runway has a slope in the longitudinal direction.",
+        "4": "The en-route temperature is standard."
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 100,
+      "question": "Given the following aircraft class, mix and average gate occupancy time,\nthe capacity of 10 gates that serve the three classes of aircraft is:\nAircraft class\t\tMix(%)\t\tAverage occupancy\ntime (min)\n15\t\t20\n30\t\t40\n55\t\t60\nAssume that each gate is available for all aircraft.",
+      "options": {
+        "1": "18 aircrafts/hour",
+        "2": "22 aircrafts /hour",
+        "3": "12.5 aircrafts /hour",
+        "4": "5.5 aircrafts/hour"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 101,
+      "question": "As per Environment (Protection) Rules, 1986, following the general standards for discharge of environmental pollutants part-A : effluents, in the case of disposal to inland surface water, the temperature of disposing effluent water shall NOT exceed ______ above the receiving water temperature.",
+      "options": {
+        "1": "5°C",
+        "2": "10°C",
+        "3": "15°C",
+        "4": "20°C"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 102,
+      "question": "Read the given statements related to secondary treatment of wastewater and identify whether they are correct or incorrect. Statements: A) Secondary treatment of wastewater can be achieved by chemical unit processes such as chemical oxidation, coagulation-flocculation and sedimentation and chemical precipitation. B) Secondary treatment of wastewater cannot be achieved by employing biological processes (aerobic) where bacteria is used as a catalyst for removal of pollutant.",
+      "options": {
+        "1": "Statement A is correct but B is incorrect",
+        "2": "Statement B is correct but A is incorrect",
+        "3": "Both statements are correct",
+        "4": "Both statements are incorrect"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 103,
+      "question": "The term ‘Sludge Volume Index’ (SVI), used for the determination of sludge settleability is defined as:",
+      "options": {
+        "1": "volume occupied in ml by one gram of solids in the mixed liquor after settling for 30 min",
+        "2": "volume occupied in ml by one gram of solids in the mixed liquor after settling for 150 min",
+        "3": "percentage decrease in the volume of sludge after secondary treatment of waste water",
+        "4": "mass of sludge occupied in 1 ml of mixed liquor after settling for 150 min"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 104,
+      "question": "Read the given statements related to biological treatment of waste water and identify whether they are correct or incorrect. Statements: A) The objective of the biological treatment of wastewater is NOT to remove nutrients such as nitrogen and phosphorous from the wastewater. B) The objective of the biological treatment of wastewater is to remove organic matter from the wastewater, which is present in soluble and colloidal form.",
+      "options": {
+        "1": "Statement A is correct but B is incorrect",
+        "2": "Statement B is correct but A is incorrect",
+        "3": "Both statements are correct",
+        "4": "Both statements are incorrect"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 105,
+      "question": "Identify whether the given statements related to Noise Exposure Forecast (NEF) are correct or incorrect. Statements: A) NEF develops a noise contour diagram. B) NEF is associated with road traffic noise.",
+      "options": {
+        "1": "Statement A is correct but B is incorrect",
+        "2": "Statement B is correct but A is incorrect",
+        "3": "Both statements are correct",
+        "4": "Both statements are incorrect"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 106,
+      "question": "Identify whether the given statements related to noise barrier are correct or incorrect. Statements: A) series of trees between the source and receiver of a noise will decrease the sound level of the noise at the receiver point. B) For high-frequency sound, when diffraction occurs due to a noise barrier, the diffraction angle will be very large.",
+      "options": {
+        "1": "Statement A is correct but B is incorrect",
+        "2": "Statement B is correct but A is incorrect",
+        "3": "Both statements are correct",
+        "4": "Both statements are incorrect"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 107,
+      "question": "Which of the following ‘combinations of noise exposure’ has the maximum noise dose?",
+      "options": {
+        "1": "An average noise level of 90 dBA during a 4-hour period",
+        "2": "An average noise level of 90 dBA during an 8-hour period",
+        "3": "An average noise level of 80 dBA during a 6-hour period",
+        "4": "An average noise level of 85 dBA during an 8-hour period"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 108,
+      "question": "Which of the following is the auditory effect caused by noise pollution?",
+      "options": {
+        "1": "Permanent hearing loss",
+        "2": "Loss in working efficiency",
+        "3": "Reduced depth and quality of sleep",
+        "4": "Interference with speech communication"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 109,
+      "question": "Which of the following is the non-auditory effect caused by noise pollution?",
+      "options": {
+        "1": "Permanent hearing loss",
+        "2": "Loss in working efficiency",
+        "3": "Tinnitus",
+        "4": "Whistling and buzzing in ears"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 110,
+      "question": "Identify whether the given statements related to Noise-Induced Hearing Loss (NIHL) are correct or incorrect. Statements: A) NIHL can be caused by a one-time exposure to an intense ‘impulse’ sound, such as an explosion. B) NIHL can be caused by continuous exposure to loud sounds over an extended period of time, such as noise generated in a woodworking shop.",
+      "options": {
+        "1": "Statement A is correct but B is incorrect",
+        "2": "Statement B is correct but A is incorrect",
+        "3": "Both statements are correct",
+        "4": "Both statements are incorrect"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 111,
+      "question": "Which of the following is the major gas produced from landfill and can be used as a renewable energy?",
+      "options": {
+        "1": "Carbon monoxide",
+        "2": "Methane",
+        "3": "Oxygen",
+        "4": "Hydrogen disulphide"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 112,
+      "question": "As per CPHEEO-2016, the minimum siting distance of land for sanitary landfill sites shall be ______ away from the centre line of a highway or railway line and water supply wells.",
+      "options": {
+        "1": "100 m",
+        "2": "500 m",
+        "3": "1000 m",
+        "4": "1500 m"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 113,
+      "question": "Which of the following is NOT an advantage of Extended Producer Responsibility (EPR) policy?",
+      "options": {
+        "1": "Creation of incentives for environmentally friendly product designs",
+        "2": "Provision of a monetary incentive to the consumer to return the product or package",
+        "3": "Increase in natural resource demands for packaging and product containers",
+        "4": "Creation of infrastructure for collection and recycling of material"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 114,
+      "question": "The abbreviation ‘MoEF&CC’ is used to indicate a ministry dealing with Environmental Impact Assessment (EIA) studies in India. What does the abbreviation stand for?",
+      "options": {
+        "1": "Ministry of Environment, Forest and Climate Change",
+        "2": "Ministry of Ecology, Forests and Climate Correction",
+        "3": "Ministry of Environment, Foundry, Charcoal and Carbon",
+        "4": "Ministry of Ecology, Foundry and Civil Construction"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 115,
+      "question": "Identify the INCORRECT statement with respect to public participation in Environmental Impact Assessment (EIA) studies.",
+      "options": {
+        "1": "Public participation in EIA reduces communication gap between the experts and locals.",
+        "2": "Public participation will be able to provide advice on management, considering local conditions.",
+        "3": "Opposition to management will be reduced if people are informed.",
+        "4": "Public participation in EIA should be avoided as much as possible to reduce nuisance creation."
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 116,
+      "question": "Four ecosystems have been given, out of which three are alike in some manner and one is different. Select the one that is different with respect to the nature of the ecosystem.",
+      "options": {
+        "1": "River",
+        "2": "Forest",
+        "3": "Aquarium",
+        "4": "Village"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 117,
+      "question": "Select the INCORRECT statement with respect to permanent hardness of water.",
+      "options": {
+        "1": "It can be eliminated by boiling.",
+        "2": "It forms insoluble scum with soap.",
+        "3": "It affects the cleaning action of soap.",
+        "4": "It contains dissolved salts of calcium and magnesium."
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Material Science"
+    },
+    {
+      "question_number": 118,
+      "question": "Which of the following audits is a type of management audit that comes under environmental audit categories?",
+      "options": {
+        "1": "Compliance audit",
+        "2": "Policy audit",
+        "3": "Acquisition audit",
+        "4": "Health and safety audit"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 119,
+      "question": "Which of the following heterotrophs is classified as a secondary consumer?",
+      "options": {
+        "1": "Rodents",
+        "2": "Cows",
+        "3": "Goats",
+        "4": "Sparrows"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 120,
+      "question": "Which of the following is an approach to design for sustainability?",
+      "options": {
+        "1": "Selection of resources with low environmental impact",
+        "2": "Design for safety and reliability",
+        "3": "Design for manufacturability",
+        "4": "Design for supply chain"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 121,
+      "question": "Which of the following ISO provisions describes the principles and framework for life cycle assessment (LCA)?",
+      "options": {
+        "1": "ISO 14040:2006",
+        "2": "ISO 23362:2006",
+        "3": "ISO 15649:2006",
+        "4": "ISO 17985:2006"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 122,
+      "question": "According to E Barbier, the primary objective of sustainable development is:",
+      "options": {
+        "1": "to reduce the absolute poverty of the world's poor by providing lasting and secure livelihoods that minimise resource depletion, environmental degradation, cultural disruption and social instability",
+        "2": "to meet the needs of the present without compromising the ability of future generations to meet their own needs",
+        "3": "equitable use of resources for meeting the needs of the present and future generations without causing damage to the environment",
+        "4": "to conserve and nurture the biological diversity, gene pool and other resources for long-term food security"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 123,
+      "question": "Select the INCORRECT statement with respect to carbon offset, which is used as a financial instrument in sustainable development.",
+      "options": {
+        "1": "Carbon offset aims at reduction in greenhouse gas emissions.",
+        "2": "Use of renewable sources of energy is one of the ways to generate carbon offset.",
+        "3": "One carbon offsetis equal to reduction of 1 metric ton of CO2 or its equivalent in other greenhouse gases.",
+        "4": "One metric ton of CO2 reduction is equivalent to a reduction of around 450 kg carbon."
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 124,
+      "question": "Which of the following organisations was the first to work on life cycle assessment?",
+      "options": {
+        "1": "The Coca-Cola Company",
+        "2": "PepsiCo",
+        "3": "7UP Company",
+        "4": "The Peelle Company"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 125,
+      "question": "Which of the following is NOT a sustainable development goal targeted to be achieved by 2030, according to the General Assembly of the United Nations?",
+      "options": {
+        "1": "No poverty",
+        "2": "Clean water and sanitation",
+        "3": "Quality education",
+        "4": "Life on Mars"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 126,
+      "question": "Who among the following introduced the concept of boundary layer and derived the equations for the boundary layer flow by correct reduction of Navier-Stokes equations?",
+      "options": {
+        "1": "Ludwig Prandtl",
+        "2": "Dickens",
+        "3": "Ryve",
+        "4": "Von Mises"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Fluid Mechanics"
+    },
+    {
+      "question_number": 127,
+      "question": "Identify whether the given statements related to application of the boundary layer theory are correct or incorrect. Statements: A) The boundary-layer theory is valid beyond the point of separation. B) Mathematically, the application of the boundary-layer theory converts the character of governing Navier-Stroke equations from elliptic to parabolic.",
+      "options": {
+        "1": "Statement A is correct but B is incorrect",
+        "2": "Statement B is correct but A is incorrect",
+        "3": "Both statements are correct",
+        "4": "Both statements are incorrect"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Fluid Mechanics"
+    },
+    {
+      "question_number": 128,
+      "question": "Identify whether the given statements related to point of separation and the boundary layer theory in fluids are correct or incorrect. Statements: A) The boundary layer theory does not speak about the location of the point of separation. B) At the point of separation, the boundary layer thickness becomes quite large for the thin layer approximation to be valid.",
+      "options": {
+        "1": "Statement A is correct but B is incorrect",
+        "2": "Statement B is correct but A is incorrect",
+        "3": "Both statements are correct",
+        "4": "Both statements are incorrect"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Fluid Mechanics"
+    },
+    {
+      "question_number": 129,
+      "question": "Which of the following is the correct expression, in case of open channel flow, to measure energy at a particular point in the channel?",
+      "options": {
+        "1": "62 where,E=specificenergy,y=Pressurehead velocityhead",
+        "2": "E = 2y where,E=specificenergy,y=Pressurehead 29g velocityhead.",
+        "3": "E= y2 2g where,E=specificenergy,y=Pressurehead 2g velocityhead.",
+        "4": "E= where, E = specific energy, y = Pressure head velocityhead"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 130,
+      "question": "Calculate the specific energy at a point in a rectangular open channel whose width is 2 m, depth 1 m and discharge 2 m3/sec. Take acceleration due to gravity as 10 m/sec2.",
+      "options": {
+        "1": "1.05 m",
+        "2": "1.20 m",
+        "3": "1.50 m",
+        "4": "1.95 m"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 131,
+      "question": "A lined channel of trapezoidal section carries a discharge of 6 m3/sec, at a depth of 1 m, with bottom width 2 m and side slope of 1.5 horizontal to 1 vertical. Consider uniform flow and calculate the velocity of flow.",
+      "options": {
+        "1": "1.312 m/sec",
+        "2": "1.714 m/sec",
+        "3": "2.135 m/sec",
+        "4": "2.426 m/sec"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 132,
+      "question": "Identify whether the given statements related to basic assumptions in gradually varied flow analysis are correct or incorrect. Statements: A) The head loss in a reach may be computed using an equation applicable to uniform flow, having the same velocity and hydraulic mean radius of the section. B) Channel bottom slope is large.",
+      "options": {
+        "1": "Statement A is correct but B is incorrect",
+        "2": "Statement B is correct but A is incorrect",
+        "3": "Both statements are correct",
+        "4": "Both statements are incorrect"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 133,
+      "question": "Which of the following is an example of steady rapidly varied flow with broken flow profile?",
+      "options": {
+        "1": "The backwaters produced by a dam",
+        "2": "Hydraulic jump",
+        "3": "The flow of water in a pipe of constant diameter at constant velocity",
+        "4": "The flow of water through pipe of constant diameter connected to a pump pumping at a constant rate which is then switched off"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Fluid Mechanics"
+    },
+    {
+      "question_number": 134,
+      "question": "Identify whether the given statements related to the applications of a hydraulic jump are correct or incorrect. Statements: A) It is used to lower the water level on the d/s side of a metering flume and thus maintain low water level in the channel for irrigation, etc. B) It is used to dissipate energy in the water flowing over the spillway and other hydraulic structures and thus prevent scouring downstream.",
+      "options": {
+        "1": "Statement A is correct but B is incorrect",
+        "2": "Statement B is correct but A is incorrect",
+        "3": "Both statements are correct",
+        "4": "Both statements are incorrect"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Fluid Mechanics"
+    },
+    {
+      "question_number": 135,
+      "question": "In India, the south western monsoon called ‘kharif’ spans mostly from ______.",
+      "options": {
+        "1": "July to October",
+        "2": "April to June",
+        "3": "October to March",
+        "4": "January to March"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 136,
+      "question": "Which of the following crops is classified as Rabi crop in India?",
+      "options": {
+        "1": "Linseed",
+        "2": "Sorghum",
+        "3": "Rice",
+        "4": "Maize"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 137,
+      "question": "Calculate the delta for a crop if its duty is 1000 hectares/cumec on the field. Consider the base period of crop as 100 days.",
+      "options": {
+        "1": "74.8 cm",
+        "2": "86.4 cm",
+        "3": "100 cm",
+        "4": "106.56 cm"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 138,
+      "question": "Identify whether the given statements related to diversion head works constructed at the head of the canal are correct or incorrect. Statements: A) If the major part or entire ponding of water is achieved by a raised crest and a smaller part or nil part of it is achieved by the shutters, then this barrier is called a barrage. B) If the major part or entire ponding of water is achieved by a raised crest and a smaller part or nil part of it is achieved by the shutters, then this barrier is called a weir.",
+      "options": {
+        "1": "Statement A is correct but B is incorrect",
+        "2": "Statement B is correct but A is incorrect",
+        "3": "Both statements are correct",
+        "4": "Both statements are incorrect"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Fluid Mechanics"
+    },
+    {
+      "question_number": 139,
+      "question": "Identify whether the given statements related to diversion head works are correct or incorrect. Statements: A) Fish ladder arrangement is provided in the weir or dam for interrupting/preventing the movement of fishes either to the upstream or downstream. B) Silt ejector is used for removal of silt which has entered the canal.",
+      "options": {
+        "1": "Statement A is correct but B is incorrect",
+        "2": "Statement B is correct but A is incorrect",
+        "3": "Both statements are correct",
+        "4": "Both statements are incorrect"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Fluid Mechanics"
+    },
+    {
+      "question_number": 140,
+      "question": "Identify the INCORRECT statement with respect to vertical curves used in highways.",
+      "options": {
+        "1": "The parabolic curve produces excellent riding qualities and is preferred in highways",
+        "2": "The circular arc produces good riding qualities and is preferred in highways.",
+        "3": "Provision of parabolic curves is not recommended in highways.",
+        "4": "Abrupt change in the rate of grade is not recommended in highways."
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 141,
+      "question": "In setting out a vertical curve, the difference in elevation between a point on the tangent and the corresponding point on the curve varies as:",
+      "options": {
+        "1": "the square of its horizontal distance from the point of tangency",
+        "2": "2 times the horizontal distance from the point of tangency",
+        "3": "0.5 times the horizontal distance from the point of tangency",
+        "4": "the square root of its horizontal distance from the point of tangency"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 142,
+      "question": "A simple circular curve of radius(r) 150 m is to be set on the ground with a central angle 60°. Calculate its length of long chord.",
+      "options": {
+        "1": "100 m",
+        "2": "125 m",
+        "3": "150 m",
+        "4": "175 m"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 143,
+      "question": "Identify the INCORRECT statement with respect to electromagnetic radiation used in remote sensing.",
+      "options": {
+        "1": "It produces a time-varying magnetic field and vice versa.",
+        "2": "Once electromagnetic radiation is generated, it remains self-propagating.",
+        "3": "It is capable of travelling across space.",
+        "4": "Human eyes are sensitive to all the parts of the electromagnetic system."
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Heat Transfer"
+    },
+    {
+      "question_number": 144,
+      "question": "Identify the INCORRECT statement with respect to airborne remote sensing system.",
+      "options": {
+        "1": "Very high spatial resolution images (20 cm or less) can be obtained through airborne remote sensing.",
+        "2": "Airborne remote sensing is better than satellite remote sensing to map a large area at a less cost.",
+        "3": "In airborne remote sensing, downward or sideward looking sensors mounted on aircrafts are used to obtain images of the earth's surface.",
+        "4": "The major disadvantage of airborne remote sensing is the high cost per unit area of ground coverage."
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 145,
+      "question": "Which of the following parameters is NOT covered in the design of structures by limit state of serviceability?",
+      "options": {
+        "1": "Deformation and deflections",
+        "2": "Vibrations in the structures",
+        "3": "Corrosion and durability",
+        "4": "Equilibrium of the structures"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 146,
+      "question": "As per IS:456-2000, while doing the design for the limit state of collapse in flexure, the maximum strain in concrete at the outermost compression fibre is taken as ______ in bending.",
+      "options": {
+        "1": "0.35",
+        "2": "0.035",
+        "3": "0.00035",
+        "4": "0.0035"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 147,
+      "question": "What is the failure pattern of a column with low slenderness ratio, (i.e., relatively short and stocky column) subjected to an axial load which can cause failure?",
+      "options": {
+        "1": "Fail under ultimate loads, with the material reaching its ultimate strength",
+        "2": "Fail under relatively low compressive loads and susceptible to buckling failure",
+        "3": "Fail due to development of considerable secondary moments",
+        "4": "Fails due to development of both bending and shear stresses"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 148,
+      "question": "As per IS:456-2000, the minimum cross-sectional area of longitudinal reinforcement to be provided in a RCC column of size 200 mm × 600 mm is ______.",
+      "options": {
+        "1": "750 mm2",
+        "2": "960 mm2",
+        "3": "1060 mm2",
+        "4": "1250 mm2"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 149,
+      "question": "As per IS:456-2000, in the case of RCC beams, what is the maximum depth of the web, beyond which side face reinforcement shall be provided along the two faces of beam?",
+      "options": {
+        "1": "450 mm",
+        "2": "550 mm",
+        "3": "650 mm",
+        "4": "750 mm"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 150,
+      "question": "According to IS:800-2007, the maximum effective slenderness ratio for tension members in which reversal of direct stresses occurs due to loads other than wind or seismic forces is ______.",
+      "options": {
+        "1": "100",
+        "2": "140",
+        "3": "180",
+        "4": "220"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    }
+  ]
+}

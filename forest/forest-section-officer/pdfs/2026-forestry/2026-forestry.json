@@ -1,0 +1,2059 @@
+{
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "Which of the following is not a characteristic of Angiosperm Plant Cells?",
+      "options": {
+        "2": "Chloroplasts",
+        "1": "Cell wall",
+        "3": "Centrioles",
+        "4": "Large central vacuole"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 2,
+      "question": "Deficiency symptoms of an element tend to appear first in young leaves.It indicates that theelement is relatively immobile.Which one of the following elemental deficiencies would show such symptoms?",
+      "options": {
+        "2": "Magnesium",
+        "1": "Sulphur",
+        "4": "Potassium",
+        "3": "Nitrogen"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 3,
+      "question": "The final electron acceptor in the electron,transport chain of respiration is",
+      "options": {
+        "2": "FAD",
+        "1": "NAD+",
+        "4": "Carbon dioxide",
+        "3": "Oxygen"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 4,
+      "question": "Thefunction of mRNA is to",
+      "options": {
+        "2": "Transcribegenetic information",
+        "1": "Carry amino acids",
+        "4": "Storegenetic information",
+        "3": "Translate genetic code into proteins"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 5,
+      "question": "Doublefertilizationinangiosperms involves (l)Two spermnucleifusingwiththeegg andpolarnuclei",
+      "options": {
+        "2": "Fusion oftwo eggs with one sperm",
+        "3": "Fusion of pollentubewith ovule"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 6,
+      "question": "The best time to collect seeds is when they are",
+      "options": {
+        "2": "Fully mature but not dispersed",
+        "1": "Immature",
+        "4": "Infested with pests",
+        "3": "Rotten"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 7,
+      "question": "Which condition favors fungal growth ?",
+      "options": {
+        "2": "Cold and dry weather",
+        "1": "Dry and hot weather",
+        "4": "Windy conditions",
+        "3": "Warm and humid weather"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 8,
+      "question": "RNA interference (RNAi) is used in transgenic plants to",
+      "options": {
+        "1": "Increase photosynthesis",
+        "2": "Silence specific pathogen genes",
+        "4": "Accelerate flowering"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 9,
+      "question": "The vegetation in the Rayalaseema region is primarily",
+      "options": {
+        "1": "Thorn scrub",
+        "2": "Evergreen forest",
+        "3": "Grasslands",
+        "4": "Wetlands"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 10,
+      "question": "Wastelandreclamation involves",
+      "options": {
+        "1": "Convertingforests intourban areas",
+        "2": "Restoring degraded lands for productive use",
+        "3": "Mining minerals from barren lands",
+        "4": "Increasing industrial pollution"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 11,
+      "question": "Which branch of horticulture deals with fruit crops ?",
+      "options": {
+        "1": "Olericulture",
+        "2": "Pomology",
+        "3": "Floriculture",
+        "4": "Arboriculture"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 12,
+      "question": "Plant hormone Indole-3-Butyric Acid (IBA) is used to",
+      "options": {
+        "1": "Prevent diseases",
+        "2": "Enhance root initiation",
+        "3": "Reduce transpiration",
+        "4": "Increase flowering"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 13,
+      "question": "Which plant is commonly propagated by mound layering ?",
+      "options": {
+        "1": "Rose",
+        "2": "Apple rootstocks",
+        "3": "Banana",
+        "4": "Pineapple"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 14,
+      "question": "Which is a common rootstock for apple grafting ?",
+      "options": {
+        "1": "M9 dwarfing",
+        "2": "Juglans regia",
+        "3": "Oryza sativa",
+        "4": "Zea mays"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 15,
+      "question": "Hydroponics is often integrated with greenhouses to grow plants",
+      "options": {
+        "1": "In soil-less media",
+        "2": "Under shade nets",
+        "3": "In open fields",
+        "4": "Without water"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 16,
+      "question": "Which of the following is not a distinguishing feature of plant cells ?",
+      "options": {
+        "1": "Cell wall made of cellulose",
+        "2": "Presence of chloroplasts",
+        "3": "Lysosomes absent",
+        "4": "Presence of centrioles"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 17,
+      "question": "Yellowing of older leaves while young leaves remain green indicates deficiency of",
+      "options": {
+        "4": "Boron",
+        "2": "Iron",
+        "1": "Nitrogen",
+        "3": "Calcium"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 18,
+      "question": "InC4plants,CO,fixation initiallyoccurs in",
+      "options": {
+        "2": "Bundle sheath cells",
+        "1": "Mesophyll cells",
+        "4": "Cytoplasm",
+        "3": "Stroma"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 19,
+      "question": "The semiconservativemodelofDNAreplicationimplies",
+      "options": {
+        "1": "Both strands arenewlysynthesized",
+        "2": "Each daughter DNA has one old and one new strand",
+        "3": "Only theleading strand replicates",
+        "4": "DNAreplicatesonlyincytoplasm"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 20,
+      "question": "Windpollinating (anemophilous)plantstypicallyexhibit",
+      "options": {
+        "1": "Sticky pollen",
+        "2": "Small, inconspicuous flowers",
+        "3": "Large, brightly colored petals",
+        "4": "Heavynectarproduction"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 21,
+      "question": "Seeddormancycausedbya hard seed coat is best overcomeby",
+      "options": {
+        "2": "Scarification",
+        "1": "Cold stratification",
+        "3": "Hormonal inhibition",
+        "4": "Water stress"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 22,
+      "question": "Acommon technique for collecting seeds from tallforest trees is",
+      "options": {
+        "2": "Climbing and pole-pruning",
+        "1": "Drilling",
+        "4": "Micropropagation",
+        "3": "Budding"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Production Technology"
+    },
+    {
+      "question_number": 23,
+      "question": "Pathogens that can survive without a host are called",
+      "options": {
+        "1": "Biotrophs",
+        "2": "Necrotrophs",
+        "4": "Obligate parasites",
+        "3": "Facultative saprophytes"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 24,
+      "question": "Thepredominantforesttype inAndhraPradesh is toanwollsY (l)Tropical wetevergreen",
+      "options": {
+        "2": "Tropical dry deciduous",
+        "3": "Montane forests",
+        "4": "Mangrove"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 25,
+      "question": "Propagation through tissue culture belongs to",
+      "options": {
+        "1": "Sexual propagation",
+        "2": "Macropropagation",
+        "3": "Micropropagation",
+        "4": "Hybrid propagation"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 26,
+      "question": "Which sector shows the strongest link between horticultural development and foreign exchange earnings?",
+      "options": {
+        "1": "Export of cereals",
+        "2": "",
+        "3": "Exportof pulses",
+        "4": "Export of livestock"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 27,
+      "question": "The success of root regeneration im cuttings is most strongly infuenced by which2 (S) physiological factor ? (l) High carbohydrate reserves and hormonal balance",
+      "options": {
+        "2": "Seed viability",
+        "3": "Leafvenationpattern",
+        "4": "Flowering stage of the mother plant"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 28,
+      "question": "Which environmental factor most strongly influences successful rooting in layerage? (l)Verylowsoilmoisture",
+      "options": {
+        "2": "High humidity around therooting zone",
+        "3": "High wind speed",
+        "4": "Short day length only"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 29,
+      "question": "A critical requirement for successful grafting is (l)Alignment of cortical tissues",
+      "options": {
+        "2": "Proper alignment of cambial layers of scion and stock",
+        "3": "Removal ofall buds from scion",
+        "4": "Use of genetically unrelated species"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 30,
+      "question": "Rootstock selection is important because it influences",
+      "options": {
+        "1": "Only fruit color",
+        "2": "Tree vigor, stress tolerance, disease resistance and yield",
+        "3": "Onlyflowersize",
+        "4": "Only plant height without other effects"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 31,
+      "question": "What is the role of producers in an ecosystem?",
+      "options": {
+        "1": "Decompose dead material m",
+        "2": "Hunt herbivores",
+        "3": "Create organic matter using sunlight",
+        "4": "Feedonotherorganisms"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 32,
+      "question": "What is the role of decomposers",
+      "options": {
+        "1": "Trap solar energy",
+        "2": "Eat other animals",
+        "3": "Break down dead matter and recycle nutrients",
+        "4": "Produce seeds"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 33,
+      "question": "How many biogeographical zones are in India based on vegetation and geography?",
+      "options": {
+        "1": "5climatezones",
+        "2": "10 zones based on vegetation and geography",
+        "3": "15 river systems",
+        "4": "12 zonesbased on vegetation and geography"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 34,
+      "question": "What is India's rank in the Global Nature Conservation Index 2024?",
+      "options": {
+        "2": "176h",
+        "1": "1st",
+        "4": "180th",
+        "3": "76th"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 35,
+      "question": "Which of the following is an endangered species in India?",
+      "options": {
+        "3": "Cow",
+        "4": "Domestic cat",
+        "2": "Bengal tiger",
+        "1": "House sparrow"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 36,
+      "question": "How does afforestation help in climate change mitigation ?",
+      "options": {
+        "2": "Destroys pests",
+        "1": "Producesmorewood",
+        "4": "Causes flooding",
+        "3": "Absorbs CO through photosynthesis"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 37,
+      "question": "Which is the first gazetted biosphere reserve in Andhra Pradesh, known for its endemic species and Eastern Ghats ecosystem ?o",
+      "options": {
+        "1": "Coringa Wildlife Sanctuary",
+        "2": "SeshachalamBiosphereReserve",
+        "3": "Pulicat Bird Sanctuary",
+        "4": "Papikonda National Park"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 38,
+      "question": "Naupada Coastal and Marine Biodiversity Area (ICMBA) is located in which district of Andhra Pradesh?",
+      "options": {
+        "1": "Vizianagaram",
+        "2": "Visakhapatmam",
+        "4": "Alluri Sitharama Raju",
+        "3": "Srikakulam"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 39,
+      "question": "Which protected area is known for conserving a subspecies of the Indian swamp deer (Barasingha), adopted to hard ground and exclusively graminivorous?",
+      "options": {
+        "1": "Kanha National Park",
+        "2": "Manas National Park",
+        "3": "Mudumalai Wildlife Sanctuary",
+        "4": "TalChhaparWildlifeSanctuary"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 40,
+      "question": "In which year was the Biological Diversity Act enacted in India ?",
+      "options": {
+        "1": "2000",
+        "2": "2002",
+        "3": "2010",
+        "4": "2017"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 41,
+      "question": "The hardness of water is primarily due to the presence of which ions?",
+      "options": {
+        "1": "Sodium and chloride",
+        "2": "Calcium andmagnesium",
+        "3": "Strontium and potassium )",
+        "4": "Potassium and nitrate"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Material Science"
+    },
+    {
+      "question_number": 42,
+      "question": "Under which Section of the Water (Prevention and Control of Pollution) Act, 1974 can a State Pollution Control Board serves directions to industries or persons for preventing or controlling water pollution ?",
+      "options": {
+        "1": "Section 30",
+        "2": "Section 20",
+        "3": "Section33",
+        "4": "Section 21"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 43,
+      "question": "Water with less than 1000 mg/lof Total Dissolved Solids (TDS) is classified as",
+      "options": {
+        "2": "Fresh water",
+        "1": "Brine water",
+        "3": "Slightly saline",
+        "4": "Moderately saline"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 44,
+      "question": "What is the live storage capacity (approx.) of the Pulichintala Reservoir ?",
+      "options": {
+        "2": "36 Tmcft",
+        "1": "20 Tmcft",
+        "3": "46 Tmcft",
+        "4": "80 Tmcft"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 45,
+      "question": "Checkdams, contour bunding and percolation tanks are associated with",
+      "options": {
+        "1": "Airpollution control",
+        "2": "Groundwater depletion",
+        "3": "Watershed development andwaterharvesting",
+        "4": "Industrial effluenttreatment"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 46,
+      "question": "Which tree species is commonly recommended in watershed afforestation due to its fast growth and soil-binding roots ?",
+      "options": {
+        "2": "Eucalyptus globulus",
+        "1": "Acacia nilotica",
+        "3": "Pinus roxburghii",
+        "4": "Tectona grandis"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 47,
+      "question": "The IntegratedWatershed Management Programme (IWMP) is implemented under which Ministry?",
+      "options": {
+        "1": "Ministry of Jal Shakti oa",
+        "2": "Ministry of Rural Development",
+        "3": "Ministry of Environment, Forest and Climate Change",
+        "4": "Ministry of Agriculture"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 48,
+      "question": "Which law mandates that every state shall constitute a Water Resources Regulatory Authority?",
+      "options": {
+        "1": "EnvironmentalProtectionAct,1986",
+        "2": "National Water Policy,2012",
+        "3": "State-specificWaterResourcesActs",
+        "4": "BiologicalDiversityAct,2002"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 49,
+      "question": "The Andhra Pradesh, Water Land and Trees Act (WALTA) was enacted in which year ?",
+      "options": {
+        "3": "2005",
+        "4": "2010",
+        "2": "2002",
+        "1": "1998"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 50,
+      "question": "Whichgas is amajorcontributorto air pollution from vehicles?",
+      "options": {
+        "2": "Nitrogen",
+        "1": "Oxygen",
+        "3": "Carbonmonoxide",
+        "4": "Helium"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 51,
+      "question": "Which pollutant is most associated with acid rain ?",
+      "options": {
+        "1": "Methane",
+        "2": "Sulphur dioxide",
+        "3": "Carbon dioxide",
+        "4": "Ozone"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 52,
+      "question": "TheNational, AirQuality Index (AQD) was launched in",
+      "options": {
+        "2": "2013",
+        "1": "2012",
+        "4": "2015",
+        "3": "2014"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 53,
+      "question": "_ In an ecosystem, if decomposers are removed, which of the following processes would eibemostdirectlyaffectedfirst?",
+      "options": {
+        "1": "Photosynthesis",
+        "2": "Nutrient cycling",
+        "3": "Food web stability",
+        "4": "Predatorpreybalance"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 54,
+      "question": "Which of thefollowing best explains the functional role of producers in an ecosystem? (l)Theyrecyclemineralsintothesoil",
+      "options": {
+        "2": "They feed on dead organic matter",
+        "3": "They regulate predator population",
+        "4": "They convert solar energy into chemical energy"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 55,
+      "question": "If climate change alters the rainfall pattern of a region, leading to replacement of moist deciduous forests by scrublands, what type of diversity is primarily impacted?",
+      "options": {
+        "2": "Species diversity",
+        "1": "Genetic diversity",
+        "3": "Ecosystem diversity",
+        "4": "Population diversity"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 56,
+      "question": "Aregion is declared a biodiversity hotspot primarily based on which of the following criteria?",
+      "options": {
+        "1": "High forest cover and large area",
+        "2": "Presence of endemic species and high threat of habitat loss",
+        "3": "Highrainfallanddensevegetation",
+        "4": "Presence of many exotic species"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 57,
+      "question": "If a species found only in the Eastern Himalayas is classified as Vulnerable by theIUCN, and climate change reduces its habitat range, what could be its next likely status?",
+      "options": {
+        "2": "Near Threatened",
+        "1": "Least Concern",
+        "3": "Endangered",
+        "4": "Data Deficient"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 58,
+      "question": "Which forest protection strategy helps in community participation for conserving local forests?",
+      "options": {
+        "1": "Joint Forest Management",
+        "2": "Monoculture Plantations",
+        "3": "Mining in Forest Regions",
+        "4": "WildlifeTourism Expansion"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 59,
+      "question": "Which type of impurity in water is biologically significant because it directly influences oxygen demand and microbial growth?",
+      "options": {
+        "2": "Dissolved organic matter",
+        "1": "Carbonate minerals",
+        "4": "Suspended silica",
+        "3": "Ironandmanganese"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 60,
+      "question": "Which of the following water-borme diseases is caused by a protozoan parasite rather than bacteria or virus?",
+      "options": {
+        "1": "Cholera",
+        "2": "Hepatitis A",
+        "4": "Typhoid",
+        "3": "Amoebic dysentery"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 61,
+      "question": "Which physical parameter of water most directly indicates suspended impurities and affects light penetration in lakes and reservoirs ?",
+      "options": {
+        "2": "Turbidity",
+        "3": "Odour",
+        "4": "Temperature",
+        "1": "Colour"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 62,
+      "question": "Which of the following best explains howforests reduce flood intensity in watershed areas?",
+      "options": {
+        "1": "They absorb rainfall and slow down runoff through dense vegetation and root networks",
+        "2": "They divert river channels artificially",
+        "3": "They store all rainwater permanently in the canopy",
+        "4": "They increase surface erosion, reducing storage capacity"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 63,
+      "question": "Chronic exposure to low-frequency industrial noise primarily affects which human system?",
+      "options": {
+        "2": "Skeletal system",
+        "1": "Digestive system",
+        "3": "Nervous and cardiovascular system",
+        "4": "Endocrine system"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 64,
+      "question": "A river basin project diverts water for intensive irrigation upstream, leaving downstream villages dry. Which principle of sustainable water ethics is violated ?",
+      "options": {
+        "1": "Maximization of yield for immediate gain",
+        "2": "Privatization of resource rights",
+        "3": "Equitable distribution and inter-regional justice",
+        "4": "Precautionaryprinciple"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 65,
+      "question": "Which rocks are formed due to the deposition and compaction of the remains of plants ?",
+      "options": {
+        "1": "Calcareous rocks",
+        "2": "Carbonaceous rocks",
+        "3": "Siliceous rocks",
+        "4": "Siltstone rocks"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 66,
+      "question": "Rift valleys areformed due to",
+      "options": {
+        "1": "Faults",
+        "2": "Folds",
+        "3": "Joints",
+        "4": "Foliations"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 67,
+      "question": "What is the another name of‘Black Soils'?",
+      "options": {
+        "1": "Podzol",
+        "2": "Latosol",
+        "3": "Chernozem",
+        "4": "Azonal"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 68,
+      "question": "Which soil grown in humid areas under rich vegetation cover ?",
+      "options": {
+        "1": "Pedocols",
+        "2": "Chestnutsoil",
+        "3": "Latosol",
+        "4": "Pedalfars"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 69,
+      "question": "Which of the following are reclamation methods of alkaline and saline soils ? cofom (l) Improved irrigation and soil drainage",
+      "options": {
+        "2": "Decreasing water and wet",
+        "3": "Cultivation of crops and ploughing",
+        "4": "Keeping under fallow conditions and storing rain water n"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 70,
+      "question": "In which areas afforestation is important soil conservation method ?",
+      "options": {
+        "1": "Glacial areas",
+        "2": "Semi arid and low rainfall receiving areas",
+        "3": "Very high rainfall receiving areas",
+        "4": "Cropped areas"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 71,
+      "question": "Thevillagelevel forestprotection committees alsocalled as",
+      "options": {
+        "1": "Wildlife Conservation Committees",
+        "2": "Water Conservation Committees",
+        "3": "Land Conservation Committees",
+        "4": "Vana Samrakshana Samithies"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 72,
+      "question": "InRemote SensingHyper Spectral Sensors areuseful for",
+      "options": {
+        "1": "To discriminate one vegetationtype to the another",
+        "2": "To discriminate one planit to the another",
+        "3": "Toextractvegetationnonbiophysical information",
+        "4": "To extractvegetation physical information"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 73,
+      "question": "Which of the following instrument is used to measure angle of slope normally used in determination of height of trees?",
+      "options": {
+        "2": "Altimeter",
+        "1": "Hypsometer",
+        "4": "Giriting tape",
+        "3": "Climometer"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 74,
+      "question": "‘FormFactor'oftrees isuseful for",
+      "options": {
+        "1": "To estimate volume of standing trees",
+        "2": "To measure the height oftrees",
+        "3": "Toestimatevolumeoffelledtrees",
+        "4": "Tomeasurethediameteroftrees"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 75,
+      "question": "As per the National Working Plan Code - 2023, who shall head a Forest Working Plan ?",
+      "options": {
+        "2": "Conservator of Forests",
+        "1": "Forester",
+        "4": "DeputyConservator ofForests",
+        "3": "Forest Guard"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 76,
+      "question": "Who are the important stakeholder in the forest enterprise and management?",
+      "options": {
+        "2": "Vana Samrakshana Samithies",
+        "1": "",
+        "4": "Forest Labour",
+        "3": "Cultural Values Promoters"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 77,
+      "question": "Whichofthefollowing is anexampleofan igneous rock?",
+      "options": {
+        "1": "Lime stone",
+        "2": "Basalt.",
+        "3": "Shale",
+        "4": "Gypsum /)"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 78,
+      "question": "AbreakorfractureintheEarth'sCrust is called",
+      "options": {
+        "1": "Fold",
+        "2": "Joint",
+        "3": "Fault",
+        "4": "Lineation"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 79,
+      "question": "Excessive use of chemical fertilizers leads to",
+      "options": {
+        "1": "Soil fertility improvement aa",
+        "2": "Increased biodiversity",
+        "3": "Soil degradation",
+        "4": "Alkalization only"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 80,
+      "question": "Which instrument is commonly used to measure the Diameter at Breast Height (DBH) of a tree ?",
+      "options": {
+        "1": "Abney level",
+        "2": "Haga Altimeter",
+        "3": "Calipers",
+        "4": "IncrementBorer"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 81,
+      "question": "Remote sensing is the science of obtaining information about an object without",
+      "options": {
+        "1": "Measuring it",
+        "2": "Contacting it physically",
+        "3": "Using satellites",
+        "4": "Seeing it"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 82,
+      "question": "Temporal resolution refersto",
+      "options": {
+        "1": "Number of spectral bands",
+        "2": "Sizeofpixelseoon",
+        "3": "Frequency of image capture",
+        "4": "Band width of sensorsitof"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 83,
+      "question": "Wirelesscommunicationinforests ismostessentialfor",
+      "options": {
+        "1": "Tree plantation",
+        "2": "Forest road construction",
+        "3": "Fire alerts and poaching control",
+        "4": "GIS digitilization"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 84,
+      "question": "TheForest Management Information System(FMIS)integrates",
+      "options": {
+        "1": "Physical and human data",
+        "2": "Policy and legal acts",
+        "3": "Forestry data for planning and evaluation",
+        "4": "Revenue and budgeting only"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 85,
+      "question": "Carbon stock assessment is part of",
+      "options": {
+        "1": "Legalforestprotection",
+        "2": "Climate impact evaluation",
+        "3": "Timber pricing",
+        "4": "Forest road design"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 86,
+      "question": "Which forest product is used in pharmaceutical and cosmetic industries ?",
+      "options": {
+        "3": "Sandalwood logs",
+        "4": "Mahoganytimber",
+        "1": "Sal wood",
+        "2": "Gum and resins"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 87,
+      "question": "Systematic sampling involves selecting samples",
+      "options": {
+        "2": "Randomlyfromclusters",
+        "1": "At equal intervals",
+        "3": "By judgement",
+        "4": "Basedonsoiltype"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 88,
+      "question": "Which of the following is a main assumption for using regression estimation?",
+      "options": {
+        "1": "No relationship exists between variables",
+        "3": "There is a linear and predictablerelationship",
+        "4": "Onlynominal data is used"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 89,
+      "question": "The branch of forestry that deals with theory and practice of raising forest crops is",
+      "options": {
+        "2": "Agroforestry",
+        "1": "Forestutilization",
+        "4": "Forest protection",
+        "3": "Silviculture"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 90,
+      "question": "In the natural regeneration process seeds of red sanders is normally dispersed through",
+      "options": {
+        "3": "Birds",
+        "4": "Gravity",
+        "2": "Wind",
+        "1": "Water"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 91,
+      "question": "The following tree is propagated through rhizomes",
+      "options": {
+        "4": "Terminalia",
+        "2": "Teak",
+        "3": "Eucalyptus",
+        "1": "Bamboo"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 92,
+      "question": "Forest water contains the following chemical in highest concentration",
+      "options": {
+        "4": "Fe,0",
+        "3": "K20",
+        "2": "CaO",
+        "1": "Mg0"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 93,
+      "question": "Cutting back of grown up trees to the ground level is known as",
+      "options": {
+        "4": "Brashing",
+        "3": "Coppicing",
+        "2": "Singling",
+        "1": "Tending"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 94,
+      "question": "Tree species successfully growh on large scale in coastal sandy soils are",
+      "options": {
+        "3": "Eucalyptus",
+        "4": "Azardirachta",
+        "1": "Casuarina",
+        "2": "Acacia"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 95,
+      "question": "Forestry aimed at producing flow of protection and recreation benefits to the community.a8",
+      "options": {
+        "1": "Agro forestry",
+        "2": "Urban forestry",
+        "3": "Social forestry",
+        "4": "Environmentalforestry"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 96,
+      "question": "ThewordSocialForestrywasfirstpronouncedby",
+      "options": {
+        "1": "Swaminathan",
+        "2": "Jadhav Payeng",
+        "3": "Westoby",
+        "4": "Brandis"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 97,
+      "question": "According to the National Forest Policy forest area in comparison to the total s't v geographical area shouldbe",
+      "options": {
+        "1": "1/3rd",
+        "3": "1/4th",
+        "4": "1/6th"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 98,
+      "question": " their growth and after care up to the time of final harvesting is referred as",
+      "options": {
+        "1": "Forest Mensuration",
+        "2": "Forest Management",
+        "3": "Forest Utilization",
+        "4": "Silviculture"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 99,
+      "question": "Which industry consumes a major proportion of bamboo ?",
+      "options": {
+        "1": "Dyeandtanningindustry",
+        "2": "Papermanufacturing industry",
+        "3": "Oil and bio diesel industry",
+        "4": "Traditional medicine"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 100,
+      "question": "Which of the following is not a type of social forestry?",
+      "options": {
+        "1": "Farm forestry",
+        "2": "Community forestry",
+        "3": "Urban forestry",
+        "4": "Industrial forestry"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 101,
+      "question": "Which of the following correctlydescribes the uses of Santalum album?",
+      "options": {
+        "1": "Mainly valued for its latex and gum used in adhesives",
+        "2": "Known for fragrant heartwood and oil used in perfumery, cosmetics, medicines and",
+        "3": "Cultivated primarily as a fodder tree for livestock",
+        "4": "Used only as a fuelwood species with no commercial significance"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 102,
+      "question": "Which training institution is responsible for impartingfoundational training to IFS probationers?",
+      "options": {
+        "1": "Forest Research Institute",
+        "2": "IndianInstituteofForest Management",
+        "3": "Indira Gandhi National Forest Academy",
+        "4": "Wildlife Institute of India"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 103,
+      "question": "Grassis richin",
+      "options": {
+        "2": "Starch",
+        "4": "Amino acids",
+        "3": "Cellulose",
+        "1": "Proteins"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 104,
+      "question": "Deficiency of which Vitamin causes anaemia?",
+      "options": {
+        "2": "Vitamin D",
+        "1": "Vitamin E",
+        "4": "VitaminB12",
+        "3": "VitaminB3"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 105,
+      "question": "Biological vector of bluetongue virus",
+      "options": {
+        "3": "Flea",
+        "2": "Ticks",
+        "4": "Culicoides",
+        "1": "Mosquito"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 106,
+      "question": "Which test is used to identify the mastitis disease in cattle ?",
+      "options": {
+        "1": "Widal test",
+        "2": "Tetrazolium test",
+        "4": "None of the above",
+        "3": "Strep cup test"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 107,
+      "question": "How can you identify a python based on the nature of its ventrals?",
+      "options": {
+        "1": "Broadventrals not extending acrossthebelly",
+        "2": "Broad ventrals extending across the belly",
+        "3": "Small and narrow ventrals",
+        "4": "Presence of loreal pit"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 108,
+      "question": "Awell-known autosomal abnormalityatbirthis",
+      "options": {
+        "2": "Down'ssyndrome",
+        "4": "Turner's syndrome",
+        "3": "Patau's syndrome"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 109,
+      "question": "The first technique that was adopted for forensic DNA analysis was",
+      "options": {
+        "2": "PCR",
+        "3": "HLADQAI",
+        "4": "STR",
+        "1": "RFLP"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 110,
+      "question": "Which nutrient provides the highest energy content to animals ? snudoidao",
+      "options": {
+        "1": "Carbohydrates",
+        "2": "Proteins",
+        "3": "Fats",
+        "4": "Fiber"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 112,
+      "question": "Which of the following is a feed supplement ?",
+      "options": {
+        "1": "Terramycin",
+        "2": "Vitablend",
+        "3": "Zinc bacitracian",
+        "4": "Flavomycin"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 113,
+      "question": "Which contagious disease causes chronic infection of the small intestine in cattle, sheep i and goats?",
+      "options": {
+        "1": "Johne's disease",
+        "2": "Anthrane",
+        "3": "Blackquarter",
+        "4": "Rabies"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 114,
+      "question": "Which insect acts as an important biological control agent by preying on pest insects ?",
+      "options": {
+        "1": "Braconidwasps",
+        "2": "Termites",
+        "3": "Leaf hoppers",
+        "4": "White flies"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 115,
+      "question": "What type of DNA commonly used in forensic identification?",
+      "options": {
+        "1": "NuclearDNA",
+        "2": "MitochondrialDNA",
+        "3": "BothNuclearDNAand Mitochondrial DNA",
+        "4": "OnlyRNA"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 116,
+      "question": "Which of thefollowingbest defines regenerate? (l)Torotatecrops indifferentplots",
+      "options": {
+        "2": "To introduce exotic species into a region",
+        "3": "To renew a forest crop by natural or artificial means",
+        "4": "Toremoveoldtreesfromtheforest"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 117,
+      "question": "Which term describes a species that is not native to a specific area ?",
+      "options": {
+        "1": "Indigenous",
+        "2": "Exotic",
+        "3": "Coppice",
+        "4": "Rotation"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 118,
+      "question": "Which branch of forestry deals with the establishment, development, care and reproduction of forest crops especially timber ?",
+      "options": {
+        "2": "Agroforestry",
+        "1": "Dendrology",
+        "3": "Silviculture",
+        "4": "Forestmensuration"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 119,
+      "question": "Which of the following species is most suitable for shelterbelt plantation in coastal areas?",
+      "options": {
+        "2": "Teak",
+        "3": "Rosewood",
+        "4": "Casuarina",
+        "1": "Mango"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 120,
+      "question": "India's diverse climatic conditionsresult inwhich of thefollowing?",
+      "options": {
+        "1": "A uniform type of forest throughout the country",
+        "2": "Limited vegetation and foresttypes",
+        "3": "A wide range of forest types and plant species",
+        "4": "Only evergreen forests"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 121,
+      "question": "Which of the following is not considered a topographic factor?",
+      "options": {
+        "4": "Altitude",
+        "2": "Slope",
+        "3": "Aspect",
+        "1": "Rainfall"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 122,
+      "question": "Red Sanders is endemic to which region of India and has high demand in the international market?",
+      "options": {
+        "1": "Western Ghats",
+        "2": "SouthemPart of EasternGhats",
+        "4": "Aravalli Hills",
+        "3": "Himalayas"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 123,
+      "question": "Arabica gum is extracted from which species and is mainlyused for?",
+      "options": {
+        "2": "Santalum album",
+        "1": "Azadirachta indica",
+        "4": "Acacia nilotica",
+        "3": "Tectona grandis"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 124,
+      "question": "Kath (Catechu) is preparedfrom which tree species?",
+      "options": {
+        "1": "Acacianilotica",
+        "2": "Acacia chundra",
+        "3": "Azadirachta indica",
+        "4": "Ficus religiosa"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 125,
+      "question": "InForest MensurationBreastHeight (BH) inIndia is taken as",
+      "options": {
+        "1": "1.30m",
+        "2": "1.50m",
+        "3": "1.20 m",
+        "4": "1.37 m"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 126,
+      "question": "Which of the following instruments is not commonly used for measuring the diameter or tuwstionodoww",
+      "options": {
+        "1": "Bark Gauge",
+        "2": "Wooden Scale",
+        "3": "Callipers",
+        "4": "MeasuringTape"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 127,
+      "question": "Surveying can be regarded as the art and science of",
+      "options": {
+        "1": "Map making",
+        "2": "Woodmeasurement..",
+        "3": "Soil analysis",
+        "4": "Forest inventory"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 128,
+      "question": "How many links are present in a 20 m long metric chain ?",
+      "options": {
+        "1": "50",
+        "2": "200",
+        "3": "100",
+        "4": ".20"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 129,
+      "question": "Which of thefollowing is the basicdefinition of a brick?",
+      "options": {
+        "1": "Anatural stone block used forbuilding",
+        "2": "Anartificial block ofburnt clayusedforbuildingpurposes",
+        "3": "Acementblock used in construction",
+        "4": "Asun-dried block madeof sand and lime"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 130,
+      "question": "Theportionoftheroadusedbyvehicles is called",
+      "options": {
+        "1": "Berm",
+        "2": "Sub-base",
+        "3": "Carriage way",
+        "4": "Wearing course"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 131,
+      "question": "The need for public awareness of environmental science arises mainly due to",
+      "options": {
+        "1": "Reduced scientific research",
+        "2": "Rapid industrialization and population growth",
+        "3": "Excessagricultural production",
+        "4": "Limitation ofenvironmental policies"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 132,
+      "question": "Which of the following is an effect of long-term exposure to noise pollution?",
+      "options": {
+        "1": "Reducedblood pressure",
+        "2": "Improvedsleepquality)",
+        "3": "Noise-induced hearingloss due to inner ear damage",
+        "4": "Strengthened nervous system"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 133,
+      "question": "Which of thefollowing is amajor source of thermal pollution?",
+      "options": {
+        "2": "Coal-firedpower plants",
+        "1": "Paper recycling units",
+        "4": "Solar power panels",
+        "3": "Wind energy plants"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 134,
+      "question": "Composting is a solid waste management methodmainly useful for",
+      "options": {
+        "1": "Non-biodegradable waste",
+        "2": "Biodegradable organic waste",
+        "4": "Nuclear waste",
+        "3": "Metallic waste"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 135,
+      "question": "What is the main purpose of Environmental Impact Assessment (EIA)? (l)Toincreaseindustrialoutput",
+      "options": {
+        "2": "To predict environmental consequences of proposed projects",
+        "3": "To promote deforestation",
+        "4": "Toassesseconomicreturnsonly"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 136,
+      "question": "_ Which process is responsible for trapping heat in the earth's atmosphere leading to global warming?",
+      "options": {
+        "2": "Acid rain",
+        "1": "Ozoneformation",
+        "4": "Photosynthesis",
+        "3": "Greenhouse effect"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 137,
+      "question": "Sri Lankamalleswara Wildlife Sanctuary is habitat for which of the critically endangered species ?",
+      "options": {
+        "2": "Jerdon's Courser",
+        "1": "Great Indian Bustard",
+        "4": "Peafowl",
+        "3": "Blue Jay"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 138,
+      "question": "Which wild animal is typical of India's cold desert region?",
+      "options": {
+        "2": "Snow leopard",
+        "4": "Bear",
+        "3": "Tiger",
+        "1": "Lion"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 139,
+      "question": "Oriental realmfor distribution ofwildlifeincludes",
+      "options": {
+        "1": "SouthernArcticand LowerAfrica",
+        "2": "NorthAmerica,Europeand Japan",
+        "3": "Australia and New Zealand)",
+        "4": "India and Southern East Asia"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 140,
+      "question": "Cold seeps are areas on the ocean floor where",
+      "options": {
+        "1": "Hydrogen sulfde, methane and other hydrocarbon-rich fluids occur",
+        "2": "Magma erupts",
+        "3": "Photosynthesis takes place",
+        "4": "Water evaporates"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 141,
+      "question": "Keystone species are important because they",
+      "options": {
+        "1": "Always live in aquatic ecosystems",
+        "2": "Maintain the diversity and stability of ecosystems",
+        "3": "Have no ecological role",
+        "4": "Haveno predators"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 142,
+      "question": "Tuberculosis in wild animals is primarily caused by",
+      "options": {
+        "1": "Mycobacterium bovis",
+        "2": "Mycoplasma gallisepticum",
+        "3": "Salmonella typhi",
+        "4": "Bacillus anthracis"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 143,
+      "question": "Bagasse is the fibrous residue left after extracting juice from",
+      "options": {
+        "1": "Wheat",
+        "2": "Sugarcane",
+        "3": "Rice",
+        "4": "Jute"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 144,
+      "question": "Which animal-source food has the highest protein content?",
+      "options": {
+        "1": "Egg",
+        "2": "Milk",
+        "3": "Meat"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 145,
+      "question": "What is main purpose of forest evaluation?",
+      "options": {
+        "1": "To clear forests for agriculture",
+        "2": "To increase industrial development",
+        "3": "To replace natural forests with plantations",
+        "4": "To estimate the value and condition of forest resources"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 146,
+      "question": "As per the A.P.Forest Act, 1967(Amendment),a private persons possessing Red Sanders Wood abovewhat quantity (inkgs)must informtheir stocks totheconcerneddivisional ForestOfficer within180days?",
+      "options": {
+        "2": "10 kgs",
+        "3": "20 kgs",
+        "4": "25 kgs",
+        "1": "5 kgs"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 147,
+      "question": "WhichAuthority is primarilyresponsiblefor initiating theprocess of recognizingforest rightsundertheRoFRAct,2006? () Gram Sabha",
+      "options": {
+        "2": "District Collector",
+        "3": "StateGovernment",
+        "4": "Ministry of Environmenf, Forest and Climate Change"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 148,
+      "question": "TheadministrativeheadofAndraPradeshForestDepartment is",
+      "options": {
+        "1": "Principal Chief Conservator of Forests &HoFF",
+        "2": "Additional Principal Chief Conservator of Forests",
+        "3": "Chief Conservator of Forests",
+        "4": "Conservator of Forests N）"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 149,
+      "question": "Thestudyofregolithisimportant inforestrybecause",
+      "options": {
+        "1": "It indicates rainfall patterns",
+        "2": "It reduces water infltration",
+        "3": "It prevents afforestation s",
+        "4": "It determines soil fertility and root penetration"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 150,
+      "question": "The primaryfunctions of geotextiles in soil are (l)Separation,filtration,reinforcement,protection,drainage",
+      "options": {
+        "2": "Decoration and aesthetics",
+        "3": "Fertilization and irrigation",
+        "4": "Weather forecasting"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    }
+  ]
+}

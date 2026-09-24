@@ -1,0 +1,24 @@
+{
+  "input_filename": "D:\\appsc-loaded\\pcb-ae\\pdfs\\2025-common-subject.pdf",
+  "processing_timestamp": "2026-09-23T19:30:51.783115",
+  "total_pages": 32,
+  "total_question_blocks_detected": 150,
+  "english_questions_retained": 150,
+  "telugu_questions_discarded": 0,
+  "questions_with_detected_answers": 148,
+  "review_items_count": 3,
+  "topic_distribution": {
+    "Strength of Materials": 126,
+    "Fluid Mechanics": 10,
+    "Material Science": 2,
+    "Theory of Machines": 6,
+    "Machine Design": 0,
+    "Thermodynamics": 2,
+    "Heat Transfer": 1,
+    "Refrigeration and Air Conditioning": 0,
+    "IC Engines": 0,
+    "Production Technology": 3
+  },
+  "warnings": [],
+  "duration_seconds": 67.084
+}

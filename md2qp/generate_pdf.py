@@ -1,10 +1,11 @@
 import os
 import re
+from pathlib import Path
 from reportlab.lib.pagesizes import A4
 from reportlab.lib import colors
 from reportlab.platypus import (
     Paragraph, Spacer, HRFlowable, Table, TableStyle, KeepTogether,
-    BaseDocTemplate, PageTemplate, Frame
+    BaseDocTemplate, PageTemplate, Frame, Image as RLImage
 )
 from reportlab.lib.styles import ParagraphStyle
 from reportlab.pdfgen import canvas
@@ -88,14 +89,15 @@ def _derive_header_title(md_path, header_override=None):
 # Numbered canvas: header, column divider, quiet footer
 # ---------------------------------------------------------------------------
 class NumberedCanvas(canvas.Canvas):
-    """Two-pass canvas: header, column divider, 'Page X \u00b7 Y' footer."""
+    """Two-pass canvas: header, column divider, 'Page X · Y' footer."""
 
     def __init__(self, *args, header_title="APPSC \u2013 Topic-wise Question Bank",
-                 outer_margin=42.0, **kwargs):
+                 outer_margin=42.0, show_column_divider=True, **kwargs):
         super().__init__(*args, **kwargs)
         self._saved_page_states = []
         self._header_title = header_title
         self._outer_margin  = outer_margin
+        self._show_column_divider = show_column_divider
 
     def showPage(self):
         self._saved_page_states.append(dict(self.__dict__))
@@ -124,12 +126,13 @@ class NumberedCanvas(canvas.Canvas):
         self.setStrokeColor(colors.HexColor(C_DIVIDER))
         self.line(m, ph - 28, pw - m, ph - 28)
 
-        # --- Central column divider (light gray) ---
-        self.setLineWidth(0.3)
-        self.setStrokeColor(colors.HexColor(C_DIVIDER))
-        self.line(pw / 2.0, 34, pw / 2.0, ph - 34)
+        # --- Central column divider (light gray) - only in multi-column mode ---
+        if self._show_column_divider:
+            self.setLineWidth(0.3)
+            self.setStrokeColor(colors.HexColor(C_DIVIDER))
+            self.line(pw / 2.0, 34, pw / 2.0, ph - 34)
 
-        # --- Footer: thin rule + "Page X \u00b7 Y" ---
+        # --- Footer: thin rule + "Page X · Y" ---
         self.setLineWidth(0.3)
         self.setStrokeColor(colors.HexColor(C_DIVIDER))
         self.line(m, 30, pw - m, 30)
@@ -145,6 +148,32 @@ class NumberedCanvas(canvas.Canvas):
 
 # ---------------------------------------------------------------------------
 # Markdown parser
+# ---------------------------------------------------------------------------
+# ---------------------------------------------------------------------------
+# Inline image link extractor (Graphic-Heavy CBT support)
+# ---------------------------------------------------------------------------
+_IMG_LINK_RE = re.compile(r'!\[([^\]]*)\]\(([^)]+)\)')
+
+def _extract_image_links(text: str, md_dir: str):
+    """
+    Strip all  ![alt](path)  links from *text*, resolve their paths relative to
+    *md_dir*, and return (clean_text, [absolute_path_str, ...]).
+
+    Backward compatible: if no image links are present the original text is
+    returned unchanged and the paths list is empty.
+    """
+    paths = []
+    def _repl(m):
+        rel = m.group(2).strip()
+        abs_p = str(Path(md_dir) / rel)
+        paths.append(abs_p)
+        return ''
+    clean = _IMG_LINK_RE.sub(_repl, text).strip()
+    return clean, paths
+
+
+# ---------------------------------------------------------------------------
+# Parse markdown question bank
 # ---------------------------------------------------------------------------
 def parse_markdown_questions(md_path):
     with open(md_path, 'r', encoding='utf-8') as f:
@@ -188,6 +217,11 @@ def parse_markdown_questions(md_path):
         q_m       = re.search(r'### Question\s*\n\s*(.*?)\s*### Options',  q_body, re.DOTALL)
         raw_q     = q_m.group(1).strip() if q_m else ''
 
+        # Strip inline image links from question text; collect their paths for rendering.
+        # Backward compatible: if no ![...]() syntax, raw_q is unchanged and fig_paths is [].
+        md_dir    = str(Path(md_path).parent)
+        raw_q, fig_paths = _extract_image_links(raw_q, md_dir)
+
         o_m       = re.search(r'### Options\s*\n\s*(.*?)\s*### Answer',    q_body, re.DOTALL)
         raw_o     = o_m.group(1).strip() if o_m else ''
 
@@ -225,7 +259,8 @@ def parse_markdown_questions(md_path):
         questions.append(dict(
             q_num=q_num, topic=topic, subtopic=subtopic, q_text=raw_q,
             options=opts, raw_ans=raw_ans,
-            ans_display=ans_display, exam=clean_exam, note=note
+            ans_display=ans_display, exam=clean_exam, note=note,
+            fig_paths=fig_paths,
         ))
 
     return questions, topic_order, subtopic_order
@@ -379,7 +414,7 @@ def render_question_flowables(q_num, raw_q_text, col_w, styles, Q_HANG):
 # ---------------------------------------------------------------------------
 # Main PDF generator
 # ---------------------------------------------------------------------------
-def generate_topicwise_pdf(md_input_path, pdf_output_path, header_override=None):
+def generate_topicwise_pdf(md_input_path, pdf_output_path, header_override=None, single_col=False):
     parsed_res = parse_markdown_questions(md_input_path)
     if len(parsed_res) == 3:
         questions, topic_order, subtopic_order = parsed_res
@@ -404,7 +439,14 @@ def generate_topicwise_pdf(md_input_path, pdf_output_path, header_override=None)
     BOTTOM_M   = 38.0
     GUTTER     = 16.0
     content_w  = page_w - MARGIN * 2
-    col_w      = (content_w - GUTTER) / 2.0   # ~244 pt
+
+    # Single-column mode: col_w spans full content width (no gutter needed).
+    # All indents, option widths, and image widths are derived from col_w,
+    # so they expand automatically. Backward compatible: default is False.
+    if single_col:
+        col_w = content_w
+    else:
+        col_w = (content_w - GUTTER) / 2.0   # ~244 pt (two-column default)
 
     # Indent constants
     Q_HANG   = 28.0   # hanging indent for Q. label
@@ -607,8 +649,30 @@ def generate_topicwise_pdf(md_input_path, pdf_output_path, header_override=None)
                     ('BOTTOMPADDING', (0, 0), (-1, -1), 3),
                 ]))
 
-                # Assemble: extend story with prompt, then KeepTogether for opts+ans+divider
+                # Assemble: extend story with prompt, then optional figures, then KeepTogether for opts+ans+divider
                 story.extend(prompt_fls)
+
+                # Inline diagram images (Graphic-Heavy CBT mode).
+                # Backward compatible: fig_paths is [] for all non-graphic questions.
+                for fig_abs in q.get('fig_paths', []):
+                    fig_p = Path(fig_abs)
+                    if fig_p.exists():
+                        try:
+                            # Determine natural image dimensions to compute proportional height.
+                            # PIL is already a transitive dep (via Pillow used by fitz).
+                            from PIL import Image as PILImage
+                            with PILImage.open(str(fig_p)) as _pil:
+                                nat_w, nat_h = _pil.size  # pixels
+                            if nat_w > 0:
+                                target_w = col_w * 0.90          # 90% of column width in points
+                                target_h = target_w * nat_h / nat_w
+                                img_fl = RLImage(str(fig_p), width=target_w, height=target_h)
+                                story.append(Spacer(1, 4))
+                                story.append(img_fl)
+                                story.append(Spacer(1, 4))
+                        except Exception as _img_err:
+                            # Silently skip unreadable/corrupt image files
+                            pass
 
                 ans_block = [
                     Spacer(1, 5),
@@ -621,25 +685,43 @@ def generate_topicwise_pdf(md_input_path, pdf_output_path, header_override=None)
                     ans_block.append(Spacer(1, 2))
                     ans_block.append(Paragraph(clean_md(q['note']), ST['NoteText']))
 
-                # ONE light-gray divider per question, with breathing room after
-                ans_block.append(HRFlowable(
-                    width='100%', thickness=0.35,
-                    color=colors.HexColor(C_DIVIDER),
-                    spaceBefore=5, spaceAfter=8   # 8pt between questions
-                ))
+                # In 2-col mode: ONE light-gray divider per question, with breathing room after.
+                # In single-col mode: omit the separator line for a clean layout.
+                if not single_col:
+                    ans_block.append(HRFlowable(
+                        width='100%', thickness=0.35,
+                        color=colors.HexColor(C_DIVIDER),
+                        spaceBefore=5, spaceAfter=8   # 8pt between questions
+                    ))
+                else:
+                    ans_block.append(Spacer(1, 10))
 
                 story.append(KeepTogether(ans_block))
 
     # ----- Frames & doc -----
-    content_h   = page_h - TOP_M - BOTTOM_M
-    frame_left  = Frame(MARGIN,                  BOTTOM_M, col_w, content_h,
-                        id='col1', leftPadding=0, rightPadding=4,
-                        topPadding=0, bottomPadding=0)
-    frame_right = Frame(MARGIN + col_w + GUTTER, BOTTOM_M, col_w, content_h,
-                        id='col2', leftPadding=4, rightPadding=0,
-                        topPadding=0, bottomPadding=0)
+    content_h = page_h - TOP_M - BOTTOM_M
 
-    os.makedirs(os.path.dirname(pdf_output_path), exist_ok=True)
+    if single_col:
+        # One full-width frame spanning the entire content area
+        frames = [Frame(
+            MARGIN, BOTTOM_M, content_w, content_h,
+            id='col1', leftPadding=0, rightPadding=0,
+            topPadding=0, bottomPadding=0
+        )]
+        page_template_id = 'SingleColA4'
+    else:
+        # Standard two-column layout
+        frames = [
+            Frame(MARGIN,                  BOTTOM_M, col_w, content_h,
+                  id='col1', leftPadding=0, rightPadding=4,
+                  topPadding=0, bottomPadding=0),
+            Frame(MARGIN + col_w + GUTTER, BOTTOM_M, col_w, content_h,
+                  id='col2', leftPadding=4, rightPadding=0,
+                  topPadding=0, bottomPadding=0),
+        ]
+        page_template_id = 'TwoColA4'
+
+    os.makedirs(os.path.dirname(os.path.abspath(pdf_output_path)), exist_ok=True)
 
     doc = BaseDocTemplate(
         pdf_output_path, pagesize=A4,
@@ -647,7 +729,7 @@ def generate_topicwise_pdf(md_input_path, pdf_output_path, header_override=None)
         topMargin=TOP_M,   bottomMargin=BOTTOM_M
     )
     doc.addPageTemplates([PageTemplate(
-        id='TwoColA4', frames=[frame_left, frame_right]
+        id=page_template_id, frames=frames
     )])
 
     def canvas_maker(*args, **kwargs):
@@ -655,6 +737,7 @@ def generate_topicwise_pdf(md_input_path, pdf_output_path, header_override=None)
             *args,
             header_title=header_title,
             outer_margin=MARGIN,
+            show_column_divider=(not single_col),
             **kwargs
         )
 
@@ -679,6 +762,9 @@ if __name__ == '__main__':
                         help='Path to output PDF file (optional)')
     parser.add_argument('-h', '--header', dest='header', default=None,
                         help='Header label override (e.g. GSMA -> "APPSC 2026 GSMA – Topic-wise Question Bank")')
+    parser.add_argument('--single-col', action='store_true', default=False,
+                        help='Use single-column layout instead of the default two-column layout. '
+                             'Recommended for graphic-heavy papers with large diagram images.')
     parser.add_argument('--help', action='help', help='Show this help message and exit')
 
     args = parser.parse_args()
@@ -692,4 +778,4 @@ if __name__ == '__main__':
             os.path.splitext(os.path.basename(md_file))[0] + '_TopicWise.pdf'
         )
 
-    generate_topicwise_pdf(md_file, pdf_file, header_override=args.header)
+    generate_topicwise_pdf(md_file, pdf_file, header_override=args.header, single_col=args.single_col)

@@ -1,0 +1,2084 @@
+{
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "Which is the correct order of filling of orbitals according to Aufbau principle?",
+      "options": {
+        "1": "6p < 5d < 7s < 5f",
+        "2": "5d < 6p < 7s < 5f",
+        "3": "5d < 7s < 6p < 5f",
+        "4": "6p < 7s < 5d < 5f"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 2,
+      "question": "The maximum number of electrons can be accommodated in ‘L’ shell are:",
+      "options": {
+        "1": "8",
+        "2": "2",
+        "3": "4",
+        "4": "16"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 3,
+      "question": "Statement-I: Bohr’s model of the hydrogen atom was better than the Rutherford’s nuclear model. Statement-II: Bohr’s model could explain the ability of atoms to form molecules by chemical bonds.",
+      "options": {
+        "1": "Both the Statements are true.",
+        "2": "Both the Statements are false.",
+        "3": "Statement I is true but Statement II is false.",
+        "4": "Statement I is false but Statement II is true."
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 4,
+      "question": "What will be the molarity of NaOH in the solution prepared by dissolving its 16 g in enough water to form 500 ml of the solution?",
+      "options": {
+        "1": "0.4 M",
+        "2": "0.8 M",
+        "3": "0.2 M",
+        "4": "0.1 M"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 5,
+      "question": "What is the mass percentage of carbon, hydrogen and oxygen in Phenol?",
+      "options": {
+        "1": "76.59%, 17.02% and 6.38%, respectively",
+        "2": "76.59%, 6.38% and 17.02%, respectively",
+        "3": "76.59%, 3.19% and 20.21%, respectively",
+        "4": "76.59%, 5.38% and 18.02%, respectively"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 6,
+      "question": "List-I (Theory)\t\tList-II (Base)\n(A) Arrhenius theory\t\tHOEN (I)\n(B) Bronsted-Lowry theory\t\t(II) BF3\n(C) Lewis acid base theory\t\t(III) NH3\nChoose the correct answer from the options given below:",
+      "options": {
+        "1": "A-(I), B-(II), C-(III)",
+        "2": "A-(I), B-(III), C-(II)",
+        "3": "A-(II), B-(I), C-(III)",
+        "4": "A-(II), B-(III), C-(I)"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 7,
+      "question": "What will be the molar solubility of Cu(OH)2 in 0.2 M NaOH. The ionic product of Cu(OH)2 is 1.6×10 -19.",
+      "options": {
+        "1": "4.0×10-18 M",
+        "2": "4.0×10-19 M",
+        "3": "2.0×10-18 M",
+        "4": "2.0×10-20 M"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 8,
+      "question": "Which of the following statement is NOT true about buffer solutions?",
+      "options": {
+        "1": "The solutions which resist change in pH on dilution or with the addition of small amounts of acid or alkali are called Buffer solutions.",
+        "2": "The examples of Buffer solutions are Blood and urine.",
+        "3": "The mixture of acetic acid and sodium acetate acts as buffer solution around pH 4.75.",
+        "4": "The mixture of ammonium chloride and ammonium sulphate acts as a buffer around pH 9.25."
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 9,
+      "question": "(C) F2\t\t[II\nChoose the correct answer from the options given below:",
+      "options": {
+        "1": "A-(I), B- (II), C-(III)",
+        "2": "A-(I), B-(III), C-(II)",
+        "3": "A-(II), B-(I), C-(III)",
+        "4": "A-(II), B-(III), C-(I)"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 10,
+      "question": "The concentration of the ore ‘Copper glance’ will be carried out by _______.",
+      "options": {
+        "1": "Magnetic Separation",
+        "2": "Froth Floatation Method",
+        "3": "Hydraulic Washing",
+        "4": "Leaching"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 11,
+      "question": "(B)\t\tMalachite\t\t(I) Zinc\n(C)\t\tCalamine\t\t(HH) Iron\nChoose the correct answer from the options given below:",
+      "options": {
+        "1": "A-(I), B- (II), C-(III)",
+        "2": "A-(I), B-(III), C-(II)",
+        "3": "A-(III), B-(I), C-(II)",
+        "4": "A-(III), B-(II), C-(I)"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 12,
+      "question": "Statement-A: van Arkel method is very useful for removing all the oxygen and nitrogen present in the form of impurity in certain metals like Zr and Ti. Statement-R: In van Arkel method, the metal is converted into its iodide as it is more covalent and volatilizes and then decomposed it on a tungsten filament.",
+      "options": {
+        "1": "Both the statements are true.",
+        "2": "Both the statements are false.",
+        "3": "Statement A is true but Statement R is false.",
+        "4": "Statement A is false but Statement R is true."
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 13,
+      "question": "Calculate the Ecen of the cell in which the following reaction takes place\nNi(s)+ 2Ag+ (0.0001M) → Ni2+(0.130M)+ 2Ag(S) E°cll = 1.05 V.",
+      "options": {
+        "1": "1.68 V",
+        "2": "0.84 V",
+        "3": "1.26 V",
+        "4": "2.96 V"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 14,
+      "question": "The correct increasing order of the oxidizing metals in the electrochemical series is:",
+      "options": {
+        "1": "Ag < Cu < Zn < Mg",
+        "2": "Cu < Ag < Mg < Zn",
+        "3": "Mg < Zn < Ag < Cu",
+        "4": "Mg < Zn < Cu < Ag"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 15,
+      "question": "The conductivity of electrolytic(ionic) solutions depends on: I. The nature of the electrolyte added II. Size of the ions produced and their salvation III. The nature of the solvent and its viscosity IV. Concentration of the electrolyte V. Temperature The correct statement/s from the above is/are:",
+      "options": {
+        "1": "I, II, III only",
+        "2": "II, III, IV and V only",
+        "3": "I, III, V only",
+        "4": "I, II, III, IV and V"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Fluid Mechanics"
+    },
+    {
+      "question_number": 16,
+      "question": "Which among the followings is NOT a metallic factor affecting chemical corrosion?",
+      "options": {
+        "1": "Electrode potential",
+        "2": "Hydrogen over voltage of the surface",
+        "3": "Presence of different phases in the surface of the metal",
+        "4": "Rate of flow of oxygen"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 17,
+      "question": "",
+      "options": {
+        "1": "A-(I), B- (II), C-(III)",
+        "2": "A-(I), B-(III), C-(II)",
+        "3": "A-(III), B-(I), C-(II)",
+        "4": "A-(III), B-(II), C-(I)"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 18,
+      "question": "Statement-I: Thermosetting resins are formed by condensation polymerization. Statement-II: Thermoplastics resins consist of long-chain linear polymers with negligible cross- links.",
+      "options": {
+        "1": "Both the Statements are true.",
+        "2": "Both the Statements are false.",
+        "3": "Statement I is true but Statement II is false.",
+        "4": "Statement I is false but Statement II is true."
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 19,
+      "question": "Which among the following is NOT a thermoplastic polymer?",
+      "options": {
+        "1": "Polythene",
+        "2": "PVC",
+        "3": "Bakelite",
+        "4": "Polystyrenes"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 20,
+      "question": "Which of the following is NOT true for the rubber?",
+      "options": {
+        "1": "Natural rubber becomes soft at high temperature and brittle at low temperature.",
+        "2": "Natural rubber is soluble in non-polar solvents and is non-resistant to attach by oxidizing agents.",
+        "3": "The properties of the rubber are improved by heating it with sulphur and appropriate additive at a high temperature.",
+        "4": "In the manufacture of tyre rubber, 25% of sulphur is used as a cross linking agent."
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 21,
+      "question": "Choose the correct answer from the options given below:",
+      "options": {
+        "1": "A-(I), B- (II), C-(III)",
+        "2": "A-(I), B-(III), C-(II)",
+        "3": "A-(III), B-(I), C-(II)",
+        "4": "A-(III), B-(II), C-(I)"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 22,
+      "question": "Statement-I: Calcium and Magnesium dissolved in water are two most common minerals that make water hard. Statement-II: Hard water requires more soap and synthetic detergents for home laundry and washing.",
+      "options": {
+        "1": "Both the Statements are true.",
+        "2": "Both the Statements are false.",
+        "3": "Statement-I is true but Statement-II is false.",
+        "4": "Statement-I is false but Statement-II is true."
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 23,
+      "question": "The water with hardness 3.5 - 7.0 Grains per Gallon is:",
+      "options": {
+        "1": "Slightly hard",
+        "2": "Hard",
+        "3": "Moderately hard",
+        "4": "Very hard"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Material Science"
+    },
+    {
+      "question_number": 24,
+      "question": "List-I (Softening of water)\t\tList-II (Involves the chemical)\n(A)Lime-sodaprocess\t\t() Hydrated alumino silicates\n(B) Zeolite or Permutit process\t\t(II) Cation exchange resin\n(C) Mixed bed deionization\t\t(III) Ca(OH)2\nChoose the correct answer from the options given below:",
+      "options": {
+        "1": "A-(I), B- (II), C-(III)",
+        "2": "A-(I), B-(III), C-(II)",
+        "3": "A-(III), B-(I), C-(II)",
+        "4": "A-(III), B-(II), C-(I)"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 25,
+      "question": "The advantages of Reverse Osmosis are: I. It significantly reduces salt, most other inorganic material present in the water and some organic compounds. II. It usually removes microscopic parasites. III. It also removes pesticides, solvents and other volatile organic chemicals. The correct statements from the above are:",
+      "options": {
+        "1": "I, II and III",
+        "2": "I and II",
+        "3": "II and III",
+        "4": "I and III"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 26,
+      "question": "The advantages of natural gas are: I. It burns easily without any smoke. Hence it is very useful as a domestic fuel. II. It has a very high calorific value (55 kJ/g) which is good for heating. III. It causes no pollution or produces no poisonous gases. IV. It can be supplied directly through pipes from the oil wells. This eliminates the need for storage and transport of the gases in cylinders. The correct statements from the above are:",
+      "options": {
+        "1": "I, II and III only",
+        "2": "I, III and IV only",
+        "3": "I, II, III and IV",
+        "4": "I and IV only"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 27,
+      "question": "List-I (Fuel)\t\tList-II (Properties)\n(A) Solid fuels\t\t(I) Do not produce ash but sometimes produce smoke\n(B) Liquid fuels\t\t(II) They are least inflammable\n(C) Gaseous fuels\t\t(II) They are costly\nChoose the correct answer from the options given below:",
+      "options": {
+        "1": "A-(II), B- (I), C-(III)",
+        "2": "A-(I), B-(III), C-(II)",
+        "3": "A-(III), B-(I), C-(II)",
+        "4": "A-(III), B-(II), C-(I)"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 28,
+      "question": "List-I (Name of Drug)\t\tList-II (Use)\n(A)Norethindrone\t\t() Antibiotics\n(B) Terpineol\t\t(II)Antisepticsand disinfectants\n(C) Ofloxacin\t\t(II) Antifertility drug\nChoose the correct answer from the options given below:",
+      "options": {
+        "1": "A-(I), B- (II), C-(III)",
+        "2": "A-(I), B-(III), C-(II)",
+        "3": "A-(III), B-(I), C-(II)",
+        "4": "A-(III), B-(II), C-(I)"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 29,
+      "question": "Statement-A: The air around the city of Agra, where the Taj Mahal is located, contains fairly high levels of sulphur and nitrogen oxides. Statement-R: The government of India announced an action plan in early 1995 to prevent the disfiguring of the historican monument.",
+      "options": {
+        "1": "Both the statements are true and Statement R is correct explanation of Statement A",
+        "2": "Both the statements are true but Statement R is NOT a correct explanation of Statement A",
+        "3": "Statement A is true but Statement R is False.",
+        "4": "Statement A is False but Statement R is True."
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 30,
+      "question": "Chlorinated Hydrocarbons effects ecosystem by:",
+      "options": {
+        "1": "Bioremediation",
+        "2": "Bioaccumulation",
+        "3": "Biofiltration",
+        "4": "Bioconversation"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 31,
+      "question": "What is the correct order of 3R principle?",
+      "options": {
+        "1": "Reuse, Recycle, Reduce",
+        "2": "Reduce, Reuse, Recycle",
+        "3": "Recycle, Reduce, Reuse",
+        "4": "Recycle, Reuse, Reduce"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 32,
+      "question": "Protection of the ozone layer is related with:",
+      "options": {
+        "1": "Tokyo convention",
+        "2": "Vienna Convention",
+        "3": "Paris Convention",
+        "4": "New York Convention"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 33,
+      "question": "Which of the following is an integral component of CPU?",
+      "options": {
+        "1": "Registers",
+        "2": "Main memory",
+        "3": "Secondary memory",
+        "4": "Tertiary memory"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 34,
+      "question": "Which of the following statements about input-output devices is True? (i) MICR can be used as an input as well as an output device. (ii) Both the scanner and the plotter are input devices.",
+      "options": {
+        "1": "(i) only",
+        "2": "(ii) only",
+        "3": "Both (i) and (ii)",
+        "4": "Neither (i) nor (ii)"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 35,
+      "question": "Which of the following category of virus saves itself in the memory of the computer and then infects other files and programs when its originating program is no longer working?",
+      "options": {
+        "1": "Boot sector virus",
+        "2": "Resident virus",
+        "3": "Polymorphic virus",
+        "4": "Macro virus"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 36,
+      "question": "Which of the following is/are valid characteristics of an algorithm? (i) Definiteness (ii) Effectiveness",
+      "options": {
+        "1": "(i) only",
+        "2": "(ii) only",
+        "3": "Both (i) and (ii)",
+        "4": "Neither (i) nor (ii)"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 37,
+      "question": "Which of the following statements about network topologies is/are False? (i) Hubs or Switches are mainly used as connection devices in a physical star topology. (ii) In ring topology, the data flows in one direction, i.e., it is unidirectional.",
+      "options": {
+        "1": "(i) only",
+        "2": "(ii) only",
+        "3": "Both (i) and (ii)",
+        "4": "Neither (i) nor (ii)"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 38,
+      "question": "Which of the following network categories has smallest coverage area?",
+      "options": {
+        "1": "MAN",
+        "2": "PAN",
+        "3": "WAN",
+        "4": "LAN"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 39,
+      "question": "Which of the following network devices operates at the data link layer and used for interconnecting two LANs working on the same protocol?",
+      "options": {
+        "1": "Repeater",
+        "2": "Hub",
+        "3": "Switch",
+        "4": "Bridge"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 40,
+      "question": "The operating systems like iOS and Android are the examples of which of the following categories of operating system?",
+      "options": {
+        "1": "Real-time OS",
+        "2": "Mobile OS",
+        "3": "Time-sharing OS",
+        "4": "Networked OS"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 41,
+      "question": "Which of the following operating systems was released in 2015?",
+      "options": {
+        "1": "Windows Vista",
+        "2": "Windows 7",
+        "3": "Windows 8",
+        "4": "Windows 10"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 42,
+      "question": "Which of the following is not a valid IPv4 address?",
+      "options": {
+        "1": "10.100.200.300",
+        "2": "10.20.30.40",
+        "3": "200.100.50.10",
+        "4": "20.255.10.20"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 43,
+      "question": "Database access language is one of the components of database systems. What is the full form of DML with respect to database access language?",
+      "options": {
+        "1": "Direct Manipulation Language",
+        "2": "Data Manipulation Language",
+        "3": "Data Mining Language",
+        "4": "Data Morphing Languuage"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 44,
+      "question": "Which of the following is/are benefits of e-commerce? (i) Flexibility and Scalability (ii) 24×7 Working (iii) Cost-Effectiveness",
+      "options": {
+        "1": "(i) and (ii) only",
+        "2": "(i) and (iii) only",
+        "3": "(ii) and (iii) only",
+        "4": "(i), (ii) and (iii)"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 45,
+      "question": "Who is considered as a Father of Scientific Management?",
+      "options": {
+        "1": "W. A. Shewhart",
+        "2": "Fredrick Winslow Taylor",
+        "3": "Frank B. Gilbreth",
+        "4": "Ralph M. Barnes"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 46,
+      "question": "PERT stands for ______.",
+      "options": {
+        "1": "Program examination review technique",
+        "2": "Program exploration review technique",
+        "3": "Program evaluation review technique",
+        "4": "Program error review technique"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 47,
+      "question": "The activity related to supplier evaluation, selection, and purchasing the materials is known as _____.",
+      "options": {
+        "1": "advertising",
+        "2": "outsourcing",
+        "3": "sourcing",
+        "4": "contracting Note: For this question, ambiguity is found in question/answer. Candidate will get full marks for this question if any of the correct options are chosen."
+      },
+      "answer": [
+        2,
+        3,
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 48,
+      "question": "______ process provides the organization with adequate, competent, and qualified personnel at all levels in the enterprise.",
+      "options": {
+        "1": "Planning",
+        "2": "Staffing",
+        "3": "Organizing",
+        "4": "Controlling"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 49,
+      "question": "Three effective leadership includes the theories of ______, ______, ______ and ______. Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.",
+      "options": {
+        "1": "pacesetting, ethical, affiliative, behavioral",
+        "2": "transformational, transactional, servant, full-range",
+        "3": "democratic, autocractic, bureaucratic, charismatic, behavioral",
+        "4": "trait, contingency, behavioral, full-range theories"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 50,
+      "question": "List out the correct benefits of bin card which are used for keeping records? i) It gives up-to-date record of receipt, sits and closing balances of items of stores. ii) It is an account record which provides information about receipt, issue nod balances both in quantity and value. iii) It is helpful in placing requisitions for replenishment as when necessary. iv) It is maintained centrally in cost office from where consolidated information may be made available.",
+      "options": {
+        "1": "ii, iv",
+        "2": "i, iii",
+        "3": "i, ii",
+        "4": "iii, iv"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 51,
+      "question": "______ a map of the interior of the store that displays the various sections, shelves, or fixtures, and the ideal route for customer flow, all about the space available.",
+      "options": {
+        "1": "Store layout",
+        "2": "Layout Planning",
+        "3": "Decompression zone",
+        "4": "Customer flow"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 52,
+      "question": "Who will introduce the concept of “zero defects”?",
+      "options": {
+        "1": "Joseph M. Juran",
+        "2": "Philip B. Crosby",
+        "3": "Genichi Taguchi",
+        "4": "Kaoru Ishikawa"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 53,
+      "question": "______ may be defined as any condition produced by industries that may cause injury or death to personnel or loss of product or property.",
+      "options": {
+        "1": "Industrial Hazard",
+        "2": "Hazard",
+        "3": "Industrial Safety",
+        "4": "Safety"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 54,
+      "question": "List out the different approaches tools available for the cost analysis of accidents in the industries as follows: i) Insurance based approach ii) Medical cost based approach iii) Labour capacity based approach iv) Cost of damage based approach",
+      "options": {
+        "1": "ii, iv",
+        "2": "i, iii",
+        "3": "i, ii",
+        "4": "ii, iii"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 55,
+      "question": "An ______ is an individual who creates a new business, bearing most of the risks and enjoying most of the rewards.",
+      "options": {
+        "1": "planning",
+        "2": "supervisory",
+        "3": "organizing",
+        "4": "entrepreneur"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Machine Design"
+    },
+    {
+      "question_number": 56,
+      "question": "List out the correct overall goals of total quality management as: I) Encouraging input from all employees II) Preventive maintenance III) Reduced training time and costs IV) Maintaining equipment for increasing the life",
+      "options": {
+        "1": "I, IV",
+        "2": "II, III",
+        "3": "III, IV",
+        "4": "II, IV"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 57,
+      "question": "“Self-Employment Schemes” for the handicapped person who want to set up their business run by the Central Government and provides the financial benefits of ______.",
+      "options": {
+        "1": "a maximum limit of ₹10 Lakhs",
+        "2": "a maximum limit of ₹30 Lakhs",
+        "3": "a maximum limit of ₹50 Lakhs",
+        "4": "a maximum limit of ₹70 Lakhs"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 58,
+      "question": "List out the main objectives of management information system (MIS) as: i) defining quality standards for the deliverables. ii) provide a system of people, computers, procedures, interactive query facilities, documents for collecting, sorting, retrieving and transmitting information to the users. iii) making process by furnishing information in the proper time frame. iv) gaining the customers agreement with the targets set.",
+      "options": {
+        "1": "i, iv",
+        "2": "iii, iv",
+        "3": "ii, iii",
+        "4": "i, ii"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 59,
+      "question": "______ was first published in 1987 by the International Organization for Standardization (ISO).",
+      "options": {
+        "1": "ISO 9001",
+        "2": "ISO 9004",
+        "3": "ISO 19011",
+        "4": "ISO 9000"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 60,
+      "question": "In which year Micro, Small, and Medium Enterprises was formed in India?",
+      "options": {
+        "1": "1959",
+        "2": "1961",
+        "3": "1963",
+        "4": "1965"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 61,
+      "question": "A driving force behind the rapid development of ______ technology has been the rise of pervasive commerce, sometimes dubbed the quiet revolution.",
+      "options": {
+        "1": "Information and Communication Technology",
+        "2": "Electronic Article Surveillance",
+        "3": "Surface-Mounting technology",
+        "4": "Radio Frequency Identification"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 62,
+      "question": "Identify the correct benefits of preventive maintenance from below: i) Less equipment downtime ii) Shorter asset life iii) Longer asset life iv) More failure equipment",
+      "options": {
+        "1": "i, ii",
+        "2": "i, iii",
+        "3": "ii, iii",
+        "4": "iii, iv"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 63,
+      "question": "PDSA cycles for improvement in six sigma stands for ______.",
+      "options": {
+        "1": "Planning-Do-Strategi-Act",
+        "2": "Plan-Document-Study-Act",
+        "3": "Planning-Development-System-Act",
+        "4": "Plan-Do-Study-Act"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 64,
+      "question": "There are seven basic tools of quality control are histogram, Pareto diagram, check sheet, flowchart, scatter diagram, ______ and ______. Find out the missing two tools for quality control method.",
+      "options": {
+        "1": "Total quality management diagram, Pie charts,",
+        "2": "Cause and effect diagram, Control charts",
+        "3": "Matrix diagram, Industrial management flow charts",
+        "4": "Total quality management diagram, Gantt charts"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 65,
+      "question": "In an IT company follows a piece rate system of incentive with guaranteed minimum wage for a particular project. On the basis of hourly work rate is ₹ 15 only. The piece rate for a particular type of job is ₹ 10. An average worker can make only 10 jobs a day (i.e. 8 hours a day). Determine an average worker’s daily earning.",
+      "options": {
+        "1": "₹ 220/day",
+        "2": "₹ 320/day",
+        "3": "₹ 120/day",
+        "4": "₹ 420/day"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 66,
+      "question": "An operator was kept under observation for 30 days. He was found working on 800 occasions and abstaining including idle time was 200. He produced 350 jobs during these days. The observation per day was for 6 hours only and the total number of observations was 1000. Take 110 as performance rating for operator and 30 per cent as allowance. Determine the standard time for an operator.",
+      "options": {
+        "1": "15.30 minutes",
+        "2": "25.30 minutes",
+        "3": "35.30 minutes",
+        "4": "45.30 minutes"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 67,
+      "question": "Find out the correct disadvantages of sampling plan: i) Convenience ii) Sampling error iii) Feasibility iv) Time constraints",
+      "options": {
+        "1": "ii, iv",
+        "2": "iii, iv",
+        "3": "i, ii",
+        "4": "ii, iii"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 68,
+      "question": "______ is a statistical technique used to inspect the quality of a batch of products.",
+      "options": {
+        "1": "Time-consuming",
+        "2": "Statistical sampling",
+        "3": "Quality control technique",
+        "4": "Acceptance sampling"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 69,
+      "question": "If 500 literature books are inspected and 20 books are found defective. Determine the fraction defective of the literature book is given as :",
+      "options": {
+        "1": "0.02",
+        "2": "0.04",
+        "3": "0.06",
+        "4": "0.08"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 70,
+      "question": "Find out the correct types of on-site quality inspection services are: i) Initial Production Check ii) Generates waste iii) During Production Inspection iv) Acceptable quality limit",
+      "options": {
+        "1": "i, iii",
+        "2": "ii, iv",
+        "3": "i, ii",
+        "4": "ii, iii"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 71,
+      "question": "The control chart for process mean is the",
+      "options": {
+        "1": "-chart",
+        "2": "R-chart",
+        "3": "S-chalt",
+        "4": "P-chart"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 72,
+      "question": "Who is introduce the “Skill and Effort Rating” system in work measurement techniques?",
+      "options": {
+        "1": "M. E. Mundel",
+        "2": "Sanders and McCormick",
+        "3": "Charles E. Bedaux",
+        "4": "Bedaux plan"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 73,
+      "question": "Suppose X can copy 100 pages in 25 hours while X and Y together can copy 150 pages in 30 hours. Then Y can copy 23 pages in how many hours?",
+      "options": {
+        "1": "13",
+        "2": "17",
+        "3": "23",
+        "4": "29"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 74,
+      "question": "A train crosses 110 m long platform in 12 s at the speed of 54 km/hr. What is the length of the train (in m)?",
+      "options": {
+        "1": "60",
+        "2": "70",
+        "3": "80",
+        "4": "90"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 75,
+      "question": "A man walks from his house at an average speed of 6 km/hr and reaches his office 5 minutes late. If he walks at an average speed of 7 km/hr, he could reach 3 minutes early. What is distance of the office from his house (in km)?",
+      "options": {
+        "1": "5.6",
+        "2": "6.5",
+        "3": "8.5",
+        "4": "10.6"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 76,
+      "question": "Suppose the price of an item was increased by 25%. Then the price was decreased by 20% and again increased by 10%. What is the resultant increase in the price of the item?",
+      "options": {
+        "1": "6%",
+        "2": "8%",
+        "3": "10%",
+        "4": "12%"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 77,
+      "question": "Suppose zinc and copper are in the ratio of 5 : 4 in 225 gm of an alloy. How much grams of copper should be added to make the ratio as 4 : 5?",
+      "options": {
+        "1": "56-",
+        "2": "",
+        "3": "56",
+        "4": "60"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 78,
+      "question": "On selling an article for Rs. 360, there is a loss of 10%. What is the cost price of that article (in Rs.)?",
+      "options": {
+        "1": "300",
+        "2": "400",
+        "3": "500",
+        "4": "550"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 79,
+      "question": "3. V5\n4. * 5.5",
+      "options": {
+        "1": "3",
+        "2": "3.5",
+        "3": "5",
+        "4": "5.5"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 80,
+      "question": "Suppose the incomes oftwopersons AandBare in theratio3:2and theirexpenditures are in the ratio 5:3.Ifeach\nsaves Rs. 1.ooo, then match column I with column II in the following table:\nColumn I\t\tColumn II\nP: A'sincome\t\t1. Rs. 3000\nQ:B's income\t\t2.Rs. 6000\nR: A's expenditure\t\t3. Rs. 4000\nS: B's expenditure\t\t4. Rs. 5000",
+      "options": {
+        "1": "P-1; Q-2; R-3; S-4",
+        "2": "P-3; Q-2; R-1; S-4",
+        "3": "P-2; Q-3; R-4; S-1",
+        "4": "P-4; Q-3; R-2; S-1"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 81,
+      "question": "Assertion (A): HCF of 81 and 675 using the Euclid's division algorithm is 27.\nReason (R): 675 = 81 X 8 + 27\n81 = 27 x 3 + 0\nThen which of the options is correct according to the Euclid's division algorithm?",
+      "options": {
+        "1": "both A and R are true, and R is the correct explanation of A",
+        "2": "both A and R are true, but R is not the correct explanation of A",
+        "3": "A is true but R is false",
+        "4": "both A and R are false"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 82,
+      "question": "If d = b 3 and b = c-3, then the value of c ih terms of a is:",
+      "options": {
+        "2": "a",
+        "3": "α2"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 83,
+      "question": "What is thevalueof V0.01+v2.89+V1.21 +V0.0009?",
+      "options": {
+        "1": "2.53",
+        "2": "2.73",
+        "3": "2.91",
+        "4": "2.93"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 84,
+      "question": "How many positive factors of 200 are there?",
+      "options": {
+        "1": "6",
+        "2": "9",
+        "3": "12",
+        "4": "15"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 85,
+      "question": "Let the HCF and LCM of two numbers be 11 and 363, respectively. If one of the numbers lies between 111 and 129, then what is that number?",
+      "options": {
+        "1": "113",
+        "2": "117",
+        "3": "119",
+        "4": "121"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 86,
+      "question": "What is the largest length (in cm) of the tape to be used to measure the room sides whose distances are 6 m 48 cm, 11 m 52 cm and 16 m 20 cm?",
+      "options": {
+        "1": "72",
+        "2": "36",
+        "3": "32",
+        "4": "45"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 87,
+      "question": "What number should be added to 231228 in order to make it exactly divisible by 11?",
+      "options": {
+        "1": "1",
+        "2": "2",
+        "3": "3",
+        "4": "4"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 88,
+      "question": "The value of [log1o(50logio100)] is:",
+      "options": {
+        "1": "16",
+        "2": "8",
+        "3": "4",
+        "4": "1"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 89,
+      "question": "93.5:22 x 35 is the same as:",
+      "options": {
+        "1": "3 : 2",
+        "2": "9 : 2",
+        "3": "3 : 4",
+        "4": "9 : 4"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 90,
+      "question": "",
+      "options": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": ""
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 91,
+      "question": "Based on the linear equations in two variables, consider the following assertion and reason statements. Then which of the options is correct? Assertion (A): The equation of degree one in two variables is called a linear equation. Reason (R): The graph of an equation of degree one in two variables is a circle.",
+      "options": {
+        "1": "both A and R are true, and R is the correct explanation of A",
+        "2": "both A and R are true, but R is not the correct explanation of A",
+        "3": "A is true but R is false",
+        "4": "both A and R are false"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 92,
+      "question": "",
+      "options": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": ""
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 93,
+      "question": "What is the sum of all positive integers lying between 200 and 400 that are multiples of 7?",
+      "options": {
+        "1": "8703",
+        "2": "8729",
+        "3": "8297",
+        "4": "8792"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 94,
+      "question": "",
+      "options": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": ""
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 95,
+      "question": "Suppose the marks scored by a student in a mathematics test are 17, 12, 7, 2, 15, 8, 14, 18, 11, 14, 18, 10, 4, 7, 8, 5. Then what is the median of this data?",
+      "options": {
+        "1": "8",
+        "2": "10",
+        "3": "10.5",
+        "4": "18"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 96,
+      "question": "Based on the circle, consider the following assertion and reason statements. Then which of the options is correct? Assertion (A): Through three collinear points, a circle can be drawn. Reason (R): A circle can pass through only two collinear points as well as through three collinear points.",
+      "options": {
+        "1": "both A and R are true, but R is not the correct explanation of A",
+        "2": "both A and R are true, and R is the correct explanation of A",
+        "3": "A is true but R is false",
+        "4": "both A and R are false"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 97,
+      "question": "The common tangent of the two touching circles 2x2 +2y2+6x - 2y-7= 0 and 2x2 + 2y2- 4x + 7y+9= 0\nis:",
+      "options": {
+        "1": "10x-9y-16=0",
+        "2": "10x+9y+16=0",
+        "4": "10x+9y-16=0"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 98,
+      "question": "",
+      "options": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": ""
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 99,
+      "question": "IfAB is parallel to DE as shown in thefollowing figure, then what is the equation ofthe line AB?\n(-5.6),\n(5,6)\n(2.3)",
+      "options": {
+        "1": "-2y-11 = 0",
+        "2": "¥ 2x+y+i=0",
+        "4": "×+y-1=0"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 100,
+      "question": "2.  Both assertion and reason are true but reason is not the correct explanation of assertion.\n3.  Assertion is true but reason is false.\n4. * Assertion is false but reason is true.",
+      "options": {
+        "1": "Assertion and reason are true and reason is the correct explanation of assertion.",
+        "2": "Both assertion and reason are true but reason is not the correct explanation of assertion.",
+        "3": "Assertion is true but reason is false.",
+        "4": "Assertion is false but reason is true."
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 101,
+      "question": "Select the option that is trueregarding the following two statements labelled Assertion and Reason.\nAssertion: If the diagonals of a parallelogram ABCD are equal, then ZABC = 9o0\nReason: If the diagonals of a parallelogram are equal, it becomes a rectangle",
+      "options": {
+        "1": "Assertion is false but reason is true",
+        "2": "Both assertion and reason are true but reason is not the correct explanation of assertion",
+        "3": "Assertion is true but reason is false",
+        "4": "Assertion and reason are true and reason is the correct explanation of assertion"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 102,
+      "question": "",
+      "options": {
+        "1": "30°",
+        "2": "45°",
+        "3": "60°",
+        "4": "90°"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 103,
+      "question": "The angle of elevation of a tower from a distance 75 m from its foot is 6o°. Height of the tower (in\nm) is:",
+      "options": {
+        "1": "50V3",
+        "2": "75V3",
+        "3": "3",
+        "4": "V3"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 104,
+      "question": "",
+      "options": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": ""
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 105,
+      "question": "If cos aα =\t\tthen match the pair given in column A with correct value in column B:\nColumnA\t\tColumn B\nA) tanα\nB) cosecα\t\tV5\n2)\nC)cota\t\t3)",
+      "options": {
+        "1": "A – 1, B – 2, C – 3",
+        "2": "A – 2, B – 1, C – 3",
+        "3": "A – 2, B – 3, C – 1",
+        "4": "A – 3, B – 1, C – 2"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 106,
+      "question": "Find the area (in sq. cm) of a triangle two sides of which are 15 cm and 12 cm and the perimeter is\n40 cm.",
+      "options": {
+        "1": "10V7",
+        "2": "10V14",
+        "3": "¥ 20V7",
+        "4": "20V14"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 107,
+      "question": "Select the option that is true regarding the following two statements labelled Assertion and Reason\nAssertion (A): Area of the square inscribed in a circle of radius r is 2r2 sq. Unit.\nReason (R): Area of the major segment of a circle = area of the circle- Area of minor segment.",
+      "options": {
+        "1": "Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of Assertion (A)",
+        "2": "Both Assertion (A) and Reason (R) are true but Reason (R) is not the correct explanation of Assertion (A)",
+        "3": "Assertion (A) is true but Reason (R) is false",
+        "4": "Assertion (A) is false but Reason (R) is true"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 108,
+      "question": "What is the height of a cone (in inches) whose radius is 7 inches and curved surface area is 550 in2 ?",
+      "options": {
+        "1": "25",
+        "2": "24",
+        "3": "23",
+        "4": "22"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 109,
+      "question": "State true or false.\na.)The sum of areas of all 6 side faces of a cube is its lateral area.\nb.) The formula to find the lateral area ofa cube is, LSA = 4x2 (where x is side of the cube).",
+      "options": {
+        "1": "a-TRUE, b-TRUE",
+        "2": "a-TRUE, b-FALSE",
+        "3": "a-FALSE, b-TRUE",
+        "4": "a-FALSE, b-FALSE"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 110,
+      "question": "The volume of a sphere has grown 8 times. Then how many times has the surface area grown in the meanwhile?",
+      "options": {
+        "1": "2",
+        "2": "4",
+        "3": "8",
+        "4": "16"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 111,
+      "question": "A breakfast cereal producer wants to produce a cereal box with a volume of 24000 cubic cm. if dimensions of cuboid are in ratio 2 : 3 : 4, then what are the dimensions (in cm)?",
+      "options": {
+        "1": "20, 30, 40",
+        "2": "20, 40, 60",
+        "3": "10, 20, 30",
+        "4": "15, 30, 45"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 112,
+      "question": "In an inelastic collision, the physical quantity that remains constant is ______.",
+      "options": {
+        "1": "Kinetic Energy",
+        "2": "Momentum",
+        "3": "Potential Energy",
+        "4": "Force"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 113,
+      "question": "A person moving through a distance of 5m is carrying of 5 N. The force carried by the person is perpendicular to the displacement made by him. The work done by him is ______.",
+      "options": {
+        "1": "Positive",
+        "2": "Negative",
+        "3": "Zero",
+        "4": "Unity"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 114,
+      "question": "The following graph plotted between force and displacement represents",
+      "options": {
+        "1": "Linear Motion",
+        "2": "Simple Harmonic Motion",
+        "3": "Circular Motion",
+        "4": "Curvilinear Motion"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 115,
+      "question": "Given below are two statements. Identify the CORRECT statement(s). Statement A: The periodic increase and decrease of loudness of sound when two sounds of nearly equal frequencies interfere with each other is called the Doppler Effect. Statement B: The apparent change in frequency of sound due to relative motion between source and observer produces beats.",
+      "options": {
+        "1": "Statement A and Statement B are correct",
+        "2": "Statement A is correct and Statement B is incorrect",
+        "3": "Statement B is correct and Statement A is incorrect",
+        "4": "Both the statements A and B are incorrect"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 116,
+      "question": "The susceptibility of a superconductor is ______.",
+      "options": {
+        "1": "Positive and small",
+        "2": "Positive and high",
+        "3": "Zero",
+        "4": "Negative"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 117,
+      "question": "As the size of the particle is reduced to nano level, then ______.",
+      "options": {
+        "1": "Surface to volume ratio of atoms increases",
+        "2": "Surface to volume ratio of atoms is zero",
+        "3": "Surface to volume ratio of atoms does not change",
+        "4": "Surface to volume ratio of atoms decreases."
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 118,
+      "question": "Frictional force is ______.",
+      "options": {
+        "1": "Conservative",
+        "2": "always zero",
+        "3": "Non-conservative",
+        "4": "always constant in magnitude"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 119,
+      "question": "In graded –index fibers, the refractive index of core ______.",
+      "options": {
+        "1": "Is uniform",
+        "2": "Increases with radial distance from the axis of the fiber",
+        "3": "Is constant",
+        "4": "decreases with radial distance from the axis of the fiber"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 120,
+      "question": "The magnitude of three vectors is such that P + Q = R. Then the angle between P and Q is ______.",
+      "options": {
+        "1": "0°",
+        "2": "45°",
+        "3": "60°",
+        "4": "90°"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 121,
+      "question": "The S.I. unit of coefficient of viscosity is ______.",
+      "options": {
+        "1": "Nm-2s",
+        "2": "Nm-1s",
+        "3": "Nm-2",
+        "4": "Nms-1"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Fluid Mechanics"
+    },
+    {
+      "question_number": 122,
+      "question": "The body with higher Kinetic energy when a plastic ball and an iron ball are moving with a momentum of 5 Kgms-1 is ______. (Here mass of iron ball is greater than the mass of plastic ball)",
+      "options": {
+        "1": "Plastic ball",
+        "2": "Iron ball",
+        "3": "Kinetic energy of iron ball is equal to that of plastic ball",
+        "4": "Kinetic energy of iron ball and plastic ball is zero"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 123,
+      "question": "The force acting between two charges q1 and q2 separated by a distanced is F. What is the direction of force acting between the charges?",
+      "options": {
+        "1": "It acts at an angle of 90° to the charges",
+        "2": "It acts along an angle of 45° to the charges",
+        "3": "It acts at an angle of 60° to the two charges",
+        "4": "It acts along the line joining the two charges"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 124,
+      "question": "Given below are two statements. Identify the CORRECT statement(s). Statement A: The inability of a body to change its position from rest or of uniform motion unless acted by an external force is called Inertia. Statement B: Inertia is independent of mass of the body.",
+      "options": {
+        "1": "Statement A and Statement B are correct",
+        "2": "Statement A is correct and Statement B is incorrect",
+        "3": "Statement A is incorrect and Statement B is correct",
+        "4": "Both the statements A and B are incorrect"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 125,
+      "question": "The angle between the vectors whose scalar product is zero is ______.",
+      "options": {
+        "1": "0°",
+        "2": "45°",
+        "3": "60°",
+        "4": "90°"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 126,
+      "question": "The velocity of sound is maximum in ______.",
+      "options": {
+        "1": "Iron",
+        "2": "Water",
+        "3": "Oxygen",
+        "4": "Vacuum"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 127,
+      "question": "Given below are two statements. Identify the CORRECT statement(s). Statement A: Unit of Force in S.I. Unit is Kgms-1 Statement B: Unit of Power in S.I. unit is Kgms-3",
+      "options": {
+        "1": "Statement A and Statement B are correct",
+        "2": "Statement A is correct and Statement B is incorrect",
+        "3": "Both the statements A and B are incorrect",
+        "4": "Statement A is incorrect and Statement B is correct"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 128,
+      "question": "Match the following:\nColumn-1\t\tColumn-II\nZeroeth law of Thermodynamics\t\t1)Transfer of heat from cold body to hot body takes place only with\nthe aid of external agency\nb)First law of Thermodynamics\t\t2)\t\tConcept of temperature\nKelvin's Statement of Second law of\t\t3)\t\tHeat and Work are interconvertible.\nThermodynamics\nClasius Statement of Second law of\t\t4)\t\tImpossible to derive work by reducing the temperature of source\nThermodynamics\t\tcolder than the coldest ofits surroundings",
+      "options": {
+        "1": "a - 2; b - 3; c - 4; d - 1",
+        "2": "a - 3; b - 2; c - 4; d - 1",
+        "3": "a - 2; b - 3; c - 1; d - 4",
+        "4": "a - 3; b - 2; c - 1; d - 4"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Thermodynamics"
+    },
+    {
+      "question_number": 129,
+      "question": "The S.I. unit of magnetic field is ______.",
+      "options": {
+        "1": "Ampere",
+        "2": "Tesla",
+        "3": "Henry",
+        "4": "Oersted"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 130,
+      "question": "The Young's modulus (Y) of a wire of initial length 'L' and area of cross-section 'A' undergoing an\nextension 'l', when a stretching force 'F' is applied in the direction of its length is given by Y =,",
+      "options": {
+        "1": "FL/Al",
+        "2": "FA/Li",
+        "3": "FI/AL",
+        "4": "FLI/A"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 131,
+      "question": "One mole of a gas at a temperature of 27°C having a volume of 150 ml is compressed isothermally to 75 ml. The final temperature of the gas is ______.",
+      "options": {
+        "1": "0 K",
+        "2": "150 K",
+        "3": "300 K",
+        "4": "600 K"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 132,
+      "question": "Two particles of masses m1 and m2 are moving in concentric circles of radii r1 and r2 such that\ntheir periods are same. The ratio of their centripetal acceleration is",
+      "options": {
+        "1": "11/r2",
+        "3": "V11/12",
+        "4": "12/1"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 133,
+      "question": "4. x 1/r4",
+      "options": {},
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 134,
+      "question": "A force of 50 N is applied on a perfectly elastic body of length 10 m along its length. When the force is removed, the length becomes ______.",
+      "options": {
+        "1": "5 m",
+        "2": "5 cm",
+        "3": "10 cm",
+        "4": "10 m"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 135,
+      "question": "The linear elongation of a material of mass 5 Kg is elongated to 2 m. If the lateral contraction of the body is 0.5 m, the Poisson’s ratio is ______.",
+      "options": {
+        "1": "20 m",
+        "2": "1.25 m",
+        "3": "4 m",
+        "4": "0.25 m"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 136,
+      "question": "The horizontal range of a projectile is maximum, when the body is projected at an angle of _______.",
+      "options": {
+        "1": "45°",
+        "2": "90°",
+        "3": "0°",
+        "4": "135°"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 137,
+      "question": "The dimensional formula of Impulse is",
+      "options": {
+        "1": "MLT-2",
+        "2": "VMLT-1",
+        "3": "(ML-1T-1",
+        "4": "ML-2T-2"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 138,
+      "question": "In Photoelectric effect, photoelectrons are emitted with zero kinetic energy, when\nHere, v is the applied frequency and vo is the threshold frequency",
+      "options": {
+        "1": "V=Vo",
+        "2": "",
+        "4": "V=0"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 139,
+      "question": "When the body is at rest, its ______ is maximum.",
+      "options": {
+        "1": "Kinetic Energy",
+        "2": "Potential Energy",
+        "3": "Velocity",
+        "4": "Acceleration"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 140,
+      "question": "Ohm’s law is valid only for ______.",
+      "options": {
+        "1": "Copper",
+        "2": "Germanium",
+        "3": "Mica",
+        "4": "Arsenic"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 141,
+      "question": "The unit of stress is ______.",
+      "options": {
+        "1": "Newton",
+        "2": "Pascal",
+        "3": "Nm2",
+        "4": "Pascal/m2"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Fluid Mechanics"
+    },
+    {
+      "question_number": 142,
+      "question": "The following statement is correct in case of Noise -",
+      "options": {
+        "1": "Vibrations of the particles of the medium are regular",
+        "2": "The pitch and loudness are within the specified limits",
+        "3": "There will be sudden change in amplitude",
+        "4": "Pitch is within the specific limits"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 143,
+      "question": "In an optical fiber, the refractive index of core is n1 and the refractive index of cladding is n2. The\nlight gets transmitted through the fiber without any loss when",
+      "options": {
+        "1": "111/n2<1",
+        "2": "1",
+        "3": "11/n2>",
+        "4": "Hi2=0"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 144,
+      "question": "One mole gas at temperature 27°C is compressed isothermally from a volume of 20 litre to 10 litre. The final temperature of the gas is ______.",
+      "options": {
+        "1": "300 K",
+        "2": "150 K",
+        "3": "600 K",
+        "4": "75 K"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 145,
+      "question": "Two forces 15 N and 8 N are perpendicular to each other. The resultant of the two vectors is ______.",
+      "options": {
+        "1": "23 N",
+        "2": "7 N",
+        "3": "17 N",
+        "4": "529 N"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 146,
+      "question": "Match thefollowing related to Simple Harmonic Motion\nColumn-1\t\tColumn-Il\nal\t\tAccelerationismaximumat\t\t1)\t\t-kx\nb)\t\tVelocity is maximum at\t\t2)\t\tequilibrium position\nRestoring forces in SHM\t\t3)\t\t-02x\nd)\t\tAcceleration of a particle executing SHM\t\t4)\t\textremeposition",
+      "options": {
+        "1": "a - 4; b - 2; c - 1; d - 3",
+        "2": "a - 2; b - 4; c - 3; d - 1",
+        "3": "a - 4; b - 2; c - 3; d - 1",
+        "4": "a - 2; b - 4; c - 1; d - 3"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 147,
+      "question": "Let H be the maximum height reached by the projectile. At the highest point the physical quantity that becomes zero is ______.",
+      "options": {
+        "1": "Vertical velocity",
+        "2": "Angle of projection",
+        "3": "Horizontal velocity",
+        "4": "Vertical distance"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 148,
+      "question": "The specific resistance of the given wire of radius i from metre bridge is proportional to",
+      "options": {
+        "1": "R",
+        "2": "1/r",
+        "4": "1/r"
+      },
+      "answer": [],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 149,
+      "question": "If m1, m2 are masses of two particles, separated by a distance ‘d’ then the force of attraction between the particles is ‘F’. When both the masses of the particles are doubled and the distance becomes (d/2), then the new force of attraction between the bodies will be _____.",
+      "options": {
+        "1": "16 F",
+        "2": "4 F",
+        "3": "2 F",
+        "4": "F"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 150,
+      "question": "Vanderwaal’s gases deviate from ideal gas behavior because ______",
+      "options": {
+        "1": "The molecules of the gas interact with each other by collisions",
+        "2": "No interaction takes place between the molecules of a gas",
+        "3": "Individual motion of molecules does not exist",
+        "4": "Their kinetic energy becomes zero"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Thermodynamics"
+    }
+  ]
+}

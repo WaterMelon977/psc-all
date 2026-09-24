@@ -1,0 +1,24 @@
+{
+  "input_filename": "D:\\appsc-loaded\\forest\\forest-ranger\\pdfs\\2020-forestry1-FRO.pdf",
+  "processing_timestamp": "2026-09-24T06:32:40.752523",
+  "total_pages": 41,
+  "total_question_blocks_detected": 150,
+  "english_questions_retained": 150,
+  "telugu_questions_discarded": 0,
+  "questions_with_detected_answers": 147,
+  "review_items_count": 3,
+  "topic_distribution": {
+    "Strength of Materials": 146,
+    "Fluid Mechanics": 2,
+    "Material Science": 1,
+    "Theory of Machines": 0,
+    "Machine Design": 0,
+    "Thermodynamics": 0,
+    "Heat Transfer": 0,
+    "Refrigeration and Air Conditioning": 1,
+    "IC Engines": 0,
+    "Production Technology": 0
+  },
+  "warnings": [],
+  "duration_seconds": 7.46
+}

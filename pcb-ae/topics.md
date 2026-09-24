@@ -1,6 +1,7 @@
 # Paper - II: Common Subject Topics & Subtopics
 
 ### 1. Ecosystems
+
 - Definition, Scope & Importance of Ecosystem
 - Classification, Structure & Function of Ecosystem
 - Food Chains, Food Webs & Ecological Pyramids
@@ -9,6 +10,7 @@
 - Ecosystem Value & Ecological Services
 
 ### 2. Natural Resources
+
 - Living and Non-Living Resources Classification
 - Water Resources: Surface & Ground Water Utilization, Floods & Droughts
 - Dams: Benefits & Environmental Problems
@@ -18,6 +20,7 @@
 - Alternate Energy Sources
 
 ### 3. Biodiversity and Biotic Resources
+
 - Genetic, Species & Ecosystem Diversity
 - Value of Biodiversity: Consumptive, Productive, Social, Ethical & Aesthetic
 - India as a Mega Diversity Nation & Biodiversity Hotspots
@@ -26,12 +29,14 @@
 - National Biodiversity Act
 
 ### 4. Engineering Materials
+
 - Structure and Properties of Engineering Materials
 - Phase Diagrams
 - Heat Treatment
 - Stress-Strain Diagrams for Engineering Materials
 
 ### 5. Fluid Mechanics and Hydraulics
+
 - Newtonian and Non-Newtonian Fluids & Fluid Properties
 - Measurement of Pressure & Manometers
 - Fluid Kinematics: Classification of Fluids, Stream Function & Velocity Potential
@@ -42,6 +47,7 @@
 - Elementary Boundary Layer Theory
 
 ### 6. Process Calculations and Thermodynamics
+
 - Laws of Conservation of Mass and Energy
 - Tie Components, Recycle, Bypass and Purge Calculations
 - Degrees of Freedom
@@ -49,6 +55,7 @@
 - Equations of State & Thermodynamic Properties of Real Systems
 
 ### 7. Air, Water, Soil and Noise Pollution and Control Technologies
+
 - Air Pollution: Primary & Secondary Pollutants, Ambient Air Quality Standards
 - Particulate Emission Control & Control of SOx and NOx
 - Automobile and Industrial Air Pollution
@@ -60,12 +67,14 @@
 - Noise Pollution: Sources, Health Hazards & Standards
 
 ### 8. Solid and Industrial Waste Management
+
 - Municipal Solid Waste Management: Collection, Segregation & Transport
 - Solid Waste Processing & Disposal Technologies
 - Composition, Characteristics & Management of E-Waste
 - Bioremediation Concepts & Applications
 
 ### 9. Global Environmental Problems, Policies and Legislations
+
 - Climate Change & Impacts on Human Environment
 - Ozone Depletion & Ozone Depleting Substances (ODS)
 - Deforestation & Desertification
@@ -75,6 +84,7 @@
 - Waste Management Rules: Municipal Solid Waste, Biomedical Waste & Hazardous Waste Rules
 
 ### 10. Environmental Impact Assessment towards Sustainable Future
+
 - EIA Structure & Baseline Data Acquisition Methods
 - Impacts Assessment: Air, Water, Biological & Socio-Economic Aspects
 - Risk Assessment Strategies & Environmental Management Plan (EMP)

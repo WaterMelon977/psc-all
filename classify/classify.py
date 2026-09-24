@@ -11,6 +11,7 @@ import os
 import re
 import sys
 import json
+import time
 import argparse
 import requests
 from pathlib import Path
@@ -171,12 +172,21 @@ def call_openrouter(prompt_content: str, system_prompt: str, api_key: str, model
         "response_format": {"type": "json_object"}
     }
 
-    resp = requests.post(OPENROUTER_URL, headers=headers, json=payload, timeout=90)
-    if resp.status_code != 200:
-        raise RuntimeError(f"OpenRouter API error {resp.status_code}: {resp.text}")
+    max_retries = 5
+    for attempt in range(max_retries):
+        resp = requests.post(OPENROUTER_URL, headers=headers, json=payload, timeout=90)
+        if resp.status_code == 200:
+            data = resp.json()
+            return data["choices"][0]["message"]["content"].strip()
+        
+        # On rate limit (429) or transient provider errors (500, 502, 503, 504), wait and retry
+        if resp.status_code in (429, 500, 502, 503, 504) and attempt < max_retries - 1:
+            wait_time = (2 ** attempt) * 3 + 2  # 5s, 8s, 14s, 26s...
+            print(f"  [Rate Limit / Transient {resp.status_code}] Retrying in {wait_time}s (attempt {attempt + 1}/{max_retries})...")
+            time.sleep(wait_time)
+            continue
 
-    data = resp.json()
-    return data["choices"][0]["message"]["content"].strip()
+        raise RuntimeError(f"OpenRouter API error {resp.status_code}: {resp.text}")
 
 
 def build_classification_prompt_context(topics: Any) -> Tuple[str, bool, Dict[str, List[str]]]:

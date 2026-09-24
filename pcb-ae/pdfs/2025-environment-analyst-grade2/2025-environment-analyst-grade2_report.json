@@ -1,0 +1,24 @@
+{
+  "input_filename": "D:\\appsc-loaded\\pcb-ae\\pdfs\\2025-environment-analyst-grade2.pdf",
+  "processing_timestamp": "2026-09-23T20:35:19.381434",
+  "total_pages": 26,
+  "total_question_blocks_detected": 150,
+  "english_questions_retained": 150,
+  "telugu_questions_discarded": 0,
+  "questions_with_detected_answers": 150,
+  "review_items_count": 2,
+  "topic_distribution": {
+    "Strength of Materials": 135,
+    "Fluid Mechanics": 0,
+    "Material Science": 1,
+    "Theory of Machines": 4,
+    "Machine Design": 0,
+    "Thermodynamics": 2,
+    "Heat Transfer": 8,
+    "Refrigeration and Air Conditioning": 0,
+    "IC Engines": 0,
+    "Production Technology": 0
+  },
+  "warnings": [],
+  "duration_seconds": 1.525
+}

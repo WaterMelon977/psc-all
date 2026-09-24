@@ -1,0 +1,2105 @@
+{
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "Which among the micronutrient is essential for plant growth and metabolism.",
+      "options": {
+        "1": "Potassium",
+        "2": "Calcium",
+        "3": "Manganese",
+        "4": "Magnesium"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 2,
+      "question": "The forests that predominantly have a limited number of conifer species beside few deciduous genera, and occupy around 17% of the Earth’s land surface in the circumpolar belt of the far Northern Hemisphere with long and very cold winters, are called _______ forests.",
+      "options": {
+        "1": "semi-evergreen",
+        "2": "boreal",
+        "3": "cloud",
+        "4": "sub-alpine"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 3,
+      "question": "Match the following ecological processes that occur in forests\nOrganism 1\t\tOrganism\nA)Commensalism\t\t1)+\t\t1) -\nB)Amensalism\t\t2) +\t\t2) +\nC)Predation\t\t3) +\t\t3) 0\nD)Mutualism\t\t41\t\t4) 0",
+      "options": {
+        "1": "(A-1), (B-2), (C-3) and (D-4)",
+        "2": "(A-4), (B-3), (C-2) and (D-1)",
+        "3": "(A-1), (B-2), (C-4) and (D-3)",
+        "4": "(A-3), (B-4), (C-1) and (D-2)"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 4,
+      "question": "Which of the following ecological pyramids is always upright in a forest?",
+      "options": {
+        "1": "Pyramid of number of individuals",
+        "2": "Pyramid of number of species",
+        "3": "Pyramid of energy",
+        "4": "Pyramid if biomass"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 5,
+      "question": "As per the ‘Global Forest Resource Assessment’ (GFRA) report 2020 given by FAO, the top two countries with respect to forest area in the world are:",
+      "options": {
+        "1": "Russia and Brazil",
+        "2": "Russia and Canada",
+        "3": "Canada and USA",
+        "4": "USA and Brazil"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 6,
+      "question": "D)Whittaker\t\t(4) Climatic climax theory",
+      "options": {
+        "1": "(A-3), (B-2), (C-1), (D-4)",
+        "2": "(A-1), (B-2), (C-3), (D-4)",
+        "3": "(A-4), (B-1), (C-3), (D-2)",
+        "4": "(A-3), (B-1), (C-4), (D-2)"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 7,
+      "question": "‘Ecesis’ is process of succession that represents:",
+      "options": {
+        "1": "migration of plants and animals to a new habitat",
+        "2": "reaction of plants and animals to a new habitat",
+        "3": "plants and animals refuse the new habitat",
+        "4": "establishment of plants and animals in a new habitat"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 8,
+      "question": "All trees present outside the recorded forest area (RFA) irrespective of their number and patch size, are termed as:",
+      "options": {
+        "1": "forest cover",
+        "2": "trees outside forest",
+        "3": "tree cover",
+        "4": "agroforestry"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 9,
+      "question": "A forest plant grown from seed, that attains a height of around six inches and has a few leaves, is called a _______.",
+      "options": {
+        "1": "tree",
+        "2": "sapling",
+        "3": "seedling",
+        "4": "pole"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 10,
+      "question": "In Pinus roxburghii forests, natural regeneration is encouraged by following ________ system.",
+      "options": {
+        "1": "high forest",
+        "2": "clear-felling",
+        "3": "coppice",
+        "4": "Punjab shelterwood"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 11,
+      "question": "Select the correct option based on the following statements. 1) The vegetation where regeneration status is > 80% is given green colour 2) The vegetation where regeneration status is < 20% is given red colour",
+      "options": {
+        "1": "Only statement 2 is correct",
+        "2": "Only statement 1 is correct",
+        "3": "Both statements 1 and 2 are correct",
+        "4": "Both statements 1 and 2 are incorrect"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 12,
+      "question": "The forest crop is renewed by which of the following? A) Natural regeneration B) Afforestation C) Agroforestry D) Reforestation",
+      "options": {
+        "1": "A, C, and D",
+        "2": "B, C, and D",
+        "3": "A, B, and D",
+        "4": "A, B, C, and D"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 13,
+      "question": "Bamboo forests are regenerated by adopting a felling cycle of:",
+      "options": {
+        "1": "6-9 years",
+        "2": "3-4 years",
+        "3": "10-12 years",
+        "4": "15-16 years"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 14,
+      "question": "Which of the following are tending operations often done in a forest? A) Weeding B) Improvement felling C) Clear felling D) Girdling",
+      "options": {
+        "1": "C and D",
+        "2": "A, B, and C",
+        "3": "B, C, and D",
+        "4": "A and B"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 15,
+      "question": "Tending operations and maintenance of crops in a forest is carried out as per the procedure laid out in its working plan, which aims for:",
+      "options": {
+        "1": "regular yield",
+        "2": "progressive yield",
+        "3": "sustained yield",
+        "4": "productive yield"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 16,
+      "question": "Select the correct statements with respect to weed control measures in forests. A) Prevent the spread of weed seed by human activities, by keeping agricultural and forest machinery and objects clean. B) Combat the spreading of weeds by using basic treatment such as ploughing, disking, tilling, etc. C) Remove weeds by using flame and superheated steam. D) Use any soils and sowing of any multi-crop seeds.",
+      "options": {
+        "1": "Statements A, B and D are correct",
+        "2": "Statements A, D and C are correct",
+        "3": "Statements A, B and C are correct",
+        "4": "Statements B, C and D are correct"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 17,
+      "question": "In South India which insect is used to control Opuntia spp, a weed, in thorn forests?",
+      "options": {
+        "1": "Orthezia insignis",
+        "2": "Cosmopterix pulchrimella",
+        "3": "Dactylopius coccus",
+        "4": "Estigmena chinensis"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 18,
+      "question": "The interval in years between successive thinning are called _______.",
+      "options": {
+        "1": "thinning process",
+        "2": "thinning intensity",
+        "3": "free thinning",
+        "4": "thinning cycle"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 19,
+      "question": "Taungya cultivation originated in ______.",
+      "options": {
+        "1": "America",
+        "2": "India",
+        "3": "Burma",
+        "4": "Africa"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 20,
+      "question": "Which of the following is NOT the basis of classification of agroforestry systems as given by Nair (1987)?",
+      "options": {
+        "1": "History of the system (land use in the past)",
+        "2": "The structure of the system (composition and arrangement of components)",
+        "3": "Function of the system (role and output of components)",
+        "4": "Ecological spread (ecological zone where system exists)"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 21,
+      "question": "Alley cropping is also called _____.",
+      "options": {
+        "1": "tree-grain cropping",
+        "2": "hedge-row intercropping",
+        "3": "relay cropping",
+        "4": "shifting cultivation"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 22,
+      "question": "Basis of Classification\t\tPrinciple\nA) Structural\t\tD)Level of input management (high or low\ninputs), commercial goals and, intensity and\nscale\t\tof\t\tmanagement\t\t(subsistence,\ncommercial etc.)\nB)Physiognomic\t\t2)Land use pattern in the course of adoption\nof agroforestry\nC) Land use\t\t3)Composition\t\tof\ncomponents\nD) Socio-economic\t\t4)Character of vegetation e.g-, xeromorphic\netc.",
+      "options": {
+        "1": "A-1, B-2, C-3, D-4",
+        "2": "A-4, B-3, C-2, D-1",
+        "3": "A-3, B-2, C-4, D-1",
+        "4": "A-3, B-4, C-2, D-1"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 23,
+      "question": "",
+      "options": {
+        "1": "A-2, B-4, C-1, D-3",
+        "2": "A-3, B-1, C-4, D-2",
+        "3": "A-1, B-2, C-3, D-4",
+        "4": "A-4, B-3, C-2, D-1"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 24,
+      "question": "",
+      "options": {
+        "1": "A-1, B-2, C-3",
+        "2": "A-3, B-2, C-1",
+        "3": "A-1, B-3, C-2",
+        "4": "A-3, B-1, C-2"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 25,
+      "question": "Which of the following is NOT a tropical/subtropical multipurpose tree in India?",
+      "options": {
+        "1": "Grewia optiva",
+        "2": "Betula utilis",
+        "3": "Bauhinia variegata",
+        "4": "Leucaena leucocephala"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 26,
+      "question": "As per the India State of Forest Report (ISFR) 2021, trees outside forests (TOF) are the main source of wood produced in the country, especially from the agroforestry sector. Which state is leading in extent of TOF (in area).",
+      "options": {
+        "1": "Maharashtra",
+        "2": "Andhra Pradesh",
+        "3": "Odisha",
+        "4": "Uttar Pradesh"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 27,
+      "question": "Ailanthus excelsa is a fast-growing fodder tree that could be propagated in association with forage and food crops widely grown in the Indian Peninsula. What is its common name?",
+      "options": {
+        "1": "Kadamb, Cadamba",
+        "2": "Whistling tree, Junglisaru",
+        "3": "Kapok tree, Silk-cotton tree",
+        "4": "Tree of Heaven, Ardu"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 28,
+      "question": "Which of the following trees are NOT temperate agroforestry trees in India? A) Abies pindrow B) Juglans regia C) Robinia pseudocassia D) Picea smithiana",
+      "options": {
+        "1": "B and C",
+        "2": "A and B",
+        "3": "B and D",
+        "4": "D and A"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 29,
+      "question": "In an agroforestry system, soil productivity is enhanced due to: A) Decreased soil organic matter B) Addition of Nitrogen in the soil if leguminous plants are grown C) Maintain soil organic matter D) Promote more open nutrient cycling.",
+      "options": {
+        "1": "A and B",
+        "2": "A and C",
+        "3": "B and D",
+        "4": "B and C"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 30,
+      "question": "Which of the following trees does NOT enhance nitrogen in soil, and thus soil productivity being a non-nitrogen fixing species?",
+      "options": {
+        "1": "Caragana",
+        "2": "Luecaena",
+        "3": "Populus",
+        "4": "Faidherbia"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 31,
+      "question": "In an agroforestry system, soil health is maintained by which of the following? A) Decreasing biological components of soil B) Increasing or stabilising physical components of soil C) Improve chemical components in the soil in favour of plants",
+      "options": {
+        "1": "Only A",
+        "2": "Only B and C",
+        "3": "Only B",
+        "4": "Only A and C"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 32,
+      "question": "Which of the following benefit soil health in agroforestry practices? A) Improved soil nutrient availability and soil fertility due to the presence of trees in the system B) Suppressed soil microbial dynamics C) Incorporation of trees in agroforestry to enhance soil organic carbon",
+      "options": {
+        "1": "A and C",
+        "2": "A, B and C",
+        "3": "B and C",
+        "4": "A and B"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 33,
+      "question": "A) Tropical soil productivity\t\tI) Agrisilvi, silvihorti and silvipastue\nB) Arid lands soil productivity\t\t2) Multistorey cropping agrisilvisulture\nC) Hill region soil productivity\t\t3) Shelter belts\nD)Wetlands\t\t4) Alley cropping",
+      "options": {
+        "1": "A-2, B-4, C-3 D-1",
+        "2": "A-1, B-3, C-4, D-2",
+        "3": "A-4, B-1, C-2, D-3",
+        "4": "A-3, B-2, C-1, D-4"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 34,
+      "question": "The National Commission on Agriculture was founded in August 1970 under the Ministry of Agriculture. It released its final report in fifteen parts in 1976 under ______. It has _______ chapters in _______ parts.",
+      "options": {
+        "1": "NR Mirdha; 65; 16",
+        "2": "T Murthy; 69; 15",
+        "3": "NR Mirdha; 69; 15",
+        "4": "T Murthy; 65; 16"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 35,
+      "question": "Social Forestry programme was launched in",
+      "options": {
+        "1": "Seventh five year plan",
+        "2": "Sixth five year plan",
+        "3": "Fifth five year plan",
+        "4": "Eighth five year plan"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 36,
+      "question": "Which of the following is a/are basic objective(s) of National Forest Policy 1988? A) Checking soil erosion and denudation in the catchment areas of rivers, lakes, reservoirs. B) Increasing area under agriculture to mitigate food and oil shortage. C) Meeting the requirements of fuel-wood, fodder, minor forest produce and small timber of the rural and tribal populations D) Ignoring the productivity of forests to meet essential national needs.",
+      "options": {
+        "1": "A and B",
+        "2": "A and C",
+        "3": "Only A",
+        "4": "Only D"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 37,
+      "question": "Joint Forest Management Committees (JFMC) and Eco-Development Committees (EDC) were formed in JFM: A.because rural communities are equal partners in the protection and management of forests B.because forest departments were not able to handle JFM objectives adequately C.because both members and non-members control the management of forest and community lands D.to decrease the influence of all people in the objectives of management of their local forests E.to develop local leadership for bigger role in future Which of the following statements are correct?",
+      "options": {
+        "1": "Only statements A, B and D are correct",
+        "2": "Only statements B, D and E are correct",
+        "3": "Only statements C, D and E are correct",
+        "4": "Only statements A, C and E are correct"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 38,
+      "question": "Identify the correct option from among the following, that specifies the area to be kept under forest cover in India as per the ‘National Forest Policy 1988’.",
+      "options": {
+        "1": "One-fourth of the total land area of the country under forest or tree cover, in which the hills and in mountainous regions should aim to maintain one-third of the area under such cover.",
+        "2": "37% of total land area of the country under forest or tree cover in which the hills and in mountainous regions should aim to maintain 75% of the area under such cover.",
+        "3": "One-third of the total land area of the country under forest or tree cover in which the hills and in mountainous regions should aim to maintain two-third of the area under such cover.",
+        "4": "37% of total land area of the country under forest or tree cover in which the hills and in mountainous regions should aim to maintain 50% of the area under such cover."
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 39,
+      "question": "Select the correct option based on the following. JFM guidelines 2002 proposed capacity building for recognising importance of NTFP management in good forest areas through: A) Their non-destructive harvesting in accordance with working plans. B) Unequal sharing of economic benefits as per the agreement done by Forest department and people community at the beginning of project. C) Institutional reforms D) Strengthening the set-up of NTFP management",
+      "options": {
+        "1": "A, B and C",
+        "2": "A, C and D",
+        "3": "B, C and D",
+        "4": "A, B, C, and D"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 40,
+      "question": "Select the correct option based on the following. Guidelines by MOEFCC for strengthening the Joint Forest Management Programmes included: A) Methods of legal backup to the JFM committees B) Proposed conditions to promote participation of women, certain threshold criteria were proposed for JFMCs C) Proposed Micro Plan preparation methods for both new working plan and existing working plan areas. D) Suggested to reinvest 35% of the share of village community and of the forest department in forest for regeneration of resources. E) Proposed concurrent monitoring at Division and State level. Evaluation at interval of 5 years at division level and 6 years at state level.",
+      "options": {
+        "1": "A, D, and E",
+        "2": "A, B, C and D",
+        "3": "A, B, D and E",
+        "4": "A, B and C"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 41,
+      "question": "A democratic, decentralised and transparent local institution of forest and forest fringe dwelling communities, that is part of the Gram Sabha fully or partially, and set up as per the provisions of applicable JFM rules/guidelines of the state outside the protected areas and their buffer zones, is called:",
+      "options": {
+        "1": "Executive Committee",
+        "2": "Eco-Development Committee",
+        "3": "Joint Forest Management Committee",
+        "4": "Forest Development Committee"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 42,
+      "question": "Select the correct option based on the following. Various committees are constituted in any JFM programme so that: A) Rural communities are equal partners in the protection and management of forests B) Both members and non-members have control on the management of forest lands and community lands. C) They develop forest resources for sustainable use, but don’t claim direct benefits from it. D) Local leadership for bigger role in future is developed.",
+      "options": {
+        "1": "A, B and C",
+        "2": "B, C and D",
+        "3": "A, B and D",
+        "4": "B and A"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 43,
+      "question": "Select the correct answer from among the given options. The odour in polluted water is removed by: A) desorption B) decantation C) degasifier D) activated carbon",
+      "options": {
+        "1": "A, B, and C",
+        "2": "A, B, and D",
+        "3": "B, C, and D",
+        "4": "A, C, and D"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 44,
+      "question": "Select the correct answer from among the given options. Water pollution is caused by: A) agricultural waste B) natural gases in the air C) sewer and domestic waste D) forest fires",
+      "options": {
+        "1": "A and B",
+        "2": "B and C",
+        "3": "A and C",
+        "4": "C and D"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 45,
+      "question": "Which of the following is an example of ‘non-point’ source of water pollution?",
+      "options": {
+        "1": "Sewer overflow",
+        "2": "Oil spill",
+        "3": "Industrial waste",
+        "4": "Nutrients"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 46,
+      "question": "Excess ‘Fluoride’ pollution in water can cause ________ on its regular consumption",
+      "options": {
+        "1": "fluorosis",
+        "2": "migraine",
+        "3": "lung disease",
+        "4": "muscle pains"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 47,
+      "question": "A nephelometer can be used to measure the __________ in polluted water.",
+      "options": {
+        "1": "colour of the water",
+        "2": "odour in the water",
+        "3": "suspended particles in water",
+        "4": "gases in the water"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 48,
+      "question": "For determination of average annual precipitation in a catchment or basin, the best accurate method is:",
+      "options": {
+        "1": "Arithmetical method",
+        "2": "Thiessen's mean method",
+        "3": "Isohyetal method",
+        "4": "None of these"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 49,
+      "question": "Understanding of relationships between hydrological and biological processes at different scales to improve water security, enhance biodiversity and further opportunities for sustainable development by lessening ecological threats and maximising greater harmony within catchment processes, is called:",
+      "options": {
+        "1": "ground water hydrology",
+        "2": "hydroinformatics",
+        "3": "hydrogeology",
+        "4": "ecohydrology"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 50,
+      "question": "",
+      "options": {
+        "1": "A-1, B-2, C-3",
+        "2": "A-3, B-1, C-2",
+        "3": "A-3, B-2, C-1",
+        "4": "A-2, B-3, C-1"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 51,
+      "question": "Match the following hydrological events and their respective measurement methods.\nHydrological event\t\tMeasurement\nA)Hydrological cycle\t\tD)Kirpich formula\nB)Evapotranspiration\t\t2)BlaneyCriddlemethod\nC)Time of concentration\t\t3)Waterbudgetequation",
+      "options": {
+        "1": "A-3, B-1, C-2",
+        "2": "A-2, B-3, C-1",
+        "3": "A-1, B-2, C-3",
+        "4": "A-3, B-2, C-1"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 52,
+      "question": "D)Watersheds\t\t4)6",
+      "options": {
+        "1": "A-1, B-2, C-3, D-4",
+        "2": "A-4, B-3, C-2, D-1",
+        "3": "A-4, B-1, C-2, D-3",
+        "4": "A-4, B-2, C-3, D-1"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 53,
+      "question": "The delineation of Water Resource Regions into their subsequent division and subdivisions is - Basin, Catchment, Watershed, Sub watershed and Micro-watershed. Arrange them in decreasing order of their size.",
+      "options": {
+        "1": "Catchment > Basin > Watershed > Sub watershed > Micro-watershed",
+        "2": "Watershed > Basin > Catchment > Micro-watershed > Sub watershed",
+        "3": "Basin > Catchment > Watershed > Sub watershed > Micro-watershed",
+        "4": "Catchments > Watershed > Basin > Sub watershed > Micro-watershed"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 54,
+      "question": "The number assigned to Water Resource Region in which all drainage flow into the Arabian Sea except Indus drainage, as suggested by Dr. AN Khosla in 1949, is __________.",
+      "options": {
+        "1": "2",
+        "2": "4",
+        "3": "5",
+        "4": "6"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 55,
+      "question": "The initial stage of water erosion in any watershed is ______.",
+      "options": {
+        "1": "rill erosion",
+        "2": "gully erosion",
+        "3": "sheet erosion",
+        "4": "splash erosion"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 56,
+      "question": "In Sal (Shorea Robusta) climax forests of India, Xylia xylocarpa species is regenerating dominantly. This succession represents:",
+      "options": {
+        "1": "climatic succession",
+        "2": "edaphic succession",
+        "3": "climax succession",
+        "4": "retrogressive succession"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 57,
+      "question": "‘Good regeneration’ in forests where constituent species have long seed interval is obtained by _____________.",
+      "options": {
+        "1": "selection system",
+        "2": "clear-felling system",
+        "3": "high forest system",
+        "4": "shelterwood system Note: For this question, ambiguity is found in question/answer. Candidate will get full marks for this question if any of the correct options are chosen."
+      },
+      "answer": [
+        2,
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 58,
+      "question": "Which of the following trees species is a promising agroforestry tree species for humid, tropical lowland climatic zone and plant has characteristic phyllodes and flowers are decandrous and pentamerous?",
+      "options": {
+        "1": "Acacia nilotica",
+        "2": "Acacia mangium",
+        "3": "Acacia catechu",
+        "4": "Casuarina equisetifolia"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 59,
+      "question": "Which of the following agroforestry trees is NOT known to cause allelopathy or toxicity in the soil?",
+      "options": {
+        "1": "Eucalyptus",
+        "2": "Leucaena",
+        "3": "Gmelina",
+        "4": "Populus"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 60,
+      "question": "Which of the following statements related to the objective of the National Agricultural Policy 1976, in order to facilitate the establishment of prosperous egalitarian rural society is/are correct? A) Adequate supply of goods and services to sustain a rising standard of living. B) Sufficient employment and income opportunities for the masses.",
+      "options": {
+        "1": "Both statements A and B are correct",
+        "2": "Only statement A is correct",
+        "3": "Only statement B is correct",
+        "4": "Neither statement A nor B is correct"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 61,
+      "question": "Main elements of the National Agricultural Policy 1976 include: A) Reordering of the agrarian structure should not get high priority. B) Extensive utilisation of land. C) Personal cultivation to ensure adequate attention to land, and for increased productivity and production should be discouraged. D) Efforts should be made to detect all surplus land for distribution to the landless and marginal farmers, priority being given to the landless particularly Harijan, tribal and backward communities. Choose the correct option below",
+      "options": {
+        "1": "All the statements are correct",
+        "2": "Only statement D is correct",
+        "3": "Statements B, C and D are correct",
+        "4": "Only statement A is correct"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 62,
+      "question": "Main elements for animal husbandry in National Agricultural Policy 1976 include: A) For improving the productivity of cattle and buffaloes scientific methods of breeding should be adopted. B) Adequate feeds and fodders resources should be provided. C) Animal health cover should not be given priority. D) Animal management practices should be given less priority. Choose the correct statements",
+      "options": {
+        "1": "Statements A and D are correct",
+        "2": "Statements C and D are correct",
+        "3": "Statements B and C are correct",
+        "4": "Statements A and B are correct"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 63,
+      "question": "Which of the following statements endorses the focus of National Agricultural policy 1976 on forestry sector? A) To meet the requirements of goods, i.e., industrial wood for forest-based industries, defence, communications, and other public purposes. B) To provide small timber, fuelwood, and fodder for the rural community. C) To ignore for the time being, the present and future demands for protective and recreative functions of the forests. D) To clearly indicate the inter-relationship of forest economy with rural and tribal economy. E) Employment, rights of user and involvement of the local people should not be the priority.",
+      "options": {
+        "1": "Statements A, B and D are correct",
+        "2": "Statements A, B and E are correct",
+        "3": "Statements C, E and D are correct",
+        "4": "Statements B, C and E are correct"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 64,
+      "question": "‘Eutrophication’ a natural process of water pollution is caused by which of the following? A) Disposing untreated industrial sewage into water bodies. B) Disposing human and animal wastes into water bodies. C) Release of excessive oxygen by pollutants in the water bodies. D) Disposing agriculture wastes especially fertilisers into water bodies.",
+      "options": {
+        "1": "A, B and C",
+        "2": "A, B and D",
+        "3": "B, C and D",
+        "4": "A, C and D"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 65,
+      "question": "Which of the following statements is/are correct? A) The mass rainfall curve is a plot between the accumulated rainfall at a station as ordinate and time as abscissa, plotted in chronological order. B) The hyetograph is the graphical representation of rainfall versus time.",
+      "options": {
+        "1": "Only statement B is correct",
+        "2": "Both statements A and B are incorrect",
+        "3": "Only statement A is correct",
+        "4": "Both statements A and B are correct"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 66,
+      "question": "Which of the following statements are correct? A) Runoff coefficient is the ratio of runoff to rainfall intensity. B) It is a larger value for areas with high infiltration and low runoff, and higher for permeable, well vegetated areas. C) Runoff coefficient is regulated by vegetation composition, surface coverage, slope and soil type. D) It is used in the rational method to calculate the quantity of water that the drainage system needs to handle.",
+      "options": {
+        "1": "Only statements C and D are correct",
+        "2": "Only statements A, B and C are correct",
+        "3": "Only statements A and B are correct",
+        "4": "Only statements B, C and D are correct"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 67,
+      "question": "The range and average size (in hectare) of a micro-watershed in India is _______ and ____________, respectively.",
+      "options": {
+        "1": "500–1500; 1000",
+        "2": "1000–2000; 1500",
+        "3": "1000–1500; 750",
+        "4": "2000–3000; 2500"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 68,
+      "question": "Several tuberous roots occur in a cluster at the base of the stem. This kind of adventitious root modification is called ________.",
+      "options": {
+        "1": "moniliform",
+        "2": "annulated",
+        "3": "fasciculated",
+        "4": "nodulose"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 69,
+      "question": "______ is NOT an example of aerial modification of stem in plants.",
+      "options": {
+        "1": "Stem-tendril",
+        "2": "Corm",
+        "3": "Thorn",
+        "4": "Phylloclade"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 70,
+      "question": "A flower without calyx and corolla is known as:",
+      "options": {
+        "1": "hermaphrodite",
+        "2": "achlamydeous",
+        "3": "monochlamydeous",
+        "4": "monoecious"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 71,
+      "question": "All the dead tissues lying outside the active cork cambium constitute ____.",
+      "options": {
+        "1": "pith",
+        "2": "secondary phloem",
+        "3": "secondary xylem",
+        "4": "bark"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 72,
+      "question": "______ serve for conduction of water and mineral salts from the roots to the leaves.",
+      "options": {
+        "1": "Companion cells",
+        "2": "Vessels and tracheids",
+        "3": "Sieve tubes",
+        "4": "Phloem parenchymas"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Heat Transfer"
+    },
+    {
+      "question_number": 73,
+      "question": "______ is the type of vascular bundle arrangement, where the xylem and phloem lie together on the same radius.",
+      "options": {
+        "1": "Concentric",
+        "2": "Bicollateral",
+        "3": "Radial",
+        "4": "Collateral"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 74,
+      "question": "Parenchyma form a ‘wing-like’ sheath around pores. This arrangement is called ________.",
+      "options": {
+        "1": "vasicentric",
+        "2": "aliform",
+        "3": "apotracheal",
+        "4": "banded"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 75,
+      "question": "C.Ring porous\t\t3. Pterocarpus santalinus\nd.Spiral grain\t\t4. Dalbergia sissoo\ne.Interlock grain\t\t5.Tectona grandis",
+      "options": {
+        "1": "a-1; b-4; c-5; d-3; e-2",
+        "2": "a-3; b-1; c-5; d-2; e-4",
+        "3": "a-3; b-2; c-5; d-1; e-4",
+        "4": "a-3; b-1; c-2; d-5; e-4"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 76,
+      "question": "________ is a method where a branch is alternately covered and exposed along its length.",
+      "options": {
+        "1": "Tongue layering",
+        "2": "Tool layering",
+        "3": "Serpentine layering",
+        "4": "Chinese layering"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 77,
+      "question": "Inarching is also known as ______.",
+      "options": {
+        "1": "stone grafting",
+        "2": "approach grafting",
+        "3": "epicotyl grafting",
+        "4": "bud grafting"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 78,
+      "question": "Adiantum caudatum is propagated by _______.",
+      "options": {
+        "1": "leaf-tip and rhizome",
+        "2": "gemmae",
+        "3": "gootee",
+        "4": "cutting"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 79,
+      "question": "Mutations that occur and suddenly appear as a chance in the branch of a plant, are called _______.",
+      "options": {
+        "1": "sectorial chimera",
+        "2": "mericlinal chimera",
+        "3": "graft chimera",
+        "4": "bud sport"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 80,
+      "question": "Pulsation theory was given by:",
+      "options": {
+        "1": "JC Bose",
+        "2": "Harry Beevers",
+        "3": "Christine Beveridge",
+        "4": "Frederick Blackman"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 81,
+      "question": "Which instrument is used to demonstrate the rate of transpiration current?",
+      "options": {
+        "1": "Darwin’s potometer",
+        "2": "Ganong potometer",
+        "3": "Garreau potometer",
+        "4": "Farmer's potometer"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 82,
+      "question": "The potential energy of water relative to pure free water is called ______.",
+      "options": {
+        "1": "osmotic pressure",
+        "2": "osmotic potential",
+        "3": "water pressure",
+        "4": "water potential"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 83,
+      "question": "______ refers to a situation in which a crop needs more of a given nutrient, yet has shown no deficiency symptoms.",
+      "options": {
+        "1": "Stunting",
+        "2": "Dotting",
+        "3": "Hidden hunger",
+        "4": "Shedding"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 84,
+      "question": "Which of the following elements’ deficiency becomes evident first in younger leaves?",
+      "options": {
+        "1": "Nitrogen",
+        "2": "Potassium",
+        "3": "Phosphorus",
+        "4": "Iron"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 85,
+      "question": "Black necrosis of young leaves and terminal buds is caused by deficiency of -______ nutrient.",
+      "options": {
+        "1": "phosphorus",
+        "2": "potassium",
+        "3": "boron",
+        "4": "silicon"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 86,
+      "question": "Based on the given assertion and reason, select the correct option. Assertion (A): Chlorosis caused by sulphur is observed in mature and young leaves. Reason (R ): Sulphur is not easily mobilised to the younger leaves.",
+      "options": {
+        "1": "Both A and R are true, and R is the correct explanation of A.",
+        "2": "Both A and R are true, but R is not the correct explanation of A.",
+        "3": "A is true but R is false.",
+        "4": "Both A and R are false."
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 87,
+      "question": "Who gave the scheme of glycolysis?",
+      "options": {
+        "1": "Joseph Priestly, Otto Meyerhof, and J Parnas",
+        "2": "Gustav Embden, Otto Meyerhof, and J Parnas",
+        "3": "Jan Ingenhousz, Gustav Embden, Otto Meyerhof",
+        "4": "Joseph Priestly, Jan Ingenhousz, Gustav Embden"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 88,
+      "question": "The ratio of the volume of CO2released to the volume of O2 taken during respiration is called:",
+      "options": {
+        "1": "fermentation quotient",
+        "2": "efficiency of fermentation",
+        "3": "efficiency of respiration",
+        "4": "respiratory quotient"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 89,
+      "question": "Match the following",
+      "options": {
+        "1": "a-4; b-1; c-5; d-2; e-3",
+        "2": "a-3; b-1; c-5; d-2; e-4",
+        "3": "a-3; b-1; c-2; d-4; e-5",
+        "4": "a-3; b-1; c-2; d-5; e-4"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 90,
+      "question": "Based on the given assertion and reason, select the correct option. Assertion (A): Leaf Web Blight is by Rhizoctonia solani. Reason (R): The infected adjoining leaves get joined together by the fungal hyphae",
+      "options": {
+        "1": "Both A and R are true, and R is the correct explanation of A.",
+        "2": "Both A and R are true, but R is not the correct explanation of A.",
+        "3": "A is true but R is false.",
+        "4": "Both A and R are false."
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 91,
+      "question": "Based on the given assertion and reason, select the correct option. Assertion (A): Compound interest diseases, the rate of increase is mathematically analogous to compound interest in money. Reason (R): Secondary inoculum plays a vital role in the development of epidemics in such diseases.",
+      "options": {
+        "1": "Both A and R are true, and R is the correct explanation of A.",
+        "2": "Both A and R are true, but R is not the correct explanation of A.",
+        "3": "A is true but R is false.",
+        "4": "Both A and R are false."
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 92,
+      "question": "The Nagoya Protocol deals with:",
+      "options": {
+        "1": "legally binding framework for transboundary exchange of zoo animals",
+        "2": "legally binding framework for transboundary migratory species",
+        "3": "legally binding framework for regulating the transboundary movement of living modified organisms",
+        "4": "legally binding framework for access to genetic resources and the fair and equitable sharing of the benefits arising from their use"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 93,
+      "question": "The convention concerning the Protection of the World Cultural and Natural Heritage, was adopted by UNESCO in _____.",
+      "options": {
+        "1": "1976",
+        "2": "1974",
+        "3": "1972",
+        "4": "1978"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 94,
+      "question": "The International Plant Protection Convention Secretariat is hosted at _______.",
+      "options": {
+        "1": "Rome, Italy",
+        "2": "Cambridge, United Kingdom",
+        "3": "Geneva, Switzerland",
+        "4": "New York, USA"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 95,
+      "question": "Which of the following statements is NOT true with regard to CITES?",
+      "options": {
+        "1": "It is a convention on International Trade in Endangered Species of Wild Fauna and Flora.",
+        "2": "CITES was drafted as a result of a resolution adopted in 1963 at a meeting of IUCN.",
+        "3": "On 1 July 1977, CITES came into force.",
+        "4": "CITES is legally binding on parties."
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 96,
+      "question": "Which of the following statements is/are NOT correct with respect to the Ramsar Convention on Wetlands? i. The convention was adopted in the Iranian city of Ramsar in 1971. ii. The convention came into force in 1976. iii. Total number of contracting parties is 172. iv. India is a signatory to Ramsar since 1981.",
+      "options": {
+        "1": "ii and iv",
+        "2": "i and iv",
+        "3": "ii and iii",
+        "4": "i, iii and iv"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 97,
+      "question": "World Wildlife Fund was established in:",
+      "options": {
+        "1": "April, 1960",
+        "2": "April, 1961",
+        "3": "April, 1962",
+        "4": "April, 1963"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 98,
+      "question": "The theoretical maximum production of new individuals under ideal conditions with no ecological limiting factors is known as:",
+      "options": {
+        "1": "vital index",
+        "2": "clutch size",
+        "3": "maximum natality",
+        "4": "fertility rate"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Machine Design"
+    },
+    {
+      "question_number": 99,
+      "question": "The pattern of mortality with age is best illustrated by:",
+      "options": {
+        "1": "survivorship curve",
+        "2": "survival rate",
+        "3": "potential mortality",
+        "4": "breeding time"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 100,
+      "question": "Large mammals exhibit which of the following survivorship curves?",
+      "options": {
+        "1": "Highly concave curve",
+        "2": "Diagonal curve",
+        "3": "Highly convex curve",
+        "4": "Straight line"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 101,
+      "question": "The degree with which a species is restricted in distribution to one kind of community is called:",
+      "options": {
+        "1": "fidelity",
+        "2": "rare",
+        "3": "seldom present",
+        "4": "endemic"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 102,
+      "question": "Based on the give assertion and reason, select the correct option. Assertion: An age pyramid has a broad base. Reason: Rapidly growing young population, with high birth rate and population growth is exponential.",
+      "options": {
+        "1": "Both A and R are true, and R is the correct explanation of A.",
+        "2": "Both A and R are true, but R is not the correct explanation of A.",
+        "3": "A is true but R is false.",
+        "4": "Both A and R are false."
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 103,
+      "question": "Plants that complete their life cycle in a single favourable season, and remain dormant during unfavourable conditions in the form of seed, are known as:",
+      "options": {
+        "1": "phanerophytes",
+        "2": "therophytes",
+        "3": "chamaephytes",
+        "4": "geophytes"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 104,
+      "question": "The minimum size of the quadrat is determined by:",
+      "options": {
+        "1": "definite area",
+        "2": "line-transect",
+        "3": "species area curve",
+        "4": "belt-transect"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 105,
+      "question": "Community unit theory put forward by Whittaker is also called:",
+      "options": {
+        "1": "consociation unit theory",
+        "2": "association unit theory",
+        "3": "fasciation unit theory",
+        "4": "principle of species individuality"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 106,
+      "question": "Match the following",
+      "options": {
+        "1": "a-4; b-1; c-5; d-2; e-3",
+        "2": "a-3; b-1; c-5; d-2; e-4",
+        "3": "a-3; b-4; c-2; d-1; e-5",
+        "4": "a-3; b-1; c-2; d-5; e-5"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 107,
+      "question": "ITDP stands for:",
+      "options": {
+        "1": "Integral Tribal Development Project",
+        "2": "Integral Tribal Development Plan",
+        "3": "Integrated Tribal Development Plan",
+        "4": "Integrated Tribal Development Programme"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 108,
+      "question": "Who gave the theory of totemism?",
+      "options": {
+        "1": "Émile Durkheim",
+        "2": "Robert Lowie",
+        "3": "Franz Boas",
+        "4": "Margret Mead"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 109,
+      "question": "How many tribes (with overlapping communities in more than one State) have been notified under Article 342 of the Constitution of India,",
+      "options": {
+        "1": "350-400",
+        "2": "over 700",
+        "3": "400-700",
+        "4": "Less than 350"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 110,
+      "question": "Which of the following statements is NOT true with respect to Forest Rights Act, 2006. It deals with__________ i. Forest dwelling Schedule Tribe ii. Other traditional forest dwellers iii. Cut-off date is prior to 13/12/2005 iv.Seven generations should have resided in the forest.",
+      "options": {
+        "1": "i",
+        "2": "ii",
+        "3": "iii",
+        "4": "iv"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 111,
+      "question": "Which tribal community is engaged in extraction of snake venom at Madras Crocodile Bank?",
+      "options": {
+        "1": "Todas",
+        "2": "Kotas",
+        "3": "Kurumbas",
+        "4": "Irulas"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 112,
+      "question": "Identify the conventional source of energy from among the following.",
+      "options": {
+        "1": "Biogas",
+        "2": "Firewood",
+        "3": "Geothermal",
+        "4": "Tidal energy"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 113,
+      "question": "Where is National Institute of Solar Energy situated?",
+      "options": {
+        "1": "Goa",
+        "2": "Karnataka",
+        "3": "Haryana",
+        "4": "Gujarat"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 114,
+      "question": "The National Solar Mission (NSM) was launched on:",
+      "options": {
+        "1": "11 January 2012",
+        "2": "11 January 2011",
+        "3": "11 January 2010",
+        "4": "11 January 2009"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 115,
+      "question": "Where is Sardar Swaran Singh National Institute of Bio-Energy located?",
+      "options": {
+        "1": "Punjab",
+        "2": "Uttarakhand",
+        "3": "Himachal Pradesh",
+        "4": "Uttar Pradesh"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 116,
+      "question": "___________ Project aims at synchronising electricity produced from renewable sources, such as solar and wind, with conventional power stations in the grid.",
+      "options": {
+        "1": "Yellow Energy Corridor",
+        "2": "Blue Energy Corridor",
+        "3": "Orange Energy Corridor",
+        "4": "Green Energy Corridor"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 117,
+      "question": "Identify the ore for extracting iron from among the following.",
+      "options": {
+        "1": "Haematite",
+        "2": "Pyrolusite",
+        "3": "Psilomelane",
+        "4": "Stibnite"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 118,
+      "question": "Identify a precious non-metallic mineral from among the following.",
+      "options": {
+        "1": "Silver",
+        "2": "Gold",
+        "3": "Diamond",
+        "4": "Platinum"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 119,
+      "question": "Corundum is a crystalline form of:",
+      "options": {
+        "1": "zinc carbonate",
+        "2": "aluminium oxide",
+        "3": "aluminium carbonate",
+        "4": "zinc hydroxide"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 120,
+      "question": "Cassiterite is an ore of ________.",
+      "options": {
+        "1": "tungsten",
+        "2": "tin",
+        "3": "molybdenum",
+        "4": "vanadium"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 121,
+      "question": "________ is the process of separating ore minerals from gangue.",
+      "options": {
+        "1": "Mining",
+        "2": "Prospecting",
+        "3": "Refining",
+        "4": "Beneficiation"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 122,
+      "question": "Which of the following is often referred to as hard coal?",
+      "options": {
+        "1": "Anthracite",
+        "2": "Bituminous",
+        "3": "Lignite",
+        "4": "Subbituminous"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 123,
+      "question": "Identify the INCORRECT statement(s) with regard to open cast mining. i. It is also called open-pit mining. ii. Mineral or ore deposits are found very deep down in the earth. iii. It is also called quarries when they produce building materials and dimension stone.",
+      "options": {
+        "1": "i",
+        "2": "ii",
+        "3": "iii",
+        "4": "i and iii"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 124,
+      "question": "_____ is used when the metal of interest is associated with sediment in a stream bed or floodplain.",
+      "options": {
+        "1": "Underground mining",
+        "2": "Surface mining",
+        "3": "Placer mining",
+        "4": "In situ mining"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 125,
+      "question": "Materials left over after the process of separating the valuable fraction from the uneconomic fraction (gangue) of an ore are called:",
+      "options": {
+        "1": "tailings",
+        "2": "smelts",
+        "3": "gangue",
+        "4": "dirt"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 126,
+      "question": "______ is a procedure of creating fractures in rocks and rock formations by injecting fluid into cracks to force them further open.",
+      "options": {
+        "1": "Drilling",
+        "2": "Cracking",
+        "3": "Fracking",
+        "4": "Holing"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Production Technology"
+    },
+    {
+      "question_number": 127,
+      "question": "CSIR-Central Institute of Mining and Fuel Research is situated at _____.",
+      "options": {
+        "1": "Chhattisgarh",
+        "2": "Odisha",
+        "3": "Karnataka",
+        "4": "Jharkhand"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 128,
+      "question": "Which of the following statements is NOT true with respect to churn drilling? i.Also known as percussion drills. ii.Sludge deposits are taken at 1.5 m interval. iii.It is suitable for testing extremely hard formations.",
+      "options": {
+        "1": "i",
+        "2": "ii",
+        "3": "iii",
+        "4": "ii and iii"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Production Technology"
+    },
+    {
+      "question_number": 129,
+      "question": "The C : N ratio of cultivated soils ranges from:",
+      "options": {
+        "1": "8 : 1 to 15 : 1",
+        "2": "10 : 1 to 12 : 1",
+        "3": "20 : 1 to 30 : 1",
+        "4": "4 : 1 to 9 : 1"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 130,
+      "question": "_____ is the process of converting ammonia to nitrate.",
+      "options": {
+        "1": "Nitrification",
+        "2": "Assimilation",
+        "3": "Ammonification",
+        "4": "Denitrification"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 131,
+      "question": "As per India State of the Forest Report (ISFR) 2021, the total carbon stock in forest is estimated as:",
+      "options": {
+        "1": "10,204 million tonnes",
+        "2": "9204 million tonnes",
+        "3": "8204 million tonnes",
+        "4": "7204 million tonnes"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 132,
+      "question": "Which of the following statements is/are NOT true with respect to Calvin cycle? i.Plants fix carbon primarily into 3-phosphoglycerate. ii.Carbon fixation into 3-phosphoglycerate is called Calvin cycle. iii.Observations relating to Calvin cycle were first made by de Saussure in 1804.",
+      "options": {
+        "1": "i",
+        "2": "ii",
+        "3": "iii",
+        "4": "i and ii"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 133,
+      "question": "Which of the following statement(s) is true with respect to formation of saline alkali soils? i.Low pH and high proportion of exchangeable aluminium and hydrogen. ii.Dominant in kaolinite and illite types of clay minerals. iii.Found in arid and semiarid regions..",
+      "options": {
+        "1": "i",
+        "2": "ii",
+        "3": "iii",
+        "4": "i and iii"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 134,
+      "question": "According to the fifth edition of Wastelands Atlas – 2019, what is the extent of the wastelands of India?",
+      "options": {
+        "1": "57.88 million hectares",
+        "2": "55.76 million hectares",
+        "3": "56.60 million hectares",
+        "4": "53.95 million hectares"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 135,
+      "question": "Exchangeable sodium percentage of saline alkali soil is:",
+      "options": {
+        "1": "greater than 15%",
+        "2": "between 10% and 15%",
+        "3": "between 8% and10%",
+        "4": "less than 8%"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 136,
+      "question": "Which of the following crops is highly salt tolerant?",
+      "options": {
+        "1": "Sunhemp",
+        "2": "Pea",
+        "3": "Linseed",
+        "4": "Barley"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 137,
+      "question": "Based on the given assertion and reason, select the correct option. Assertion (A): Gypsum is added to acidic soil. Reason (R): Gypsum lowers the ESP to desired value.",
+      "options": {
+        "1": "Both A and R are true, and R is the correct explanation of A.",
+        "2": "Both A and R are true, but R is not the correct explanation of A.",
+        "3": "A is false but R is true.",
+        "4": "A is true but R is false"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 138,
+      "question": "Saltation, suspension and surface creep are three basic stages of _______.",
+      "options": {
+        "1": "geological erosion",
+        "2": "wind erosion",
+        "3": "water erosion",
+        "4": "biotic erosion"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Material Science"
+    },
+    {
+      "question_number": 139,
+      "question": "Erosion because of the kinetic energy of falling raindrops is called _______.",
+      "options": {
+        "1": "rill erosion",
+        "2": "splash erosion",
+        "3": "gully erosion",
+        "4": "sheet erosion"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 140,
+      "question": "The time taken for the runoff to reach from the remotest point of the watershed to the outlet is called:",
+      "options": {
+        "1": "run off lag coefficient",
+        "2": "runoff coefficient time",
+        "3": "time of concentration",
+        "4": "time lag coefficient"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 141,
+      "question": "_______ is a set of characteristics curve that describe the rainfall characteristics specific to the region.",
+      "options": {
+        "1": "Peak-Flow",
+        "2": "Intensity-Duration-Frequency",
+        "3": "Peak-Erodibility",
+        "4": "Peak-Intensity-Flow"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 142,
+      "question": "Permanent gully control structures are designed for a period of _____ years.",
+      "options": {
+        "1": "5 to 10",
+        "2": "10 to 20",
+        "3": "20 to 25",
+        "4": "25 to 50"
+      },
+      "answer": [
+        4
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 143,
+      "question": "_____ is a series of broad channel or embankments constructed at suitable spacing along the graded gentle slopes.",
+      "options": {
+        "1": "Continuous trench",
+        "2": "In-line trench",
+        "3": "Contour trench",
+        "4": "Staggered trench"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 144,
+      "question": "_______ is/are widely used to estimate runoff from small-to medium-sized watersheds.",
+      "options": {
+        "1": "Soil-vegetation land use",
+        "2": "Antecedent moisture conditions",
+        "3": "SCS curve-number",
+        "4": "Soil antecedent moisture"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 145,
+      "question": "Identify the temperate small fruit from among the following.",
+      "options": {
+        "1": "Apple",
+        "2": "Strawberry",
+        "3": "Pear",
+        "4": "Peach"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 146,
+      "question": "Apple was introduced by Captain Lee in 1865 at ______.",
+      "options": {
+        "1": "Himachal Pradesh",
+        "2": "Jammu and Kashmir",
+        "3": "Uttarakhand",
+        "4": "Arunachal Pradesh"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 147,
+      "question": "Cardamom belongs to the family of:",
+      "options": {
+        "1": "Piperaceae",
+        "2": "Zingiberaceae",
+        "3": "Umbelliferae",
+        "4": "Apiaceae"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 148,
+      "question": "ICAR-Indian Institute of Spices Research is situated at:",
+      "options": {
+        "1": "Kerala",
+        "2": "Karnataka",
+        "3": "Assam",
+        "4": "Meghalaya"
+      },
+      "answer": [
+        1
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 149,
+      "question": "Cashew is native of:",
+      "options": {
+        "1": "India",
+        "2": "Brazil",
+        "3": "Burma",
+        "4": "Madagascar"
+      },
+      "answer": [
+        2
+      ],
+      "topic": "Strength of Materials"
+    },
+    {
+      "question_number": 150,
+      "question": "Elaeis guineensis is commonly known as:",
+      "options": {
+        "1": "Coconut",
+        "2": "Areca nut",
+        "3": "African oil palm",
+        "4": "Cacao"
+      },
+      "answer": [
+        3
+      ],
+      "topic": "Strength of Materials"
+    }
+  ]
+}

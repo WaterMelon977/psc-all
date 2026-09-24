@@ -19,6 +19,7 @@ from src.review_generator import ReviewGenerator
 from src.report_generator import ReportGenerator
 from src.local_ocr_extractor import LocalOcrExtractor
 from src.booklet_extractor import BookletExtractor
+from src.image_extractor import extract_question_images
 
 # Ensure utf-8 output on standard output across platforms
 if sys.stdout.encoding != "utf-8":
@@ -28,6 +29,7 @@ if sys.stdout.encoding != "utf-8":
         sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
 
 def run_conversion(pdf_path: str, topics_path: str, output_dir: str = None, exam: str = None, format_mode: str = None):
+    # format_mode values: None | 'cbt' | '1' | 'offline' | 'booklet' | '2' | 'graphic' | '3'
     start_time = time.time()
     pdf_file = Path(pdf_path).resolve()
     topics_file = Path(topics_path).resolve()
@@ -55,8 +57,12 @@ def run_conversion(pdf_path: str, topics_path: str, output_dir: str = None, exam
     print("Loading PDF...")
     auto_is_booklet = PDFExtractor.is_booklet_format(str(pdf_file))
     
+    is_graphic = False  # Graphic-Heavy CBT flag
+
     if format_mode:
-        is_booklet = (format_mode.lower() in ["offline", "booklet", "2"])
+        fmt = format_mode.lower()
+        is_booklet = fmt in ["offline", "booklet", "2"]
+        is_graphic  = fmt in ["graphic", "3"]
     else:
         # If running interactively in terminal, confirm with user
         detected_label = "Offline Booklet" if auto_is_booklet else "Online CBT"
@@ -67,12 +73,14 @@ def run_conversion(pdf_path: str, topics_path: str, output_dir: str = None, exam
                     f"\nSelect Format (detected: {detected_label}):\n"
                     f"  [1] Online CBT\n"
                     f"  [2] Offline Booklet\n"
+                    f"  [3] Graphic-Heavy CBT  (Engineering / diagram-heavy papers)\n"
                     f"Choice [{default_choice}]: "
                 )
                 user_choice = input(prompt).strip()
                 if not user_choice:
                     user_choice = default_choice
-                is_booklet = (user_choice in ["2", "offline", "booklet"])
+                is_booklet  = user_choice in ["2", "offline", "booklet"]
+                is_graphic   = user_choice in ["3", "graphic"]
             else:
                 is_booklet = auto_is_booklet
         except Exception:
@@ -102,7 +110,11 @@ def run_conversion(pdf_path: str, topics_path: str, output_dir: str = None, exam
             topic_distribution[topic] = topic_distribution.get(topic, 0) + 1
             structured_questions.append(q)
     else:
-        print("Detected Online CBT format.")
+        # ── Online CBT  or  Graphic-Heavy CBT ──────────────────────────────────
+        if is_graphic:
+            print("Graphic-Heavy CBT format selected (Engineering / diagram-heavy papers).")
+        else:
+            print("Detected Online CBT format.")
         extractor = PDFExtractor(str(pdf_file))
         raw_blocks, total_pages = extractor.extract()
 
@@ -116,6 +128,21 @@ def run_conversion(pdf_path: str, topics_path: str, output_dir: str = None, exam
         print(f"Retaining {len(english_blocks)} English questions.")
         print(f"Discarded {telugu_discarded} Telugu duplicates.")
 
+        # In Graphic-Heavy mode: extract images for blocks flagged has_images BEFORE text parsing
+        # (image crop uses raw PDF coordinates, independent of text parsing)
+        block_figures: dict = {}
+        if is_graphic:
+            img_candidates = [b for b in english_blocks if b.has_images]
+            if img_candidates:
+                print(f"Extracting diagram images for {len(img_candidates)} questions...")
+                for block in img_candidates:
+                    figs = extract_question_images(block, out_dir)
+                    if figs:
+                        block_figures[block.qnum] = figs
+                        print(f"  Q{block.qnum}: saved {len(figs)} figure(s)")
+            else:
+                print("No questions with embedded images detected.")
+
         print("Detecting answers...")
         print("Classifying topics...")
         question_parser = QuestionParser()
@@ -124,17 +151,25 @@ def run_conversion(pdf_path: str, topics_path: str, output_dir: str = None, exam
 
         for block in english_blocks:
             q_text, parsed_opts, parse_issues = question_parser.parse_block(block)
+            ocr_answer_text = ""  # direct textual answer from Final Key PDFs
 
             # Fallback to local RapidOCR strictly when question text or options could not be extracted (or options are blank image options)
             has_empty_options = len(parsed_opts) == 0 or all(not opt.text.strip() for opt in parsed_opts)
             if (not q_text.strip() or has_empty_options):
                 print(f"  [Local OCR Fallback] Question {block.qnum} has missing text/options. Extracting via RapidOCR...")
-                vis_text, vis_opts, vis_ans = ocr_extractor.extract(block)
-                if vis_text or vis_opts:
+                ocr_result = ocr_extractor.extract(block)
+                # extract() returns a 4-tuple: (text, opts, answers, answer_text)
+                vis_text, vis_opts, vis_ans, ocr_answer_text = ocr_result
+                if vis_text or vis_opts or ocr_answer_text:
                     if vis_text:
                         q_text = vis_text
-                    # Prefer text options if parsed_opts already had text
-                    if any(opt.text.strip() for opt in parsed_opts):
+                    if ocr_answer_text:
+                        # Final Key mode: answer is the text itself, no options list
+                        opts_dict = {}
+                        detected_answers = []
+                        ans_issues = []
+                    elif any(opt.text.strip() for opt in parsed_opts):
+                        # Prefer text options if parsed_opts already had text
                         opts_dict = {str(opt.number): opt.text for opt in parsed_opts}
                         detected_answers, ans_issues = answer_detector.detect_answers(parsed_opts)
                     else:
@@ -153,7 +188,7 @@ def run_conversion(pdf_path: str, topics_path: str, output_dir: str = None, exam
                 detected_answers, ans_issues = answer_detector.detect_answers(parsed_opts)
                 opts_dict = {str(opt.number): opt.text for opt in parsed_opts}
 
-            if detected_answers:
+            if detected_answers or ocr_answer_text:
                 answers_detected_count += 1
 
             topic, scores = topic_classifier.classify(q_text, opts_dict)
@@ -171,8 +206,11 @@ def run_conversion(pdf_path: str, topics_path: str, output_dir: str = None, exam
                 review_issues=all_issues,
                 topic_scores=scores,
                 exam=cleaned_exam_name,
+                figures=block_figures.get(block.qnum, []),
+                answer_text=ocr_answer_text,
             )
             structured_questions.append(q)
+
 
     # Markdown rendering
     print("Generating Markdown...")
@@ -273,9 +311,10 @@ def main():
         "--format",
         "-f",
         dest="format_mode",
-        choices=["cbt", "offline", "booklet"],
+        choices=["cbt", "offline", "booklet", "graphic"],
         default=None,
-        help="Force format mode: 'cbt' or 'offline' / 'booklet'."
+        help=("Force format mode: 'cbt' (Online CBT), 'offline'/'booklet' (Offline Booklet), "
+              "or 'graphic' (Graphic-Heavy CBT for engineering / diagram-heavy papers).")
     )
     args = parser.parse_args()
 

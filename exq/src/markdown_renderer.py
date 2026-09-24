@@ -68,6 +68,13 @@ class MarkdownRenderer:
             formatted = format_question_text(q.question_text) if q.question_text else "*(No text)*"
             lines.append(formatted)
             lines.append("")
+
+            # Insert figure image links for Graphic-Heavy CBT mode.
+            # Backward compatible: q.figures defaults to [], so standard papers are unaffected.
+            for fig_idx, fig_path in enumerate(q.figures or [], start=1):
+                lines.append(f"![Figure {fig_idx} for Q{q.question_number}]({fig_path})")
+                lines.append("")
+
             lines.append("### Options")
             lines.append("")
 
@@ -84,11 +91,15 @@ class MarkdownRenderer:
             lines.append("### Answer")
             lines.append("")
 
-            if q.answer:
+            if getattr(q, "answer_text", ""):
+                # Final Key mode: direct textual answer (no options list)
+                lines.append(f"> **Answer: {q.answer_text}**")
+            elif q.answer:
                 ans_str = ", ".join(str(a) for a in q.answer)
                 lines.append(f"> **Answer: {ans_str}**")
             else:
                 lines.append("> **Answer: None**")
+
 
             exam_val = q.exam or self.default_exam
             if exam_val:

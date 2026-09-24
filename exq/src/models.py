@@ -48,15 +48,25 @@ class Question:
     review_issues: List[str] = field(default_factory=list)
     topic_scores: Dict[str, float] = field(default_factory=dict)
     exam: str = ""
+    figures: List[str] = field(default_factory=list)
+    # Relative paths to cropped PNG diagram files, e.g. ['images/Q45_fig1.png']
+    # Populated only in Graphic-Heavy CBT mode; empty list for all other modes.
+    answer_text: str = ""
+    # Direct textual answer for Final Key PDFs where options are not listed.
+    # When set, options should be empty and answer (List[int]) should be empty.
+    # Backward compatible: defaults to "" so standard papers are unaffected.
 
     def to_dict(self) -> Dict[str, Any]:
-        return {
+        d = {
             "question_number": self.question_number,
             "question": self.question_text,
             "options": self.options,
             "answer": self.answer,
             "topic": self.topic,
         }
+        if self.answer_text:
+            d["answer_text"] = self.answer_text
+        return d
 
 @dataclass
 class ConversionReport:

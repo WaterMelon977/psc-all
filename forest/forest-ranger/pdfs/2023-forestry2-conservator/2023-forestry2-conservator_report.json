@@ -1,0 +1,24 @@
+{
+  "input_filename": "D:\\appsc-loaded\\forest\\forest-ranger\\pdfs\\2023-forestry2-conservator.pdf",
+  "processing_timestamp": "2026-09-24T06:37:13.821539",
+  "total_pages": 59,
+  "total_question_blocks_detected": 150,
+  "english_questions_retained": 150,
+  "telugu_questions_discarded": 0,
+  "questions_with_detected_answers": 150,
+  "review_items_count": 1,
+  "topic_distribution": {
+    "Strength of Materials": 145,
+    "Fluid Mechanics": 0,
+    "Material Science": 1,
+    "Theory of Machines": 0,
+    "Machine Design": 2,
+    "Thermodynamics": 0,
+    "Heat Transfer": 1,
+    "Refrigeration and Air Conditioning": 0,
+    "IC Engines": 0,
+    "Production Technology": 1
+  },
+  "warnings": [],
+  "duration_seconds": 1.57
+}
