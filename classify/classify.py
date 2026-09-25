@@ -172,7 +172,7 @@ def call_openrouter(prompt_content: str, system_prompt: str, api_key: str, model
         "response_format": {"type": "json_object"}
     }
 
-    max_retries = 5
+    max_retries = 8
     for attempt in range(max_retries):
         resp = requests.post(OPENROUTER_URL, headers=headers, json=payload, timeout=90)
         if resp.status_code == 200:
@@ -181,7 +181,7 @@ def call_openrouter(prompt_content: str, system_prompt: str, api_key: str, model
         
         # On rate limit (429) or transient provider errors (500, 502, 503, 504), wait and retry
         if resp.status_code in (429, 500, 502, 503, 504) and attempt < max_retries - 1:
-            wait_time = (2 ** attempt) * 3 + 2  # 5s, 8s, 14s, 26s...
+            wait_time = min(45, (2 ** attempt) * 2 + 3)
             print(f"  [Rate Limit / Transient {resp.status_code}] Retrying in {wait_time}s (attempt {attempt + 1}/{max_retries})...")
             time.sleep(wait_time)
             continue
@@ -467,7 +467,8 @@ def update_markdown_file(
     md_path: str,
     results_map: Dict[int, Dict[str, Any]],
     topics: Any,
-    output_path: Optional[str] = None
+    output_path: Optional[str] = None,
+    exam_tag: Optional[str] = None
 ) -> Path:
     p = Path(md_path).resolve()
     with open(p, "r", encoding="utf-8") as f:
@@ -552,6 +553,13 @@ def update_markdown_file(
                         lambda _: new_opts_section,
                         block_body
                     )
+
+        # 4. Update Exam tag if provided
+        if exam_tag:
+            if re.search(r"### Exam\s*\n\s*[^\n]+", block_body):
+                block_body = re.sub(r"### Exam\s*\n\s*[^\n]+", f"### Exam\n\n{exam_tag}", block_body)
+            else:
+                block_body = block_body.rstrip() + f"\n\n### Exam\n\n{exam_tag}\n"
 
         return f"## Question {q_num}{block_body}"
 
@@ -659,6 +667,7 @@ def main():
     parser.add_argument("-m", "--model", default=DEFAULT_MODEL, help=f"OpenRouter model (default: {DEFAULT_MODEL})")
     parser.add_argument("-k", "--api-key", default=None, help="OpenRouter API Key (or set OPENROUTER_API_KEY environment variable)")
     parser.add_argument("-b", "--batch-size", type=int, default=25, help="Number of questions per request (default: 25)")
+    parser.add_argument("-e", "--exam", default=None, help="Exam tag to set/update in questions (e.g. FSO-2020, FSO-2026)")
     parser.add_argument("--no-sort", action="store_true", help="Do not automatically sort/rearrange question blocks by topic")
 
     # Non-interactive CLI flags for mode override
@@ -709,6 +718,8 @@ def main():
     print(f"\nMode: {mode_desc}")
     print(f"Model: {args.model}")
     print(f"Questions: {len(questions)} | Batch Size: {args.batch_size}")
+    if args.exam:
+        print(f"Exam Tag: {args.exam}")
     print("Starting processing...\n")
 
     results_map = {}
@@ -729,7 +740,7 @@ def main():
 
     print(f"\nSuccessfully processed {len(results_map)} questions.")
 
-    out_file = update_markdown_file(args.md_file, results_map, hierarchy, args.output)
+    out_file = update_markdown_file(args.md_file, results_map, hierarchy, args.output, args.exam)
     print(f"Markdown file successfully updated: {out_file}")
 
     if not args.no_sort:

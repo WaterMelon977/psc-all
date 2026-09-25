@@ -240,7 +240,7 @@ def parse_markdown_questions(md_path):
                 note = f'Note: {parts[1].strip()}'
 
         opts = {}
-        if q_num == 24:
+        if q_num == 24 and '78%' in raw_o:
             opts = {'A': '', 'B': '78%', 'C': '8.89%', 'D': '9.62%'}
         else:
             for om in re.finditer(
@@ -248,17 +248,27 @@ def parse_markdown_questions(md_path):
                 raw_o, re.DOTALL
             ):
                 letter = ans_map.get(om.group(1), om.group(1))
-                opts[letter] = re.sub(r'\s+', ' ', om.group(2).strip())
+                val = re.sub(r'\s+', ' ', om.group(2).strip())
+                if val:
+                    opts[letter] = val
+
+        has_options = bool(any(opts.values()))
 
         if not raw_ans or raw_ans.lower() == 'none':
             ans_display = 'None'
+        elif not has_options:
+            # When there are no options, display the answer directly without letter conversion
+            ans_display = clean_md(raw_ans)
         else:
             tokens = [t.strip() for t in raw_ans.split(',')]
-            ans_display = ', '.join(f'({ans_map.get(t, t)})' for t in tokens)
+            ans_display = ', '.join(
+                f'({ans_map.get(t, t)})' if t in ans_map or len(t) == 1 else t
+                for t in tokens
+            )
 
         questions.append(dict(
             q_num=q_num, topic=topic, subtopic=subtopic, q_text=raw_q,
-            options=opts, raw_ans=raw_ans,
+            options=opts, has_options=has_options, raw_ans=raw_ans,
             ans_display=ans_display, exam=clean_exam, note=note,
             fig_paths=fig_paths,
         ))
@@ -600,39 +610,51 @@ def generate_topicwise_pdf(md_input_path, pdf_output_path, header_override=None,
                     q['q_num'], q['q_text'], col_w, ST, Q_HANG
                 )
 
-                # 2. Options: rigid 2-col grid, indented to align below question body
-                opts   = q['options']
-                opt_a  = opts.get('A', '')
-                opt_b  = opts.get('B', '')
-                opt_c  = opts.get('C', '')
-                opt_d  = opts.get('D', '')
+                # 2. Options: rigid 2-col grid if options exist, indented to align below question body
+                has_opts = q.get('has_options', False)
+                ans_block = []
 
-                lbl_a = f'<font fontName="{FONT_BOLD}">(A)</font>\u00a0'
-                lbl_b = f'<font fontName="{FONT_BOLD}">(B)</font>\u00a0'
-                lbl_c = f'<font fontName="{FONT_BOLD}">(C)</font>\u00a0'
-                lbl_d = f'<font fontName="{FONT_BOLD}">(D)</font>\u00a0'
+                if has_opts:
+                    opts   = q['options']
+                    opt_a  = opts.get('A', '')
+                    opt_b  = opts.get('B', '')
+                    opt_c  = opts.get('C', '')
+                    opt_d  = opts.get('D', '')
 
-                p_a = Paragraph(f'{lbl_a}{clean_md(opt_a)}', ST['OptText'])
-                p_b = Paragraph(f'{lbl_b}{clean_md(opt_b)}', ST['OptText'])
-                p_c = Paragraph(f'{lbl_c}{clean_md(opt_c)}', ST['OptText'])
-                p_d = Paragraph(f'{lbl_d}{clean_md(opt_d)}', ST['OptText'])
+                    lbl_a = f'<font fontName="{FONT_BOLD}">(A)</font>\u00a0'
+                    lbl_b = f'<font fontName="{FONT_BOLD}">(B)</font>\u00a0'
+                    lbl_c = f'<font fontName="{FONT_BOLD}">(C)</font>\u00a0'
+                    lbl_d = f'<font fontName="{FONT_BOLD}">(D)</font>\u00a0'
 
-                opts_inner_w  = col_w - OPT_IND - 4
-                max_len = max(len(opt_a), len(opt_b), len(opt_c), len(opt_d))
+                    p_a = Paragraph(f'{lbl_a}{clean_md(opt_a)}', ST['OptText'])
+                    p_b = Paragraph(f'{lbl_b}{clean_md(opt_b)}', ST['OptText'])
+                    p_c = Paragraph(f'{lbl_c}{clean_md(opt_c)}', ST['OptText'])
+                    p_d = Paragraph(f'{lbl_d}{clean_md(opt_d)}', ST['OptText'])
 
-                if max_len <= 26 and '\n' not in (opt_a + opt_b + opt_c + opt_d):
-                    hw = opts_inner_w / 2.0
-                    t_opts = Table([[p_a, p_b], [p_c, p_d]], colWidths=[hw, hw])
+                    opts_inner_w  = col_w - OPT_IND - 4
+                    max_len = max(len(opt_a), len(opt_b), len(opt_c), len(opt_d))
+
+                    if max_len <= 26 and '\n' not in (opt_a + opt_b + opt_c + opt_d):
+                        hw = opts_inner_w / 2.0
+                        t_opts = Table([[p_a, p_b], [p_c, p_d]], colWidths=[hw, hw])
+                    else:
+                        t_opts = Table([[p_a], [p_b], [p_c], [p_d]], colWidths=[opts_inner_w])
+
+                    t_opts.setStyle(TableStyle([
+                        ('VALIGN',        (0, 0), (-1, -1), 'TOP'),
+                        ('LEFTPADDING',   (0, 0), (-1, -1), 2),
+                        ('RIGHTPADDING',  (0, 0), (-1, -1), 2),
+                        ('TOPPADDING',    (0, 0), (-1, -1), 1),
+                        ('BOTTOMPADDING', (0, 0), (-1, -1), 2),
+                    ]))
+
+                    ans_block.extend([
+                        Spacer(1, 5),
+                        indented(t_opts, OPT_IND, col_w),
+                        Spacer(1, 4),
+                    ])
                 else:
-                    t_opts = Table([[p_a], [p_b], [p_c], [p_d]], colWidths=[opts_inner_w])
-
-                t_opts.setStyle(TableStyle([
-                    ('VALIGN',        (0, 0), (-1, -1), 'TOP'),
-                    ('LEFTPADDING',   (0, 0), (-1, -1), 2),
-                    ('RIGHTPADDING',  (0, 0), (-1, -1), 2),
-                    ('TOPPADDING',    (0, 0), (-1, -1), 1),
-                    ('BOTTOMPADDING', (0, 0), (-1, -1), 2),
-                ]))
+                    ans_block.append(Spacer(1, 4))
 
                 # 3. Answer strip: subtle gray background, single line
                 ans_w    = col_w - OPT_IND
@@ -678,12 +700,7 @@ def generate_topicwise_pdf(md_input_path, pdf_output_path, header_override=None,
                             # Silently skip unreadable/corrupt image files
                             pass
 
-                ans_block = [
-                    Spacer(1, 5),
-                    indented(t_opts, OPT_IND, col_w),
-                    Spacer(1, 4),
-                    indented(ans_strip, OPT_IND, col_w),
-                ]
+                ans_block.append(indented(ans_strip, OPT_IND, col_w))
 
                 if q['note']:
                     ans_block.append(Spacer(1, 2))

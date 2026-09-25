@@ -123,31 +123,43 @@ def extract_question_blocks(file_path: Path) -> List[Dict[str, Any]]:
 
 
 def compile_questions(
-    source_dir: str,
-    output_file: str,
+    source_dir: Optional[str] = None,
+    output_file: str = "fso-all.md",
     topics_file: str = "classify/topics.md",
-    renumber: bool = True
+    renumber: bool = True,
+    files: Optional[List[str]] = None
 ) -> Path:
     """
-    Compiles all markdown question files in source_dir into output_file,
+    Compiles markdown question files into output_file,
     sorted by topic and subtopic according to topics_file.
     """
-    source_path = Path(source_dir).resolve()
     out_path = Path(output_file).resolve()
     hierarchy = load_topic_hierarchy(topics_file)
     topics = list(hierarchy.keys())
 
-    # Collect source files (excluding output_file if in the same directory)
-    md_files = sorted([
-        f for f in source_path.glob("*.md")
-        if f.resolve() != out_path
-    ])
+    md_files: List[Path] = []
+    if files:
+        for f in files:
+            p = Path(f).resolve()
+            if p.exists() and p.is_file():
+                if p != out_path:
+                    md_files.append(p)
+            else:
+                raise FileNotFoundError(f"File not found: {f}")
+    elif source_dir:
+        source_path = Path(source_dir).resolve()
+        md_files = sorted([
+            f for f in source_path.glob("*.md")
+            if f.resolve() != out_path
+        ])
+    else:
+        raise ValueError("Either source_dir or files must be provided.")
 
     if not md_files:
-        raise FileNotFoundError(f"No markdown files found in {source_dir}")
+        raise FileNotFoundError(f"No markdown files found to compile.")
 
     print(f"Loaded {len(topics)} topics from: {topics_file}")
-    print(f"Found {len(md_files)} markdown files in: {source_dir}")
+    print(f"Compiling {len(md_files)} markdown files: {[f.name for f in md_files]}")
 
     # Group questions by topic -> subtopic -> list
     grouped_questions = defaultdict(lambda: defaultdict(list))
@@ -257,14 +269,19 @@ def main():
         description="Compile and merge markdown questions into a unified document sorted by topic and subtopic without topic index."
     )
     parser.add_argument(
+        "files",
+        nargs="*",
+        help="Specific markdown files to compile (e.g. 2026-forestry.md 2020-forestry.md)"
+    )
+    parser.add_argument(
         "-i", "--input-dir",
-        default="gsma",
-        help="Directory containing source markdown files (default: gsma)"
+        default=None,
+        help="Directory containing source markdown files (default: None)"
     )
     parser.add_argument(
         "-o", "--output",
-        default="gsma/gsma-all.md",
-        help="Output markdown file path (default: gsma/gsma-all.md)"
+        default=None,
+        help="Output markdown file path"
     )
     parser.add_argument(
         "-t", "--topics",
@@ -278,11 +295,26 @@ def main():
     )
 
     args = parser.parse_args()
+
+    # Determine default output if not provided
+    if not args.output:
+        if args.input_dir:
+            args.output = f"{args.input_dir.rstrip('/\\\\')}-all.md"
+        else:
+            args.output = "fso-all.md"
+
+    if not args.files and not args.input_dir:
+        # Default fallback to gsma
+        args.input_dir = "gsma"
+        if args.output == "fso-all.md":
+            args.output = "gsma/gsma-all.md"
+
     compile_questions(
         source_dir=args.input_dir,
         output_file=args.output,
         topics_file=args.topics,
-        renumber=not args.no_renumber
+        renumber=not args.no_renumber,
+        files=args.files if args.files else None
     )
 
 

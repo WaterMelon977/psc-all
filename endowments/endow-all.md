@@ -13,10 +13,10 @@ Who has been called Devarshi in ‘Ramayana’?
 
 ### Options
 
-1. Valmiki ࢐ࡰघ ړ
+1. Valmiki
 2. Vishwamitra
-3. Narada ߕర޶ݡ
-4. Vashishtha వࢢࢵध ݡ
+3. Narada
+4. Vashishtha
 
 ### Answer
 
@@ -41,7 +41,7 @@ What was the name of the younger brother of King Janak?
 
 1. Kushdhvaja
 2. Viradhvaja
-3. Sudhanva ࣆధߘछ ݡ
+3. Sudhanva
 4. Saumitra
 
 ### Answer
@@ -66,9 +66,9 @@ Who said “Rama is dharma incarnate” (Rāmō vigrahavān dharmaḥ)?
 ### Options
 
 1. Hanuman
-2. Sugriva ࣆऴڶ࢓ݡ
-3. Ravana ࡌవރݡ
-4. Maricha ࠪࡎ۪ݡ
+2. Sugriva
+3. Ravana
+4. Maricha
 
 ### Answer
 
@@ -92,8 +92,8 @@ Which sage performed the ‘Putreshti Yaga’ of Dasaratha?
 ### Options
 
 1. Vishwamitra
-2. Vashishtha వࢢࢵध ݡ
-3. Valmiki ࢐ࡰघ ړ
+2. Vashishtha
+3. Valmiki
 4. Rushyasrunga
 
 ### Answer
@@ -117,10 +117,10 @@ Who stole the sacrificial horse released by King Sagara?
 
 ### Options
 
-1. Indra ఇంऴ޶ݡ
-2. Vishnu ࢑ࢵप ࢓
-3. Ravana ࡌవރݡ
-4. Bhagirath భڶరޥݡ
+1. Indra
+2. Vishnu
+3. Ravana
+4. Bhagirath
 
 ### Answer
 
@@ -146,7 +146,7 @@ Name of the sage, who recited Aditya’s heart hymn (Ādityah̥rdayastōtra) to 
 1. Agastya
 2. Vishwamitra
 3. Matanga Rishi
-4. Vashishtha వࢢࢵध ݡ
+4. Vashishtha
 
 ### Answer
 
@@ -172,7 +172,7 @@ Vishwamitra was also called:
 1. Raghava
 2. Manava
 3. Gadheya
-4. Saurya ࢭࡏङ ݡ
+4. Saurya
 
 ### Answer
 
@@ -190,23 +190,19 @@ Phil_Temple_2021
 **Subtopic:** Characters
 
 ### Question
-
 Who was Mandodari and what was her lineage?
 
 ### Options
-
 1. Ravana's sister and daughter of Sage Vishrava
 2. Ravana's wife and daughter of the demon Mayasura
 3. Vibhishana's wife and daughter of the Ocean God
 4. Shurpanakha's daughter and queen of Lanka
 
 ### Answer
-
 > **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -216,23 +212,19 @@ Phil-temple-2025
 **Subtopic:** Characters
 
 ### Question
-
 Who killed the demoness Tataka, and why?
 
 ### Options
-
 1. Rama, because she attacked Vishwamitra's hermitage
 2. Lakshmana, because she insulted Rama
 3. Rama, under Vishwamitra's order, despite her being a woman
 4. Bharata, during the search for Rama
 
 ### Answer
-
 > **Answer: 3**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -242,23 +234,19 @@ Phil-temple-2025
 **Subtopic:** Characters
 
 ### Question
-
 Who was Shabari?
 
 ### Options
-
 1. A sage who gave Rama a bow
 2. Rama's devotee living in a forest
 3. A rakshasi who later became a devotee
 4. A queen who donated her kingdom to Rama
 
 ### Answer
-
 > **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -268,23 +256,19 @@ Phil-temple-2025
 **Subtopic:** Characters
 
 ### Question
-
-According to the Yuddha Kanda,which weapon did Rama use to kill Ravana ?
+According to the Yuddha Kanda, which weapon did Rama use to kill Ravana?
 
 ### Options
-
 1. Narayanastra
 2. Agneyastra
 3. Brahmastra
 4. Indrastra
 
 ### Answer
-
 > **Answer: 3**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -294,23 +278,19 @@ Phil-temple-2025
 **Subtopic:** Characters
 
 ### Question
-
-Who has been called Daasharathiin‘Ramayana'?
+Who has been called Daasharathi in 'Ramayana'?
 
 ### Options
-
 1. Vali
 2. Hanuma
 3. Rama
 4. Dasharatha
 
 ### Answer
-
 > **Answer: 3**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -320,23 +300,19 @@ Phil-temple-2025
 **Subtopic:** Characters
 
 ### Question
-
-What is the nameof Lakshmana'swife?
+What is the name of Lakshmania's wife?
 
 ### Options
-
 1. Mandodari
 2. Uttara
-3. Uurmila
+3. Urmila
 4. Priyamvada
 
 ### Answer
-
 > **Answer: 3**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -374,23 +350,19 @@ Phil_Temple_2021
 **Subtopic:** Kandaas (Parts)
 
 ### Question
-
-What istheSecondChapter (Kanda)of Ramayana?
+What is the Second Chapter (Kanda) of Ramayana?
 
 ### Options
-
 1. Aranyakanda
 2. Balakanda
 3. Ayodhyakanda
 4. Sundarakanda
 
 ### Answer
-
 > **Answer: 3**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -409,8 +381,8 @@ What was the name of King Dasharatha's father?
 
 1. Raghu
 2. Nabhaga
-3. Dilipa ޴ࡰߩݡ
-4. Aja అ܉ޔݡ
+3. Dilipa
+4. Aja
 
 ### Answer
 
@@ -433,8 +405,8 @@ Solar dynasty (Surya Vansha) was founded by:
 
 ### Options
 
-1. Kuru ڕࡏ
-2. Pururavas ߩࡐర࢓ݡ
+1. Kuru
+2. Pururavas
 3. Ikshvaku
 4. Raghu
 
@@ -454,23 +426,19 @@ Phil_Temple_2021
 **Subtopic:** Dynasties
 
 ### Question
-
-Which dynasty did Lord Rama belongto?
+Which dynasty did Lord Rama belong to?
 
 ### Options
-
-1. YadavaDynasty
-2. MauryaDynasty
-3. Suryavansha
-4. Chandravansha
+1. Yadava Dynasty
+2. Maurya Dynasty
+3. Suryavansha (Surya Dynasty)
+4. Chandravansha (Chandra Dynasty)
 
 ### Answer
-
 > **Answer: 3**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -488,7 +456,7 @@ On the advice of sage Agastya, at which place did Rama start living by building 
 ### Options
 
 1. Prayaga
-2. Kishkindha ړࢳए ంధ
+2. Kishkindha
 3. Panchavati
 4. Anjanadri
 
@@ -534,23 +502,19 @@ Phil_Temple_2021
 **Subtopic:** Places & Geography
 
 ### Question
-
-Which place in the Ramayana is associated with the exile period and is believed to be where Sita was abducted by Ravana ?t
+Which place in the Ramayana is associated with the exile period and is believed to be where Sita was abducted by Ravana?
 
 ### Options
-
 1. Panchavati
 2. Chitrakoot
 3. Dandakaranya
 4. Kishkindha
 
 ### Answer
-
 > **Answer: 1**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -560,23 +524,19 @@ Phil-temple-2025
 **Subtopic:** Places & Geography
 
 ### Question
-
 What is the name of the mountain to which Hanuman went to obtain the Sanjeevani herb?
 
 ### Options
-
 1. Mahendragiri
 2. Kailasha
 3. Gandhamadana
 4. Dronagiri
 
 ### Answer
-
-> **Answer: 4**
+> **Answer: 3**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -596,8 +556,8 @@ Who was the priest of the Pandavas?
 ### Options
 
 1. Vedavyasa
-2. Drona ऴ޾ރݡ
-3. Dhoumya ߐ࠭ङ ݡ
+2. Drona
+3. Dhoumya
 4. Vishwamitra
 
 ### Answer
@@ -621,10 +581,10 @@ Who is known as Gangeya in ‘Mahabharata’?
 
 ### Options
 
-1. Krishna కృࢵप ݡ
-2. Arjuna అࡏणߘݡ
-3. Karna కࡏपݡ
-4. Bhishma ࠛࢵघ ݡ
+1. Krishna
+2. Arjuna
+3. Karna
+4. Bhishma
 
 ### Answer
 
@@ -647,10 +607,10 @@ What was the name of Drona's brother-in-law?
 
 ### Options
 
-1. Shalya శࡱङ ݡ
+1. Shalya
 2. Kripacharya
-3. Drupada ऴ޶ప޶ݡ
-4. Vidura ࢑޶ࡏݡ
+3. Drupada
+4. Vidura
 
 ### Answer
 
@@ -673,10 +633,10 @@ Mahadev fought with Arjuna while under the disguise of ____________.
 
 ### Options
 
-1. Indra ఇంऴ޶ݡ
-2. Kirata ړࡌޔݡ
+1. Indra
+2. Kirata
 3. Gandharva
-4. Yaksha యंݡ
+4. Yaksha
 
 ### Answer
 
@@ -699,8 +659,8 @@ Who gave his thumb as ‘Gurudakshina’ to Dronacharya?
 
 ### Options
 
-1. Arjuna అࡏणߘݡ
-2. Karna కࡏपݡ
+1. Arjuna
+2. Karna
 3. Ekalavya
 4. Duryodhana
 
@@ -725,10 +685,10 @@ Who narrated ‘Vishnu Sahasranama Stotra’ to Yudhishthira?
 
 ### Options
 
-1. Suta ࣇޔݡ
-2. Shaunaka ࢭనڕݡ
+1. Suta
+2. Shaunaka
 3. Vaishmpayana
-4. Bhishma ࠛࢵघ ݡ
+4. Bhishma
 
 ### Answer
 
@@ -779,8 +739,8 @@ Who is known as Deva Guru (teacher of the gods)?
 
 1. Brihaspathi
 2. Brahma
-3. Vashishtha వࢢࢵध ݡ
-4. Dadhichi ద߆ۨ
+3. Vashishtha
+4. Dadhichi
 
 ### Answer
 
@@ -806,7 +766,7 @@ Which of the following is the vehicle of Lord Shiva?
 1. Nandiswara
 2. Garuda
 3. Lion
-4. Peacock ߜమ࡯
+4. Peacock
 
 ### Answer
 
@@ -824,23 +784,19 @@ Phil_Temple_2021
 **Subtopic:** Characters
 
 ### Question
-
-Among these, Shukracharya is the teacher of whom ?
+Among these, Shukracharya is the teacher of whom?
 
 ### Options
-
 1. For gods
-2. Forhumans
-3. Fordemons
-4. For yakhshas
+2. For humans
+3. For demons
+4. For yakshas
 
 ### Answer
-
 > **Answer: 3**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -850,23 +806,19 @@ Phil-temple-2025
 **Subtopic:** Characters
 
 ### Question
-
-What uniqueweapon didArjuna receivefrom Lord Shiva?
+What unique weapon did Arjuna receive from Lord Shiva?
 
 ### Options
-
 1. Vajrayudha
 2. Sudarshana Chakra
 3. Brahmastra
 4. Pashupatastra
 
 ### Answer
-
 > **Answer: 4**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -876,23 +828,19 @@ Phil-temple-2025
 **Subtopic:** Characters
 
 ### Question
-
-WhokilledDronacharyaintheKurukshetrawar?
+Who killed Dronacharya in the Kurukshetra war?
 
 ### Options
-
 1. Arjuna
 2. Bhima
 3. Dhrishtadyumna
 4. Yudhishthira
 
 ### Answer
-
 > **Answer: 3**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -902,23 +850,19 @@ Phil-temple-2025
 **Subtopic:** Characters
 
 ### Question
-
-Who was the onlywarriorwho survived fromtheKaurava sideafter thewar?
+Who was the only warrior who survived from the Kaurava side after the war?
 
 ### Options
-
 1. Dushasana
 2. Shakuni
 3. Ashwatthama
 4. Karna
 
 ### Answer
-
 > **Answer: 3**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -928,23 +872,19 @@ Phil-temple-2025
 **Subtopic:** Characters
 
 ### Question
-
 What curse did Arjuna suffer when he rejected Urvashi's advances in Indra's court?
 
 ### Options
-
-1. Hewouldneverbeabletomarry
-2. Hewouldbebornasaeunuchinhisnextlife
-3. Hewouldloseallinterestinwomen
-4. He would liveas a eunuch for one year
+1. He would never be able to marry
+2. He would be born as a eunuch in his next life
+3. He would lose all interest in women
+4. He would live as a eunuch for one year
 
 ### Answer
-
 > **Answer: 4**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -954,23 +894,19 @@ Phil-temple-2025
 **Subtopic:** Characters
 
 ### Question
-
 Before the Kurukshetra war, who went to Hastinapura as a peace envoy on behalf of the Pandavas?
 
 ### Options
-
 1. Vidura
 2. Krishna
 3. Yudhishthira
 4. Sanjaya
 
 ### Answer
-
 > **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -980,23 +916,19 @@ Phil-temple-2025
 **Subtopic:** Characters
 
 ### Question
-
-WhotaughttheMahabharatatoJanamejaya?
+Who taught the Mahabharata to Janamejaya?
 
 ### Options
-
 1. Vyasa
 2. Vaisampayana
 3. Shuka
-4. Asteeka
+4. Asticeka
 
 ### Answer
-
 > **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -1006,23 +938,19 @@ Phil-temple-2025
 **Subtopic:** Characters
 
 ### Question
-
-WhatistherealnameofBhishma?
+What is the real name of Bhishma?
 
 ### Options
-
 1. Devadatta
 2. Devavrata
 3. Dhanunjaya
 4. Yudhishtira
 
 ### Answer
-
 > **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -1032,23 +960,19 @@ Phil-temple-2025
 **Subtopic:** Characters
 
 ### Question
-
-Whobrought Ganga to the earth?
+Who brought Ganga to the earth?
 
 ### Options
-
 1. Bhagiratha
 2. Dileepa
 3. Sagara
 4. Raghu
 
 ### Answer
-
 > **Answer: 1**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -1058,23 +982,19 @@ Phil-temple-2025
 **Subtopic:** Characters
 
 ### Question
-
-Who practiced the Sarpa Yaga ?
+Who practiced the Sarpa Yaga?
 
 ### Options
-
 1. Parikshit
 2. Janamejaya
 3. Aswatthama
 4. Arjuna
 
 ### Answer
-
 > **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -1084,23 +1004,19 @@ Phil-temple-2025
 **Subtopic:** Characters
 
 ### Question
-
-Whoisthemotherof snakes?
+Who is the mother of snakes?
 
 ### Options
-
 1. Kadru
 2. Vinata
 3. Diti
 4. Aditi
 
 ### Answer
-
 > **Answer: 1**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -1110,23 +1026,19 @@ Phil-temple-2025
 **Subtopic:** Characters
 
 ### Question
-
-Who are theparents of Vyasa Maharshi?
+Who are the parents of Vyasa Maharshi?
 
 ### Options
-
-1. Aditi-Kashyapa
-2. Satyavati-Parashara
-3. Devaki- Vasudeva
-4. Arundhati--Vasishta
+1. Aditi - Kashyapa
+2. Satyavati - Parashara
+3. Devaki - Vasudeva
+4. Arundhati - Vasishta
 
 ### Answer
-
 > **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -1136,23 +1048,19 @@ Phil-temple-2025
 **Subtopic:** Characters
 
 ### Question
-
 Who taught Drona the arts of war?
 
 ### Options
-
 1. Sandipani
 2. Parashurama
 3. Bhishma
 4. Parashara
 
 ### Answer
-
 > **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -1162,23 +1070,19 @@ Phil-temple-2025
 **Subtopic:** Characters
 
 ### Question
-
 What is the original name of Sutapauranika?
 
 ### Options
-
 1. Dalbhya
 2. Badarayana
 3. Romaharshana
 4. Kahola
 
 ### Answer
-
 > **Answer: 3**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -1188,23 +1092,19 @@ Phil-temple-2025
 **Subtopic:** Characters
 
 ### Question
-
 Sahadeva's name in the incognito existence of the Pandavas for the last year of their exile was
 
 ### Options
-
 1. Kankubhatt
 2. Tantipala
 3. Valala
 4. Damagranthi
 
 ### Answer
-
 > **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -1214,23 +1114,19 @@ Phil-temple-2025
 **Subtopic:** Characters
 
 ### Question
-
-WhoisDuryodhana'ssister?
+Who is Duryodhana's sister?
 
 ### Options
-
 1. Shakuntala
-2. Dusshala
-3. Vishala
+2. Vishala
+3. Dusshala
 4. Subala
 
 ### Answer
-
-> **Answer: 2**
+> **Answer: 3**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -1276,7 +1172,7 @@ In which ‘Parva’ of Mahabharata did Krishna preach the Bhagavad Gita to Arju
 1. Drona Parva
 2. Bhishma Parva
 3. Ashram Parva
-4. Souptika Parva 3. Surplus Funds 4. Employees Welfare Fund ߖ߅
+4. Souptika Parva
 
 ### Answer
 
@@ -1320,23 +1216,19 @@ Phil_Temple_2021
 **Subtopic:** Parvaas (Parts)
 
 ### Question
-
-How manyParvas are there in theMahabharata?
+How many Parvas are there in the Mahabharata?
 
 ### Options
-
 1. 16
 2. 18
 3. 12
 4. 20
 
 ### Answer
-
 > **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -1346,23 +1238,19 @@ Phil-temple-2025
 **Subtopic:** Parvaas (Parts)
 
 ### Question
-
-On whichday of the Kurukshetra war was Bhishma fatally wounded and forced to lie on a bed ofarrows?
+On which day of the Kurukshetra war was Bhishma fatally wounded and forced to lie on a bed of arrows?
 
 ### Options
-
 1. 5th day
-2. 10th day)
+2. 10th day
 3. 12th day
 4. 15th day
 
 ### Answer
-
 > **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -1372,23 +1260,19 @@ Phil-temple-2025
 **Subtopic:** Parvaas (Parts)
 
 ### Question
-
-In which chapter of the Bhagavad Gita does Lord Krishna describe the concept of the“Kshetra" and"Kshetrajna"?
+In which chapter of the Bhagavad Gita does Lord Krishna describe the concept of the "Kshetra" and "Kshetrajna"?
 
 ### Options
-
 1. Chapter 10
-2. Chapter13
+2. Chapter 13
 3. Chapter 12
 4. Chapter 15
 
 ### Answer
-
 > **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -1398,23 +1282,19 @@ Phil-temple-2025
 **Subtopic:** Parvaas (Parts)
 
 ### Question
-
 According to Bhagavad Gita, which of the following is not one of the three gunas (qualities) of material nature?
 
 ### Options
-
 1. Sattva
 2. Tamasu
 3. Rajasu
 4. Atma
 
 ### Answer
-
 > **Answer: 4**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -1424,23 +1304,19 @@ Phil-temple-2025
 **Subtopic:** Parvaas (Parts)
 
 ### Question
-
-According to the Bhagavad Gita,Krishna tells Arjuna that he has the right to perform his duty, but not to claim what?
+According to the Bhagavad Gita, Krishna tells Arjuna that he has the right to perform his duty, but not to claim what?
 
 ### Options
-
 1. Ask for help
-2. Expectfame
+2. Expect fame
 3. Abandon action
-4. Thefruits of his actions
+4. The fruits of his actions
 
 ### Answer
-
 > **Answer: 4**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -1450,23 +1326,19 @@ Phil-temple-2025
 **Subtopic:** Parvaas (Parts)
 
 ### Question
-
 As stated in the Bhagavad Gita, which power or discipline does Krishna describe as capable of burning all karmic bondage to ashes?
 
 ### Options
-
 1. Meditation
 2. Fasting
 3. Selfless service
-4. Trueknowledge
+4. True knowledge (Jnana)
 
 ### Answer
-
 > **Answer: 4**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -1476,23 +1348,19 @@ Phil-temple-2025
 **Subtopic:** Parvaas (Parts)
 
 ### Question
-
 Which is the last episode of Mahabharata?
 
 ### Options
-
 1. Shalya Parva
-2. AnushasanaParva
+2. Anushasana Parva
 3. Bhishma Parva
 4. Swargarohana Parva
 
 ### Answer
-
 > **Answer: 4**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -1565,7 +1433,7 @@ In which area did the Pandavas seek shelter after escaping from the lacquer hous
 
 1. Maghadha
 2. Ekachakrapura
-3. Kausambhi ڞࢡంࠚ
+3. Kausambhi
 4. Indraprastha
 
 ### Answer
@@ -1615,10 +1483,10 @@ Maghadha is situated in which place of modern India?
 
 ### Options
 
-1. Bihar ࠊ࡛ࣔ
-2. Rajasthan ࡌజࣃब ߤ
+1. Bihar
+2. Rajasthan
 3. Himachal Pradesh
-4. Delhi ߙङ ݰࡰऱ
+4. Delhi
 
 ### Answer
 
@@ -1636,23 +1504,19 @@ Phil_Temple_2021
 **Subtopic:** Places & Geography
 
 ### Question
-
-The Karna was theking of which country?
+The Karna was the king of which country?
 
 ### Options
-
 1. To the Anga
 2. To the Vanga
-3. To theKalinga
+3. To the Kalinga
 4. To the Chedi
 
 ### Answer
-
 > **Answer: 1**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -1671,10 +1535,10 @@ The Bhagavata Purana belongs to whom among the following?
 
 ### Options
 
-1. Vishnu ࢑ࢵप ࢓
-2. Shiva ࢢ࢓ݡ
+1. Vishnu
+2. Shiva
 3. Brahma
-4. Indra ఇంऴ޶ݡ
+4. Indra
 
 ### Answer
 
@@ -1697,10 +1561,10 @@ According to Bhagavata Purana, the husband of Diti was:
 
 ### Options
 
-1. Marichi మࡎ۪ݡ
+1. Marichi
 2. Angirasa
 3. Pulasthya
-4. Kashyapa కశङ ߩݡ
+4. Kashyapa
 
 ### Answer
 
@@ -1723,10 +1587,10 @@ Which of the following is the feminine form of Vishnu helping Devatas to retain 
 
 ### Options
 
-1. Lakshami లऀघ
+1. Lakshami
 2. Padma
-3. Mohini ࠵ࣕߖ
-4. Aditi అ޴ޒ
+3. Mohini
+4. Aditi
 
 ### Answer
 
@@ -1744,23 +1608,19 @@ Phil_Temple_2021
 **Subtopic:** Characters
 
 ### Question
-
-Who narrated the Srimad Bhagavatam to King Pariksit?
+Who narrated the Srimad Bhagavatam to King Parikshit?
 
 ### Options
-
 1. Veda Vyasa
-2. Suka Maharshi
-3. NaradaMuni
-4. SanatKumara
+2. Sukta Maharshi
+3. Narada Muni
+4. Sanat Kumara
 
 ### Answer
-
 > **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -1770,23 +1630,19 @@ Phil-temple-2025
 **Subtopic:** Characters
 
 ### Question
-
-Which incarnation of Lord Vishnu appeared to return the Vedas that had been stolen by the demon Somakasurudu?
+Which incarnation of Lord Vishnu appeared to return the Vedas that had been stolen by the demon Somakaasurudu?
 
 ### Options
-
 1. Kurma
 2. Matsya
 3. Varaha
 4. Narasimha
 
 ### Answer
-
 > **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -1796,23 +1652,19 @@ Phil-temple-2025
 **Subtopic:** Characters
 
 ### Question
-
-Which incarnation of LordVishnu lifted Govardhana Hill?
+Which incarnation of Lord Vishnu lifted Govardhana Hill?
 
 ### Options
-
 1. Kurma
 2. Rama
 3. Vamana
-4. 
+4. Sri Krishna
 
 ### Answer
-
-> **Answer: None**
+> **Answer: 4**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -1822,23 +1674,19 @@ Phil-temple-2025
 **Subtopic:** Characters
 
 ### Question
-
-Who was thedemonkilledbyLord Varaha in theBhagavatam?
+Who was the demon killed by Lord Varaha in the Bhagavatam?
 
 ### Options
-
-1. Hiranyakasipu
-2. Hiranyaksa
+1. Hiranyakashipu
+2. Hiranyaksha
 3. Ravana
 4. Baka
 
 ### Answer
-
 > **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -1848,23 +1696,19 @@ Phil-temple-2025
 **Subtopic:** Characters
 
 ### Question
-
-What was the cursegiven bythe sage that led toKing Pariksit's death?
+What was the curse given by the sage that led to King Parikshit's death?
 
 ### Options
-
-1. Hewouldbeturned intoa demon
-2. Hewould losehiskingdom
-3. Hewouldbekilledbya snakebite
+1. He would be turned into a demon
+2. He would lose his kingdom
+3. He would be killed by a snake bite
 4. He would forget all scriptures
 
 ### Answer
-
 > **Answer: 3**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -1874,23 +1718,19 @@ Phil-temple-2025
 **Subtopic:** Characters
 
 ### Question
-
-Who instructed thegoddess of devotion to sing Kesavakirtanam in the Bhagavatam?
+Who instructed the goddess of devotion to sing Kesavakirtanam in the Bhagavatam?
 
 ### Options
-
 1. Narada
 2. Sanaka
 3. Vaishampayana
 4. Parashara
 
 ### Answer
-
 > **Answer: 1**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -1900,23 +1740,19 @@ Phil-temple-2025
 **Subtopic:** Characters
 
 ### Question
-
-Why did Krishnadvaipayana Maharshi get the name Vyasa?
+Why did Krishnaadvaiayana Maharshi get the name Vyasa?
 
 ### Options
-
-1. ForwritingthePuranas
-2. For dividing theVedas
-3. Forwriting theMahabharata
+1. For writing the Puranas
+2. For dividing the Vedas
+3. For writing the Mahabharata
 4. For preaching the Brahma Sutras
 
 ### Answer
-
 > **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -1926,23 +1762,19 @@ Phil-temple-2025
 **Subtopic:** Characters
 
 ### Question
-
-WhoisthemotherofHiranyaksha?
+Who is the mother of Hiranyaksha?
 
 ### Options
-
 1. Aditi
 2. Kadru
 3. Diti
 4. Suparni
 
 ### Answer
-
 > **Answer: 3**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -1952,23 +1784,19 @@ Phil-temple-2025
 **Subtopic:** Characters
 
 ### Question
-
 Who cursed Parikshit?
 
 ### Options
-
 1. Astika
 2. Jaratkaru
 3. Srungi
 4. Krusha
 
 ### Answer
-
 > **Answer: 3**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -1978,23 +1806,19 @@ Phil-temple-2025
 **Subtopic:** Characters
 
 ### Question
-
 Whom did Vamana ask three feet of earth?
 
 ### Options
-
 1. Prahlada
 2. Ambarisha
-3. Bali Chakravarthi
+3. Balichakravarthi
 4. Shukracharya
 
 ### Answer
-
 > **Answer: 3**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -2004,23 +1828,19 @@ Phil-temple-2025
 **Subtopic:** Characters
 
 ### Question
-
-ThenameofEmperorBali'swife
+The name of Emperor Bali's wife
 
 ### Options
-
 1. Vindhyawali
 2. Virochani
 3. Ratnamala
 4. Shatarupa
 
 ### Answer
-
-> **Answer: 1**
+> **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -2030,23 +1850,19 @@ Phil-temple-2025
 **Subtopic:** Characters
 
 ### Question
-
 What is the name of Shishupala's brother?
 
 ### Options
-
 1. Dantavaktra
 2. Jarasandha
 3. Damaghosh
 4. Mahipala
 
 ### Answer
-
 > **Answer: 1**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -2084,23 +1900,19 @@ Phil_Temple_2021
 **Subtopic:** Skandams (Parts)
 
 ### Question
-
-The incarnation of Rama is mentioned in which Skandha in the Bhagavatam?
+The incarnation of Rama is mentioned in which verse (Skandha) in the Bhagavatam?
 
 ### Options
-
 1. In the Navamaskandha
 2. In the Prathamaskandha
 3. In the Saptamaskandha
 4. In the Dashamaskandha
 
 ### Answer
-
 > **Answer: 1**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -2110,23 +1922,19 @@ Phil-temple-2025
 **Subtopic:** Skandams (Parts)
 
 ### Question
-
-In which skandha of theBhagavatam is the story of Ambareesh?
+In which skandha of the Bhagavatam is the story of Ambareesh?
 
 ### Options
-
-1. Intheninthverse
-2. Inthe sixth verse
-3. Intheseventhverse
+1. In the ninth verse
+2. In the sixth verse
+3. In the seventh verse
 4. In the eleventh verse
 
 ### Answer
-
 > **Answer: 1**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -2136,23 +1944,19 @@ Phil-temple-2025
 **Subtopic:** Skandams (Parts)
 
 ### Question
-
-In which Skandham is the story of Prahlada in theBhagavata?
+In which Skandham is the story of Prahlada in the Bhagavatam?
 
 ### Options
-
-1. In twelfthverse
+1. In twelfth verse
 2. In eleventh verse
 3. In sixth verse
 4. In seventh verse
 
 ### Answer
-
-> **Answer: 4**
+> **Answer: 1**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -2190,23 +1994,19 @@ Phil_Temple_2021
 **Subtopic:** Places & Geography
 
 ### Question
-
-In which area (kshetra)is Swami Pushkarinilocated?
+In which area (kshetra) is Swami Pushkarini located?
 
 ### Options
-
-1. 800n0
+1. In Srirangam
 2. In Mahanandi
 3. In Tirumala
 4. In Badari
 
 ### Answer
-
 > **Answer: 3**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -2506,23 +2306,19 @@ Phil_Temple_2021
 **Subtopic:** Major Puranams & Contents
 
 ### Question
-
-As per the Matsya Purana, who is saved byLord Vishnu inHis Matsya (fish)avatar during the great deluge ?
+As per the Matsya Purana, who is saved by Lord Vishnu in His Matsya (fish) avatar during the great deluge?
 
 ### Options
-
 1. Parikshit
 2. Manu
 3. Daksha
 4. Vyasa
 
 ### Answer
-
 > **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -2532,23 +2328,19 @@ Phil-temple-2025
 **Subtopic:** Major Puranams & Contents
 
 ### Question
-
-What critical preservation role does the Matsya avatar of Vishnufulfill in the Matsya Purana's flood narrative?
+What critical preservation role does the Matsya avatar of Vishnu fulfill in the Matsya Purana's flood narrative?
 
 ### Options
-
 1. Destroys demons
 2. Rescues the Vedas and seeds for mankind
 3. Brings back the sun after eclipse
 4. Guides the gods in battle
 
 ### Answer
-
 > **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -2558,23 +2350,19 @@ Phil-temple-2025
 **Subtopic:** Major Puranams & Contents
 
 ### Question
-
-According to the Brahma Purana, how is Varaha (the boar incarnation of Vishnu)associated with the Pitrus (ancestors)?
+According to the Brahma Purana, how is Varaha (the boar incarnation of Vishnu) associated with the Pitrus (ancestors)?
 
 ### Options
-
-1. Heforgotthemduringcosmicdissolution
+1. He forgot them during cosmic dissolution
 2. He performed Shraddha rites for them after rescuing them from a curse
-3. He judged their sins inYamaloka
-4. He sentthemto Swarga based onmerit
+3. He judged their sins in Yamaloka
+4. He sent them to Swarga based on merit
 
 ### Answer
-
-> **Answer: None**
+> **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -2584,23 +2372,19 @@ Phil-temple-2025
 **Subtopic:** Major Puranams & Contents
 
 ### Question
-
-Which phrase best describes the Vishnu Purana's theological stance, as reflected in the identification ofVishnu?
+Which phrase best describes the Vishnu Purana's theological stance, as reflected in the identification of Vishnu?
 
 ### Options
-
 1. Vishnu as a limited deity among many
-2. Vishnuasthepervaderofcosmicdivision
-3. Vishnuas theall-pervading Brahman
-4. Vishnuasone among thetrimurti
+2. Vishnu as the pervader of cosmic division
+3. Vishnu as the all-pervading Brahman
+4. Vishnu as one among the trimurti
 
 ### Answer
-
 > **Answer: 3**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -2610,23 +2394,19 @@ Phil-temple-2025
 **Subtopic:** Major Puranams & Contents
 
 ### Question
-
 According to the Garuda Purana, what is the primary purpose of human birth?
 
 ### Options
-
-1. Accumulatingwealth
+1. Accumulating wealth
 2. Seeking pleasures
-3. Attaining liberation
+3. Attaining liberation (moksha)
 4. Gaining power over others
 
 ### Answer
-
 > **Answer: 3**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -2636,23 +2416,19 @@ Phil-temple-2025
 **Subtopic:** Major Puranams & Contents
 
 ### Question
-
 What is the recommended practice in the Garuda Purana to aid a soul after death?
 
 ### Options
-
-1. Buildingtemples
-2. PerformingShraddhaandcharity
+1. Building temples
+2. Performing Shraddha and charity
 3. Reciting mantras for wealth
-4. Constructingatomb
+4. Constructing a tomb
 
 ### Answer
-
 > **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -2662,23 +2438,19 @@ Phil-temple-2025
 **Subtopic:** Major Puranams & Contents
 
 ### Question
-
-What was the main reason for Lord Vishnu's Matsya (Fish)avatar as per the Matsya Purana?
+What was the main reason for Lord Vishnu's Matsya (Fish) avatar as per the Matsya Purana?
 
 ### Options
-
-1. Todefeata demon in the ocean
-2. To recover the stolenVedas
+1. To defeat a demon in the ocean
+2. To recover the stolen Vedas
 3. To create the universe
-4. ToteachManu about warfare
+4. To teach Manu about warfare
 
 ### Answer
-
 > **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -2688,23 +2460,16 @@ Phil-temple-2025
 **Subtopic:** Major Puranams & Contents
 
 ### Question
-
-According to the Matsya Purana, how many major Kalpas (cosmic cycles) are described? DELETED
+According to the Matsya Purana, how many major Kalpas (cosmic cycles) are described?
 
 ### Options
-
-1. 7
-2. 10
-3. 14
-4. 18
+*(Unable to extract - question depends on image/diagram)*
 
 ### Answer
-
-> **Answer: None**
+> **Answer: DELETED**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -2714,23 +2479,19 @@ Phil-temple-2025
 **Subtopic:** Major Puranams & Contents
 
 ### Question
-
-What is the main significance of the Kurma avatar of Lord Vishnu as described in theKurma Purana?
+What is the main significance of the Kurma avatar of Lord Vishnu as described in the Kurma Purana?
 
 ### Options
-
-1. Saving theVedasfromdemons
-2. Supportingthechurningoftheocean
-3. DefeatingthedemonHiranyakashipu
-4. ProtectingKingManufromtheflood
+1. Saving the Vedas from demons
+2. Supporting the churning of the ocean (Samudra Manthan)
+3. Defeating the demon Hiranyakashipu
+4. Protecting King Manu from the flood
 
 ### Answer
-
 > **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -2740,23 +2501,19 @@ Phil-temple-2025
 **Subtopic:** Major Puranams & Contents
 
 ### Question
-
-TheSkanda Purana is traditionallydivided intohowmanysections orkhandas?
+The Skanda Purana is traditionally divided into how many sections or khandas?
 
 ### Options
-
 1. 6
 2. 7
 3. 18
 4. 20
 
 ### Answer
-
 > **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -2766,23 +2523,19 @@ Phil-temple-2025
 **Subtopic:** Major Puranams & Contents
 
 ### Question
-
-WhichPuranaisthelongest,withover81,000verses?
+Which Purana is the longest, with over 81,000 verses?
 
 ### Options
-
 1. Padma Purana
-2. SkandaPurana
+2. Skanda Purana
 3. Vishnu Purana
-4. GarudaPurana
+4. Garuda Purana
 
 ### Answer
-
 > **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -2792,23 +2545,19 @@ Phil-temple-2025
 **Subtopic:** Major Puranams & Contents
 
 ### Question
-
-In whichregion did Suta Mahamuni narrate thePurana stories to thegreat sages?
+In which region did Sita Mahamuni narrate the Purana stories to the great sages?
 
 ### Options
-
 1. Dandakaranyam
 2. Naimisharanyam
 3. Chitrakootam
-4. Brundavanam
+4. Brundavannam
 
 ### Answer
-
 > **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -2818,23 +2567,16 @@ Phil-temple-2025
 **Subtopic:** Major Puranams & Contents
 
 ### Question
-
-In which Purana is the story of Gokarna mentioned? DELETED
+In which Purana is the story of Gokarna mentioned?
 
 ### Options
-
-1. In the Bhagavata Purana
-2. In theMatsyaPurana
-3. In the Vaman Purana
-4. In the Varaha Purana
+*(Unable to extract - question depends on image/diagram)*
 
 ### Answer
-
-> **Answer: None**
+> **Answer: DELETED**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -2844,23 +2586,19 @@ Phil-temple-2025
 **Subtopic:** Major Puranams & Contents
 
 ### Question
-
-Thestoryof ShashtiDeviisnarrated inwhichPurana?
+The story of Shashti Devi is narrated in which Purana?
 
 ### Options
-
-1. InAgniPuranam
-2. In VayuPuranam
+1. In Agni Puranam
+2. In Vayu Puranam
 3. In Shiva Puranam
 4. In Brahma Vaivarta Puranam
 
 ### Answer
-
 > **Answer: 4**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -2929,7 +2667,7 @@ Which of the following mountains acted as a churning rod during the Sea Churning
 
 ### Options
 
-1. Mainaka ࠳ߕక
+1. Mainaka
 2. Rishyamuka
 3. Vindhya
 4. Mandar
@@ -2950,23 +2688,19 @@ Phil_Temple_2021
 **Subtopic:** Places in Puranams
 
 ### Question
-
-Which mountain,sacredinHinduism andcloselyassociatedwith Lord Shiva,isprominently mentioned in the Skanda Purana?
+Which mountain, sacred in Hinduism and closely associated with Lord Shiva, is prominently mentioned in the Skanda Purana?
 
 ### Options
-
-1. 09s 0900
+1. Vindhya
 2. Himalaya
 3. Kailash
 4. Aravalli
 
 ### Answer
-
 > **Answer: 3**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -3012,9 +2746,9 @@ Shachi is the wife of which god?
 ### Options
 
 1. Brahma
-2. Agni అڵऒ
-3. Surya ࣇࡏङ ݡ
-4. Indra ఇంऴ޶ݡ
+2. Agni
+3. Surya
+4. Indra
 
 ### Answer
 
@@ -3037,7 +2771,7 @@ Phil_Temple_2021
 
 ### Options
 
-1. Pujari ߪ܉ࡍ
+1. Pujari
 2. Panda
 3. Executive Officer
 4. Archakatvam Mirandar
@@ -3141,10 +2875,10 @@ Who among the following deities is NOT the main part of Panchayatana worship?
 
 ### Options
 
-1. Vishnu ࢑ࢵप ࢓
+1. Vishnu
 2. Ayyappa
-3. Surya ࣇࡏङ ݡ
-4. Bhairava इర࢓ݡ
+3. Surya
+4. Bhairava
 
 ### Answer
 
@@ -3167,8 +2901,8 @@ Which god is the architect of gods and the founder of Sthapatya Veda?
 
 ### Options
 
-1. Agni అڵऒ
-2. Varuna వࡏރݡ
+1. Agni
+2. Varuna
 3. Brahma
 4. Vishwakarma
 
@@ -3188,23 +2922,19 @@ Phil_Temple_2021
 **Subtopic:** Vaishnavam (Vaikhanasa, Pancharatra, Chattada Srivaishnava)
 
 ### Question
-
-Which of the following Agamic traditions is primarily followed in the worship practices at the Tirumala Venkateswara Templein Tirupati?
+Which of the following Agamic traditions is primarily followed in the worship practices at the Tirumala Venkateswara Temple in Tirupati?
 
 ### Options
-
-1. Chattada SriVaishnavam
-2. PancharatraAgama
-3. ShaktaAgama
-4. VaikhanasaAgama
+1. Chattada Sri Vaishnavam
+2. Pancharatra Agama
+3. Shakta Agama
+4. Vaikhanasa Agama
 
 ### Answer
-
 > **Answer: 4**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -3214,23 +2944,19 @@ Phil-temple-2025
 **Subtopic:** Vaishnavam (Vaikhanasa, Pancharatra, Chattada Srivaishnava)
 
 ### Question
-
 Which of the following texts is a key scripture of the Pancharatra Agama tradition and lays out its theological and ritual framework?
 
 ### Options
-
 1. Vishnu Purana
-2. BhagavadGita
+2. Bhagavad Gita
 3. Satvata Samhita
 4. Narada Bhakti Sutra
 
 ### Answer
-
 > **Answer: 3**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -3240,23 +2966,19 @@ Phil-temple-2025
 **Subtopic:** Vaishnavam (Vaikhanasa, Pancharatra, Chattada Srivaishnava)
 
 ### Question
-
 Which of the following is a unique feature of the Vaikhanasa Agama tradition in temple worship?
 
 ### Options
-
 1. It worships Vishnu exclusively in five forms known as the Panchabhera
-2. Itgivesprimacyto Shiva anduses Saivarituals
-3. Itemphasizes personalmeditation overtemplerituals
-4. It allows non-Brahmins toperform all templerites
+2. It gives primacy to Shiva and uses Saiva rituals
+3. It emphasizes personal meditation over temple rituals
+4. It allows non-Brahmins to perform all temple rites
 
 ### Answer
-
-> **Answer: None**
+> **Answer: 1**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -3266,23 +2988,19 @@ Phil-temple-2025
 **Subtopic:** Vaishnavam (Vaikhanasa, Pancharatra, Chattada Srivaishnava)
 
 ### Question
-
-Where is Pratimalakshanam (The procedure of the statue of God)mentioned?
+Where is Pratimalakshanam (The procedure of the statue of God) mentioned?
 
 ### Options
-
 1. In the Veda
-2. In theVyakarna
+2. In the Vyakarna
 3. In the Agama
 4. In the Shiksha
 
 ### Answer
-
 > **Answer: 3**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -3292,23 +3010,19 @@ Phil-temple-2025
 **Subtopic:** Vaishnavam (Vaikhanasa, Pancharatra, Chattada Srivaishnava)
 
 ### Question
-
-Aniruddha Samhita is related towhichAgama?
+Aniruddha Samhita is related to which Agama?
 
 ### Options
-
-1. ToVaikhanasagama
+1. To Vaikhanasagama
 2. To Saivagama
-3. ToPancharatragama
+3. To Pancharatragama
 4. To Shaktagama
 
 ### Answer
-
 > **Answer: 3**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -3318,23 +3032,16 @@ Phil-temple-2025
 **Subtopic:** Vaishnavam (Vaikhanasa, Pancharatra, Chattada Srivaishnava)
 
 ### Question
-
-Howmany ways is bathing described in the Agamas? DELETED
+How many ways is bathing described in the Agamas?
 
 ### Options
-
-1. Sixteen
-2. Eight
-3. Seven
-4. Five
+*(Unable to extract - question depends on image/diagram)*
 
 ### Answer
-
-> **Answer: None**
+> **Answer: DELETED**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -3344,23 +3051,19 @@ Phil-temple-2025
 **Subtopic:** Vaishnavam (Vaikhanasa, Pancharatra, Chattada Srivaishnava)
 
 ### Question
-
 What should be understood by the word "Bera" in the Agamas?
 
 ### Options
-
-1. Vigraha (Idol/Icon)
+1. Vigraha
 2. Dvara
 3. Vimana
 4. Balipeetha
 
 ### Answer
-
 > **Answer: 1**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -3370,23 +3073,19 @@ Phil-temple-2025
 **Subtopic:** Vaishnavam (Vaikhanasa, Pancharatra, Chattada Srivaishnava)
 
 ### Question
-
-Which Agama proposes the five sanskarams:Tapa-Pundra-Nama-Mantra-Yaga?
+Which Agama proposes the five sanskarams: Tapa-Pundra-Nama-Mantra-Yaga?
 
 ### Options
-
 1. Vaikhanasagama
 2. Pancharatragama
 3. Saivagama
 4. Shaktagama
 
 ### Answer
-
 > **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -3424,23 +3123,19 @@ Phil_Temple_2021
 **Subtopic:** Saivam (Smartha, Adi Saiva, Veera Saiva, Jangama, Kapalika)
 
 ### Question
-
-The book Rauravaagama is related to which Agama ?
+The book Rauravaagama is related to which Agama?
 
 ### Options
-
-1. ToShaivagama
+1. To Shaivagama
 2. To Vaikanasagama
-3. ToChattadagamama
-4. ToVaishnavism
+3. To Chattadagamama
+4. To Vaishnavism
 
 ### Answer
-
 > **Answer: 1**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -3460,7 +3155,7 @@ In Kapalika Saivam, the word ‘Kapala’ means:
 1. face
 2. hand
 3. chest
-4. skull ߩऴࡓ
+4. skull
 
 ### Answer
 
@@ -3487,10 +3182,10 @@ Phil_Temple_2021
 
 ### Options
 
-1. Chaitra ۰ऴత࠭
+1. Chaitra
 2. Ashwin
 3. Bhadrapada
-4. Magha ࠪఘ࠭
+4. Magha
 
 ### Answer
 
@@ -3591,7 +3286,7 @@ The religious festival ‘Thai Poosam’ is celebrated in which Indian State?
 
 ### Options
 
-1. Tamil Nadu తࠫళߕݡ
+1. Tamil Nadu
 2. Karnataka
 3. Kerala
 4. Telangana
@@ -3617,9 +3312,9 @@ Which festival is also celebrated as ‘Madanotsavam’?
 
 ### Options
 
-1. Holi ࣟࡰ
-2. Ugadi ఉڴ޴
-3. Navaratri నవࡌऴޒ
+1. Holi
+2. Ugadi
+3. Navaratri
 4. Sankranti
 
 ### Answer
@@ -3664,23 +3359,19 @@ Phil_Temple_2021
 **Subtopic:** Hindu Festivals
 
 ### Question
-
-Rama navami iscelebrated inwhichTelugumonth?
+Rama navami is celebrated in which Telugu month?
 
 ### Options
-
 1. In Vaishakha
 2. In Chaitra
 3. In Phalguna
 4. In Kartika
 
 ### Answer
-
 > **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -3690,23 +3381,19 @@ Phil-temple-2025
 **Subtopic:** Hindu Festivals
 
 ### Question
-
-Whichprominentfestival of North India commemoratesthevictoryofLordRama overthe demon king Ravana?
+Which prominent festival of North India commemorates the victory of Lord Rama over the demon king Ravana?
 
 ### Options
-
 1. Diwali
 2. Holi
-3. Dussehra
+3. Dussehra (Vijayadashami)
 4. Makar Sankranti
 
 ### Answer
-
 > **Answer: 3**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -3716,23 +3403,19 @@ Phil-temple-2025
 **Subtopic:** Hindu Festivals
 
 ### Question
-
 During Rath Yatra in Puri, which three deities are taken out in grand chariots?
 
 ### Options
-
-1. Vishnu, Shiva,Brahma
-2. Jagannath,Balabhadra,Subhadra
+1. Vishnu, Shiva, Brahma
+2. Jagannath, Balabhadra, Subhadra
 3. Rama, Lakshmana, Sita
-4. Krishna,Balarama,Radha
+4. Krishna, Balarama, Radha
 
 ### Answer
-
 > **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -3742,23 +3425,19 @@ Phil-temple-2025
 **Subtopic:** Hindu Festivals
 
 ### Question
-
-Which festival is known as theFestival of Lights"and celebrates the return of Lord Rama to Ayodhya ?
+Which festival is known as the "Festival of Lights" and celebrates the return of Lord Rama to Ayodhya?
 
 ### Options
-
 1. Navratri
 2. Diwali
 3. Baisakhi
-4. KarvaChauth
+4. Karva Chauth
 
 ### Answer
-
 > **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -3768,23 +3447,19 @@ Phil-temple-2025
 **Subtopic:** Hindu Festivals
 
 ### Question
-
 During which festival do people celebrate the arrival of spring with colors and water?
 
 ### Options
-
 1. Holi
 2. Onam
 3. Lohri
 4. Bihu
 
 ### Answer
-
 > **Answer: 1**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -3794,23 +3469,19 @@ Phil-temple-2025
 **Subtopic:** Hindu Festivals
 
 ### Question
-
-Which festival of Andhra Pradesh is renownedfor thegrand celebration of Lord Venkateswara at Tirupati ?
+Which festival of Andhra Pradesh is renowned for the grand celebration of Lord Venkateswara at Tirupati?
 
 ### Options
-
 1. Sankranti
 2. Brahmotsavam
 3. Vasanthotsavam
 4. Pavitrostavam
 
 ### Answer
-
 > **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -3820,23 +3491,19 @@ Phil-temple-2025
 **Subtopic:** Hindu Festivals
 
 ### Question
-
 When is Avabhritham performed during festivals?
 
 ### Options
-
 1. At the beginning of the festival
 2. At the end of the festival
 3. In the middle of the festival
 4. In the above three stages
 
 ### Answer
-
 > **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -3856,7 +3523,7 @@ Phil-temple-2025
 1. Jagannatha
 2. Appaya Dikshita
 3. Sharang Deva
-4. Jayadeva జయ޻࢓ݡ
+4. Jayadeva
 
 ### Answer
 
@@ -4317,10 +3984,10 @@ Rigveda is divided into ten:
 
 ### Options
 
-1. Anuvakas అߘ࢐ڒࡱ
+1. Anuvakas
 2. Mandalas
-3. Suktas ࣇڒफࡱ
-4. Adhyayas అ߄ङ ࠻ࡱ
+3. Suktas
+4. Adhyayas
 
 ### Answer
 
@@ -4339,14 +4006,14 @@ Phil_Temple_2021
 
 ### Question
 
-The book that describes the words, tunes and connections used in Vedas is called: అంܼࡏ:
+The book that describes the words, tunes and connections used in Vedas is called:
 
 ### Options
 
 1. Shika
 2. Pratishakhya
 3. Mantra
-4. Vidhi ࢑߅
+4. Vidhi
 
 ### Answer
 
@@ -4397,8 +4064,8 @@ Phil_Temple_2021
 
 1. Adhvaryu
 2. Brahma
-3. Udgata ఉదठޔݡ
-4. Hota ࣟޔݡ
+3. Udgata
+4. Hota
 
 ### Answer
 
@@ -4578,7 +4245,7 @@ Which Mandala in Rigveda is called ‘Pavamana’ Mandala?
 1. 7th
 2. 9th
 3. 1st
-4. 10th 10వ
+4. 10th 10
 
 ### Answer
 
@@ -4596,23 +4263,19 @@ Phil_Temple_2021
 **Subtopic:** Vedas & Upavedas
 
 ### Question
-
-What is the primary content of the Rigveda ?
+What is the primary content of the Rigveda?
 
 ### Options
-
 1. Ritual formulas and sacrificial instructions
-2. Melodic chants formusical recitation
+2. Melodic chants for musical recitation
 3. Philosophical dialogues on the nature of self
-4. Hymnsandpraisesdedicatedtovariousdeities
+4. Hymns and praises dedicated to various deities
 
 ### Answer
-
 > **Answer: 4**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -4622,23 +4285,19 @@ Phil-temple-2025
 **Subtopic:** Vedas & Upavedas
 
 ### Question
-
-TheYajurvedaisprimarilyamanualfor
+The Yajurveda is primarily a manual for
 
 ### Options
-
-1. Meditationtechniques
-2. Musicalperformance
+1. Meditation techniques
+2. Musical performance
 3. Conducting sacrificial rituals
-4. Healing andmedicinal knowledge
+4. Healing and medicinal knowledge
 
 ### Answer
-
 > **Answer: 3**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -4648,23 +4307,19 @@ Phil-temple-2025
 **Subtopic:** Vedas & Upavedas
 
 ### Question
-
 Which of the following best describes the Samaveda's role in Vedic rituals?
 
 ### Options
-
 1. It contains philosophical dialogues on Brahman
-2. ItsetsRigvedichymnstomusical notationsforchanting
+2. It sets Rigvedic hymns to musical notations for chanting
 3. It details military strategies and archery
-4. It contains incantationsfor healing and protection
+4. It contains incantations for healing and protection
 
 ### Answer
-
 > **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -4674,23 +4329,19 @@ Phil-temple-2025
 **Subtopic:** Vedas & Upavedas
 
 ### Question
-
-Which unique aspect of the Atharvaveda distinguishes it from the other threeVedas?
+Which unique aspect of the Atharvaveda distinguishes it from the other three Vedas?
 
 ### Options
-
-1. Itisentirelycomposed inprose
-2. Itemphasizesphilosophical monism
-3. It includes spells,charms andeveryday life concerns
+1. It is entirely composed in prose
+2. It emphasizes philosophical monism
+3. It includes spells, charms and everyday life concerns
 4. It is used exclusively for coronation ceremonies
 
 ### Answer
-
 > **Answer: 3**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -4700,23 +4351,19 @@ Phil-temple-2025
 **Subtopic:** Vedas & Upavedas
 
 ### Question
-
-Which of thefollowingpairs is correctlymatched with its associated Upaveda? Ayurveda
+Which of the following pairs is correctly matched with its associated Upaveda?
 
 ### Options
-
-1. SthapatyaVeda
-2. Dhanurveda
-3. Ayurveda
-4. Gandharvaveda
+1. Sthapatya Veda - Ayurveda
+2. Dhanurveda - Science of Architecture
+3. Ayurveda - Rigveda
+4. Gandharvaveda - Yajurveda
 
 ### Answer
-
 > **Answer: 3**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -4726,23 +4373,19 @@ Phil-temple-2025
 **Subtopic:** Vedas & Upavedas
 
 ### Question
-
-TowhomdidVyasa preach theRigveda?
+To whom did Vyasa preach the Rigveda?
 
 ### Options
-
-1. ToVaishampayan
+1. To Vaishampayan
 2. To Jaimini
 3. To Paila
-4. ToYajnavalkya
+4. To Yajnavalkya
 
 ### Answer
-
 > **Answer: 3**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -4752,23 +4395,19 @@ Phil-temple-2025
 **Subtopic:** Vedas & Upavedas
 
 ### Question
-
-In which Veda is theValakhilya Sukta found?
+In which Veda is the Valakhilya Sukta found?
 
 ### Options
-
 1. In the Rigveda
-2. IntheSamaveda
+2. In the Samaveda
 3. In the Atharvaveda
-4. In theYajurveda
+4. In the Yajurveda
 
 ### Answer
-
 > **Answer: 1**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -4778,23 +4417,19 @@ Phil-temple-2025
 **Subtopic:** Vedas & Upavedas
 
 ### Question
-
-The Kanva Shakha is related to which Veda ?
+The Kanva Shakha is related to which Veda?
 
 ### Options
-
 1. To Rigveda
 2. To Samaveda
 3. To Atharvaveda
 4. To Yajurveda
 
 ### Answer
-
 > **Answer: 4**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -4804,23 +4439,19 @@ Phil-temple-2025
 **Subtopic:** Vedas & Upavedas
 
 ### Question
-
 How many branches does Yajurveda have?
 
 ### Options
-
 1. 61
 2. 21
 3. 101
 4. 71
 
 ### Answer
-
 > **Answer: 3**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -4839,12 +4470,11 @@ Which Upanishad describes the ‘Viswajit’ Yajna performed by Sage Uddalaka?
 
 1. Isavasyopanishad
 2. Mundakopanishad
-3. Kathopanishad
-4. Taittiriyopanishad
+4. Nimbarkacharya
 
 ### Answer
 
-> **Answer: 3**
+> **Answer: None**
 
 ### Exam
 
@@ -4858,23 +4488,19 @@ Phil_Temple_2021
 **Subtopic:** Upanishads
 
 ### Question
-
-The philosophical teachings and mysticalknowledge in the Vedas aremainlyfound in which part ?
+The philosophical teachings and mystical knowledge in the Vedas are mainly found in which part?
 
 ### Options
-
 1. Samhitas
 2. Brahmanas
 3. Aranyakas
 4. Upanishads
 
 ### Answer
-
 > **Answer: 4**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -4884,23 +4510,19 @@ Phil-temple-2025
 **Subtopic:** Upanishads
 
 ### Question
-
-HowmanyrenownedVedicUpanishadsarethere?
+How many renowned Vedic Upanishads are there?
 
 ### Options
-
 1. 21
 2. 18
 3. 10
 4. 28
 
 ### Answer
-
 > **Answer: 3**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -4910,23 +4532,19 @@ Phil-temple-2025
 **Subtopic:** Upanishads
 
 ### Question
-
-The concept of "Tat Tvam Asi"(That Thou Art),which signifies the identity of the individual soul with the universal soul, is found in which Upanishad?
+The concept of "Tat Tvam Asi" (That Thou Art), which signifies the identity of the individual soul with the universal soul, is found in which Upanishad?
 
 ### Options
-
 1. Kena Upanishad
 2. Isa Upanishad
 3. Chandogya Upanishad
 4. Prashna Upanishad
 
 ### Answer
-
 > **Answer: 3**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -4936,23 +4554,19 @@ Phil-temple-2025
 **Subtopic:** Upanishads
 
 ### Question
-
-TowhichVedaistheMundakaUpanishadrelated?
+To which Veda is the Mundaka Upanishad related?
 
 ### Options
-
-1. ToKrishnaYajurveda
+1. To Krishna Yajurveda
 2. To Rigveda
 3. To Atharvaveda
 4. To Samaveda
 
 ### Answer
-
 > **Answer: 3**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -4969,9 +4583,9 @@ How many Purusharthas of life were propounded by Manu?
 
 ### Options
 
-1. Two ࡓంݡ
-2. Three ࠮ݡ
-3. Four ߕࡱڷ
+1. Two
+2. Three
+3. Four
 4. Five
 
 ### Answer
@@ -5072,23 +4686,19 @@ Phil_Temple_2021
 **Subtopic:** Alwars & Vaishnavite Gurus
 
 ### Question
-
-Who is considered thepreacher of theSriVaishnava Sampradayam? 1111305
+Who is considered the preacher of the Sri Vaishnava Sampradayam?
 
 ### Options
-
 1. Madhvacharya
 2. Ramanujacharya
 3. Shankaracharya
 4. Nimbarkacharya
 
 ### Answer
-
 > **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -5134,9 +4744,9 @@ The Mimamsa Sutras were written by:
 ### Options
 
 1. Vedavyasa
-2. Gauthama ۀత࠭ݡ
+2. Gauthama
 3. Kapila
-4. Jaimini ܒࠫߖ
+4. Jaimini
 
 ### Answer
 
@@ -5180,23 +4790,19 @@ Phil_Temple_2021
 **Subtopic:** Sankaracharya & Advaitha
 
 ### Question
-
-Which philosophical school is associated with Adi Shankaracharya and what is its core teaching? Dualism between soul and God
+Which philosophical school is associated with Adi Shankaracharya and what is its core teaching?
 
 ### Options
-
-1. Dvaita
-2. Advaita
-3. Vishishtadvaita
-4. Achintya Bheda Abheda
+1. Dvaita - Dualism between soul and God
+2. Advaita - Non-dualism, Atman and Brahman are one
+3. Vishishtadvaita - Qualified non-dualism
+4. Achintya Bheda Abheda - Inconceivable oneness and difference
 
 ### Answer
-
-> **Answer: None**
+> **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -5206,23 +4812,19 @@ Phil-temple-2025
 **Subtopic:** Sankaracharya & Advaitha
 
 ### Question
-
 Who wrote the commentary on the Brahma Sutras called Anubhasya?
 
 ### Options
-
-1. TheRamanujacharya
+1. The Ramanuja Acharya
 2. The Madhwacharya
-3. TheShankaracharya
-4. TheRaghavendratirtha
+3. The Shankaracharya
+4. The Raghavendratirtha
 
 ### Answer
-
 > **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -5232,23 +4834,19 @@ Phil-temple-2025
 **Subtopic:** Sankaracharya & Advaitha
 
 ### Question
-
-Whowastheguruof ShankaraBhagavatpada?
+Who was the guru of Shankara Bhagavapada?
 
 ### Options
-
 1. Gaudapada
 2. Govindabhagavatpada
-3. Uvvatacharya
+3. Uvatacharya
 4. Yamunacharya
 
 ### Answer
-
 > **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -5258,23 +4856,19 @@ Phil-temple-2025
 **Subtopic:** Sankaracharya & Advaitha
 
 ### Question
-
-WhowrotethebookPrashnottaramalika?
+Who wrote the book Prashnotaramalika?
 
 ### Options
-
-1. Ramanujacharya
+1. Ramanuja Acharya
 2. Shankaracharya
 3. Madhvacharya
 4. Vikhanas
 
 ### Answer
-
 > **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -5284,23 +4878,19 @@ Phil-temple-2025
 **Subtopic:** Sankaracharya & Advaitha
 
 ### Question
-
-WhoisthefounderofChaturamnayaPeethas?
+Who is the founder of Chaturamnava Peethas?
 
 ### Options
-
 1. Vidyaranya
 2. Shankaracharya
 3. Ramanujacharya
 4. Raghavendra Swami
 
 ### Answer
-
 > **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -5390,23 +4980,19 @@ Phil_Temple_2021
 **Subtopic:** Ramanujacharya & Visishtadvaitha
 
 ### Question
-
-Ramanujacharya's concept of "Vishishtadvaita" differs from Shankaracharya's Advaita mainly in that:
+Ramanujacharya's concept of "Vishishtadvaita" differs from Shankaracharya's Advaita mainly in that
 
 ### Options
-
 1. It denies the existence of Brahman
 2. It sees the world as entirely unreal
 3. It accepts a qualified non-dualism, where Atman and Brahman are distinct yet inseparable
 4. It proposes a purely dualistic view of God and Soul
 
 ### Answer
-
 > **Answer: 3**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -5416,23 +5002,19 @@ Phil-temple-2025
 **Subtopic:** Ramanujacharya & Visishtadvaitha
 
 ### Question
-
-Which of the following Vaishnavite gurus propagated the philosophy of Vishishtadvaita and emphasized surrender (prapatti)to Lord Vishnu for liberation?
+Which of the following Vaishnava gurus propagated the philosophy of Vishishtadvaita and emphasized surrender (prapatti) to Lord Vishnu for liberation?
 
 ### Options
-
 1. Madhvacharya
 2. Adi Shankaracharya
 3. Ramanujacharya
 4. Chaitanya Mahaprabhu
 
 ### Answer
-
 > **Answer: 3**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -5470,23 +5052,19 @@ Phil_Temple_2021
 **Subtopic:** Madhwacharya & Dvaitha
 
 ### Question
-
-What is akey difference in Madhvacharya's Dvaita philosophy compared to other Vedanta schools?
+What is a key difference in Madhvacharya's Dvaita philosophy compared to other Vedanta schools?
 
 ### Options
-
-1. It claims all deities are egual and non-distinct
-2. ItassertscompleteidentitybetweenAtmanandBrahman
-3. It proposes an eternal differencebetweenGod, Souls and Matter
-4. Itdeniestheauthorityof theVedas
+1. It claims all deities are equal and non-distinct
+2. It asserts complete identity between Atman and Brahman
+3. It proposes an eternal difference between God, Souls and Matter
+4. It denies the authority of the Vedas
 
 ### Answer
-
-> **Answer: None**
+> **Answer: 3**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -6284,7 +5862,7 @@ Hindu-Law-2011
 ### Question
 
 Hieir
-4. ¥ Nambudri Law
+4. Nambudri Law
 
 ### Options
 
@@ -6306,23 +5884,19 @@ Phil_Temple_2021
 **Subtopic:** 9.1 Joint Family & Coparcenary
 
 ### Question
-
-In traditional Hindu society,what is thetypical formoffamily structure?
+In traditional Hindu society, what is the typical form of family structure?
 
 ### Options
-
-1. Nuclearfamilyonly
-2. Jointfamily system
-3. Matriarchalfamiliesonly
-4. Familieswithnoelders
+1. Nuclear family only
+2. Joint family system
+3. Matriarchal families only
+4. Families with no elders
 
 ### Answer
-
 > **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -10251,11 +9825,10 @@ Central Adoption Resource Authority (CARA) is a statutory body of which ministry
 1. Ministry of Education
 2. Ministry of Home Affairs
 3. Ministry of Human Resource Development
-4. Ministry of Women and Child Development
 
 ### Answer
 
-> **Answer: 4**
+> **Answer: None**
 
 ### Exam
 
@@ -10269,23 +9842,19 @@ Phil_Temple_2021
 **Subtopic:** 9.9 Adoption
 
 ### Question
-
 In Hindu adoption, which of the following is a valid condition?
 
 ### Options
-
 1. A child above 21 years can be adopted
-2. Onlymarriedwomencanadopt
-3. Theadoptedchildmust not alreadybeadopted
-4. A child canbeadopted morethan once
+2. Only married women can adopt
+3. The adopted child must not already be adopted
+4. A child can be adopted more than once
 
 ### Answer
-
-> **Answer: None**
+> **Answer: 3**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -11908,23 +11477,19 @@ Hindu-Law-2011
 **Subtopic:** 9.10 Succession & Inheritance
 
 ### Question
-
-InclassicalHindulaw,whatwasakeyreasonforadoption?
+In classical Hindu law, what was a key reason for adoption?
 
 ### Options
-
 1. To increase political power
-2. Togainpropertyfromanotherfamily
+2. To gain property from another family
 3. To ensure continuity of family lineage and perform funeral rites
-4. Toavoid taxes
+4. To avoid taxes
 
 ### Answer
-
-> **Answer: None**
+> **Answer: 3**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -11934,23 +11499,19 @@ Phil-temple-2025
 **Subtopic:** 9.10 Succession & Inheritance
 
 ### Question
-
-Under Hindu succession, who is typicallyfirst in line to inherit property if a Hindu male dies intestate (without a will)?
+Under Hindu succession, who is typically first in line to inherit property if a Hindu male dies intestate (without a will)?
 
 ### Options
-
 1. His friends
 2. His daughter's husband
-3. His Class I heirs likewife,sons,daughters andmother
+3. His Class I heirs like wife, sons, daughters and mother
 4. The village head
 
 ### Answer
-
-> **Answer: None**
+> **Answer: 3**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -14067,8 +13628,8 @@ Surplus amounts, if any remains after repaying the amounts specified in Sub-sect
 ### Options
 
 1. common good fund
-2. public fund ऴప܉ ߖ߅
-3. Mathadhipathi మݍ߅పޒ
+2. public fund
+3. Mathadhipathi
 4. trustees
 
 ### Answer
@@ -14095,7 +13656,6 @@ A concurrent audit shall take place when the income exceeds ____________ accordi
 1. ₹25 lakhs
 2. ₹10 lakhs
 3. ₹8 lakhs
-4. ₹50 lakhs
 
 ### Answer
 
@@ -14113,23 +13673,19 @@ Phil_Temple_2021
 **Subtopic:** Fund Allocation (Section 57, Act 30/87)
 
 ### Question
-
-Underwhich Sec.Budget Estimate of a Charitable or Religious Institution or Endowment is sanctioned?
+Under which Sec. Budget Estimate of a Charitable or Religious Institution or Endowment is sanctioned?
 
 ### Options
-
 1. Sec. 57
 2. Sec. 56
 3. Sec. 55
 4. Sec. 58
 
 ### Answer
-
 > **Answer: 1**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -14139,23 +13695,19 @@ Phil-temple-2025
 **Subtopic:** Fund Allocation (Section 57, Act 30/87)
 
 ### Question
-
-Abudget estimation is showing the details of
+A budget estimation is showing the details of
 
 ### Options
-
 1. Audit Report
-2. Probable receipts and expenditure for thefinancial year
-3. Onlyincomeassessedforthefinancialyear
-4. Onlyexpenditureassessedforthefinancial year
+2. Probable receipts and expenditure for the financial year
+3. Only income assessed for the financial year
+4. Only expenditure assessed for the financial year
 
 ### Answer
-
 > **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -14165,23 +13717,19 @@ Phil-temple-2025
 **Subtopic:** Fund Allocation (Section 57, Act 30/87)
 
 ### Question
-
-How many days before an executive authority of institution shall submit budget estimate to the competentauthorityforsanction?
+How many days before an executive authority of institution shall submit budget estimate to the competent authority for sanction?
 
 ### Options
-
-1. 30daysbefore
+1. 30 days before
 2. 50 days before
 3. 60 days before
-4. 90daysbefore
+4. 90 days before
 
 ### Answer
-
 > **Answer: 4**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -14191,23 +13739,19 @@ Phil-temple-2025
 **Subtopic:** Fund Allocation (Section 57, Act 30/87)
 
 ### Question
-
-If not applied for supplemental sanction for the amount incurred in excess of budget sanction in the same financial year, whether excess expenditure can be ratified in the next financial years?
+If not applied for supplemental sanction for the amount incurred in excess of budget sanction in the same financial year, whether excess expenditure can ratified in the next financial years?
 
 ### Options
-
-1. The excess expenditure incurred over the budget/supplemental sanction can be ratified in the next financial years
+1. The excess expenditure incurred over the budget/supplemental sanction can ratified in the next financial years
 2. Not ratified
 3. The Executive Authority is held responsible for the excess expenditure
 4. The excess expenditure is objectionable in the audit and surchargable
 
 ### Answer
-
-> **Answer: 2**
+> **Answer: 1**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -14217,23 +13761,19 @@ Phil-temple-2025
 **Subtopic:** Fund Allocation (Section 57, Act 30/87)
 
 ### Question
-
-Under Section 57of theEndowments Act30/87Budget is in theChapterof
+Under Section 57 of the Endowments Act 30/87 Budget is in the Chapter of
 
 ### Options
-
-1. Chapter-VI
-2. Chapter-V
-3. Chapter -VIII
-4. Chapter-VII
+1. Chapter - VI
+2. Chapter - V
+3. Chapter - VIII
+4. Chapter - VII
 
 ### Answer
-
 > **Answer: 4**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -14243,23 +13783,19 @@ Phil-temple-2025
 **Subtopic:** Fund Allocation (Section 57, Act 30/87)
 
 ### Question
-
 Whether EO can have power to encash any FDR (Fixed Deposit Receipt) of an institution?
 
 ### Options
-
 1. No
 2. Yes
 3. In view of the urgency EO can have power to encash FDR
 4. With permission of the Trust Board the EO can have power to encash FDR
 
 ### Answer
-
-> **Answer: 2**
+> **Answer: 1**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -14269,23 +13805,19 @@ Phil-temple-2025
 **Subtopic:** Fund Allocation (Section 57, Act 30/87)
 
 ### Question
-
-To incur expenditure by an EO of institution, is budget sanction necessary or not?
+To incurring expenditure by an EO of institution the budget sanction is necessary or not?
 
 ### Options
-
 1. Budget sanction is not necessary
 2. Trustee permission is sufficient
 3. Chairman of Trust Board permission is sufficient
-4. No expenditure can be incurred without Budget sanction by the competent authority
+4. No expenditure incurred without Budget sanction by the competent authority
 
 ### Answer
-
 > **Answer: 4**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -18042,7 +17574,7 @@ According to the Andhra Pradesh Charitable and Hindu Religious Institutions and 
 
 1. Assistant commissioner
 2. Executive officer
-3. Chairman ۰రघ ߤ
+3. Chairman
 4. Government
 
 ### Answer
@@ -18095,7 +17627,7 @@ Who is the competent authority for preparing the code of conduct for the trustee
 1. The Commissioner
 2. The Board of Trustees
 3. The Endowment Tribunal
-4. Mathadhipathi మݍ߅పޒ
+4. Mathadhipathi
 
 ### Answer
 
@@ -18145,9 +17677,8 @@ Section 29 of the Andhra Pradesh Charitable and Hindu Religious Institutions and
 ### Options
 
 1. punishment of office holders and servants
-2. appointment of Board of Trustees
-3. power of Commissioner to enter and inspect
-4. appointment and duties of Executive Officer
+3. Padmapada
+4. Vachaspati Mishra
 
 ### Answer
 
@@ -18196,10 +17727,10 @@ An employee of any Institution or Endowment can be authorised to exercise the po
 
 ### Options
 
-1. Section 16 ࣊ࣾߤ 16
-2. Section 26 ࣊ࣾߤ 26
-3. Section 29 ࣊ࣾߤ 29
-4. Section 33 ࣊ࣾߤ 33
+1. Section 16  16
+2. Section 26  26
+3. Section 29  29
+4. Section 33  33
 
 ### Answer
 
@@ -18222,8 +17753,8 @@ Phil_Temple_2021
 
 ### Options
 
-1. Section 65 ࣊ࣾߤ 65
-2. Section 79 ࣊ࣾߤ 79
+1. Section 65  65
+2. Section 79  79
 3. Section 149
 4. Section 152
 
@@ -18248,10 +17779,10 @@ Which of the following Section of the Andhra Pradesh Charitable and Hindu Religi
 
 ### Options
 
-1. Section 10 ࣊ࣾߤ 10
-2. Section 15 ࣊ࣾߤ 15
-3. Section 12 ࣊ࣾߤ 12
-4. Section 9 ࣊ࣾߤ 9
+1. Section 10  10
+2. Section 15  15
+3. Section 12  12
+4. Section 9  9
 
 ### Answer
 
@@ -18347,23 +17878,19 @@ Phil_Temple_2021
 **Subtopic:** Duties of Executive Officers (Section 29, Act 30/87)
 
 ### Question
-
 Competent authority for sanction of annual budgets of institutions for whose annual net income is above 1 crore upto Deputy Commissioner cadre institutions
 
 ### Options
-
-1. DeputyCommissioner
+1. Deputy Commissioner
 2. Commissioner
 3. Regional Joint Commissioner
-4. AdditionalCommissioner
+4. Additional Commissioner
 
 ### Answer
-
 > **Answer: 4**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -18373,23 +17900,19 @@ Phil-temple-2025
 **Subtopic:** Duties of Executive Officers (Section 29, Act 30/87)
 
 ### Question
-
-Competent authorityfor sanction of annual budgets of6 (d) institutions i.e., Mutts 1305
+Competent authority for sanction of annual budgets of 6 (d) institutions i.e., Mutts
 
 ### Options
-
 1. Commissioner
-2. AdditionalCommissioner
-3. DeputyCommissioner
-4. RegionalJointCommissioner
+2. Additional Commissioner
+3. Deputy Commissioner
+4. Regional Joint Commissioner
 
 ### Answer
-
 > **Answer: 1**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -18399,23 +17922,19 @@ Phil-temple-2025
 **Subtopic:** Duties of Executive Officers (Section 29, Act 30/87)
 
 ### Question
-
-The competent authority for sanction of annual budgets for the Joint Commissioner cadre institutions 11305 (l)AdditionalCommissioner
+The competent authority for sanction of annual budgets for the Joint Commissioner cadre institutions
 
 ### Options
-
-1. 6
-2. DeputyCommissioner
+1. Additional Commissioner
+2. Deputy Commissioner
 3. Commissioner
-4. RegionalJointCommissioner
+4. Regional Joint Commissioner
 
 ### Answer
-
 > **Answer: 3**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -18425,23 +17944,19 @@ Phil-temple-2025
 **Subtopic:** Duties of Executive Officers (Section 29, Act 30/87)
 
 ### Question
-
-Who is the competent authorityfor sanction of budget for 6 (a)institutions whose annual net incomeisbetweenRs.50lakhstolcrore?
+The Deputy Commissioner is competent to sanction annual budgets for the institutions published Under Section
 
 ### Options
-
-1. DeputyCommissioner
-2. Regional Joint Commissioner
-3. Additional Commissioner
-4. Commissioner
+1. 6 (a)
+2. 6 (c)
+3. 6 (e)
+4. 6 (b)
 
 ### Answer
-
-> **Answer: 2**
+> **Answer: 4**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -18451,23 +17966,19 @@ Phil-temple-2025
 **Subtopic:** Duties of Executive Officers (Section 29, Act 30/87)
 
 ### Question
-
-Who is the competent authorityfor sanction of budgetfor6 (b)institutions whose annual net incomeisbetweenRs.15lakhsto50lakhs?
+Who is the competent authority for sanction of budget for 6 (a) institutions whose annual net income is between Rs. 50 lakhs to 1 crore?
 
 ### Options
-
-1. AdditionalCommissioner
-2. RegionalJointCommissioner
-3. DeputyCommissioner
-4. AssistantCommissioner
+1. Deputy Commissioner
+2. Regional Joint Commissioner
+3. Additional Commissioner
+4. Commissioner
 
 ### Answer
-
-> **Answer: 3**
+> **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -18477,23 +17988,19 @@ Phil-temple-2025
 **Subtopic:** Duties of Executive Officers (Section 29, Act 30/87)
 
 ### Question
-
-Annual Budgets shall be submitted to the concerned authorities for sanction throughFAS(Financial Accounting System),onlyfor the institutions under the administrative control of the
+Who is the competent authority for sanction of budget for 6 (b) institutions whose annual net income is between Rs. 15 lakhs to 50 lakhs?
 
 ### Options
-
-1. CommissionerandAdditionalCommissioner
-2. AdditionalCommissioner
-3. Commissioner,Additional Commissioner,Regional JointCommissionerandDeputy
-4. Commissioner
+1. Additional Commissioner
+2. Regional Joint Commissioner
+3. Deputy Commissioner
+4. Assistant Commissioner
 
 ### Answer
-
-> **Answer: None**
+> **Answer: 3**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -18503,23 +18010,19 @@ Phil-temple-2025
 **Subtopic:** Duties of Executive Officers (Section 29, Act 30/87)
 
 ### Question
-
-Competent authority for sanction of Budget to the Tirumala Tirupati Devasthanam, Tirupati
+Annual Budgets shall be submitted to the concerned authorities for sanction through FAS (Financial Accounting System), only for the institutions under the administrative control of the
 
 ### Options
-
-1. Government
-2. Commissioner
-3. AdditionalCommissioner
-4. Regional Joint Commissioner
+1. Commissioner and Additional Commissioner
+2. Additional Commissioner
+3. Commissioner, Additional Commissioner, Regional Joint Commissioner and Deputy Commissioner
+4. Commissioner
 
 ### Answer
-
-> **Answer: 1**
+> **Answer: 3**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -18529,23 +18032,19 @@ Phil-temple-2025
 **Subtopic:** Duties of Executive Officers (Section 29, Act 30/87)
 
 ### Question
-
-If there is a non hereditary trust board to an institution, before submission of Budget for sanction, the approval of the Budget in the Board is necessary or not?
+Competent authority for sanction of Budget to the Tirumala Tirupati Devasthanam, Tirupati
 
 ### Options
-
-1. Not necessary
-2. Approval of theBudget intheBoardis necessary
-3. Only approvalofChairman is sufficient
-4. Approvaloftrusteeissufficient
+1. Government
+2. Commissioner
+3. Additional Commissioner
+4. Regional Joint Commissioner
 
 ### Answer
-
-> **Answer: 2**
+> **Answer: 1**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -18555,23 +18054,19 @@ Phil-temple-2025
 **Subtopic:** Duties of Executive Officers (Section 29, Act 30/87)
 
 ### Question
-
-Section29of theEndowmentsAct30/87describes
+If there is a non hereditary trust board to an institution, before submission of Budget for sanction, the approval of the Budget in the Board is necessary or not?
 
 ### Options
-
-1. AppointmentofCommissioner
-2. Appointment andduties ofanExecutiveOficer
-3. AppointmentofMatadhipathi
-4. AppointmentofDeputyCommissioner
+1. Not necessary
+2. Approval of the Budget in the Board is necessary
+3. Only approval of Chairman is sufficient
+4. Approval of trustee is sufficient
 
 ### Answer
-
 > **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -18581,23 +18076,19 @@ Phil-temple-2025
 **Subtopic:** Duties of Executive Officers (Section 29, Act 30/87)
 
 ### Question
-
-Grade-,Grade-II and Grade-II EOs are appointed by the
+Section 29 of the Endowments Act 30/87 describes
 
 ### Options
-
-1. Government
-2. Commissioner
-3. Principal Secretary
-4. AdditionalCommissioner
+1. Appointment of Commissioner
+2. Appointment and duties of an Executive Officer
+3. Appointment of Matadhipathi
+4. Appointment of Deputy Commissioner
 
 ### Answer
-
 > **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -18607,23 +18098,19 @@ Phil-temple-2025
 **Subtopic:** Duties of Executive Officers (Section 29, Act 30/87)
 
 ### Question
-
-Competent authority to create a single group of institutions to appoint an EO
+Grade-I, Grade-II and Grade-III EOs are appointed by the
 
 ### Options
-
-1. Commissioner
-2. Government
-3. AssistantCommissioner
-4. Deputy Commissioner
+1. Government
+2. Commissioner
+3. Principal Secretary
+4. Additional Commissioner
 
 ### Answer
-
-> **Answer: 1**
+> **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -18633,23 +18120,19 @@ Phil-temple-2025
 **Subtopic:** Duties of Executive Officers (Section 29, Act 30/87)
 
 ### Question
-
-How much % (percentage)of vacancies in Ist Grade EO posts shall befilled by the employees belonging to institutions?
+Competent authority to create a single group of institutions to appoint an EO
 
 ### Options
-
-1. 30%ofvacancies
-2. 25% of vacancies
-3. 15%ofvacancies
-4. 20% of vacancies
+1. Commissioner
+2. Government
+3. Assistant Commissioner
+4. Deputy Commissioner
 
 ### Answer
-
-> **Answer: 4**
+> **Answer: 1**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -18659,23 +18142,19 @@ Phil-temple-2025
 **Subtopic:** Duties of Executive Officers (Section 29, Act 30/87)
 
 ### Question
-
-Competent authority to appoint Regional Joint Commissioner as an EO to any institution basing ontheannualincome
+How much % (percentage) of vacancies in Ist Grade EO posts shall be filled by the employees belonging to institutions?
 
 ### Options
-
-1. Government
-2. Principal Secretary
-3. Commissioner
-4. AdditionalCommissioner
+1. 30% of vacancies
+2. 25% of vacancies
+3. 15% of vacancies
+4. 20% of vacancies
 
 ### Answer
-
-> **Answer: 1**
+> **Answer: 4**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -18685,23 +18164,19 @@ Phil-temple-2025
 **Subtopic:** Duties of Executive Officers (Section 29, Act 30/87)
 
 ### Question
-
-Competent authority to appoint a Deputy Commissioner as an EO to any institution basing on the annual income 130
+Competent authority to appoint Regional Joint Commissioner as an EO to any institution basing on the annual income
 
 ### Options
-
-1. Principal Secretary
-2. Commissioner
-3. AdditionalCommissioner
-4. Government
+1. Government
+2. Principal Secretary
+3. Commissioner
+4. Additional Commissioner
 
 ### Answer
-
-> **Answer: 2**
+> **Answer: 1**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -18711,23 +18186,19 @@ Phil-temple-2025
 **Subtopic:** Duties of Executive Officers (Section 29, Act 30/87)
 
 ### Question
-
-Who is the competent authority to transfer theEOs of institutions?
+Competent authority to appoint a Deputy Commissioner as an EO to any institution basing on the annual income
 
 ### Options
-
-1. Government
-2. Regional JointCommissioner
-3. AdditionalCommissioner
-4. Commissioner
+1. Principal Secretary
+2. Commissioner
+3. Additional Commissioner
+4. Government
 
 ### Answer
-
-> **Answer: 4**
+> **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -18737,23 +18208,19 @@ Phil-temple-2025
 **Subtopic:** Duties of Executive Officers (Section 29, Act 30/87)
 
 ### Question
-
-Who is the competent authority to draw and disburse the salaries of EOs?
+Who is the competent authority to transfer the EOs of institutions?
 
 ### Options
-
-1. Self
-2. AssistantCommissioner
-3. Regional JointCommissioner
-4. DeputyCommissioner
+1. Government
+2. Regional Joint Commissioner
+3. Additional Commissioner
+4. Commissioner
 
 ### Answer
-
-> **Answer: 2**
+> **Answer: 4**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -18763,23 +18230,19 @@ Phil-temple-2025
 **Subtopic:** Duties of Executive Officers (Section 29, Act 30/87)
 
 ### Question
-
-EOsof1stGradeshouldapplyforsanctionof EL/HPL/Medical leave/EOLtothe
+Who is the competent authority to draw and disburse the salaries of EOs?
 
 ### Options
-
-1. Commissioner
-2. DeputyCommissioner
-3. AssistantCommissioner
-4. AdditionalCommissioner
+1. Self
+2. Assistant Commissioner
+3. Regional Joint Commissioner
+4. Deputy Commissioner
 
 ### Answer
-
-> **Answer: None**
+> **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -18789,23 +18252,19 @@ Phil-temple-2025
 **Subtopic:** Duties of Executive Officers (Section 29, Act 30/87)
 
 ### Question
-
-Grade-IIEOsearnedleavesanctioningauthority DELETED (l)Regional JointCommissioner
+EOs of 1st Grade should apply for sanction of EL/HPL/Medical leave/EOL to the
 
 ### Options
-
-1. 6a5 2woe5 s354
-2. Commissioner
-3. DeputyCommissioner
-4. AssistantCommissioner
+1. Commissioner
+2. Deputy Commissioner
+3. Assistant Commissioner
+4. Additional Commissioner
 
 ### Answer
-
-> **Answer: None**
+> **Answer: DELETED**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -18815,23 +18274,19 @@ Phil-temple-2025
 **Subtopic:** Duties of Executive Officers (Section 29, Act 30/87)
 
 ### Question
-
-ChapterX of EndowmentsAct is describes
+Grade-II EOs earned leave sanctioning authority
 
 ### Options
-
-1. Contents of Audit Report
-2. Alienationof any immovablepropertyand resumptionof Inam lands
-3. Rectification of defects in audit
-4. Accounts andAudit
+1. Regional Joint Commissioner
+2. Commissioner
+3. Deputy Commissioner
+4. Assistant Commissioner
 
 ### Answer
-
-> **Answer: None**
+> **Answer: DELETED**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -18841,23 +18296,19 @@ Phil-temple-2025
 **Subtopic:** Duties of Executive Officers (Section 29, Act 30/87)
 
 ### Question
-
-Section77of theEndowmentsAct describes
+Chapter X of Endowments Act is describes
 
 ### Options
-
-1. Prohibition of transfer of lands granted for rendering service to an institution
-2. Appeals
-3. Alienationof immovableproperty
-4. Resumption of Inam lands
+1. Contents of Audit Report
+2. Alienation of any immovable property and resumption of Inam lands
+3. Rectification of defects in audit
+4. Accounts and Audit
 
 ### Answer
-
-> **Answer: 4**
+> **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -18867,23 +18318,19 @@ Phil-temple-2025
 **Subtopic:** Duties of Executive Officers (Section 29, Act 30/87)
 
 ### Question
-
-The Ordinance no.2/2019passed by the Government vide G.0.Ms.No.26, law (F)Dept., Dt; 23-02-2019is belongs to
+Section 77 of the Endowments Act describes
 
 ### Options
-
-1. Non agricultural lands
-2. Vacantsites
-3. Inamlands,AmendmenttoAct1956
-4. Agricultural lands
+1. Prohibition of transfer of lands granted for rendering service to an institution
+2. Appeals
+3. Alienation of immovable property
+4. Resumption of Inam lands
 
 ### Answer
-
-> **Answer: 3**
+> **Answer: 4**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -18893,23 +18340,19 @@ Phil-temple-2025
 **Subtopic:** Duties of Executive Officers (Section 29, Act 30/87)
 
 ### Question
-
-CompromisehowtobemadeisintheSectionof
+The Ordinance no.2/2019 passed by the Government vide G.O.Ms.No. 26, law (F) Dept., Dt. 23-02-2019 is belongs to
 
 ### Options
-
-1. Section 88
-2. Section 82
-3. Section 87
-4. Section 89
+1. Non agricultural lands
+2. Vacant sites
+3. Inam lands, Amendment to Act 1956
+4. Agricultural lands
 
 ### Answer
-
-> **Answer: 4**
+> **Answer: 3**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -18919,23 +18362,19 @@ Phil-temple-2025
 **Subtopic:** Duties of Executive Officers (Section 29, Act 30/87)
 
 ### Question
-
-Inhowmany daysfrom thedate of receipt of decisionof Endowments Tribunal U/S87preferon Appeal totheHighCourtU/S88?
+Compromise how to be made is in the Section of
 
 ### Options
-
-1. Within30 days
-2. Within 90 days
-3. Within 60 days
-4. Within 40 days
+1. Section 88
+2. Section 82
+3. Section 87
+4. Section 89
 
 ### Answer
-
-> **Answer: 2**
+> **Answer: 4**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -18945,29 +18384,47 @@ Phil-temple-2025
 **Subtopic:** Duties of Executive Officers (Section 29, Act 30/87)
 
 ### Question
-
-Section82defines
+In how many days from the date of receipt of decision of Endowments Tribunal U/S 87 prefer on Appeal to the High Court U/S 88?
 
 ### Options
-
-1. Powers of Endowments Tribunal todecide certaindisputes andmatters
-2. Invalidation ofun-authorised sale
-3. Lease of agricultural lands
-4. Alienationof immovableproperty
+1. Within 30 days
+2. Within 50 days
+3. Within 60 days
+4. Within 90 days
 
 ### Answer
-
-> **Answer: 3**
+> **Answer: 4**
 
 ### Exam
+Inspector-2026
 
-Phil-temple-2025
+---
+
+## Question 198
+
+**Topic:** 11. Administration & Governance
+**Subtopic:** Duties of Executive Officers (Section 29, Act 30/87)
+
+### Question
+Section 82 defines
+
+### Options
+1. Powers of Endowments Tribunal to decide certain disputes and matters
+2. Invalidation of un-authorised sale
+3. Lease of agricultural lands
+4. Alienation of immovable property
+
+### Answer
+> **Answer: 1**
+
+### Exam
+Inspector-2026
 
 ---
 
 ## General Temple Administration
 
-## Question 198
+## Question 199
 
 **Topic:** 11. Administration & Governance
 **Subtopic:** General Temple Administration
@@ -18988,7 +18445,7 @@ Endow-Act-2019
 
 ---
 
-## Question 199
+## Question 200
 
 **Topic:** 11. Administration & Governance
 **Subtopic:** General Temple Administration
@@ -19009,7 +18466,7 @@ Endow-Act-2019
 
 ---
 
-## Question 200
+## Question 201
 
 **Topic:** 11. Administration & Governance
 **Subtopic:** General Temple Administration
@@ -19030,7 +18487,7 @@ Endow-Act-2019
 
 ---
 
-## Question 201
+## Question 202
 
 **Topic:** 11. Administration & Governance
 **Subtopic:** General Temple Administration
@@ -19051,7 +18508,7 @@ Endow-Act-2019
 
 ---
 
-## Question 202
+## Question 203
 
 **Topic:** 11. Administration & Governance
 **Subtopic:** General Temple Administration
@@ -19072,7 +18529,7 @@ Endow-Act-2019
 
 ---
 
-## Question 203
+## Question 204
 
 **Topic:** 11. Administration & Governance
 **Subtopic:** General Temple Administration
@@ -19093,7 +18550,7 @@ Endow-Act-2019
 
 ---
 
-## Question 204
+## Question 205
 
 **Topic:** 11. Administration & Governance
 **Subtopic:** General Temple Administration
@@ -19114,7 +18571,7 @@ Endow-Act-2019
 
 ---
 
-## Question 205
+## Question 206
 
 **Topic:** 11. Administration & Governance
 **Subtopic:** General Temple Administration
@@ -19135,7 +18592,7 @@ Endow-Act-2019
 
 ---
 
-## Question 206
+## Question 207
 
 **Topic:** 11. Administration & Governance
 **Subtopic:** General Temple Administration
@@ -19156,7 +18613,7 @@ Endow-Act-2019
 
 ---
 
-## Question 207
+## Question 208
 
 **Topic:** 11. Administration & Governance
 **Subtopic:** General Temple Administration
@@ -19177,7 +18634,7 @@ Endow-Act-2019
 
 ---
 
-## Question 208
+## Question 209
 
 **Topic:** 11. Administration & Governance
 **Subtopic:** General Temple Administration
@@ -19198,7 +18655,7 @@ Endow-Act-2019
 
 ---
 
-## Question 209
+## Question 210
 
 **Topic:** 11. Administration & Governance
 **Subtopic:** General Temple Administration
@@ -19219,7 +18676,7 @@ Endow-Act-2019
 
 ---
 
-## Question 210
+## Question 211
 
 **Topic:** 11. Administration & Governance
 **Subtopic:** General Temple Administration
@@ -19240,7 +18697,7 @@ Endow-Act-2019
 
 ---
 
-## Question 211
+## Question 212
 
 **Topic:** 11. Administration & Governance
 **Subtopic:** General Temple Administration
@@ -19261,7 +18718,7 @@ Endow-Act-2019
 
 ---
 
-## Question 212
+## Question 213
 
 **Topic:** 11. Administration & Governance
 **Subtopic:** General Temple Administration
@@ -19282,7 +18739,7 @@ Endow-Act-2019
 
 ---
 
-## Question 213
+## Question 214
 
 **Topic:** 11. Administration & Governance
 **Subtopic:** General Temple Administration
@@ -19303,7 +18760,7 @@ Endow-Act-2019
 
 ---
 
-## Question 214
+## Question 215
 
 **Topic:** 11. Administration & Governance
 **Subtopic:** General Temple Administration
@@ -19324,7 +18781,7 @@ Endow-Act-2019
 
 ---
 
-## Question 215
+## Question 216
 
 **Topic:** 11. Administration & Governance
 **Subtopic:** General Temple Administration
@@ -19345,7 +18802,7 @@ Endow-Act-2019
 
 ---
 
-## Question 216
+## Question 217
 
 **Topic:** 11. Administration & Governance
 **Subtopic:** General Temple Administration
@@ -19371,7 +18828,7 @@ Endow-Act-2021
 
 ---
 
-## Question 217
+## Question 218
 
 **Topic:** 11. Administration & Governance
 **Subtopic:** General Temple Administration
@@ -19397,7 +18854,7 @@ Endow-Act-2021
 
 ---
 
-## Question 218
+## Question 219
 
 **Topic:** 11. Administration & Governance
 **Subtopic:** General Temple Administration
@@ -19423,7 +18880,7 @@ Endow-Act-2021
 
 ---
 
-## Question 219
+## Question 220
 
 **Topic:** 11. Administration & Governance
 **Subtopic:** General Temple Administration
@@ -19449,7 +18906,7 @@ Endow-Act-2021
 
 ---
 
-## Question 220
+## Question 221
 
 **Topic:** 11. Administration & Governance
 **Subtopic:** General Temple Administration
@@ -19475,7 +18932,7 @@ Endow-Act-2021
 
 ---
 
-## Question 221
+## Question 222
 
 **Topic:** 11. Administration & Governance
 **Subtopic:** General Temple Administration
@@ -19501,7 +18958,7 @@ Endow-Act-2021
 
 ---
 
-## Question 222
+## Question 223
 
 **Topic:** 11. Administration & Governance
 **Subtopic:** General Temple Administration
@@ -19527,7 +18984,7 @@ Endow-Act-2021
 
 ---
 
-## Question 223
+## Question 224
 
 **Topic:** 11. Administration & Governance
 **Subtopic:** General Temple Administration
@@ -19553,7 +19010,7 @@ Endow-Act-2021
 
 ---
 
-## Question 224
+## Question 225
 
 **Topic:** 11. Administration & Governance
 **Subtopic:** General Temple Administration
@@ -19579,7 +19036,7 @@ Endow-Act-2021
 
 ---
 
-## Question 225
+## Question 226
 
 **Topic:** 11. Administration & Governance
 **Subtopic:** General Temple Administration
@@ -19605,7 +19062,7 @@ Endow-Act-2021
 
 ---
 
-## Question 226
+## Question 227
 
 **Topic:** 11. Administration & Governance
 **Subtopic:** General Temple Administration
@@ -19631,7 +19088,7 @@ Endow-Act-2021
 
 ---
 
-## Question 227
+## Question 228
 
 **Topic:** 11. Administration & Governance
 **Subtopic:** General Temple Administration
@@ -19657,7 +19114,7 @@ Endow-Act-2021
 
 ---
 
-## Question 228
+## Question 229
 
 **Topic:** 11. Administration & Governance
 **Subtopic:** General Temple Administration
@@ -19683,7 +19140,7 @@ Endow-Act-2021
 
 ---
 
-## Question 229
+## Question 230
 
 **Topic:** 11. Administration & Governance
 **Subtopic:** General Temple Administration
@@ -19709,7 +19166,7 @@ Endow-Act-2021
 
 ---
 
-## Question 230
+## Question 231
 
 **Topic:** 11. Administration & Governance
 **Subtopic:** General Temple Administration
@@ -19735,7 +19192,7 @@ Endow-Act-2021
 
 ---
 
-## Question 231
+## Question 232
 
 **Topic:** 11. Administration & Governance
 **Subtopic:** General Temple Administration
@@ -19761,7 +19218,7 @@ Endow-Act-2021
 
 ---
 
-## Question 232
+## Question 233
 
 **Topic:** 11. Administration & Governance
 **Subtopic:** General Temple Administration
@@ -19787,7 +19244,7 @@ Endow-Act-2021
 
 ---
 
-## Question 233
+## Question 234
 
 **Topic:** 11. Administration & Governance
 **Subtopic:** General Temple Administration
@@ -19813,7 +19270,7 @@ Endow-Act-2021
 
 ---
 
-## Question 234
+## Question 235
 
 **Topic:** 11. Administration & Governance
 **Subtopic:** General Temple Administration
@@ -19839,7 +19296,7 @@ Endow-Act-2021
 
 ---
 
-## Question 235
+## Question 236
 
 **Topic:** 11. Administration & Governance
 **Subtopic:** General Temple Administration
@@ -19865,7 +19322,7 @@ Endow-Act-2021
 
 ---
 
-## Question 236
+## Question 237
 
 **Topic:** 11. Administration & Governance
 **Subtopic:** General Temple Administration
@@ -19891,7 +19348,7 @@ Endow-Act-2021
 
 ---
 
-## Question 237
+## Question 238
 
 **Topic:** 11. Administration & Governance
 **Subtopic:** General Temple Administration
@@ -19917,7 +19374,7 @@ Phil_Temple_2021
 
 ---
 
-## Question 238
+## Question 239
 
 **Topic:** 11. Administration & Governance
 **Subtopic:** General Temple Administration
@@ -21030,7 +20487,7 @@ The lands belonging to the Institutions or Endowments situated in scheduled area
 1. District Collector
 2. Executive Officer
 3. Government
-4. Chairman ۰రघ ߤ
+4. Chairman
 
 ### Answer
 
@@ -21079,10 +20536,10 @@ The Revenue Divisional Officer, either suo-moto or an application of the Trustee
 
 ### Options
 
-1. Inam land ఈߕం ࠝࠫ
+1. Inam land
 2. Personal land
 3. Public land
-4. Cultivation land ࣃڷ ࠝࠫ
+4. Cultivation land
 
 ### Answer
 
@@ -21132,13 +20589,12 @@ Resumption of Inam Lands is mentioned in _________ of the Andhra Pradesh Charita
 ### Options
 
 1. Section 77
-2. Section 75
-3. Section 76
-4. Section 78
+3. Kumarila Bhatt
+4. Mandan Mishra
 
 ### Answer
 
-> **Answer: 1**
+> **Answer: 1, 4**
 
 ### Exam
 
@@ -21157,10 +20613,10 @@ The prohibition of purchase of immovable property in certain cases is mentioned 
 
 ### Options
 
-1. Section 80 ࣊ࣾߤ 80
-2. Section 79 ࣊ࣾߤ 79
-3. Section 85 ࣊ࣾߤ 85
-4. Section 77 ࣊ࣾߤ 77
+1. Section 80  80
+2. Section 79  79
+3. Section 85  85
+4. Section 77  77
 
 ### Answer
 
@@ -21178,23 +20634,19 @@ Phil_Temple_2021
 **Subtopic:** Endowment Land Laws (Sections 75 to 86, Act 30/87)
 
 ### Question
-
-Section84,85and86oftheEndowmentsAct30/87describes
+Section 84, 85 and 86 of the Endowments Act 30/87 describes
 
 ### Options
-
-1. Eviction of encroacherfrom the propertyof an institution
-2. Evictionofgroupofencroachersfromthepropertyof aninstitution
-3. These3Sections omittedbyAct36of2023
-4. Penalty including imprisonmentandfinesfor individuals whocommit offences in
+1. Eviction of encroacher from the property of an institution
+2. Eviction of group of encroachers from the property of an institution
+3. These 3 Sections omitted by Act 36 of 2023
+4. Penalty including imprisonment and fines for individuals who commit offences in connection with encroachments
 
 ### Answer
-
 > **Answer: 3**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -21204,23 +20656,19 @@ Phil-temple-2025
 **Subtopic:** Endowment Land Laws (Sections 75 to 86, Act 30/87)
 
 ### Question
-
-Section75oftheEndowmentsActdescribes
+Section 75 of the Endowments Act describes
 
 ### Options
-
-1. Lease, sale of Inams tobe void in certain cases
-2. Prohibitionof transferof lands grantedforrendering service toa institution
-3. Resumptionof Inamlands
-4. Appealsontheorderof RevenueDivisionalOfficer
+1. Lease, sale of Inams to be void in certain cases
+2. Prohibition of transfer of lands granted for rendering service to a institution
+3. Resumption of Inam lands
+4. Appeals on the order of Revenue Divisional Officer
 
 ### Answer
-
 > **Answer: 1**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -21230,23 +20678,19 @@ Phil-temple-2025
 **Subtopic:** Endowment Land Laws (Sections 75 to 86, Act 30/87)
 
 ### Question
-
 How to resume Inam lands?
 
 ### Options
-
 1. Right of appeal against the decision of the Endowments Tribunal U/S 87
-2. RDO on the application of the Executive Authority of an institution resumes the whole or part of inam land
+2. RDO on the application of the Executive Authority of an institution resume the whole or any portion of any such Inam land referred to Sec. 75
 3. Eviction of an encroacher on the land of an institution
 4. Invalidation of unauthorized sale
 
 ### Answer
-
 > **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -21256,23 +20700,19 @@ Phil-temple-2025
 **Subtopic:** Endowment Land Laws (Sections 75 to 86, Act 30/87)
 
 ### Question
-
-Section 79 describes:
+Section 79 describes
 
 ### Options
-
 1. Alienation of immovable property
-2. Lease of agricultural land
+2. Prohibition of purchase of immovable property in certain cases
 3. Invalidation of unauthorised sale
 4. Permitting unauthorized sale
 
 ### Answer
-
-> **Answer: 3**
+> **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -21282,23 +20722,19 @@ Phil-temple-2025
 **Subtopic:** Endowment Land Laws (Sections 75 to 86, Act 30/87)
 
 ### Question
-
-Competent authority to evict an encroacher U/s 83 of Amendment Act 36/2023:
+Competent authority to evict an encroacher U/s 83 of Amendment Act 36/2023
 
 ### Options
-
 1. Deputy Commissioner only
 2. Assistant Commissioner only
-3. Executive Authority (Executive Officer)
+3. The EO of the institution/Assistant Commissioner/Any authority higher in rank
 4. Regional Joint Commissioner only
 
 ### Answer
-
 > **Answer: 3**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -21308,23 +20744,19 @@ Phil-temple-2025
 **Subtopic:** Endowment Land Laws (Sections 75 to 86, Act 30/87)
 
 ### Question
-
-Is giving a notice to the encroacher before removal of encroachment as per Amended Act 36/2023compulsory?
+Is giving a notice to the encroacher before removal of encroachment as per Amended Act 36/2023 compulsory?
 
 ### Options
-
-1. Compulsory. EO shall by notice requested the encroacher to remove the encroachment
+1. Compulsory. EO shall by notice requested the encroacher to remove the encroachment within a week
 2. Not compulsory. Without giving a notice the EO can evict an encroacher
-3. Not necessaryto give timeto evict the encroacher
+3. Not necessary to give time to evict the encroacher
 4. Compulsory by Thasildar
 
 ### Answer
-
-> **Answer: None**
+> **Answer: 1**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -21334,23 +20766,19 @@ Phil-temple-2025
 **Subtopic:** Endowment Land Laws (Sections 75 to 86, Act 30/87)
 
 ### Question
-
-If a tenant failed to hand over the land/shop/vacant site/building etc., after completion of approved leaseperiod,heshall be
+If a tenant failed to hand over the land/shop/vacant site/building etc., after completion of approved lease period, he shall be
 
 ### Options
-
-1. EvictedaspertheevictionorderspassedbytheAPEndowmentsTribunal
-2. EvictedaspertheevictionorderspassedbytheCommissioner
-3. EvictedUnderSection87oftheAct30/87
-4. EvictedUnderSection83oftheAmendedAct36/2023
+1. Evicted as per the eviction orders passed by the AP Endowments Tribunal
+2. Evicted as per the eviction orders passed by the Commissioner
+3. Evicted Under Section 87 of the Act 30/87
+4. Evicted Under Section 83 of the Amended Act 36/2023
 
 ### Answer
-
-> **Answer: None**
+> **Answer: 4**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -21360,23 +20788,19 @@ Phil-temple-2025
 **Subtopic:** Endowment Land Laws (Sections 75 to 86, Act 30/87)
 
 ### Question
-
-Section76oftheAct30/87defines DELETED
+Section 76 of the Act 30/87 defines
 
 ### Options
-
-1. Thepropertyandreligiousofferingswhether incashorkind,givenorendowed
-2. Prohibition oflandsgivenforrendering servicein the institutions
+1. The property and religious offerings whether in cash or kind, given or endowed
+2. Prohibition of lands given for rendering service in the institutions
 3. Lease of the lands of endowments institutions
-4. Grantingof InamtoanArchaka,Serviceholderorotheremployeeof institution
+4. Granting of Inam to an Archaka, Service holder or other employee of institution
 
 ### Answer
-
-> **Answer: None**
+> **Answer: DELETED**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -21386,23 +20810,19 @@ Phil-temple-2025
 **Subtopic:** Endowment Land Laws (Sections 75 to 86, Act 30/87)
 
 ### Question
-
-Sec.83ofAmendmentAct36/2023defines
+Sec. 83 of Amendment Act 36/2023 defines
 
 ### Options
-
-1. Encroachment of land,building oranypropertyof an institution and evictionof encroacher
+1. Encroachment of land, building or any property of an institution and eviction of encroacher
 2. Invalidation of un-authorised sale
-3. Howtomakecompromises
-4. RightofappealagainstthedecisionoftheEndowmentsTribunal U/s87
+3. How to make compromises
+4. Right of appeal against the decision of the Endowments Tribunal U/s 87
 
 ### Answer
-
-> **Answer: None**
+> **Answer: 1**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -21412,23 +20832,19 @@ Phil-temple-2025
 **Subtopic:** Endowment Land Laws (Sections 75 to 86, Act 30/87)
 
 ### Question
-
-Any person aggrieved by an order of RDO under Sub-Section (1) of Section 77 may appeal to DistrictCollectorunderSection
+Any person aggrieved by an order of RDO under Sub-Section (1) of Section 77 may appeal to District Collector under Section
 
 ### Options
-
 1. U/S 88
 2. U/S 82
 3. U/S 78
 4. U/S 89
 
 ### Answer
-
 > **Answer: 3**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
 
@@ -21438,22 +20854,18 @@ Phil-temple-2025
 **Subtopic:** Endowment Land Laws (Sections 75 to 86, Act 30/87)
 
 ### Question
-
-Any person aggrieved by an order passed by Executive Authority under Sub-Section (2) of the Section83of theAmendedAct36/2023maypreferanappealwithin(15)daysfromthedateof ordertothe
+Any person aggrieved by an order passed by Executive Authority under Sub-Section (2) of the Section 83 of the Amended Act 36/2023 may prefer an appeal within (15) days from the date of order to the
 
 ### Options
-
 1. High Court
-2. A.P.EndowmentsTribunal
+2. A. P. Endowments Tribunal
 3. Government
 4. Commissioner
 
 ### Answer
-
-> **Answer: None**
+> **Answer: 2**
 
 ### Exam
-
-Phil-temple-2025
+Inspector-2026
 
 ---
