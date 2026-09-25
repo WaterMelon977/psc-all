@@ -1,3 +1,186 @@
+## Topic Index
+
+### Logical Reasoning and Analytical Ability
+
+- Q1
+- Q2
+- Q3
+- Q4
+- Q5
+- Q6
+- Q7
+- Q8
+- Q9
+- Q10
+- Q11
+- Q12
+- Q13
+- Q14
+- Q15
+
+### Data Analysis and Tabulation
+
+*(No questions)*
+
+### Sustainable Development
+
+- Q49
+- Q50
+- Q83
+- Q85
+- Q86
+- Q90
+- Q91
+
+### Environment
+
+- Q25
+- Q32
+- Q36
+- Q45
+- Q46
+- Q47
+- Q48
+- Q54
+- Q55
+- Q59
+- Q64
+- Q87
+- Q89
+- Q124
+- Q125
+- Q126
+- Q127
+- Q128
+- Q133
+- Q134
+
+### Disaster Management and GIS
+
+- Q56
+- Q68
+- Q69
+- Q70
+- Q71
+- Q72
+- Q73
+- Q76
+- Q78
+- Q79
+
+### Geography of India and AP
+
+- Q51
+- Q75
+- Q77
+- Q120
+- Q121
+- Q122
+- Q123
+- Q129
+- Q130
+- Q131
+- Q132
+
+### History of India and AP
+
+- Q80
+- Q81
+- Q95
+- Q96
+- Q97
+- Q107
+- Q135
+- Q136
+- Q137
+- Q138
+- Q139
+- Q140
+- Q141
+- Q142
+- Q143
+- Q144
+- Q145
+- Q146
+- Q147
+- Q148
+- Q149
+- Q150
+
+### Indian Polity and Governance
+
+- Q30
+- Q31
+- Q35
+- Q82
+- Q84
+- Q88
+- Q109
+- Q110
+- Q111
+- Q112
+- Q113
+- Q114
+- Q115
+- Q116
+- Q117
+- Q118
+- Q119
+
+### Indian Economy and Planning
+
+- Q28
+- Q33
+- Q52
+- Q92
+- Q93
+- Q94
+- Q98
+- Q99
+- Q100
+- Q102
+- Q103
+- Q104
+- Q105
+- Q106
+- Q108
+
+### General Science and Technology
+
+- Q21
+- Q23
+- Q24
+- Q26
+- Q27
+- Q29
+- Q34
+- Q53
+- Q57
+- Q58
+- Q61
+- Q63
+- Q66
+- Q67
+
+### Current Events and Issues
+
+- Q16
+- Q17
+- Q19
+- Q20
+- Q22
+- Q37
+- Q38
+- Q39
+- Q40
+- Q41
+- Q42
+- Q43
+- Q44
+- Q101
+
+---
+
 # Logical Reasoning and Analytical Ability
 
 ## Question 1
@@ -457,6 +640,31 @@ FRO-2023
 
 ---
 
+## Question 83
+
+**Topic:** Sustainable Development
+
+### Question
+
+The **Mission Indra Dhanush** launched by the Government of India aims to achieve ________ of at least 90% children by 2020 (later preponed to 2018).
+
+### Options
+
+1. full immunization
+2. literacy
+3. Aadhar enrolment
+4. child labour release
+
+### Answer
+
+> **Answer: 1**
+
+### Exam
+
+FRO-2023
+
+---
+
 ## Question 85
 
 **Topic:** Sustainable Development
@@ -864,31 +1072,6 @@ The Intergovernmental Panel on Climate Change (**IPCC**) estimates that global w
 ### Answer
 
 > **Answer: 2**
-
-### Exam
-
-FRO-2023
-
----
-
-## Question 88
-
-**Topic:** Environment
-
-### Question
-
-The **Namami Gange Mission** - a key policy priority towards achieving the _______ was launched as a priority programme with a budget outlay of ₹20,000 crores for the period 2015-2020.
-
-### Options
-
-1. SDG 12
-2. SDG 10
-3. SDG 8
-4. SDG 6
-
-### Answer
-
-> **Answer: 4**
 
 ### Exam
 
@@ -1686,6 +1869,106 @@ FRO-2023
 
 ---
 
+## Question 95
+
+**Topic:** History of India and AP
+
+### Question
+
+The setting up of **National Planning Committee** by Indian National Congress was an effort to begin five-year plans in India. When was this planning committee set up?
+
+### Options
+
+1. 1940
+2. 1938
+3. 1942
+4. 1944
+
+### Answer
+
+> **Answer: 2**
+
+### Exam
+
+FRO-2023
+
+---
+
+## Question 96
+
+**Topic:** History of India and AP
+
+### Question
+
+Who introduced the economic plan called **‘Sarvodaya’ plan** in 1950?
+
+### Options
+
+1. Jawaharlal Nehru
+2. Gopala Krishna Gokhale
+3. Jaiprakash Narayan
+4. Sarvepalli Radhakrishnan
+
+### Answer
+
+> **Answer: 3**
+
+### Exam
+
+FRO-2023
+
+---
+
+## Question 97
+
+**Topic:** History of India and AP
+
+### Question
+
+When was the economic plan called **‘Peoples Plan’** by post war reconstruction committee of Indian Trade Union implemented?
+
+### Options
+
+1. 1945
+2. 1943
+3. 1941
+4. 1939
+
+### Answer
+
+> **Answer: 1**
+
+### Exam
+
+FRO-2023
+
+---
+
+## Question 107
+
+**Topic:** History of India and AP
+
+### Question
+
+On the birth anniversary of which national leader did the Prime Minister Narendra Modi launch **Saansad Adarsh Gram Yojana (SAGY)** in 2014?
+
+### Options
+
+1. Lok Nayak Jai Prakash Narayan
+2. Mahatma Gandhi
+3. Mahadev Govind Ranade
+4. Alluri Sitaram Raju
+
+### Answer
+
+> **Answer: 1**
+
+### Exam
+
+FRO-2023
+
+---
+
 ## Question 135
 
 **Topic:** History of India and AP
@@ -2167,6 +2450,81 @@ FRO-2023
 
 ---
 
+## Question 82
+
+**Topic:** Indian Polity and Governance
+
+### Question
+
+When was **Ayushman Bharat Health Infrastructure Mission** launched by PM Narendra Modi?
+
+### Options
+
+1. October 2020
+2. July 2021
+3. October 2021
+4. July 2020
+
+### Answer
+
+> **Answer: 3**
+
+### Exam
+
+FRO-2023
+
+---
+
+## Question 84
+
+**Topic:** Indian Polity and Governance
+
+### Question
+
+In which year was the **Pradhan Mantri Surakshit Matritva Abhiyan (PMSMA)** launched by the Government of India to provide assured, comprehensive and quality antenatal care, free of cost, universally to all pregnant women on the 9th of every month?
+
+### Options
+
+1. 2010
+2. 2012
+3. 2014
+4. 2016
+
+### Answer
+
+> **Answer: 4**
+
+### Exam
+
+FRO-2023
+
+---
+
+## Question 88
+
+**Topic:** Indian Polity and Governance
+
+### Question
+
+The **Namami Gange Mission** - a key policy priority towards achieving the _______ was launched as a priority programme with a budget outlay of ₹20,000 crores for the period 2015-2020.
+
+### Options
+
+1. SDG 12
+2. SDG 10
+3. SDG 8
+4. SDG 6
+
+### Answer
+
+> **Answer: 4**
+
+### Exam
+
+FRO-2023
+
+---
+
 ## Question 109
 
 **Topic:** Indian Polity and Governance
@@ -2444,6 +2802,31 @@ FRO-2023
 
 # Indian Economy and Planning
 
+## Question 28
+
+**Topic:** Indian Economy and Planning
+
+### Question
+
+According to a report published by the National Survey of India, which of the following statements is NOT correct with reference to **literacy in India**, as of 2023?
+
+### Options
+
+1. Literacy rate of India in 2023 is 77.7 per cent.
+2. Andhra Pradesh has India’s lowest literacy rate of 67.35%.
+3. Rajasthan has the lowest male literacy rate in India.
+4. Uttar Pradesh has the lowest female literacy rate.
+
+### Answer
+
+> **Answer: 4**
+
+### Exam
+
+FRO-2023
+
+---
+
 ## Question 33
 
 **Topic:** Indian Economy and Planning
@@ -2569,81 +2952,6 @@ FRO-2023
 
 ---
 
-## Question 95
-
-**Topic:** Indian Economy and Planning
-
-### Question
-
-The setting up of **National Planning Committee** by Indian National Congress was an effort to begin five-year plans in India. When was this planning committee set up?
-
-### Options
-
-1. 1940
-2. 1938
-3. 1942
-4. 1944
-
-### Answer
-
-> **Answer: 2**
-
-### Exam
-
-FRO-2023
-
----
-
-## Question 96
-
-**Topic:** Indian Economy and Planning
-
-### Question
-
-Who introduced the economic plan called **‘Sarvodaya’ plan** in 1950?
-
-### Options
-
-1. Jawaharlal Nehru
-2. Gopala Krishna Gokhale
-3. Jaiprakash Narayan
-4. Sarvepalli Radhakrishnan
-
-### Answer
-
-> **Answer: 3**
-
-### Exam
-
-FRO-2023
-
----
-
-## Question 97
-
-**Topic:** Indian Economy and Planning
-
-### Question
-
-When was the economic plan called **‘Peoples Plan’** by post war reconstruction committee of Indian Trade Union implemented?
-
-### Options
-
-1. 1945
-2. 1943
-3. 1941
-4. 1939
-
-### Answer
-
-> **Answer: 1**
-
-### Exam
-
-FRO-2023
-
----
-
 ## Question 98
 
 **Topic:** Indian Economy and Planning
@@ -2712,31 +3020,6 @@ In which year was the RBI Act, 1934 amended to provide a statutory basis for the
 ### Answer
 
 > **Answer: 4**
-
-### Exam
-
-FRO-2023
-
----
-
-## Question 101
-
-**Topic:** Indian Economy and Planning
-
-### Question
-
-**Garib Kalyan Rojgar Abhiyaan (GKRA)** was launched by the government of India in ______ to boost employment and livelihood opportunities for returnee migrant workers.
-
-### Options
-
-1. 2020
-2. 2018
-3. 2016
-4. 2012
-
-### Answer
-
-> **Answer: 1**
 
 ### Exam
 
@@ -2819,6 +3102,31 @@ FRO-2023
 
 ---
 
+## Question 105
+
+**Topic:** Indian Economy and Planning
+
+### Question
+
+What is the rank of India among 191 countries in the **Human Development Index report 2022** released by **United Nations Development Program (UNDP)**?
+
+### Options
+
+1. 132
+2. 122
+3. 112
+4. 142
+
+### Answer
+
+> **Answer: 1**
+
+### Exam
+
+FRO-2023
+
+---
+
 ## Question 106
 
 **Topic:** Indian Economy and Planning
@@ -2893,6 +3201,88 @@ Monitoring of the crop field in conventional farming requires intensive labour, 
 ### Answer
 
 > **Answer: 2**
+
+### Exam
+
+FRO-2023
+
+---
+
+## Question 23
+
+**Topic:** General Science and Technology
+
+### Question
+
+Read the given statement and conclusions carefully. Select the correct option based on the full form of the abbreviation **SATHI**.
+
+**Statement**:
+The Department of Science and Technology has launched a unique scheme called SATHI.
+
+**Conclusions**:
+i. SATHI will address the problems of accessibility, maintenance, redundancy and duplication of expensive equipment in the institutions.
+ii. SATHI will also foster a strong culture of collaboration between institutions and across disciplines to take advantage of developments, innovations and expertise in diverse areas.
+
+### Options
+
+1. Only conclusion (i) is correct
+2. Only conclusion (ii) is correct
+3. Both conclusions (i) and (ii) are correct
+4. None of the conclusions are correct
+
+### Answer
+
+> **Answer: 3**
+
+### Exam
+
+FRO-2023
+
+---
+
+## Question 24
+
+**Topic:** General Science and Technology
+
+### Question
+
+Which of the following is NOT the correct full form of **INSPIRE** and its components?
+
+### Options
+
+1. INSPIRE – Innovation in Science Pursuit for Inspired Research
+2. SEATS – Scheme for Early Attraction of Talents for Science
+3. SHE – Support for Her Education
+4. AORC – Assured Opportunity for Research Careers
+
+### Answer
+
+> **Answer: 3**
+
+### Exam
+
+FRO-2023
+
+---
+
+## Question 26
+
+**Topic:** General Science and Technology
+
+### Question
+
+Which of the following institutions have joined hands for **JIGYASA** – Student-Scientist Connect Programme connecting school students and scientists so as to extend student’s classroom learning with that of a very well planned research laboratory-based learning?
+
+### Options
+
+1. Council of Scientific and Industrial Research and Kendriya Vidyalaya Sangathan
+2. Council of Scientific and Industrial Research and Central Board of Secondary Education
+3. Council of Scientific and Industrial Research and Indian Council of Secondary Education
+4. Council of Scientific and Industrial Research and Army Welfare Education Society
+
+### Answer
+
+> **Answer: 1**
 
 ### Exam
 
@@ -3160,31 +3550,6 @@ FRO-2023
 
 ---
 
-## Question 83
-
-**Topic:** General Science and Technology
-
-### Question
-
-The **Mission Indra Dhanush** launched by the Government of India aims to achieve ________ of at least 90% children by 2020 (later preponed to 2018).
-
-### Options
-
-1. full immunization
-2. literacy
-3. Aadhar enrolment
-4. child labour release
-
-### Answer
-
-> **Answer: 1**
-
-### Exam
-
-FRO-2023
-
----
-
 # Current Events and Issues
 
 ## Question 16
@@ -3309,113 +3674,6 @@ Which company will provide end-to-end management of DIKSHA’s online platforms 
 ### Answer
 
 > **Answer: 1**
-
-### Exam
-
-FRO-2023
-
----
-
-## Question 23
-
-**Topic:** Current Events and Issues
-
-### Question
-
-Read the given statement and conclusions carefully. Select the correct option based on the full form of the abbreviation **SATHI**.
-
-**Statement**:
-The Department of Science and Technology has launched a unique scheme called SATHI.
-
-**Conclusions**:
-i. SATHI will address the problems of accessibility, maintenance, redundancy and duplication of expensive equipment in the institutions.
-ii. SATHI will also foster a strong culture of collaboration between institutions and across disciplines to take advantage of developments, innovations and expertise in diverse areas.
-
-### Options
-
-1. Only conclusion (i) is correct
-2. Only conclusion (ii) is correct
-3. Both conclusions (i) and (ii) are correct
-4. None of the conclusions are correct
-
-### Answer
-
-> **Answer: 3**
-
-### Exam
-
-FRO-2023
-
----
-
-## Question 24
-
-**Topic:** Current Events and Issues
-
-### Question
-
-Which of the following is NOT the correct full form of **INSPIRE** and its components?
-
-### Options
-
-1. INSPIRE – Innovation in Science Pursuit for Inspired Research
-2. SEATS – Scheme for Early Attraction of Talents for Science
-3. SHE – Support for Her Education
-4. AORC – Assured Opportunity for Research Careers
-
-### Answer
-
-> **Answer: 3**
-
-### Exam
-
-FRO-2023
-
----
-
-## Question 26
-
-**Topic:** Current Events and Issues
-
-### Question
-
-Which of the following institutions have joined hands for **JIGYASA** – Student-Scientist Connect Programme connecting school students and scientists so as to extend student’s classroom learning with that of a very well planned research laboratory-based learning?
-
-### Options
-
-1. Council of Scientific and Industrial Research and Kendriya Vidyalaya Sangathan
-2. Council of Scientific and Industrial Research and Central Board of Secondary Education
-3. Council of Scientific and Industrial Research and Indian Council of Secondary Education
-4. Council of Scientific and Industrial Research and Army Welfare Education Society
-
-### Answer
-
-> **Answer: 1**
-
-### Exam
-
-FRO-2023
-
----
-
-## Question 28
-
-**Topic:** Current Events and Issues
-
-### Question
-
-According to a report published by the National Survey of India, which of the following statements is NOT correct with reference to **literacy in India**, as of 2023?
-
-### Options
-
-1. Literacy rate of India in 2023 is 77.7 per cent.
-2. Andhra Pradesh has India’s lowest literacy rate of 67.35%.
-3. Rajasthan has the lowest male literacy rate in India.
-4. Uttar Pradesh has the lowest female literacy rate.
-
-### Answer
-
-> **Answer: 4**
 
 ### Exam
 
@@ -3626,95 +3884,20 @@ FRO-2023
 
 ---
 
-## Question 82
+## Question 101
 
 **Topic:** Current Events and Issues
 
 ### Question
 
-When was **Ayushman Bharat Health Infrastructure Mission** launched by PM Narendra Modi?
+**Garib Kalyan Rojgar Abhiyaan (GKRA)** was launched by the government of India in ______ to boost employment and livelihood opportunities for returnee migrant workers.
 
 ### Options
 
-1. October 2020
-2. July 2021
-3. October 2021
-4. July 2020
-
-### Answer
-
-> **Answer: 3**
-
-### Exam
-
-FRO-2023
-
----
-
-## Question 84
-
-**Topic:** Current Events and Issues
-
-### Question
-
-In which year was the **Pradhan Mantri Surakshit Matritva Abhiyan (PMSMA)** launched by the Government of India to provide assured, comprehensive and quality antenatal care, free of cost, universally to all pregnant women on the 9th of every month?
-
-### Options
-
-1. 2010
-2. 2012
-3. 2014
-4. 2016
-
-### Answer
-
-> **Answer: 4**
-
-### Exam
-
-FRO-2023
-
----
-
-## Question 105
-
-**Topic:** Current Events and Issues
-
-### Question
-
-What is the rank of India among 191 countries in the **Human Development Index report 2022** released by **United Nations Development Program (UNDP)**?
-
-### Options
-
-1. 132
-2. 122
-3. 112
-4. 142
-
-### Answer
-
-> **Answer: 1**
-
-### Exam
-
-FRO-2023
-
----
-
-## Question 107
-
-**Topic:** Current Events and Issues
-
-### Question
-
-On the birth anniversary of which national leader did the Prime Minister Narendra Modi launch **Saansad Adarsh Gram Yojana (SAGY)** in 2014?
-
-### Options
-
-1. Lok Nayak Jai Prakash Narayan
-2. Mahatma Gandhi
-3. Mahadev Govind Ranade
-4. Alluri Sitaram Raju
+1. 2020
+2. 2018
+3. 2016
+4. 2012
 
 ### Answer
 

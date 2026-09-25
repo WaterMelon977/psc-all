@@ -1,3 +1,188 @@
+## Topic Index
+
+### Logical Reasoning and Analytical Ability
+
+- Q112
+- Q113
+- Q114
+- Q115
+- Q116
+- Q117
+- Q118
+- Q119
+- Q121
+- Q122
+- Q123
+- Q125
+- Q126
+
+### Data Analysis and Tabulation
+
+*(No questions)*
+
+### Sustainable Development
+
+- Q3
+- Q4
+- Q8
+- Q21
+- Q104
+- Q127
+- Q129
+- Q132
+- Q133
+- Q134
+- Q136
+
+### Environment
+
+- Q2
+- Q18
+- Q19
+- Q20
+- Q61
+- Q128
+- Q130
+- Q131
+- Q135
+- Q137
+- Q138
+
+### Disaster Management and GIS
+
+- Q11
+- Q139
+- Q141
+- Q142
+- Q143
+- Q144
+- Q146
+- Q147
+- Q148
+- Q149
+
+### Geography of India and AP
+
+- Q10
+- Q15
+- Q55
+- Q56
+- Q58
+- Q59
+- Q60
+- Q62
+- Q64
+- Q65
+- Q66
+- Q67
+- Q68
+- Q69
+- Q70
+- Q71
+- Q72
+- Q73
+- Q74
+- Q80
+- Q140
+- Q150
+
+### History of India and AP
+
+- Q29
+- Q30
+- Q32
+- Q33
+- Q34
+- Q37
+- Q38
+- Q39
+- Q40
+- Q41
+- Q42
+- Q43
+- Q44
+- Q45
+- Q46
+- Q47
+- Q48
+- Q49
+- Q50
+- Q51
+- Q52
+- Q53
+- Q54
+- Q57
+- Q101
+
+### Indian Polity and Governance
+
+- Q31
+- Q36
+- Q63
+- Q75
+- Q76
+- Q77
+- Q78
+- Q79
+- Q81
+- Q83
+- Q84
+- Q85
+- Q86
+- Q87
+- Q88
+- Q89
+- Q94
+- Q95
+- Q96
+- Q99
+- Q100
+- Q102
+- Q103
+- Q106
+- Q110
+
+### Indian Economy and Planning
+
+- Q24
+- Q28
+- Q82
+- Q90
+- Q91
+- Q92
+- Q93
+- Q97
+- Q98
+- Q105
+- Q107
+- Q108
+- Q109
+- Q111
+
+### General Science and Technology
+
+- Q1
+- Q5
+- Q6
+- Q9
+- Q12
+- Q13
+- Q14
+- Q16
+- Q17
+
+### Current Events and Issues
+
+- Q7
+- Q22
+- Q23
+- Q25
+- Q26
+- Q27
+- Q35
+- Q145
+
+---
 
 # Logical Reasoning and Analytical Ability
 
@@ -382,6 +567,31 @@ FSO-2026
 
 ---
 
+## Question 8
+
+**Topic:** Sustainable Development
+
+### Question
+
+Which Indian body certifies **organic products** ?
+
+### Options
+
+1. FSSAI
+2. APEDA
+3. BIS
+4. CSIR
+
+### Answer
+
+> **Answer: 2**
+
+### Exam
+
+FSO-2026
+
+---
+
 ## Question 21
 
 **Topic:** Sustainable Development
@@ -400,6 +610,31 @@ By when does AP aim to become a **“Green Hydrogen Valley"**?
 ### Answer
 
 > **Answer: 4**
+
+### Exam
+
+FSO-2026
+
+---
+
+## Question 104
+
+**Topic:** Sustainable Development
+
+### Question
+
+The **Global Hunger Index (GHI)** is a tool for comprehensively measuring hunger at global, regional and national levels. What are the values of four component indicators of GHI scores ?
+
+### Options
+
+1. Nutrition, Child stunting, Child wasting and Child mortality
+2. Gender justice,Climate resilience, Food and nutrition security
+3. Undernourishment, Child stunting, Child wasting and Child mortality
+4. Gender justice, Child stunting, Food security and Nutrition security
+
+### Answer
+
+> **Answer: 3**
 
 ### Exam
 
@@ -507,6 +742,31 @@ FSO-2026
 
 ---
 
+## Question 134
+
+**Topic:** Sustainable Development
+
+### Question
+
+Which sector is most dependent on natural resources?
+
+### Options
+
+1. IT sector
+2. Agriculture
+3. Banking
+4. Real estate
+
+### Answer
+
+> **Answer: 2**
+
+### Exam
+
+FSO-2026
+
+---
+
 ## Question 136
 
 **Topic:** Sustainable Development
@@ -584,6 +844,31 @@ FSO-2026
 
 ---
 
+## Question 19
+
+**Topic:** Environment
+
+### Question
+
+Which campaign led by the Supreme Court resulted in a new green space called **“Nyay Vatika"** in Delhi?
+
+### Options
+
+1. GreenDelhi Initiative
+2. Nyaya Paani Yatra
+3. Ek Ped Maa Ke Naam
+4. Justice for Nature Movement
+
+### Answer
+
+> **Answer: 3**
+
+### Exam
+
+FSO-2026
+
+---
+
 ## Question 20
 
 **Topic:** Environment
@@ -602,6 +887,31 @@ On 4 July 2025,the Indian Forest Department and IISc launched a 4.7 crore resear
 ### Answer
 
 > **Answer: 4**
+
+### Exam
+
+FSO-2026
+
+---
+
+## Question 61
+
+**Topic:** Environment
+
+### Question
+
+Which of the following state is having **Tropical Wet Evergreen Forests** grow ?
+
+### Options
+
+1. Assam
+2. Uttar Pradesh
+3. Madhya Pradesh
+4. Andhra Pradesh
+
+### Answer
+
+> **Answer: 1**
 
 ### Exam
 
@@ -677,31 +987,6 @@ Which is a measure to control air pollution?
 ### Answer
 
 > **Answer: 3**
-
-### Exam
-
-FSO-2026
-
----
-
-## Question 134
-
-**Topic:** Environment
-
-### Question
-
-Which sector is most dependent on natural resources?
-
-### Options
-
-1. IT sector
-2. Agriculture
-3. Banking
-4. Real estate
-
-### Answer
-
-> **Answer: 2**
 
 ### Exam
 
@@ -836,31 +1121,6 @@ FSO-2026
 
 ---
 
-## Question 140
-
-**Topic:** Disaster Management and GIS
-
-### Question
-
-Which Indian State is most vulnerable to **cyclones** ?
-
-### Options
-
-1. Gujarat
-2. Tamil Nadu
-3. Odisha
-4. Rajasthan
-
-### Answer
-
-> **Answer: 3**
-
-### Exam
-
-FSO-2026
-
----
-
 ## Question 141
 
 **Topic:** Disaster Management and GIS
@@ -950,31 +1210,6 @@ Which body coordinates **cyclone warnings** in India ?
 2. IMD
 3. NDRF
 4. ISRO
-
-### Answer
-
-> **Answer: 2**
-
-### Exam
-
-FSO-2026
-
----
-
-## Question 145
-
-**Topic:** Disaster Management and GIS
-
-### Question
-
-In **August 2025**, which Indian State faced **severe monsoon floods** with **21 deaths** and **large scale evacuations** ?
-
-### Options
-
-1. Gujarat
-2. Maharashtra
-3. Assam
-4. Odisha
 
 ### Answer
 
@@ -1086,31 +1321,6 @@ FSO-2026
 
 ---
 
-## Question 150
-
-**Topic:** Disaster Management and GIS
-
-### Question
-
-Which zone is the most **earthquake-prone** in India?
-
-### Options
-
-1. Zone-2
-2. Zone-3
-3. Zone-4
-4. Zone-5
-
-### Answer
-
-> **Answer: 4**
-
-### Exam
-
-FSO-2026
-
----
-
 # Geography of India and AP
 
 ## Question 10
@@ -1213,31 +1423,6 @@ FSO-2026
 
 ---
 
-## Question 57
-
-**Topic:** Geography of India and AP
-
-### Question
-
-The **Indus River Water Treaty** signed by the Indian and Pakisthan Governments in the year
-
-### Options
-
-1. 1947
-2. 1957
-3. 1950
-4. 1960
-
-### Answer
-
-> **Answer: 4**
-
-### Exam
-
-FSO-2026
-
----
-
 ## Question 58
 
 **Topic:** Geography of India and AP
@@ -1313,31 +1498,6 @@ FSO-2026
 
 ---
 
-## Question 61
-
-**Topic:** Geography of India and AP
-
-### Question
-
-Which of the following state is having **Tropical Wet Evergreen Forests** grow ?
-
-### Options
-
-1. Assam
-2. Uttar Pradesh
-3. Madhya Pradesh
-4. Andhra Pradesh
-
-### Answer
-
-> **Answer: 1**
-
-### Exam
-
-FSO-2026
-
----
-
 ## Question 62
 
 **Topic:** Geography of India and AP
@@ -1352,31 +1512,6 @@ The northernmost point of India is known as
 2. Indira Col.
 3. Pigmalion point
 4. Cape Comorin
-
-### Answer
-
-> **Answer: 2**
-
-### Exam
-
-FSO-2026
-
----
-
-## Question 63
-
-**Topic:** Geography of India and AP
-
-### Question
-
-In which year the **Border Roads Organisation** was created in India?
-
-### Options
-
-1. 1950
-2. 1960
-3. 1970
-4. 1980
 
 ### Answer
 
@@ -1663,7 +1798,207 @@ FSO-2026
 
 ---
 
+## Question 80
+
+**Topic:** Geography of India and AP
+
+### Question
+
+Which of the following countries is not a member of the South Asian Association for Regional Cooperation (**SAARC**)?
+
+### Options
+
+1. Afghanistan
+2. Pakistan
+3. Maldives
+4. Myanmar
+
+### Answer
+
+> **Answer: 4**
+
+### Exam
+
+FSO-2026
+
+---
+
+## Question 140
+
+**Topic:** Geography of India and AP
+
+### Question
+
+Which Indian State is most vulnerable to **cyclones** ?
+
+### Options
+
+1. Gujarat
+2. Tamil Nadu
+3. Odisha
+4. Rajasthan
+
+### Answer
+
+> **Answer: 3**
+
+### Exam
+
+FSO-2026
+
+---
+
+## Question 150
+
+**Topic:** Geography of India and AP
+
+### Question
+
+Which zone is the most **earthquake-prone** in India?
+
+### Options
+
+1. Zone-2
+2. Zone-3
+3. Zone-4
+4. Zone-5
+
+### Answer
+
+> **Answer: 4**
+
+### Exam
+
+FSO-2026
+
+---
+
 # History of India and AP
+
+## Question 29
+
+**Topic:** History of India and AP
+
+### Question
+
+When was the **P4(Public-Private-People-Partnership) Programme** officially launched by the Andhra Pradesh Government?
+
+### Options
+
+1. Ugadi, March 30, 2025
+2. Independence Day, August 15, 2025
+3. Republic Day, January 26, 2025
+4. Diwali, November 2024
+
+### Answer
+
+> **Answer: 1**
+
+### Exam
+
+FSO-2026
+
+---
+
+## Question 30
+
+**Topic:** History of India and AP
+
+### Question
+
+Which of the following Andhra Pradesh temples was sanctioned a **PRASHAD development project** in 2022-23 ?
+
+### Options
+
+1. Amaravati
+2. Srisailam Temple
+3. SimhachalamTemple
+4. Annavaram Temple
+
+### Answer
+
+> **Answer: 3**
+
+### Exam
+
+FSO-2026
+
+---
+
+## Question 32
+
+**Topic:** History of India and AP
+
+### Question
+
+Which organization signed an **MoU** with the Andhra Pradesh Government in 2025 to **improve health, education and agriculture** using technology?
+
+### Options
+
+1. WHO
+2. NITI Aayog
+3. Bill and Melinda Gates Foundation
+4. Tata Trusts
+
+### Answer
+
+> **Answer: 3**
+
+### Exam
+
+FSO-2026
+
+---
+
+## Question 33
+
+**Topic:** History of India and AP
+
+### Question
+
+Under which mission was Andhra Pradesh recognized as a top-performing state by the Union **Ministry of Tribal Affairs**?
+
+### Options
+
+1. PM-JAY
+2. PM-KISAN
+3. PM Janjatiya Vikas Mission
+4. Tribal Health Mission
+
+### Answer
+
+> **Answer: 3**
+
+### Exam
+
+FSO-2026
+
+---
+
+## Question 34
+
+**Topic:** History of India and AP
+
+### Question
+
+On which date has the Government of Andhra Pradesh officially declared **Vadde Obanna Jayanti** to be celebrated annually?
+
+### Options
+
+1. January 11
+2. May 5
+3. August 15
+4. October 2
+
+### Answer
+
+> **Answer: 1**
+
+### Exam
+
+FSO-2026
+
+---
 
 ## Question 37
 
@@ -1779,6 +2114,31 @@ The **first High Court** for Andhra province under Madras Presidency was establi
 2. Guntur
 3. Kurnool
 4. Vishakapatnam
+
+### Answer
+
+> **Answer: 2**
+
+### Exam
+
+FSO-2026
+
+---
+
+## Question 42
+
+**Topic:** History of India and AP
+
+### Question
+
+As per the **AP Reorganisation Act, 2014**,for how many years, Hyderabad city was declared as the common capital of both AP and Telangana states ?
+
+### Options
+
+1. 5 years
+2. 10 years
+3. 15 years
+4. 25 years
 
 ### Answer
 
@@ -2090,20 +2450,20 @@ FSO-2026
 
 ---
 
-## Question 111
+## Question 57
 
 **Topic:** History of India and AP
 
 ### Question
 
-Who was responsible for the construction of Krishna Raja Sagar Dam in Kamataka ?
+The **Indus River Water Treaty** signed by the Indian and Pakisthan Governments in the year
 
 ### Options
 
-1. Manmohan Singh
-2. Motilal Nehru
-3. Ramesh Dutt
-4. M.Visvesvaraya
+1. 1947
+2. 1957
+3. 1950
+4. 1960
 
 ### Answer
 
@@ -2115,32 +2475,32 @@ FSO-2026
 
 ---
 
-# Indian Polity and Governance
+## Question 101
 
-## Question 5
-
-**Topic:** Indian Polity and Governance
+**Topic:** History of India and AP
 
 ### Question
 
-The organization responsible for **approving vaccines and drugs in India**
+When did Nehru propose the **objectives resolution** related to the Preamble of the Constitution ?
 
 ### Options
 
-1. WHO
-2. ICMR
-3. CDSCO
-4. DRDO
+1. 13 December1946
+2. 26 November 1946
+3. 22 January1947
+4. 26 January 1947
 
 ### Answer
 
-> **Answer: 3**
+> **Answer: 1**
 
 ### Exam
 
 FSO-2026
 
 ---
+
+# Indian Polity and Governance
 
 ## Question 31
 
@@ -2167,20 +2527,45 @@ FSO-2026
 
 ---
 
-## Question 42
+## Question 36
 
 **Topic:** Indian Polity and Governance
 
 ### Question
 
-As per the **AP Reorganisation Act, 2014**,for how many years, Hyderabad city was declared as the common capital of both AP and Telangana states ?
+Which Gram Panchayat from NTR district in Andhra Pradesh was selected for the National **“Aatmanirbhar Panchayat Special Award"** by the Union **Ministry of Panchayati Raj** for the assessment year 2023-24 (Awards 2025)?
 
 ### Options
 
-1. 5 years
-2. 10 years
-3. 15 years
-4. 25 years
+1. Muppalla Gram Panchayat
+2. Tagarampudi Gram panchayat
+3. Gollapudi Gram Panchayat
+4. Nyayampudi Gram Panchayat
+
+### Answer
+
+> **Answer: 3**
+
+### Exam
+
+FSO-2026
+
+---
+
+## Question 63
+
+**Topic:** Indian Polity and Governance
+
+### Question
+
+In which year the **Border Roads Organisation** was created in India?
+
+### Options
+
+1. 1950
+2. 1960
+3. 1970
+4. 1980
 
 ### Answer
 
@@ -2524,6 +2909,81 @@ FSO-2026
 
 ---
 
+## Question 94
+
+**Topic:** Indian Polity and Governance
+
+### Question
+
+When was the **Planning Commission** dissolved?
+
+### Options
+
+1. August 2014
+2. December 2014
+3. October 2014
+4. March 2014
+
+### Answer
+
+> **Answer: 1**
+
+### Exam
+
+FSO-2026
+
+---
+
+## Question 95
+
+**Topic:** Indian Polity and Governance
+
+### Question
+
+Who was the Deputy Chairman of the Planning Commission during the **Second Five-Year plan** period ?
+
+### Options
+
+1. Mahalanobis
+2. V. T. Krishnamachari
+3. Gulzarilal Nanda
+4. Jawaharlal Nehru
+
+### Answer
+
+> **Answer: 2**
+
+### Exam
+
+FSO-2026
+
+---
+
+## Question 96
+
+**Topic:** Indian Polity and Governance
+
+### Question
+
+What is not included in the time period of NITI Aayog's action plan documents?
+
+### Options
+
+1. 3 years
+2. 5 years
+3. 7 years
+4. 15years
+
+### Answer
+
+> **Answer: 2**
+
+### Exam
+
+FSO-2026
+
+---
+
 ## Question 99
 
 **Topic:** Indian Polity and Governance
@@ -2567,31 +3027,6 @@ The Article that states the President of India can ask **advice** of the Chief J
 ### Answer
 
 > **Answer: 2**
-
-### Exam
-
-FSO-2026
-
----
-
-## Question 101
-
-**Topic:** Indian Polity and Governance
-
-### Question
-
-When did Nehru propose the **objectives resolution** related to the Preamble of the Constitution ?
-
-### Options
-
-1. 13 December1946
-2. 26 November 1946
-3. 22 January1947
-4. 26 January 1947
-
-### Answer
-
-> **Answer: 1**
 
 ### Exam
 
@@ -2674,32 +3109,32 @@ FSO-2026
 
 ---
 
-# Indian Economy and Planning
+## Question 110
 
-## Question 8
-
-**Topic:** Indian Economy and Planning
+**Topic:** Indian Polity and Governance
 
 ### Question
 
-Which Indian body certifies **organic products** ?
+The Planning Commission was constituted in which year?
 
 ### Options
 
-1. FSSAI
-2. APEDA
-3. BIS
-4. CSIR
+1. 1950
+2. 1948
+3. 1951
+4. 1947
 
 ### Answer
 
-> **Answer: 2**
+> **Answer: 1**
 
 ### Exam
 
 FSO-2026
 
 ---
+
+# Indian Economy and Planning
 
 ## Question 24
 
@@ -2719,6 +3154,31 @@ What does **“Gig economy"** mean?
 ### Answer
 
 > **Answer: 3**
+
+### Exam
+
+FSO-2026
+
+---
+
+## Question 28
+
+**Topic:** Indian Economy and Planning
+
+### Question
+
+When was the **PM Dhan-Dhaanya Krishi Yojana** officially approved by the Union Cabinet?
+
+### Options
+
+1. February 1, 2025
+2. July 16, 2025
+3. January1,2025
+4. July 1, 2026
+
+### Answer
+
+> **Answer: 2**
 
 ### Exam
 
@@ -2851,81 +3311,6 @@ FSO-2026
 
 ---
 
-## Question 94
-
-**Topic:** Indian Economy and Planning
-
-### Question
-
-When was the **Planning Commission** dissolved?
-
-### Options
-
-1. August 2014
-2. December 2014
-3. October 2014
-4. March 2014
-
-### Answer
-
-> **Answer: 1**
-
-### Exam
-
-FSO-2026
-
----
-
-## Question 95
-
-**Topic:** Indian Economy and Planning
-
-### Question
-
-Who was the Deputy Chairman of the Planning Commission during the **Second Five-Year plan** period ?
-
-### Options
-
-1. Mahalanobis
-2. V. T. Krishnamachari
-3. Gulzarilal Nanda
-4. Jawaharlal Nehru
-
-### Answer
-
-> **Answer: 2**
-
-### Exam
-
-FSO-2026
-
----
-
-## Question 96
-
-**Topic:** Indian Economy and Planning
-
-### Question
-
-What is not included in the time period of NITI Aayog's action plan documents?
-
-### Options
-
-1. 3 years
-2. 5 years
-3. 7 years
-4. 15years
-
-### Answer
-
-> **Answer: 2**
-
-### Exam
-
-FSO-2026
-
----
-
 ## Question 97
 
 **Topic:** Indian Economy and Planning
@@ -2969,31 +3354,6 @@ The international organization that provided loan assistance to overcome the eco
 ### Answer
 
 > **Answer: 4**
-
-### Exam
-
-FSO-2026
-
----
-
-## Question 104
-
-**Topic:** Indian Economy and Planning
-
-### Question
-
-The **Global Hunger Index (GHI)** is a tool for comprehensively measuring hunger at global, regional and national levels. What are the values of four component indicators of GHI scores ?
-
-### Options
-
-1. Nutrition, Child stunting, Child wasting and Child mortality
-2. Gender justice,Climate resilience, Food and nutrition security
-3. Undernourishment, Child stunting, Child wasting and Child mortality
-4. Gender justice, Child stunting, Food security and Nutrition security
-
-### Answer
-
-> **Answer: 3**
 
 ### Exam
 
@@ -3101,24 +3461,24 @@ FSO-2026
 
 ---
 
-## Question 110
+## Question 111
 
 **Topic:** Indian Economy and Planning
 
 ### Question
 
-The Planning Commission was constituted in which year?
+Who was responsible for the construction of Krishna Raja Sagar Dam in Kamataka ?
 
 ### Options
 
-1. 1950
-2. 1948
-3. 1951
-4. 1947
+1. Manmohan Singh
+2. Motilal Nehru
+3. Ramesh Dutt
+4. M.Visvesvaraya
 
 ### Answer
 
-> **Answer: 1**
+> **Answer: 4**
 
 ### Exam
 
@@ -3146,6 +3506,31 @@ Which vitamin is essential for **blood clotting**?
 ### Answer
 
 > **Answer: 4**
+
+### Exam
+
+FSO-2026
+
+---
+
+## Question 5
+
+**Topic:** General Science and Technology
+
+### Question
+
+The organization responsible for **approving vaccines and drugs in India**
+
+### Options
+
+1. WHO
+2. ICMR
+3. CDSCO
+4. DRDO
+
+### Answer
+
+> **Answer: 3**
 
 ### Exam
 
@@ -3355,31 +3740,6 @@ FSO-2026
 
 ---
 
-## Question 19
-
-**Topic:** Current Events and Issues
-
-### Question
-
-Which campaign led by the Supreme Court resulted in a new green space called **“Nyay Vatika"** in Delhi?
-
-### Options
-
-1. GreenDelhi Initiative
-2. Nyaya Paani Yatra
-3. Ek Ped Maa Ke Naam
-4. Justice for Nature Movement
-
-### Answer
-
-> **Answer: 3**
-
-### Exam
-
-FSO-2026
-
----
-
 ## Question 22
 
 **Topic:** Current Events and Issues
@@ -3505,156 +3865,6 @@ FSO-2026
 
 ---
 
-## Question 28
-
-**Topic:** Current Events and Issues
-
-### Question
-
-When was the **PM Dhan-Dhaanya Krishi Yojana** officially approved by the Union Cabinet?
-
-### Options
-
-1. February 1, 2025
-2. July 16, 2025
-3. January1,2025
-4. July 1, 2026
-
-### Answer
-
-> **Answer: 2**
-
-### Exam
-
-FSO-2026
-
----
-
-## Question 29
-
-**Topic:** Current Events and Issues
-
-### Question
-
-When was the **P4(Public-Private-People-Partnership) Programme** officially launched by the Andhra Pradesh Government?
-
-### Options
-
-1. Ugadi, March 30, 2025
-2. Independence Day, August 15, 2025
-3. Republic Day, January 26, 2025
-4. Diwali, November 2024
-
-### Answer
-
-> **Answer: 1**
-
-### Exam
-
-FSO-2026
-
----
-
-## Question 30
-
-**Topic:** Current Events and Issues
-
-### Question
-
-Which of the following Andhra Pradesh temples was sanctioned a **PRASHAD development project** in 2022-23 ?
-
-### Options
-
-1. Amaravati
-2. Srisailam Temple
-3. SimhachalamTemple
-4. Annavaram Temple
-
-### Answer
-
-> **Answer: 3**
-
-### Exam
-
-FSO-2026
-
----
-
-## Question 32
-
-**Topic:** Current Events and Issues
-
-### Question
-
-Which organization signed an **MoU** with the Andhra Pradesh Government in 2025 to **improve health, education and agriculture** using technology?
-
-### Options
-
-1. WHO
-2. NITI Aayog
-3. Bill and Melinda Gates Foundation
-4. Tata Trusts
-
-### Answer
-
-> **Answer: 3**
-
-### Exam
-
-FSO-2026
-
----
-
-## Question 33
-
-**Topic:** Current Events and Issues
-
-### Question
-
-Under which mission was Andhra Pradesh recognized as a top-performing state by the Union **Ministry of Tribal Affairs**?
-
-### Options
-
-1. PM-JAY
-2. PM-KISAN
-3. PM Janjatiya Vikas Mission
-4. Tribal Health Mission
-
-### Answer
-
-> **Answer: 3**
-
-### Exam
-
-FSO-2026
-
----
-
-## Question 34
-
-**Topic:** Current Events and Issues
-
-### Question
-
-On which date has the Government of Andhra Pradesh officially declared **Vadde Obanna Jayanti** to be celebrated annually?
-
-### Options
-
-1. January 11
-2. May 5
-3. August 15
-4. October 2
-
-### Answer
-
-> **Answer: 1**
-
-### Exam
-
-FSO-2026
-
----
-
 ## Question 35
 
 **Topic:** Current Events and Issues
@@ -3680,49 +3890,24 @@ FSO-2026
 
 ---
 
-## Question 36
+## Question 145
 
 **Topic:** Current Events and Issues
 
 ### Question
 
-Which Gram Panchayat from NTR district in Andhra Pradesh was selected for the National **“Aatmanirbhar Panchayat Special Award"** by the Union **Ministry of Panchayati Raj** for the assessment year 2023-24 (Awards 2025)?
+In **August 2025**, which Indian State faced **severe monsoon floods** with **21 deaths** and **large scale evacuations** ?
 
 ### Options
 
-1. Muppalla Gram Panchayat
-2. Tagarampudi Gram panchayat
-3. Gollapudi Gram Panchayat
-4. Nyayampudi Gram Panchayat
+1. Gujarat
+2. Maharashtra
+3. Assam
+4. Odisha
 
 ### Answer
 
-> **Answer: 3**
-
-### Exam
-
-FSO-2026
-
----
-
-## Question 80
-
-**Topic:** Current Events and Issues
-
-### Question
-
-Which of the following countries is not a member of the South Asian Association for Regional Cooperation (**SAARC**)?
-
-### Options
-
-1. Afghanistan
-2. Pakistan
-3. Maldives
-4. Myanmar
-
-### Answer
-
-> **Answer: 4**
+> **Answer: 2**
 
 ### Exam
 

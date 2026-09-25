@@ -747,12 +747,14 @@ Removal of pollutants from the biosphere by biological processes is:
 
 ### Question
 
-Match a, b, c & d with
+Match a, b, c & d with:
 
-a) Nitrogen - i) Pyrites
-b) Iron - ii) Organic matter
-c) Calcium - iii) Tourmaline
-d) Boron - iv) Gypsum
+| **List I: Element** | **List II: Source** |
+| --- | --- |
+| **a.** Nitrogen | **i.** Pyrites |
+| **b.** Iron | **ii.** Organic matter |
+| **c.** Calcium | **iii.** Tourmaline |
+| **d.** Boron | **iv.** Gypsum |
 
 ### Options
 

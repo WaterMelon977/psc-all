@@ -1,7 +1,9 @@
 # APPSC 2022 ae various gsma Question Bank
 
 ## Topic Index
+
 ### Logical Reasoning and Analytical Ability
+
 - Q121
 - Q122
 - Q123
@@ -18,6 +20,7 @@
 - Q134
 
 ### Data Analysis and Tabulation
+
 - Q135
 - Q136
 - Q137
@@ -36,6 +39,7 @@
 - Q150
 
 ### Sustainable Development
+
 - Q47
 - Q48
 - Q49
@@ -43,6 +47,7 @@
 - Q116
 
 ### Environment
+
 - Q9
 - Q21
 - Q28
@@ -50,6 +55,7 @@
 - Q46
 
 ### Disaster Management and GIS
+
 - Q36
 - Q37
 - Q38
@@ -62,6 +68,7 @@
 - Q45
 
 ### Geography of India and AP
+
 - Q53
 - Q54
 - Q55
@@ -84,6 +91,7 @@
 - Q96
 
 ### History of India and AP
+
 - Q61
 - Q62
 - Q64
@@ -97,6 +105,7 @@
 - Q72
 
 ### Indian Polity and Governance
+
 - Q18
 - Q24
 - Q63
@@ -125,6 +134,7 @@
 - Q108
 
 ### Indian Economy and Planning
+
 - Q12
 - Q13
 - Q19
@@ -146,6 +156,7 @@
 - Q120
 
 ### General Science and Technology
+
 - Q10
 - Q11
 - Q14
@@ -161,6 +172,7 @@
 - Q34
 
 ### Current Events and Issues
+
 - Q1
 - Q2
 - Q3
@@ -687,9 +699,9 @@ According to the reports of the Ministry of Electronics and IT, approximately ho
 
 ### Options
 
-1. 
-3. 54 lakh tonnes 2. 2.54 lakh tonnes 3. 1.54 lakh tonnes
-4. 4.54 lakh tonnes
+1.
+2. 54 lakh tonnes 2. 2.54 lakh tonnes 3. 1.54 lakh tonnes
+3. 4.54 lakh tonnes
 
 ### Answer
 
@@ -3476,31 +3488,6 @@ AE-2022
 
 ---
 
-## Question 133
-
-**Topic:** Logical Reasoning and Analytical Ability
-
-### Question
-
-*(No text)*
-
-### Options
-
-1. Brother
-2. Son
-3. Husband
-4. Father-in-law
-
-### Answer
-
-> **Answer: 3**
-
-### Exam
-
-AE-2022
-
----
-
 ## Question 134
 
 **Topic:** Logical Reasoning and Analytical Ability
@@ -3525,401 +3512,3 @@ Four pairs of letter-clusters have been given, out of which three are alike in s
 AE-2022
 
 ---
-
-## Question 135
-
-**Topic:** Data Analysis and Tabulation
-
-### Question
-
-*(No text)*
-
-### Options
-
-1. 77%
-2. 85%
-3. 90%
-4. 95%
-
-### Answer
-
-> **Answer: 3**
-
-### Exam
-
-AE-2022
-
----
-
-## Question 136
-
-**Topic:** Data Analysis and Tabulation
-
-### Question
-
-*(No text)*
-
-### Options
-
-1. 
-2. 
-3. 
-4. 
-
-### Answer
-
-> **Answer: 1**
-
-### Exam
-
-AE-2022
-
----
-
-## Question 137
-
-**Topic:** Data Analysis and Tabulation
-
-### Question
-
-*(No text)*
-
-### Options
-
-1. 
-2. 
-3. 
-4. 
-
-### Answer
-
-> **Answer: 1**
-
-### Exam
-
-AE-2022
-
----
-
-## Question 138
-
-**Topic:** Data Analysis and Tabulation
-
-### Question
-
-*(No text)*
-
-### Options
-
-1. 
-2. 
-3. 
-4. 
-
-### Answer
-
-> **Answer: 2**
-
-### Exam
-
-AE-2022
-
----
-
-## Question 139
-
-**Topic:** Data Analysis and Tabulation
-
-### Question
-
-*(No text)*
-
-### Options
-
-1. 
-2. 
-3. 
-4. 
-
-### Answer
-
-> **Answer: 1**
-
-### Exam
-
-AE-2022
-
----
-
-## Question 140
-
-**Topic:** Data Analysis and Tabulation
-
-### Question
-
-*(No text)*
-
-### Options
-
-1. 
-2. 
-3. 
-4. 
-
-### Answer
-
-> **Answer: 3**
-
-### Exam
-
-AE-2022
-
----
-
-## Question 141
-
-**Topic:** Data Analysis and Tabulation
-
-### Question
-
-Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.
-
-### Options
-
-1. 
-2. 
-3. 
-4. 
-
-### Answer
-
-> **Answer: None**
-
-### Exam
-
-AE-2022
-
----
-
-## Question 142
-
-**Topic:** Data Analysis and Tabulation
-
-### Question
-
-*(No text)*
-
-### Options
-
-1. 
-2. 
-3. 
-4. 
-
-### Answer
-
-> **Answer: 3**
-
-### Exam
-
-AE-2022
-
----
-
-## Question 143
-
-**Topic:** Data Analysis and Tabulation
-
-### Question
-
-*(No text)*
-
-### Options
-
-1. 
-2. 
-3. 
-4. 
-
-### Answer
-
-> **Answer: 1**
-
-### Exam
-
-AE-2022
-
----
-
-## Question 144
-
-**Topic:** Data Analysis and Tabulation
-
-### Question
-
-*(No text)*
-
-### Options
-
-1. 
-2. 
-3. 
-4. 
-
-### Answer
-
-> **Answer: 2**
-
-### Exam
-
-AE-2022
-
----
-
-## Question 145
-
-**Topic:** Data Analysis and Tabulation
-
-### Question
-
-*(No text)*
-
-### Options
-
-1. 
-2. 
-3. 
-4. 
-
-### Answer
-
-> **Answer: 4**
-
-### Exam
-
-AE-2022
-
----
-
-## Question 146
-
-**Topic:** Data Analysis and Tabulation
-
-### Question
-
-*(No text)*
-
-### Options
-
-1. 
-2. 
-3. 
-4. 
-
-### Answer
-
-> **Answer: 1**
-
-### Exam
-
-AE-2022
-
----
-
-## Question 147
-
-**Topic:** Data Analysis and Tabulation
-
-### Question
-
-*(No text)*
-
-### Options
-
-1. 
-2. 
-3. 
-4. 
-
-### Answer
-
-> **Answer: 3**
-
-### Exam
-
-AE-2022
-
----
-
-## Question 148
-
-**Topic:** Data Analysis and Tabulation
-
-### Question
-
-*(No text)*
-
-### Options
-
-1. 
-2. 
-3. 
-4. 
-
-### Answer
-
-> **Answer: 2**
-
-### Exam
-
-AE-2022
-
----
-
-## Question 149
-
-**Topic:** Data Analysis and Tabulation
-
-### Question
-
-Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.
-
-### Options
-
-1. 
-2. 
-3. 
-4. 
-
-### Answer
-
-> **Answer: None**
-
-### Exam
-
-AE-2022
-
----
-
-## Question 150
-
-**Topic:** Data Analysis and Tabulation
-
-### Question
-
-*(No text)*
-
-### Options
-
-1. 
-2. 
-3. 
-4. 
-
-### Answer
-
-> **Answer: 1**
-
-### Exam
-
-AE-2022

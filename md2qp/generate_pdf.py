@@ -5,7 +5,7 @@ from reportlab.lib.pagesizes import A4
 from reportlab.lib import colors
 from reportlab.platypus import (
     Paragraph, Spacer, HRFlowable, Table, TableStyle, KeepTogether,
-    BaseDocTemplate, PageTemplate, Frame, Image as RLImage
+    BaseDocTemplate, PageTemplate, Frame, Image as RLImage, PageBreak, CondPageBreak
 )
 from reportlab.lib.styles import ParagraphStyle
 from reportlab.pdfgen import canvas
@@ -414,7 +414,7 @@ def render_question_flowables(q_num, raw_q_text, col_w, styles, Q_HANG):
 # ---------------------------------------------------------------------------
 # Main PDF generator
 # ---------------------------------------------------------------------------
-def generate_topicwise_pdf(md_input_path, pdf_output_path, header_override=None, single_col=False):
+def generate_topicwise_pdf(md_input_path, pdf_output_path, header_override=None, single_col=False, page_per_topic=False):
     parsed_res = parse_markdown_questions(md_input_path)
     if len(parsed_res) == 3:
         questions, topic_order, subtopic_order = parsed_res
@@ -547,8 +547,12 @@ def generate_topicwise_pdf(md_input_path, pdf_output_path, header_override=None,
     # ---- Story ----
     story = []
 
-    for topic_name in ordered_topics:
+    for topic_idx, topic_name in enumerate(ordered_topics):
         topic_qs = topics_dict[topic_name]
+
+        # Start each topic on a fresh page if page_per_topic is True (after first topic)
+        if page_per_topic and topic_idx > 0:
+            story.append(PageBreak())
 
         # Dark charcoal topic banner with slate left stripe
         p_topic = Paragraph(f'<b>{topic_name.upper()}</b>', ST['TopicHeading'])
@@ -765,6 +769,8 @@ if __name__ == '__main__':
     parser.add_argument('--single-col', action='store_true', default=False,
                         help='Use single-column layout instead of the default two-column layout. '
                              'Recommended for graphic-heavy papers with large diagram images.')
+    parser.add_argument('--page-per-topic', action='store_true', default=False,
+                        help='Start each topic section on a new page.')
     parser.add_argument('--help', action='help', help='Show this help message and exit')
 
     args = parser.parse_args()
@@ -778,4 +784,9 @@ if __name__ == '__main__':
             os.path.splitext(os.path.basename(md_file))[0] + '_TopicWise.pdf'
         )
 
-    generate_topicwise_pdf(md_file, pdf_file, header_override=args.header, single_col=args.single_col)
+    generate_topicwise_pdf(
+        md_file, pdf_file,
+        header_override=args.header,
+        single_col=args.single_col,
+        page_per_topic=args.page_per_topic
+    )

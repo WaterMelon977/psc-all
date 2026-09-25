@@ -604,10 +604,14 @@ def update_markdown_file(
 
     new_index_str = "".join(index_lines).strip()
 
-    if re.search(r"## Topic Index\s+[\s\S]*?(?=---\s*\n\s*# Questions)", content):
-        content = re.sub(r"## Topic Index\s+[\s\S]*?(?=---\s*\n\s*# Questions)", new_index_str + "\n\n", content)
+    if re.search(r"## Topic Index\s+[\s\S]*?(?=---\s*\n\s*(?:#|## Question))", content):
+        content = re.sub(r"## Topic Index\s+[\s\S]*?(?=---\s*\n\s*(?:#|## Question))", new_index_str + "\n\n", content, count=1)
+    elif content.startswith("## Topic Index"):
+        content = re.sub(r"^## Topic Index\s+[\s\S]*?(?=---\s*\n)", new_index_str + "\n\n", content, count=1)
+    elif re.search(r"^# [^\n]+\n+", content):
+        content = re.sub(r"(^# [^\n]+\n+)", r"\1" + new_index_str + "\n\n---\n\n", content, count=1)
     else:
-        content = re.sub(r"(# [^\n]+\n+)", r"\1" + new_index_str + "\n\n---\n\n", content, count=1)
+        content = new_index_str + "\n\n---\n\n" + content
 
     dest = Path(output_path).resolve() if output_path else p
     dest.parent.mkdir(parents=True, exist_ok=True)

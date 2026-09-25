@@ -97,8 +97,13 @@ def parse_header_and_blocks(md_content: str):
         sub_match = re.search(r"\*\*Subtopic:\*\*\s*([^\n]+)", b_clean)
         subtopic = sub_match.group(1).strip() if sub_match else ""
 
-        # Normalize trailing separator: strip trailing dashes
-        cleaned_body = re.sub(r"\n+---\s*$", "", b_clean).strip()
+        # Normalize trailing separator: strip trailing dashes and trailing # Topic headers
+        cleaned_body = b_clean
+        while True:
+            new_cleaned = re.sub(r'(?:\n+---+\s*|\n+#+ [^\n]+)+\s*$', '', cleaned_body).strip()
+            if new_cleaned == cleaned_body:
+                break
+            cleaned_body = new_cleaned
 
         question_blocks.append({
             "num": q_num,
