@@ -1,6 +1,6 @@
 {
   "input_filename": "D:\\appsc-loaded\\pcb-ae\\pdfs\\2022-ae-various-civil-mech.pdf",
-  "processing_timestamp": "2026-09-23T20:24:09.944646",
+  "processing_timestamp": "2026-09-26T07:01:56.228367",
   "total_pages": 37,
   "total_question_blocks_detected": 150,
   "english_questions_retained": 150,
@@ -20,5 +20,5 @@
     "Production Technology": 0
   },
   "warnings": [],
-  "duration_seconds": 140.876
+  "duration_seconds": 135.661
 }

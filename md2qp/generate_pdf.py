@@ -424,7 +424,7 @@ def render_question_flowables(q_num, raw_q_text, col_w, styles, Q_HANG):
 # ---------------------------------------------------------------------------
 # Main PDF generator
 # ---------------------------------------------------------------------------
-def generate_topicwise_pdf(md_input_path, pdf_output_path, header_override=None, single_col=False, page_per_topic=False):
+def generate_topicwise_pdf(md_input_path, pdf_output_path, header_override=None, single_col=False, page_per_topic=False, image_size_config=None):
     parsed_res = parse_markdown_questions(md_input_path)
     if len(parsed_res) == 3:
         questions, topic_order, subtopic_order = parsed_res
@@ -432,6 +432,17 @@ def generate_topicwise_pdf(md_input_path, pdf_output_path, header_override=None,
         questions, topic_order = parsed_res
         subtopic_order = {}
     header_title = _derive_header_title(md_input_path, header_override=header_override)
+
+    # Auto-load image_sizes.json if present in the same directory as md_input_path and not explicitly passed
+    if image_size_config is None:
+        import json
+        possible_cfg = Path(md_input_path).parent / 'image_sizes.json'
+        if possible_cfg.exists():
+            try:
+                with open(possible_cfg, 'r', encoding='utf-8') as _cfg_f:
+                    image_size_config = json.load(_cfg_f)
+            except Exception:
+                pass
 
     # Group & order by topic
     topics_dict = {}
@@ -684,14 +695,53 @@ def generate_topicwise_pdf(md_input_path, pdf_output_path, header_override=None,
                     fig_p = Path(fig_abs)
                     if fig_p.exists():
                         try:
-                            # Determine natural image dimensions to compute proportional height.
-                            # PIL is already a transitive dep (via Pillow used by fitz).
                             from PIL import Image as PILImage
                             with PILImage.open(str(fig_p)) as _pil:
-                                nat_w, nat_h = _pil.size  # pixels
-                            if nat_w > 0:
-                                target_w = col_w * 0.90          # 90% of column width in points
-                                target_h = target_w * nat_h / nat_w
+                                nat_w, nat_h = _pil.size  # pixels in source image
+
+                            if nat_w > 0 and nat_h > 0:
+                                # Check if image configuration exists in image_sizes.json or CLI override
+                                img_cfg = {}
+                                if image_size_config:
+                                    if fig_p.name in image_size_config.get('images', {}):
+                                        img_cfg = image_size_config['images'][fig_p.name]
+                                    elif fig_p.name in image_size_config:
+                                        img_cfg = image_size_config[fig_p.name]
+
+                                # Natural print size at 150 DPI (typical CBT screenshot resolution)
+                                nat_w_pt = nat_w * 72.0 / 150.0
+                                nat_h_pt = nat_h * 72.0 / 150.0
+
+                                # Determine max allowed width and height in points
+                                max_w = col_w * 0.85
+                                max_h = 200.0
+
+                                if img_cfg:
+                                    if 'max_width_pt' in img_cfg:
+                                        max_w = min(max_w, float(img_cfg['max_width_pt']))
+                                    if 'max_height_pt' in img_cfg:
+                                        max_h = float(img_cfg['max_height_pt'])
+                                else:
+                                    # Heuristic classification if no config entry
+                                    if nat_w < 450 and nat_h < 250:
+                                        max_w = min(max_w, 110.0)
+                                        max_h = 45.0
+                                    elif nat_h < 400 and nat_w > 1000:
+                                        max_w = min(max_w, 320.0)
+                                        max_h = 65.0
+                                    else:
+                                        max_w = min(max_w, 340.0)
+                                        max_h = 160.0
+
+                                # Scale proportionally without stretching or blowing up
+                                aspect = nat_w / nat_h
+                                target_w = min(nat_w_pt, max_w)
+                                target_h = target_w / aspect
+
+                                if target_h > max_h:
+                                    target_h = max_h
+                                    target_w = target_h * aspect
+
                                 img_fl = RLImage(str(fig_p), width=target_w, height=target_h)
                                 story.append(Spacer(1, 4))
                                 story.append(img_fl)
@@ -788,6 +838,8 @@ if __name__ == '__main__':
                              'Recommended for graphic-heavy papers with large diagram images.')
     parser.add_argument('--page-per-topic', action='store_true', default=False,
                         help='Start each topic section on a new page.')
+    parser.add_argument('--image-config', dest='image_config', default=None,
+                        help='Path to image sizing JSON config (defaults to image_sizes.json in markdown directory if present)')
     parser.add_argument('--help', action='help', help='Show this help message and exit')
 
     args = parser.parse_args()
@@ -801,9 +853,16 @@ if __name__ == '__main__':
             os.path.splitext(os.path.basename(md_file))[0] + '_TopicWise.pdf'
         )
 
+    img_cfg = None
+    if args.image_config and os.path.exists(args.image_config):
+        import json
+        with open(args.image_config, 'r', encoding='utf-8') as _cf:
+            img_cfg = json.load(_cf)
+
     generate_topicwise_pdf(
         md_file, pdf_file,
         header_override=args.header,
         single_col=args.single_col,
-        page_per_topic=args.page_per_topic
+        page_per_topic=args.page_per_topic,
+        image_size_config=img_cfg
     )

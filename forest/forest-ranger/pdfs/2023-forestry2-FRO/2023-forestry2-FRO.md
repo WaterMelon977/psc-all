@@ -1138,7 +1138,13 @@ FRO2-2023
 
 ### Question
 
-Select the correct option based on the given statement and conclusions. Statement: The antivenom most commonly used for the treatment of neurotoxic snake venom are antibodies. Conclusions: i) The most common treatment against snake venom is antivenom. ii) Antivenom acts as antigen for the production of antibodies.
+Select the correct option based on the given statement and conclusions.
+
+**Statement:** The antivenom most commonly used for the treatment of neurotoxic snake venom are antibodies.
+
+**Conclusions:**
+**i)** The most common treatment against snake venom is antivenom.
+**ii)** Antivenom acts as antigen for the production of antibodies.
 
 ### Options
 
@@ -1733,7 +1739,14 @@ FRO2-2023
 
 ### Question
 
-Select the correct option based on the following statement and conclusions. Statement: Aedes mosquito is primarily responsible for transmitting dengue fever. Conclusion: i) We can manage dengue fever by managing Aedes mosquito. ii) Aedes mosquitoes are also severely affected by dengue fever.
+Select the correct option based on the following statement and conclusions.
+
+**Statement**:
+Aedes mosquito is primarily responsible for transmitting dengue fever.
+
+**Conclusion**:
+**i)** We can manage dengue fever by managing Aedes mosquito.
+**ii)** Aedes mosquitoes are also severely affected by dengue fever.
 
 ### Options
 
@@ -1758,7 +1771,13 @@ FRO2-2023
 
 ### Question
 
-Select the correct option based on the following statement and conclusions. Statement: Aedes mosquito is commonly associated with the transmission of yellow fever. Conclusions: i) Yellow fever is a contagious disease. ii) Aedes mosquito is not infected by the yellow fever in the process of transmission.
+Select the correct option based on the following statement and conclusions.
+
+**Statement:** Aedes mosquito is commonly associated with the transmission of yellow fever.
+
+**Conclusions:**
+**i)** Yellow fever is a contagious disease.
+**ii)** Aedes mosquito is not infected by the yellow fever in the process of transmission.
 
 ### Options
 
@@ -1783,7 +1802,13 @@ FRO2-2023
 
 ### Question
 
-Select the correct option based on the following statement and conclusions. Statement: Some insects act as vectors of communicable diseases in humans. Conclusions: i) Vectors are unaffected by disease causing agents. ii) Insecticides can be used to control spread of communicable diseases.
+Select the correct option based on the following statement and conclusions.
+
+**Statement:** Some insects act as vectors of communicable diseases in humans.
+
+**Conclusions:**
+**i)** Vectors are unaffected by disease causing agents.
+**ii)** Insecticides can be used to control spread of communicable diseases.
 
 ### Options
 
@@ -1808,7 +1833,13 @@ FRO2-2023
 
 ### Question
 
-Select the correct option based on the following statement and conclusions. Statement: The disease sleeping sickness is transmitted by Tsetse fly. Conclusions: i) Tsetse fly is the causal agent of the disease sleeping sickness. ii) Sleeping sickness is a communicable disease.
+Select the correct option based on the following statement and conclusions.
+
+**Statement:** The disease sleeping sickness is transmitted by Tsetse fly.
+
+**Conclusions:**
+**i)** Tsetse fly is the causal agent of the disease sleeping sickness.
+**ii)** Sleeping sickness is a communicable disease.
 
 ### Options
 
@@ -1833,8 +1864,13 @@ FRO2-2023
 
 ### Question
 
-B) Aedes mosquito  2)Japanese encephalitis
-C) Culex mosquito  3) Malaria
+Match the insect vector in Column A with the human disease which it transmits in Column B.
+
+| **Column A: Insect Vector** | **Column B: Human Disease** |
+| --- | --- |
+| **A.** Anopheles mosquito | **1.** Dengue fever |
+| **B.** Aedes mosquito | **2.** Japanese encephalitis |
+| **C.** Culex mosquito | **3.** Malaria |
 
 ### Options
 
@@ -1859,7 +1895,13 @@ FRO2-2023
 
 ### Question
 
-*(No text)*
+Match the insect vector in Column A with the human disease which it transmits in Column B.
+
+| **Column A: Insect Vector** | **Column B: Human Disease** |
+| --- | --- |
+| **A.** Sandfly | **1.** Typhus |
+| **B.** Flea | **2.** Leishmaniasis |
+| **C.** Body louse | **3.** Bubonic plague |
 
 ### Options
 
@@ -1909,7 +1951,13 @@ FRO2-2023
 
 ### Question
 
-*(No text)*
+Match the beneficial insect in Column A with its beneficial impact in Column B.
+
+| **Column A: Beneficial Organism** | **Column B: Beneficial Impact** |
+| --- | --- |
+| **A.** Bees | **1.** Aphid control |
+| **B.** Earthworms | **2.** Pollination |
+| **C.** Wasps | **3.** Soil fertility |
 
 ### Options
 
@@ -2013,7 +2061,12 @@ FRO2-2023
 
 ### Question
 
-Which of the following statements are correct about Benefit-Cost Ratio (BCR) analysis? 1.If a project has a BCR greater than 1.0, the project is expected to deliver a positive net present value to a firm and its investors. 2.If a project's BCR is less than 1.0, the project's costs outweigh the benefits, and it should not be considered. 3.The BCR is an indicator showing the relationship between the relative costs and benefits of a proposed project, expressed in monetary or qualitative terms. 4.BCR is a ratio used in a cost-benefit analysis to summarise the overall relationship between the relative costs and benefits of a proposed project.
+Which of the following statements are correct about Benefit-Cost Ratio (BCR) analysis?
+
+1. If a project has a BCR greater than 1.0, the project is expected to deliver a positive net present value to a firm and its investors.
+2. If a project's BCR is less than 1.0, the project's costs outweigh the benefits, and it should not be considered.
+3. The BCR is an indicator showing the relationship between the relative costs and benefits of a proposed project, expressed in monetary or qualitative terms.
+4. BCR is a ratio used in a cost-benefit analysis to summarise the overall relationship between the relative costs and benefits of a proposed project.
 
 ### Options
 
@@ -2025,30 +2078,6 @@ Which of the following statements are correct about Benefit-Cost Ratio (BCR) ana
 ### Answer
 
 > **Answer: 3**
-
-### Exam
-
-FRO2-2023
-
----
-
-## Question 81
-
-**Topic:** Strength of Materials
-
-### Question
-
-Variance of a population is determined by which of the following?
-
-### Options
-
-1. V = s2 = Tr2
-2.
-3. -b土vb2-4ac 2a
-
-### Answer
-
-> **Answer: None**
 
 ### Exam
 
@@ -2362,12 +2391,17 @@ FRO2-2023
 
 ### Question
 
-In a sample plot of 0.25 hectares, while viewing from a wedge prism with BAF 2, the following results were obtained. i. Trees with overlapping images: 8 ii. Trees with margins just touching: 11 Find out basal area per hectare.
+In a sample plot of 0.25 hectares, while viewing from a wedge prism with BAF 2, the following results were obtained.
+
+**i.** Trees with overlapping images: 8
+**ii.** Trees with margins just touching: 11
+
+Find out basal area per hectare.
 
 ### Options
 
-1. 13.5 m2 /ha
-2. 27 m2 /ha
+1. 13.5 m² /ha
+2. 27 m² /ha
 3. 40.5 m2 /ha
 4. 19 m2 /ha
 
@@ -2387,7 +2421,12 @@ FRO2-2023
 
 ### Question
 
-Which of the following statements are true? i.The MAI, whether in a tree or in a stand, is the expression of the average yearly response in the past to the growth factors. ii.The CAI is the actual response of a tree or a stand in any one year to the growth factors. iii.The CAI is uniform throughout the life of a stand or a tree. iv.The MAI continues to rise towards the maximum even after the CAI has started falling.
+Which of the following statements are true?
+
+i. The MAI, whether in a tree or in a stand, is the expression of the average yearly response in the past to the growth factors.
+ii. The CAI is the actual response of a tree or a stand in any one year to the growth factors.
+iii. The CAI is uniform throughout the life of a stand or a tree.
+iv. The MAI continues to rise towards the maximum even after the CAI has started falling.
 
 ### Options
 
@@ -2431,38 +2470,18 @@ FRO2-2023
 
 ---
 
-## Question 97
-
-**Topic:** Strength of Materials
-
-### Question
-
-Pressler calculated increment percent by simple interest rate on the means of two diameters. Which of the following formulas did he use?
-
-### Options
-
-1.
-2.
-3.
-4.
-
-### Answer
-
-> **Answer: 2**
-
-### Exam
-
-FRO2-2023
-
----
-
 ## Question 98
 
 **Topic:** Strength of Materials
 
 ### Question
 
-Which of the following equipment can be used for measuring the height of trees? 1.Christen’s hypsometer 2.Wedge prism 3.Abney level 4.Digital calliper
+Which of the following equipment can be used for measuring the height of trees?
+
+1. Christen’s hypsometer
+2. Wedge prism
+3. Abney level
+4. Digital calliper
 
 ### Options
 
@@ -2687,7 +2706,13 @@ FRO2-2023
 
 ### Question
 
-Forest Survey of India (FSI) classifies forests as per canopy density. As per canopy density the forests of India are classified as: a.Very Dense Forests have a density of ___________ b.Moderately Dense Forests have a density of _______________ c.Open Forests have a density of _______ d.Scrub Forests have a density of ________
+Forest Survey of India (FSI) classifies forests as per canopy density. As per canopy density the
+forests of India are classified as:
+
+a. Very Dense Forests have a density of ___________
+b. Moderately Dense Forests have a density of _______________
+c. Open Forests have a density of _______
+d. Scrub Forests have a density of ________
 
 ### Options
 
@@ -2837,7 +2862,12 @@ FRO2-2023
 
 ### Question
 
-Which of the following statements are true? a.Oceans remove about 25-30% of CO2 pumped into the lower atmosphere by human activities. b.As the oceans warm up, some of their dissolved CO2 is released into the lower atmosphere. c.The rising levels of CO2 in the oceans have increased the acidity of their surface waters. d.Ocean currents slowly transfer some of the CO2 to the deep sea where it is buried for several hundred million years.
+Which of the following statements are true?
+
+a. Oceans remove about 25-30% of CO₂ pumped into the lower atmosphere by human activities.
+b. As the oceans warm up, some of their dissolved CO₂ is released into the lower atmosphere.
+c. The rising levels of CO₂ in the oceans have increased the acidity of their surface waters.
+d. Ocean currents slowly transfer some of the CO₂ to the deep sea where it is buried for several hundred million years.
 
 ### Options
 
@@ -3212,7 +3242,12 @@ FRO2-2023
 
 ### Question
 
-Governments around the world are investing in forests to restore the essential biodiversity and ecosystem services on which societies and economies depend. In this context, which of the following are correct? 1.Businesses are under increasing pressure from governments, consumers and investors to avoid, reduce and mitigate their carbon emissions and reduce their impact on nature and biodiversity. 2.No business is directly vulnerable to the effects of nature loss and climate change. 3.Forest destruction and degradation is accelerating the climate and nature crises, with tropical tree cover loss generating almost 5 GtCO2 e in annual emissions. 4. Business practices that contribute to nature and forest loss and climate change need to adopt new green technologies.
+Governments around the world are investing in forests to restore the essential biodiversity and ecosystem services on which societies and economies depend. In this context, which of the following are correct?
+
+1. Businesses are under increasing pressure from governments, consumers and investors to avoid, reduce and mitigate their carbon emissions and reduce their impact on nature and biodiversity.
+2. No business is directly vulnerable to the effects of nature loss and climate change.
+3. Forest destruction and degradation is accelerating the climate and nature crises, with tropical tree cover loss generating almost 5 GtCO2 e in annual emissions.
+4. Business practices that contribute to nature and forest loss and climate change need to adopt new green technologies.
 
 ### Options
 

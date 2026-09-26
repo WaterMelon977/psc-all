@@ -228,6 +228,9 @@ def match_best_topic_and_subtopic(
 
     topic_set = set(topic_list)
     topic_lower_map = {t.lower(): t for t in topic_list}
+    def _alnum(s: str) -> str:
+        return re.sub(r"[^a-z0-9]", "", str(s).lower())
+    topic_alnum_map = {_alnum(t): t for t in topic_list}
 
     assigned_topic = topic_list[0]
     raw_topic_str = str(raw_topic or "").strip()
@@ -236,6 +239,8 @@ def match_best_topic_and_subtopic(
         assigned_topic = raw_topic_str
     elif raw_topic_str.lower() in topic_lower_map:
         assigned_topic = topic_lower_map[raw_topic_str.lower()]
+    elif _alnum(raw_topic_str) in topic_alnum_map:
+        assigned_topic = topic_alnum_map[_alnum(raw_topic_str)]
     else:
         for t in topic_list:
             if t.lower() in raw_topic_str.lower() or raw_topic_str.lower() in t.lower():
@@ -252,11 +257,14 @@ def match_best_topic_and_subtopic(
     raw_sub_str = str(raw_subtopic).strip()
     sub_set = set(valid_subs)
     sub_lower_map = {s.lower(): s for s in valid_subs}
+    sub_alnum_map = {_alnum(s): s for s in valid_subs}
 
     if raw_sub_str in sub_set:
         return assigned_topic, raw_sub_str
     elif raw_sub_str.lower() in sub_lower_map:
         return assigned_topic, sub_lower_map[raw_sub_str.lower()]
+    elif _alnum(raw_sub_str) in sub_alnum_map:
+        return assigned_topic, sub_alnum_map[_alnum(raw_sub_str)]
     else:
         for s in valid_subs:
             if s.lower() in raw_sub_str.lower() or raw_sub_str.lower() in s.lower():

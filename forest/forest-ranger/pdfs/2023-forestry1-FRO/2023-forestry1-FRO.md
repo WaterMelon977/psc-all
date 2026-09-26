@@ -248,11 +248,11 @@ FRO1-2023
 ### Question
 
 Match the following ecological processes that occur in forests
-Organism 1		Organism
-A)Commensalism		1)+		1) -
-B)Amensalism		2) +		2) +
-C)Predation		3) +		3) 0
-D)Mutualism		41		4) 0
+Organism 1  Organism
+A)Commensalism  1)+  1) -
+B)Amensalism  2) +  2) +
+C)Predation  3) +  3) 0
+D)Mutualism  41  4) 0
 
 ### Options
 
@@ -327,7 +327,7 @@ FRO1-2023
 
 ### Question
 
-D)Whittaker		(4) Climatic climax theory
+D)Whittaker  (4) Climatic climax theory
 
 ### Options
 
@@ -727,17 +727,14 @@ FRO1-2023
 
 ### Question
 
-Basis of Classification		Principle
-A) Structural		D)Level of input management (high or low
-inputs), commercial goals and, intensity and
-scale		of		management		(subsistence,
-commercial etc.)
-B)Physiognomic		2)Land use pattern in the course of adoption
-of agroforestry
-C) Land use		3)Composition		of
-components
-D) Socio-economic		4)Character of vegetation e.g-, xeromorphic
-etc.
+Match the Basis of Classification with the corresponding Principle:
+
+| **Basis of Classification** | **Principle** |
+| --- | --- |
+| **A.** Structural | **1.** Land use pattern in the course of adoption of agroforestry |
+| **B.** Physiognomic | **2.** Level of input management (high or low inputs), commercial goals, and intensity and scale of management (subsistence, commercial, etc.) |
+| **C.** Land use | **3.** Composition of components |
+| **D.** Socio-economic | **4.** Character of vegetation, e.g., xeromorphic, etc. |
 
 ### Options
 
@@ -745,56 +742,6 @@ etc.
 2. A-4, B-3, C-2, D-1
 3. A-3, B-2, C-4, D-1
 4. A-3, B-4, C-2, D-1
-
-### Answer
-
-> **Answer: 4**
-
-### Exam
-
-FRO1-2023
-
----
-
-## Question 23
-
-**Topic:** Strength of Materials
-
-### Question
-
-*(No text)*
-
-### Options
-
-1. A-2, B-4, C-1, D-3
-2. A-3, B-1, C-4, D-2
-3. A-1, B-2, C-3, D-4
-4. A-4, B-3, C-2, D-1
-
-### Answer
-
-> **Answer: 1**
-
-### Exam
-
-FRO1-2023
-
----
-
-## Question 24
-
-**Topic:** Strength of Materials
-
-### Question
-
-*(No text)*
-
-### Options
-
-1. A-1, B-2, C-3
-2. A-3, B-2, C-1
-3. A-1, B-3, C-2
-4. A-3, B-1, C-2
 
 ### Answer
 
@@ -887,7 +834,11 @@ FRO1-2023
 
 ### Question
 
-Which of the following trees are NOT temperate agroforestry trees in India? A) Abies pindrow B) Juglans regia C) Robinia pseudocassia D) Picea smithiana
+Which of the following trees are NOT temperate agroforestry trees in India?
+**A) Abies pindrow**
+**B) Juglans regia**
+**C) Robinia pseudocassia**
+**D) Picea smithiana**
 
 ### Options
 
@@ -912,7 +863,11 @@ FRO1-2023
 
 ### Question
 
-In an agroforestry system, soil productivity is enhanced due to: A) Decreased soil organic matter B) Addition of Nitrogen in the soil if leguminous plants are grown C) Maintain soil organic matter D) Promote more open nutrient cycling.
+In an agroforestry system, soil productivity is enhanced due to:
+**A) Decreased soil organic matter**
+**B) Addition of Nitrogen in the soil if leguminous plants are grown**
+**C) Maintain soil organic matter**
+**D) Promote more open nutrient cycling.**
 
 ### Options
 
@@ -962,7 +917,10 @@ FRO1-2023
 
 ### Question
 
-In an agroforestry system, soil health is maintained by which of the following? A) Decreasing biological components of soil B) Increasing or stabilising physical components of soil C) Improve chemical components in the soil in favour of plants
+In an agroforestry system, soil health is maintained by which of the following?
+**A) Decreasing biological components of soil**
+**B) Increasing or stabilising physical components of soil**
+**C) Improve chemical components in the soil in favour of plants**
 
 ### Options
 
@@ -987,7 +945,10 @@ FRO1-2023
 
 ### Question
 
-Which of the following benefit soil health in agroforestry practices? A) Improved soil nutrient availability and soil fertility due to the presence of trees in the system B) Suppressed soil microbial dynamics C) Incorporation of trees in agroforestry to enhance soil organic carbon
+Which of the following benefit soil health in agroforestry practices?
+**A) Improved soil nutrient availability and soil fertility due to the presence of trees in the system**
+**B) Suppressed soil microbial dynamics**
+**C) Incorporation of trees in agroforestry to enhance soil organic carbon**
 
 ### Options
 
@@ -1012,10 +973,14 @@ FRO1-2023
 
 ### Question
 
-A) Tropical soil productivity		I) Agrisilvi, silvihorti and silvipastue
-B) Arid lands soil productivity		2) Multistorey cropping agrisilvisulture
-C) Hill region soil productivity		3) Shelter belts
-D)Wetlands		4) Alley cropping
+Match the soil productivity/region in List I with the appropriate agroforestry system in List II:
+
+| **List I: Soil Productivity/Region** | **List II: Agroforestry System** |
+| --- | --- |
+| **A.** Tropical soil productivity | **1.** Agrisilvi, silvihorti and silvipasture |
+| **B.** Arid lands soil productivity | **2.** Multistorey cropping agrisilviculture |
+| **C.** Hill region soil productivity | **3.** Shelter belts |
+| **D.** Wetlands | **4.** Alley cropping |
 
 ### Options
 
@@ -1090,7 +1055,11 @@ FRO1-2023
 
 ### Question
 
-Which of the following is a/are basic objective(s) of National Forest Policy 1988? A) Checking soil erosion and denudation in the catchment areas of rivers, lakes, reservoirs. B) Increasing area under agriculture to mitigate food and oil shortage. C) Meeting the requirements of fuel-wood, fodder, minor forest produce and small timber of the rural and tribal populations D) Ignoring the productivity of forests to meet essential national needs.
+Which of the following is a/are basic objective(s) of National Forest Policy 1988?
+**A) Checking soil erosion and denudation in the catchment areas of rivers, lakes, reservoirs.**
+**B) Increasing area under agriculture to mitigate food and oil shortage.**
+**C) Meeting the requirements of fuel-wood, fodder, minor forest produce and small timber of the rural and tribal populations**
+**D) Ignoring the productivity of forests to meet essential national needs.**
 
 ### Options
 
@@ -1165,7 +1134,11 @@ FRO1-2023
 
 ### Question
 
-Select the correct option based on the following. JFM guidelines 2002 proposed capacity building for recognising importance of NTFP management in good forest areas through: A) Their non-destructive harvesting in accordance with working plans. B) Unequal sharing of economic benefits as per the agreement done by Forest department and people community at the beginning of project. C) Institutional reforms D) Strengthening the set-up of NTFP management
+Select the correct option based on the following. JFM guidelines 2002 proposed capacity building for recognising importance of NTFP management in good forest areas through:
+**A) Their non-destructive harvesting in accordance with working plans.**
+**B) Unequal sharing of economic benefits as per the agreement done by Forest department and people community at the beginning of project.**
+**C) Institutional reforms**
+**D) Strengthening the set-up of NTFP management**
 
 ### Options
 
@@ -1190,7 +1163,12 @@ FRO1-2023
 
 ### Question
 
-Select the correct option based on the following. Guidelines by MOEFCC for strengthening the Joint Forest Management Programmes included: A) Methods of legal backup to the JFM committees B) Proposed conditions to promote participation of women, certain threshold criteria were proposed for JFMCs C) Proposed Micro Plan preparation methods for both new working plan and existing working plan areas. D) Suggested to reinvest 35% of the share of village community and of the forest department in forest for regeneration of resources. E) Proposed concurrent monitoring at Division and State level. Evaluation at interval of 5 years at division level and 6 years at state level.
+Select the correct option based on the following. Guidelines by MOEFCC for strengthening the Joint Forest Management Programmes included:
+**A) Methods of legal backup to the JFM committees**
+**B) Proposed conditions to promote participation of women, certain threshold criteria were proposed for JFMCs**
+**C) Proposed Micro Plan preparation methods for both new working plan and existing working plan areas.**
+**D) Suggested to reinvest 35% of the share of village community and of the forest department in forest for regeneration of resources.**
+**E) Proposed concurrent monitoring at Division and State level. Evaluation at interval of 5 years at division level and 6 years at state level.**
 
 ### Options
 
@@ -1240,7 +1218,11 @@ FRO1-2023
 
 ### Question
 
-Select the correct option based on the following. Various committees are constituted in any JFM programme so that: A) Rural communities are equal partners in the protection and management of forests B) Both members and non-members have control on the management of forest lands and community lands. C) They develop forest resources for sustainable use, but don’t claim direct benefits from it. D) Local leadership for bigger role in future is developed.
+Select the correct option based on the following. Various committees are constituted in any JFM programme so that:
+**A) Rural communities are equal partners in the protection and management of forests**
+**B) Both members and non-members have control on the management of forest lands and community lands.**
+**C) They develop forest resources for sustainable use, but don’t claim direct benefits from it.**
+**D) Local leadership for bigger role in future is developed.**
 
 ### Options
 
@@ -1265,7 +1247,11 @@ FRO1-2023
 
 ### Question
 
-Select the correct answer from among the given options. The odour in polluted water is removed by: A) desorption B) decantation C) degasifier D) activated carbon
+Select the correct answer from among the given options. The odour in polluted water is removed by:
+**A) desorption**
+**B) decantation**
+**C) degasifier**
+**D) activated carbon**
 
 ### Options
 
@@ -1290,7 +1276,11 @@ FRO1-2023
 
 ### Question
 
-Select the correct answer from among the given options. Water pollution is caused by: A) agricultural waste B) natural gases in the air C) sewer and domestic waste D) forest fires
+Select the correct answer from among the given options. Water pollution is caused by:
+**A) agricultural waste**
+**B) natural gases in the air**
+**C) sewer and domestic waste**
+**D) forest fires**
 
 ### Options
 
@@ -1434,31 +1424,6 @@ FRO1-2023
 
 ---
 
-## Question 50
-
-**Topic:** Strength of Materials
-
-### Question
-
-*(No text)*
-
-### Options
-
-1. A-1, B-2, C-3
-2. A-3, B-1, C-2
-3. A-3, B-2, C-1
-4. A-2, B-3, C-1
-
-### Answer
-
-> **Answer: 2**
-
-### Exam
-
-FRO1-2023
-
----
-
 ## Question 51
 
 **Topic:** Strength of Materials
@@ -1466,10 +1431,12 @@ FRO1-2023
 ### Question
 
 Match the following hydrological events and their respective measurement methods.
-Hydrological event		Measurement
-A)Hydrological cycle		D)Kirpich formula
-B)Evapotranspiration		2)BlaneyCriddlemethod
-C)Time of concentration		3)Waterbudgetequation
+
+| **Hydrological event** | **Measurement** |
+| --- | --- |
+| **A.** Hydrological cycle | **D.** Kirpich formula |
+| **B.** Evapotranspiration | **2.** BlaneyCriddlemethod |
+| **C.** Time of concentration | **3.** Waterbudgetequation |
 
 ### Options
 
@@ -1494,7 +1461,14 @@ FRO1-2023
 
 ### Question
 
-D)Watersheds		4)6
+Match the following stream hierarchy and their numbers in India:
+
+| **Stream Hierarchy** | **Number** |
+| --- | --- |
+| **A.** Water resources region | **1.** 35 |
+| **B.** Basins | **2.** 112 |
+| **C.** Catchments | **3.** 3257 |
+| **D.** Watersheds | **4.** 6 |
 
 ### Options
 
@@ -1694,7 +1668,9 @@ FRO1-2023
 
 ### Question
 
-Which of the following statements related to the objective of the National Agricultural Policy 1976, in order to facilitate the establishment of prosperous egalitarian rural society is/are correct? A) Adequate supply of goods and services to sustain a rising standard of living. B) Sufficient employment and income opportunities for the masses.
+Which of the following statements related to the objective of the National Agricultural Policy 1976, in order to facilitate the establishment of prosperous egalitarian rural society is/are correct?
+**A) Adequate supply of goods and services to sustain a rising standard of living.**
+**B) Sufficient employment and income opportunities for the masses.**
 
 ### Options
 
@@ -1719,7 +1695,11 @@ FRO1-2023
 
 ### Question
 
-Main elements of the National Agricultural Policy 1976 include: A) Reordering of the agrarian structure should not get high priority. B) Extensive utilisation of land. C) Personal cultivation to ensure adequate attention to land, and for increased productivity and production should be discouraged. D) Efforts should be made to detect all surplus land for distribution to the landless and marginal farmers, priority being given to the landless particularly Harijan, tribal and backward communities. Choose the correct option below
+Main elements of the National Agricultural Policy 1976 include:
+**A) Reordering of the agrarian structure should not get high priority.**
+**B) Extensive utilisation of land.**
+**C) Personal cultivation to ensure adequate attention to land, and for increased productivity and production should be discouraged.**
+**D) Efforts should be made to detect all surplus land for distribution to the landless and marginal farmers, priority being given to the landless particularly Harijan, tribal and backward communities.**
 
 ### Options
 
@@ -1744,7 +1724,11 @@ FRO1-2023
 
 ### Question
 
-Main elements for animal husbandry in National Agricultural Policy 1976 include: A) For improving the productivity of cattle and buffaloes scientific methods of breeding should be adopted. B) Adequate feeds and fodders resources should be provided. C) Animal health cover should not be given priority. D) Animal management practices should be given less priority. Choose the correct statements
+Main elements for animal husbandry in National Agricultural Policy 1976 include:
+**A) For improving the productivity of cattle and buffaloes scientific methods of breeding should be adopted.**
+**B) Adequate feeds and fodders resources should be provided.**
+**C) Animal health cover should not be given priority.**
+**D) Animal management practices should be given less priority.**
 
 ### Options
 
@@ -1769,7 +1753,12 @@ FRO1-2023
 
 ### Question
 
-Which of the following statements endorses the focus of National Agricultural policy 1976 on forestry sector? A) To meet the requirements of goods, i.e., industrial wood for forest-based industries, defence, communications, and other public purposes. B) To provide small timber, fuelwood, and fodder for the rural community. C) To ignore for the time being, the present and future demands for protective and recreative functions of the forests. D) To clearly indicate the inter-relationship of forest economy with rural and tribal economy. E) Employment, rights of user and involvement of the local people should not be the priority.
+Which of the following statements endorses the focus of National Agricultural policy 1976 on forestry sector?
+**A) To meet the requirements of goods, i.e., industrial wood for forest-based industries, defence, communications, and other public purposes.**
+**B) To provide small timber, fuelwood, and fodder for the rural community.**
+**C) To ignore for the time being, the present and future demands for protective and recreative functions of the forests.**
+**D) To clearly indicate the inter-relationship of forest economy with rural and tribal economy.**
+**E) Employment, rights of user and involvement of the local people should not be the priority.**
 
 ### Options
 
@@ -1794,7 +1783,11 @@ FRO1-2023
 
 ### Question
 
-‘Eutrophication’ a natural process of water pollution is caused by which of the following? A) Disposing untreated industrial sewage into water bodies. B) Disposing human and animal wastes into water bodies. C) Release of excessive oxygen by pollutants in the water bodies. D) Disposing agriculture wastes especially fertilisers into water bodies.
+‘Eutrophication’ a natural process of water pollution is caused by which of the following?
+**A) Disposing untreated industrial sewage into water bodies.**
+**B) Disposing human and animal wastes into water bodies.**
+**C) Release of excessive oxygen by pollutants in the water bodies.**
+**D) Disposing agriculture wastes especially fertilisers into water bodies.**
 
 ### Options
 
@@ -1819,7 +1812,9 @@ FRO1-2023
 
 ### Question
 
-Which of the following statements is/are correct? A) The mass rainfall curve is a plot between the accumulated rainfall at a station as ordinate and time as abscissa, plotted in chronological order. B) The hyetograph is the graphical representation of rainfall versus time.
+Which of the following statements is/are correct?
+**A) The mass rainfall curve is a plot between the accumulated rainfall at a station as ordinate and time as abscissa, plotted in chronological order.**
+**B) The hyetograph is the graphical representation of rainfall versus time.**
 
 ### Options
 
@@ -1844,7 +1839,11 @@ FRO1-2023
 
 ### Question
 
-Which of the following statements are correct? A) Runoff coefficient is the ratio of runoff to rainfall intensity. B) It is a larger value for areas with high infiltration and low runoff, and higher for permeable, well vegetated areas. C) Runoff coefficient is regulated by vegetation composition, surface coverage, slope and soil type. D) It is used in the rational method to calculate the quantity of water that the drainage system needs to handle.
+Which of the following statements are correct?
+**A) Runoff coefficient is the ratio of runoff to rainfall intensity.**
+**B) It is a larger value for areas with high infiltration and low runoff, and higher for permeable, well vegetated areas.**
+**C) Runoff coefficient is regulated by vegetation composition, surface coverage, slope and soil type.**
+**D) It is used in the rational method to calculate the quantity of water that the drainage system needs to handle.**
 
 ### Options
 
@@ -2069,9 +2068,15 @@ FRO1-2023
 
 ### Question
 
-C.Ring porous		3. Pterocarpus santalinus
-d.Spiral grain		4. Dalbergia sissoo
-e.Interlock grain		5.Tectona grandis
+Kindly match the anatomical characteristics of wood with the species:
+
+| **Column A: Anatomical Characteristic** | **Column B: Species** |
+| --- | --- |
+| **a.** Included phloem | **1.** *Aquilaria agallocha* |
+| **b.** Ripple marks | **2.** *Shorea robusta* |
+| **c.** Ring porous | **3.** *Pterocarpus santalinus* |
+| **d.** Spiral grain | **4.** *Dalbergia sissoo* |
+| **e.** Interlock grain | **5.** *Tectona grandis* |
 
 ### Options
 
@@ -2346,7 +2351,9 @@ FRO1-2023
 
 ### Question
 
-Based on the given assertion and reason, select the correct option. Assertion (A): Chlorosis caused by sulphur is observed in mature and young leaves. Reason (R ): Sulphur is not easily mobilised to the younger leaves.
+Based on the given assertion and reason, select the correct option.
+**Assertion (A):** Chlorosis caused by sulphur is observed in mature and young leaves.
+**Reason (R):** Sulphur is not easily mobilised to the younger leaves.
 
 ### Options
 
@@ -2396,7 +2403,7 @@ FRO1-2023
 
 ### Question
 
-The ratio of the volume of CO2released to the volume of O2 taken during respiration is called:
+The ratio of the volume of CO2 released to the volume of O2 taken during respiration is called:
 
 ### Options
 
@@ -2421,7 +2428,15 @@ FRO1-2023
 
 ### Question
 
-Match the following
+Match Column A with Column B:
+
+| **Column A** | **Column B** |
+| --- | --- |
+| **a.** Mesobiotic | **1.** Fungus |
+| **b.** Powdery mildew | **2.** Dodder |
+| **c.** Phanerogamic plant parasites | **3.** Virus |
+| **d.** Khaira disease | **4.** Abiotic |
+| **e.** Algae | **5.** Red rust of mango |
 
 ### Options
 
@@ -2604,7 +2619,11 @@ FRO1-2023
 
 ### Question
 
-Which of the following statements is/are NOT correct with respect to the Ramsar Convention on Wetlands? i. The convention was adopted in the Iranian city of Ramsar in 1971. ii. The convention came into force in 1976. iii. Total number of contracting parties is 172. iv. India is a signatory to Ramsar since 1981.
+Which of the following statements is/are NOT correct with respect to the Ramsar Convention on Wetlands?
+**i.** The convention was adopted in the Iranian city of Ramsar in 1971.
+**ii.** The convention came into force in 1976.
+**iii.** Total number of contracting parties is 172.
+**iv.** India is a signatory to Ramsar since 1981.
 
 ### Options
 
@@ -2854,7 +2873,15 @@ FRO1-2023
 
 ### Question
 
-Match the following
+Match the following:
+
+| **Column A: State** | **Column B: Tribe** |
+| --- | --- |
+| **a.** Chhattisgarh | **1.** Lushei |
+| **b.** Assam | **2.** Cholanaikkan |
+| **c.** Kerala | **3.** Bhunjia Tribe |
+| **d.** Mizoram | **4.** Karbi |
+| **e.** Jharkhand | **5.** Munda |
 
 ### Options
 
@@ -2954,7 +2981,11 @@ FRO1-2023
 
 ### Question
 
-Which of the following statements is NOT true with respect to Forest Rights Act, 2006. It deals with__________ i. Forest dwelling Schedule Tribe ii. Other traditional forest dwellers iii. Cut-off date is prior to 13/12/2005 iv.Seven generations should have resided in the forest.
+Which of the following statements is NOT true with respect to Forest Rights Act, 2006. It deals with__________
+**i.** Forest dwelling Schedule Tribe
+**ii.** Other traditional forest dwellers
+**iii.** Cut-off date is prior to 13/12/2005
+**iv.** Seven generations should have resided in the forest.
 
 ### Options
 
@@ -3279,7 +3310,10 @@ FRO1-2023
 
 ### Question
 
-Identify the INCORRECT statement(s) with regard to open cast mining. i. It is also called open-pit mining. ii. Mineral or ore deposits are found very deep down in the earth. iii. It is also called quarries when they produce building materials and dimension stone.
+Identify the INCORRECT statement(s) with regard to open cast mining.
+**i.** It is also called open-pit mining.
+**ii.** Mineral or ore deposits are found very deep down in the earth.
+**iii.** It is also called quarries when they produce building materials and dimension stone.
 
 ### Options
 
@@ -3504,7 +3538,13 @@ FRO1-2023
 
 ### Question
 
-Which of the following statements is/are NOT true with respect to Calvin cycle? i.Plants fix carbon primarily into 3-phosphoglycerate. ii.Carbon fixation into 3-phosphoglycerate is called Calvin cycle. iii.Observations relating to Calvin cycle were first made by de Saussure in 1804.
+Which of the following statements is/are NOT true with respect to the Calvin cycle?
+
+i. Plants fix carbon primarily into 3-phosphoglycerate.
+
+ii. Carbon fixation into 3-phosphoglycerate is called the Calvin cycle.
+
+iii. Observations relating to the Calvin cycle were first made by de Saussure in 1804.
 
 ### Options
 
@@ -3529,7 +3569,13 @@ FRO1-2023
 
 ### Question
 
-Which of the following statement(s) is true with respect to formation of saline alkali soils? i.Low pH and high proportion of exchangeable aluminium and hydrogen. ii.Dominant in kaolinite and illite types of clay minerals. iii.Found in arid and semiarid regions..
+Which of the following statement(s) is/are true with respect to the formation of saline-alkali soils?
+
+i. Low pH and high proportion of exchangeable aluminium and hydrogen.
+
+ii. Dominant in kaolinite and illite types of clay minerals.
+
+iii. Found in arid and semiarid regions.
 
 ### Options
 

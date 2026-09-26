@@ -1,0 +1,63 @@
+Reason (R):The carrying capacity of an ecosystem determines its ability to provide services such as food production, water purification,and climate regulation. As human populations increase, the demand for these services may exceed the ecosystem’s capacity, leading todegradation and loss of biodiversity. 
+Options :
+1. 
+  Both A and R are true, and R is the correct explanation of A 
+2. 
+  Both A and R are true, and R is not the correct explanation of A
+3. 
+  A is true, but R is false 
+4. 
+  A is false, but R is true
+  
+Question Number : 14 Question Id : 6306801409749 Question Type : MCQ
+Correct Marks : 2 Wrong Marks : 0.66
+Match the biogeographic zones of with their key features or locations. Biogeographic zones Key features or locations1. Trans Himalayan Region A. Rajasthan, arid ecosystem
+2. Thar Desert B. Snow-covered mountains, Ladakh
+3. Western Ghats C. Maharashtra, Karnataka and Kerala
+4. Andaman and Nicobar Islands D. Tropical forests, unique biodiversity
+Options :
+1. 
+  1-A,  2-B, 3-C, 4-D
+2. 
+  1-B,  2-A, 3-C, 4-D
+3. 
+  1-A,  2-B, 3-D, 4-C
+4. 
+  1-B,  2-A, 3-D, 4-C
+  
+Question Number : 15 Question Id : 6306801409755 Question Type : MCQ
+Correct Marks : 2 Wrong Marks : 0.66
+Match the following based on ecosystem goods and services.
+Types of values Examples/Explanations1. Consumptive Use Value A. Preserving resources for future benefits
+2. Productive Use Value B. Commercial resources like timber, fish, medicinal plants
+3. Non-consumptive Use Value C. Non-market resources like firewood, fodder, etc.
+4. Option Value D. Activities like bird-watching, ecotourism
+Options :
+1. 
+  1-A, 2-B, 3-C, 4-D
+2. 
+  1-B, 2-A, 3-D, 4-C
+3. 
+  1-C, 2-B, 3-D, 4-A
+4. 
+  1-B, 2-C, 3-D, 4-A
+  
+Question Number : 16 Question Id : 6306801409750 Question Type : MCQ
+Correct Marks : 2 Wrong Marks : 0.66
+What restricts the number of trophic levels in a food chain to four or five?
+Options :
+1. 
+  Limited availability of producers
+2. 
+  Significant energy loss (80-90%) at each transfer
+3. 
+  Competition between top predators
+4. 
+  Decline in biodiversity at higher levels
+  
+Question Number : 17 Question Id : 6306801399407 Question Type : MCQ
+Correct Marks : 2 Wrong Marks : 0.66
+How can droughts be mitigated? 
+Options :
+1. 
+  By increasing water consumption during dry seasons

@@ -1,15 +1,11 @@
 
----
-
-# Questions
-
 ## Question 1
 
-**Topic:** Strength of Materials
+**Topic:** Environment
 
 ### Question
 
-What percentage of thetrue volumedoes thequartergirth volumeformula estimate?
+What percentage of the true volume does the quarter girth volume formula estimate?
 
 ### Options
 
@@ -20,31 +16,33 @@ What percentage of thetrue volumedoes thequartergirth volumeformula estimate?
 
 ### Answer
 
-> **Answer: None**
+> **Answer: 3**
 
 ### Exam
 
 FRO-Forest2-2026
 
 ---
+---
 
 ## Question 2
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Which of thefollowingformulas best represents therelationshipbetween Form Factorand Volume? (l)Volume=FormFactor×Basal Area×Height
+Which of the following formulas best represents the relationship between Form Factor and Volume?
 
 ### Options
 
-1. Volume=BasalArea/FormFactor
-2. Volume=Height ×FormFactor
-3. Volume=FormFactor/BasalArea
+1. Volume = Form Factor × Basal Area × Height
+2. Volume = Basal Area / Form Factor
+3. Volume = Height × Form Factor
+4. Volume = Form Factor / Basal Area
 
 ### Answer
 
-> **Answer: 2**
+> **Answer: 1**
 
 ### Exam
 
@@ -54,18 +52,18 @@ FRO-Forest2-2026
 
 ## Question 3
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Whichformula isusedforvolumeestimationinfrustum-shapedtrees?
+Which formula is used for volume estimation in frustum-shaped trees?
 
 ### Options
 
-1. Smalian'sformula
-2. Newton'sformula
+1. Smalian's formula
+2. Newton's formula
 3. Huber's formula
-4. Geometricmeanformula
+4. Geometric mean formula
 
 ### Answer
 
@@ -79,17 +77,18 @@ FRO-Forest2-2026
 
 ## Question 4
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-What is therelationshipbetweenCAI and MAIfortheoptimumfelling ageof atree?
+What is the relationship between CAI and MAI for the optimum felling age of a tree?
 
 ### Options
 
-1. MAI is greater than CAI
-2. CAI and MAI are equal
-3. No relation exists
+1. CAI is greater than MAI
+2. MAI is greater than CAI
+3. CAI and MAI are equal
+4. No relation exists
 
 ### Answer
 
@@ -103,17 +102,17 @@ FRO-Forest2-2026
 
 ## Question 5
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-What is thekey advantage ofusing a wedge prism in point sampling?
+What is the key advantage of using a wedge prism in point sampling?
 
 ### Options
 
-1. Itmeasures soil moisture
+1. It measures soil moisture
 2. It estimates tree volume quickly
-3. Itcalculateschlorophyllcontent
+3. It calculates chlorophyll content
 4. It determines tree root depth
 
 ### Answer
@@ -128,16 +127,16 @@ FRO-Forest2-2026
 
 ## Question 6
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-In India,which remote sensing satellite provideshigh-resolution imagery suitablefordetailed forest mapping ?
+In India, which remote sensing satellite provides high-resolution imagery suitable for detailed forest mapping?
 
 ### Options
 
 1. RISAT
-2. IRSResourcesatsatelliteseries
+2. IRS Resourcesat satellite series
 3. INSAT-3D
 4. GSAT-6
 
@@ -153,16 +152,16 @@ FRO-Forest2-2026
 
 ## Question 7
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-What is the primary remote sensing technology employed byFSIfor forest cover mapping?
+What is the primary remote sensing technology employed by FSI for forest cover mapping?
 
 ### Options
 
-1. SyntheticApertureRadar
-2. Light Detection and Ranging
+1. Synthetic Aperture Radar (SAR)
+2. Light Detection and Ranging (LiDAR)
 3. Satellite Imagery
 4. Thermal Infrared Imaging
 
@@ -178,15 +177,15 @@ FRO-Forest2-2026
 
 ## Question 8
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Which principledoes GPS technology primarilyuse to determinelocation?
+Which principle does GPS technology primarily use to determine location?
 
 ### Options
 
-1. Dopplereffect
+1. Doppler effect
 2. Triangulation
 3. Trilateration
 4. Time dilation
@@ -203,7 +202,7 @@ FRO-Forest2-2026
 
 ## Question 9
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -211,7 +210,7 @@ What is the main cause of GPS signal delay in the Earth's atmosphere?
 
 ### Options
 
-1. Refractionintheionosphereandtroposphere
+1. Refraction in the ionosphere and troposphere
 2. Earth's rotation
 3. Weak satellite signals
 4. Sunspot activity
@@ -228,11 +227,11 @@ FRO-Forest2-2026
 
 ## Question 10
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Which instrument is used to measure bark thickness ?
+Which instrument is used to measure bark thickness?
 
 ### Options
 
@@ -251,20 +250,45 @@ FRO-Forest2-2026
 
 ---
 
-## Question 12
+## Question 11
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Which formula is used to calculate the quarter girth volume (V) of a log? (D=diameter at GBH, h =lengthof thelog).
+What does "DUB" stand for in tree measurement?
 
 ### Options
 
-1. V=
-2. V=
-3. V=
-4. V=
+1. Diameter Under Bark
+2. Depth Under Bark
+3. Density Under Bark
+4. Diameter Upper Branch
+
+### Answer
+
+> **Answer: 1**
+
+### Exam
+
+FRO-Forest2-2026
+
+---
+
+## Question 12
+
+**Topic:** Forestry
+
+### Question
+
+Which formula is used to calculate the quarter girth volume (V) of a log? (D = diameter at GBH, h = length of the log)
+
+### Options
+
+1. V = (πD²h)/4
+2. V = (G²h)/4
+3. V = (πD²h)/16
+4. V = (G²h)/16
 
 ### Answer
 
@@ -278,7 +302,7 @@ FRO-Forest2-2026
 
 ## Question 13
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -286,7 +310,7 @@ What is the primary purpose of a yield table?
 
 ### Options
 
-1. To estimate timbervolume overtime
+1. To estimate timber volume over time
 2. To measure tree height
 3. To assess soil fertility
 4. To identify tree species
@@ -303,11 +327,11 @@ FRO-Forest2-2026
 
 ## Question 14
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-What is the most commonly used method for measuring volume increment in standing trees ?
+What is the most commonly used method for measuring volume increment in standing trees?
 
 ### Options
 
@@ -328,7 +352,7 @@ FRO-Forest2-2026
 
 ## Question 15
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -337,13 +361,13 @@ What is the main purpose of forest inventory?
 ### Options
 
 1. To measure and classify forest resources
-2. Toestimate soil fertility
+2. To estimate soil fertility
 3. To count the number of fallen trees
 4. To record tree species only
 
 ### Answer
 
-> **Answer: 2**
+> **Answer: 1**
 
 ### Exam
 
@@ -353,11 +377,11 @@ FRO-Forest2-2026
 
 ## Question 16
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Which method of enumeration involves tallying all trees of a species above a specified diameter limit over an entireforest area?
+Which method of enumeration involves tallying all trees of a species above a specified diameter limit over an entire forest area?
 
 ### Options
 
@@ -378,7 +402,7 @@ FRO-Forest2-2026
 
 ## Question 17
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -403,21 +427,22 @@ FRO-Forest2-2026
 
 ## Question 18
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Sampling intensity in forest inventory refers to The percentage of forest area included in the sample
+Sampling intensity in forest inventory refers to
 
 ### Options
 
-1. The number of trees sampled per hectare
-2. The height of trees included in the sample
-3. The number of species counted
+1. The percentage of forest area included in the sample
+2. The number of trees sampled per hectare
+3. The height of trees included in the sample
+4. The number of species counted
 
 ### Answer
 
-> **Answer: 2**
+> **Answer: 1**
 
 ### Exam
 
@@ -427,18 +452,18 @@ FRO-Forest2-2026
 
 ## Question 19
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-1 hectare (ha) is equal to how many square meters (m2)?
+1 hectare (ha) is equal to how many square meters (m²)?
 
 ### Options
 
 1. 10,000 m²
-2. 1,000m²a
-3. 5,000m²
-4. 4,000m²2
+2. 1,000 m²
+3. 5,000 m²
+4. 4,000 m²
 
 ### Answer
 
@@ -452,18 +477,18 @@ FRO-Forest2-2026
 
 ## Question 20
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Which of the following is a correct conversion between metric and British units ?
+Which of the following is a correct conversion between metric and British units?
 
 ### Options
 
-1. 1foot=50cm
-2. 1mile=500 meters
-3. 1kg=0.5pounds
-4. 1 yard =0.9144 meters
+1. 1 foot = 50 cm
+2. 1 mile = 500 meters
+3. 1 kg = 0.5 pounds
+4. 1 yard = 0.9144 meters
 
 ### Answer
 
@@ -477,7 +502,7 @@ FRO-Forest2-2026
 
 ## Question 21
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -486,12 +511,13 @@ What does the specific gravity of timber indicate?
 ### Options
 
 1. The moisture content of the wood
-2. The ability of wood to resist decay
-3. The amount of resin present in the wood
+2. The ratio of the density of wood to the density of water
+3. The ability of wood to resist decay
+4. The amount of resin present in the wood
 
 ### Answer
 
-> **Answer: 3**
+> **Answer: 2**
 
 ### Exam
 
@@ -501,17 +527,17 @@ FRO-Forest2-2026
 
 ## Question 22
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-The Normalized Difference Vegetation Index (NDVD is widely used in forestry for
+The Normalized Difference Vegetation Index (NDVI) is widely used in forestry for
 
 ### Options
 
 1. Estimating soil erosion rates
 2. Assessing vegetation cover and health
-3. Mappingforestroadnetworks
+3. Mapping forest road networks
 4. Detecting illegal logging activities
 
 ### Answer
@@ -526,17 +552,17 @@ FRO-Forest2-2026
 
 ## Question 23
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Basal Area ofa tree refers to
+Basal Area of a tree refers to
 
 ### Options
 
 1. Cross sectional area at base
-2. Cross sectional area atmid point of total height
-3. Crosssectionalareaattopheight
+2. Cross sectional area at mid point of total height
+3. Cross sectional area at top height
 4. Cross sectional area at breast height
 
 ### Answer
@@ -551,7 +577,7 @@ FRO-Forest2-2026
 
 ## Question 24
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -559,9 +585,10 @@ Which of the following is very useful in detecting and mapping forest fires?
 
 ### Options
 
-1. Thermal sensors
-2. Microwave sensors
-3. None of these
+1. Visible sensors
+2. Thermal sensors
+3. Microwave sensors
+4. None of these
 
 ### Answer
 
@@ -575,11 +602,11 @@ FRO-Forest2-2026
 
 ## Question 25
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-At what height is Diameter at Breast Height (DBH)measured?
+At what height is Diameter at Breast Height (DBH) measured?
 
 ### Options
 
@@ -600,11 +627,11 @@ FRO-Forest2-2026
 
 ## Question 26
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Which instrument is commonlyused tomeasure DBHdirectly?
+Which instrument is commonly used to measure DBH directly?
 
 ### Options
 
@@ -625,7 +652,7 @@ FRO-Forest2-2026
 
 ## Question 27
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -633,10 +660,10 @@ What is the relationship between girth (G) and diameter (D) of a tree?
 
 ### Options
 
-1. G = 2元D
-2. D-G×π
-3. G = 元/D
-4. D=G/元
+1. G = 2πD
+2. D = G × π
+3. G = π/D
+4. D = G/π
 
 ### Answer
 
@@ -650,7 +677,7 @@ FRO-Forest2-2026
 
 ## Question 28
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -673,24 +700,49 @@ FRO-Forest2-2026
 
 ---
 
-## Question 30
+## Question 29
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Form factor is defined as theratioof
+In which type of wood measurement is a rectangular parallelepiped shape commonly used?
+
+### Options
+
+1. Roundwood logs
+2. Firewood stacks
+3. Veneer logs
+4. Pulpwood measurement
+
+### Answer
+
+> **Answer: 2**
+
+### Exam
+
+FRO-Forest2-2026
+
+---
+
+## Question 30
+
+**Topic:** Forestry
+
+### Question
+
+Form factor is defined as the ratio of
 
 ### Options
 
 1. Tree height to tree volume
 2. Tree girth to tree height
-3.
+3. Tree bark thickness to its radius
 4. Tree volume to cylinder volume of the same basal area and height
 
 ### Answer
 
-> **Answer: None**
+> **Answer: 4**
 
 ### Exam
 
@@ -700,11 +752,11 @@ FRO-Forest2-2026
 
 ## Question 31
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Volume tables are based on which parameters ?
+Volume tables are based on which parameters?
 
 ### Options
 
@@ -725,17 +777,18 @@ FRO-Forest2-2026
 
 ## Question 32
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-The most common method for estimating the height of a tree using basic instruments is (l) Direct measurement using a measuring tape GPS estimation
+The most common method for estimating the height of a tree using basic instruments is
 
 ### Options
 
-1.
-2. Trigonometric methodusing a clinometer
-3. Barometricmethod
+1. Direct measurement using a measuring tape
+2. GPS estimation
+3. Trigonometric method using a clinometer
+4. Barometric method
 
 ### Answer
 
@@ -749,11 +802,11 @@ FRO-Forest2-2026
 
 ## Question 33
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-The Mean Annual Increment (MAD) is calculated as
+The Mean Annual Increment (MAI) is calculated as
 
 ### Options
 
@@ -774,11 +827,11 @@ FRO-Forest2-2026
 
 ## Question 34
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Which method is commonly used in sample enumeration?ungi专a注
+Which method is commonly used in sample enumeration?
 
 ### Options
 
@@ -799,11 +852,11 @@ FRO-Forest2-2026
 
 ## Question 35
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-What is the typical number of satellitesrequired to determine an accurate3Dposition (latitude, longitude and altitude) using GPS?
+What is the typical number of satellites required to determine an accurate 3D position (latitude, longitude and altitude) using GPS?
 
 ### Options
 
@@ -824,7 +877,7 @@ FRO-Forest2-2026
 
 ## Question 36
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -833,12 +886,13 @@ What is the primary purpose of logging?
 ### Options
 
 1. To increase forest density
-2. Toremovedeadwood
-3.
+2. To remove deadwood
+3. To reduce soil erosion
+4. To harvest wood for commercial and industrial use
 
 ### Answer
 
-> **Answer: None**
+> **Answer: 4**
 
 ### Exam
 
@@ -848,21 +902,22 @@ FRO-Forest2-2026
 
 ## Question 37
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-What is thescientificfamilyofbamboo?
+What is the scientific family of bamboo?
 
 ### Options
 
 1. Fabaceae
 2. Moraceae
 3. Rutaceae
+4. Graminae
 
 ### Answer
 
-> **Answer: None**
+> **Answer: 4**
 
 ### Exam
 
@@ -872,7 +927,7 @@ FRO-Forest2-2026
 
 ## Question 38
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -880,7 +935,7 @@ Tendu leaves, used for making beedis, are obtained from which tree?
 
 ### Options
 
-1. Diospyrosmelanoxylon
+1. Diospyros melanoxylon
 2. Azadirachta indica
 3. Tectona grandis
 4. Mangifera indica
@@ -897,7 +952,7 @@ FRO-Forest2-2026
 
 ## Question 39
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -922,7 +977,7 @@ FRO-Forest2-2026
 
 ## Question 40
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -947,11 +1002,11 @@ FRO-Forest2-2026
 
 ## Question 41
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Which process improves the durability and usability of timber by reducing moisture content ?
+Which process improves the durability and usability of timber by reducing moisture content?
 
 ### Options
 
@@ -972,7 +1027,7 @@ FRO-Forest2-2026
 
 ## Question 42
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -983,11 +1038,11 @@ Which of the following is a traditional method of wood preservation?
 1. Kiln drying
 2. Chemical dipping
 3. Creosote treatment
-4. Sandblasting
+4. Sand blasting
 
 ### Answer
 
-> **Answer: 4**
+> **Answer: 3**
 
 ### Exam
 
@@ -997,7 +1052,7 @@ FRO-Forest2-2026
 
 ## Question 43
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -1022,11 +1077,11 @@ FRO-Forest2-2026
 
 ## Question 44
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-What is themaindrawback ofusing firewood as a fuel source?
+What is the main drawback of using firewood as a fuel source?
 
 ### Options
 
@@ -1047,22 +1102,22 @@ FRO-Forest2-2026
 
 ## Question 45
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-What is thedefinitionof Non-WoodForestProduce(NWFP)accordingtoFAO?
+What is the definition of Non-Wood Forest Produce (NWFP) according to FAO?
 
 ### Options
 
-1. Goods ofbiological origin other than wood derived fromforests
-2. Anyproductobtainedfrom trees
+1. Goods of biological origin other than wood derived from forests
+2. Any product obtained from trees
 3. Only products derived from agroforestry
 4. Only timber and firewood
 
 ### Answer
 
-> **Answer: None**
+> **Answer: 1**
 
 ### Exam
 
@@ -1072,15 +1127,15 @@ FRO-Forest2-2026
 
 ## Question 46
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Whichofthefollowingis NOTan exampleof Non-WoodForestProduce(NWFP)?
+Which of the following is NOT an example of Non-Wood Forest Produce (NWFP)?
 
 ### Options
 
-1. Bamboosandcanes
+1. Bamboos and canes
 2. Teak and sal wood
 3. Fibers and flosses
 4. Gums and resins
@@ -1097,11 +1152,11 @@ FRO-Forest2-2026
 
 ## Question 47
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Which method of wood preservation involves impregnating wood with chemicals under pressure ?
+Which method of wood preservation involves impregnating wood with chemicals under pressure?
 
 ### Options
 
@@ -1112,7 +1167,7 @@ Which method of wood preservation involves impregnating wood with chemicals unde
 
 ### Answer
 
-> **Answer: 4**
+> **Answer: 3**
 
 ### Exam
 
@@ -1122,11 +1177,11 @@ FRO-Forest2-2026
 
 ## Question 48
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Which of thefollowing woods is most commonly used for railway sleepers?
+Which of the following woods is most commonly used for railway sleepers?
 
 ### Options
 
@@ -1147,11 +1202,11 @@ FRO-Forest2-2026
 
 ## Question 49
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Which of thefollowing plants is a major source of cutch dye?
+Which of the following plants is a major source of cutch dye?
 
 ### Options
 
@@ -1172,11 +1227,11 @@ FRO-Forest2-2026
 
 ## Question 50
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Thered dye extracted from Pterocarpus santalinus is known as
+The red dye extracted from Pterocarpus santalinus is known as
 
 ### Options
 
@@ -1195,18 +1250,43 @@ FRO-Forest2-2026
 
 ---
 
-## Question 52
+## Question 51
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Complex knot formed at points wheredormant buds show abnormal vigour is called
+A crack originating from the center and extending radially in one or opposite directions in timber is called
+
+### Options
+
+1. Radial shake
+2. Ring shake
+3. Star shake
+4. Heart shake
+
+### Answer
+
+> **Answer: 4**
+
+### Exam
+
+FRO-Forest2-2026
+
+---
+
+## Question 52
+
+**Topic:** Forestry
+
+### Question
+
+Complex knot formed at points where dormant buds show abnormal vigour is called
 
 ### Options
 
 1. Twisted fiber
-2. Waviness （)
+2. Waviness
 3. Burr
 4. Checks
 
@@ -1222,7 +1302,7 @@ FRO-Forest2-2026
 
 ## Question 53
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -1231,13 +1311,13 @@ What is the primary goal of First Aid?
 ### Options
 
 1. To diagnose medical conditions
-2. Toprovideimmediatecareand prevent worsening of thecondition
+2. To provide immediate care and prevent worsening of the condition
 3. To conduct surgery on the victim
-4. Toreplaceprofessionalmedical treatment
+4. To replace professional medical treatment
 
 ### Answer
 
-> **Answer: None**
+> **Answer: 2**
 
 ### Exam
 
@@ -1247,16 +1327,16 @@ FRO-Forest2-2026
 
 ## Question 54
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-What does"ABCstand for in FirstAid?
+What does "ABC" stand for in First Aid?
 
 ### Options
 
-1. Airway,Breathing,Circulation
-2. Assess,Bandage,Compress
+1. Airway, Breathing, Circulation
+2. Assess, Bandage, Compress
 3. Alert, Breathe, Call
 4. Assistance, Bleeding, Care
 
@@ -1272,7 +1352,7 @@ FRO-Forest2-2026
 
 ## Question 55
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -1283,7 +1363,7 @@ What should you do for a person who is bleeding heavily?
 1. Let the wound bleed freely to clean itself
 2. Apply direct pressure to the wound
 3. Remove any embedded objects
-4. Use a tourniquetfor all bleeding cases
+4. Use a tourniquet for all bleeding cases
 
 ### Answer
 
@@ -1297,16 +1377,16 @@ FRO-Forest2-2026
 
 ## Question 56
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-What is the appropriate response for a choking victim who cannot cough, breathe or speak ?
+What is the appropriate response for a choking victim who cannot cough, breathe or speak?
 
 ### Options
 
 1. Give them water to drink
-2. Havethem liedown and elevate their legs
+2. Have them lie down and elevate their legs
 3. Perform the Heimlich maneuver
 4. Ask them to breathe deeply
 
@@ -1322,7 +1402,7 @@ FRO-Forest2-2026
 
 ## Question 57
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -1347,18 +1427,18 @@ FRO-Forest2-2026
 
 ## Question 58
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-What is the correct compression-to-breathratiofor Cardiopulmonary Resuscitation (CPR)in adults?
+What is the correct compression-to-breath ratio for Cardiopulmonary Resuscitation (CPR) in adults?
 
 ### Options
 
-1. 30 compressions to 2breaths
-2. 20 compressions to5breaths
-3. 50compressions to1breath
-4. 10compressionsto1breath
+1. 30 compressions to 2 breaths
+2. 20 compressions to 5 breaths
+3. 50 compressions to 1 breath
+4. 10 compressions to 1 breath
 
 ### Answer
 
@@ -1372,7 +1452,7 @@ FRO-Forest2-2026
 
 ## Question 59
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -1381,7 +1461,7 @@ What is the sum of the interior angles of a quadrilateral?
 ### Options
 
 1. 180°
-2. 2700
+2. 270°
 3. 360°
 4. 90°
 
@@ -1397,7 +1477,7 @@ FRO-Forest2-2026
 
 ## Question 60
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -1422,7 +1502,7 @@ FRO-Forest2-2026
 
 ## Question 61
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -1430,10 +1510,10 @@ What is a tie line used for in chain surveying?
 
 ### Options
 
-1. Todivide the survey area into parts
+1. To divide the survey area into parts
 2. To mark the boundary of the area
 3. To check accuracy and locate details
-4. Tomeasure vertical angles
+4. To measure vertical angles
 
 ### Answer
 
@@ -1447,7 +1527,7 @@ FRO-Forest2-2026
 
 ## Question 62
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -1472,7 +1552,7 @@ FRO-Forest2-2026
 
 ## Question 63
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -1497,7 +1577,7 @@ FRO-Forest2-2026
 
 ## Question 64
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -1505,9 +1585,10 @@ Why is the measurement of angles or bearings necessary in surveying?
 
 ### Options
 
-1. Todeterminethedirection of survey lines
-2. To find elevations
-3. To determine the slope of the land
+1. To calculate distances more accurately
+2. To determine the direction of survey lines
+3. To find elevations
+4. To determine the slope of the land
 
 ### Answer
 
@@ -1521,11 +1602,11 @@ FRO-Forest2-2026
 
 ## Question 65
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Theanglebetween themagnetic and true meridian isknown as
+The angle between the magnetic and true meridian is known as
 
 ### Options
 
@@ -1546,7 +1627,7 @@ FRO-Forest2-2026
 
 ## Question 66
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -1554,7 +1635,7 @@ What is the main instrument used to measure bearings in forest surveys?
 
 ### Options
 
-1. Prismaticcompass
+1. Prismatic compass
 2. Theodolite
 3. Dumpy level
 4. GPS
@@ -1571,11 +1652,11 @@ FRO-Forest2-2026
 
 ## Question 67
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-AWholeCircleBearing (WCB)ismeasured
+A Whole Circle Bearing (WCB) is measured
 
 ### Options
 
@@ -1596,21 +1677,22 @@ FRO-Forest2-2026
 
 ## Question 68
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-What is the function of the"sight vane"?
+What is the function of the "sight vane"?
 
 ### Options
 
-1. Tobalance the compass needle
-2. To measureangles accurately
+1. To balance the compass needle
+2. To measure angles accurately
 3. To provide a reference for declination
+4. To align the compass with an object for bearing measurement
 
 ### Answer
 
-> **Answer: None**
+> **Answer: 4**
 
 ### Exam
 
@@ -1620,18 +1702,18 @@ FRO-Forest2-2026
 
 ## Question 69
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-What is the main characteristic of aPlaneTable Survey?
+What is the main characteristic of a Plane Table Survey?
 
 ### Options
 
-1. Onlyofficeworkisdone
-2. Fieldwork and office work are done simultaneously
-3. Onlyfield work is done
-4. It is less accurate than othermethods
+1. Only office work is done
+2. Field work and office work are done simultaneously
+3. Only field work is done
+4. It is less accurate than other methods
 
 ### Answer
 
@@ -1645,7 +1727,7 @@ FRO-Forest2-2026
 
 ## Question 70
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -1653,7 +1735,7 @@ Which method is used to find an unknown point by sighting it from two known posi
 
 ### Options
 
-1. Radiationmethod
+1. Radiation method
 2. Resection method
 3. Intersection method
 4. Traversing method
@@ -1670,7 +1752,7 @@ FRO-Forest2-2026
 
 ## Question 71
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -1695,7 +1777,7 @@ FRO-Forest2-2026
 
 ## Question 72
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -1704,8 +1786,8 @@ What is a Contour Line?
 ### Options
 
 1. A line representing the shortest distance between two points
-2. Alineconnectingpoints ofequalelevation
-3. Aline indicatingroadsonamap
+2. A line connecting points of equal elevation
+3. A line indicating roads on a map
 4. A boundary line between two land parcels
 
 ### Answer
@@ -1720,7 +1802,7 @@ FRO-Forest2-2026
 
 ## Question 73
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -1745,22 +1827,22 @@ FRO-Forest2-2026
 
 ## Question 74
 
-**Topic:** Machine Design
+**Topic:** Forestry
 
 ### Question
 
-What does the term"map scale" refer to?
+What does the term "map scale" refer to?
 
 ### Options
 
 1. The number of contour lines on a map
-2.
-3. The ratio between actual distance on ground and arial distance
+2. The ratio between distances on the map and actual ground distances
+3. The ratio between actual distance on ground and aerial distance
 4. The ratio between actual distance on ground and bearing
 
 ### Answer
 
-> **Answer: None**
+> **Answer: 2**
 
 ### Exam
 
@@ -1770,7 +1852,7 @@ FRO-Forest2-2026
 
 ## Question 75
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -1785,7 +1867,7 @@ What is the main ingredient of cement?
 
 ### Answer
 
-> **Answer: 3**
+> **Answer: 2**
 
 ### Exam
 
@@ -1795,7 +1877,7 @@ FRO-Forest2-2026
 
 ## Question 76
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -1803,10 +1885,10 @@ What is the most commonly used mortar in construction?
 
 ### Options
 
-1. Cementmortar
+1. Cement mortar
 2. Mud mortar
-3. Limemortar
-4. Surkimortar
+3. Lime mortar
+4. Surki mortar
 
 ### Answer
 
@@ -1820,7 +1902,7 @@ FRO-Forest2-2026
 
 ## Question 77
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -1828,9 +1910,9 @@ The ideal gradient for a forest road should be around
 
 ### Options
 
-1. 1:2
+1. 1 : 2
 2. 1 : 10
-3. 1:20
+3. 1 : 20
 4. 1 : 50
 
 ### Answer
@@ -1845,7 +1927,7 @@ FRO-Forest2-2026
 
 ## Question 78
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -1870,21 +1952,22 @@ FRO-Forest2-2026
 
 ## Question 79
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Which part of the bridge transfers the load to the ground ?
+Which part of the bridge transfers the load to the ground?
 
 ### Options
 
 1. Deck
 2. Girders
 3. Railings
+4. Abutments
 
 ### Answer
 
-> **Answer: None**
+> **Answer: 4**
 
 ### Exam
 
@@ -1894,7 +1977,7 @@ FRO-Forest2-2026
 
 ## Question 80
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -1903,8 +1986,8 @@ What is the purpose of headwalls in culverts?
 ### Options
 
 1. To provide a smooth entry and exit for water
-2. Toblock the flow of water
-3. To increasethewidth ofthe road
+2. To block the flow of water
+3. To increase the width of the road
 4. To support the bridge structure
 
 ### Answer
@@ -1919,7 +2002,7 @@ FRO-Forest2-2026
 
 ## Question 81
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -1944,7 +2027,7 @@ FRO-Forest2-2026
 
 ## Question 82
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -1952,10 +2035,10 @@ What is the purpose of a catch pit in a culvert?
 
 ### Options
 
-1. To supportroad traffic
+1. To support road traffic
 2. To store rainwater
-3. To reduce sedimentflow
-4. To allowpedestrian crossing
+3. To reduce sediment flow
+4. To allow pedestrian crossing
 
 ### Answer
 
@@ -1969,7 +2052,7 @@ FRO-Forest2-2026
 
 ## Question 83
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -1977,10 +2060,10 @@ Forest and wildlife were brought under concurrent list as per
 
 ### Options
 
-1. 42ndAmendment
-2. 40thAmendment
+1. 42nd Amendment
+2. 40th Amendment
 3. 44th Amendment
-4. 48hAmendment
+4. 48th Amendment
 
 ### Answer
 
@@ -1992,17 +2075,42 @@ FRO-Forest2-2026
 
 ---
 
-## Question 85
+## Question 84
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Benefit-Cost Ratio (BCR)is mostly used to evaluate
+Furniture manufactured from wood is a __________ goods.
 
 ### Options
 
-1. Financial performanceof employees
+1. Consumable
+2. Transferable
+3. Economic
+4. All of the above
+
+### Answer
+
+> **Answer: 4**
+
+### Exam
+
+FRO-Forest2-2026
+
+---
+
+## Question 85
+
+**Topic:** Forestry
+
+### Question
+
+Benefit-Cost Ratio (BCR) is mostly used to evaluate
+
+### Options
+
+1. Financial performance of employees
 2. Tax policies of a Government
 3. Economic feasibility of a project
 4. None of these
@@ -2019,18 +2127,18 @@ FRO-Forest2-2026
 
 ## Question 86
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Which category of land is exempted from the Forest Conservation Act, 1980 for constructing strategic linearprojectsof national importanceorsecurity?
+Which category of land is exempted from the Forest Conservation Act, 1980 for constructing strategic linear projects of national importance or security?
 
 ### Options
 
-1. Land within50km of international borders
+1. Land within 50 km of international borders
 2. Land within 100 km of international borders
 3. Land within 25 km of international borders
-4. Landwithin10kmof internationalborders
+4. Land within 10 km of international borders
 
 ### Answer
 
@@ -2044,22 +2152,22 @@ FRO-Forest2-2026
 
 ## Question 87
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-What is themainpurposeof theForest ConservationAct, 1980?
+What is the main purpose of the Forest Conservation Act, 1980?
 
 ### Options
 
-1. Toexpandforestcover
+1. To expand forest cover
 2. To prevent deforestation and regulate the diversion of forest land for non-forest purposes
-3. Topromotecommercialforestry
-4. To recognize therights of forest dwellers
+3. To promote commercial forestry
+4. To recognize the rights of forest dwellers
 
 ### Answer
 
-> **Answer: None**
+> **Answer: 2**
 
 ### Exam
 
@@ -2069,7 +2177,7 @@ FRO-Forest2-2026
 
 ## Question 88
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -2077,10 +2185,10 @@ Which authority's prior approval is required before using forest land for non-fo
 
 ### Options
 
-1. StateGovernment
+1. State Government
 2. Local Panchayat
-3. DistrictCollector
-4. CentralGovernment
+3. District Collector
+4. Central Government
 
 ### Answer
 
@@ -2094,7 +2202,7 @@ FRO-Forest2-2026
 
 ## Question 89
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -2103,9 +2211,9 @@ What is 'Cognizable Offence'?
 ### Options
 
 1. An offence where Police must get Court permission to arrest
-2. Anoffencethatisonlypunishablewithafine
+2. An offence that is only punishable with a fine
 3. An offence where Police can arrest without prior approval
-4. Acivil wrong
+4. A civil wrong
 
 ### Answer
 
@@ -2119,21 +2227,22 @@ FRO-Forest2-2026
 
 ## Question 90
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-What is a‘Non-Bailable Offence'?
+What is a 'Non-Bailable Offence'?
 
 ### Options
 
 1. An offence where bail is automatically granted
-2. An offence that does not require a trial
-3. Aminor crime
+2. An offence where bail is not a right but can be granted by a Court
+3. An offence that does not require a trial
+4. A minor crime
 
 ### Answer
 
-> **Answer: None**
+> **Answer: 2**
 
 ### Exam
 
@@ -2143,21 +2252,22 @@ FRO-Forest2-2026
 
 ## Question 91
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Who is considered a Public Servant' under IPC? (l)A person lawfully authorized to discharge public duties on behalf of the Government
+Who is considered a 'Public Servant' under IPC?
 
 ### Options
 
-1. Only officials who hold elected positions in Government
-2. Only Police Officers and Judges
-3. Anyperson working in a Governmentoffice,regardless of duties
+1. A person lawfully authorized to discharge public duties on behalf of the Government
+2. Only officials who hold elected positions in Government
+3. Only Police Officers and Judges
+4. Any person working in a Government office, regardless of duties
 
 ### Answer
 
-> **Answer: None**
+> **Answer: 1**
 
 ### Exam
 
@@ -2167,20 +2277,22 @@ FRO-Forest2-2026
 
 ## Question 92
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Which international organization ensures that international trade in wild animals and plants does not threaten their survival ? (I)International Unionfor Conservation ofNature (IUCN) WorldWildlifeFund (WWF)
+Which international organization ensures that international trade in wild animals and plants does not threaten their survival?
 
 ### Options
 
-1.
-2. United Nations Educational, Scientific and Cultural Organization
+1. International Union for Conservation of Nature (IUCN)
+2. World Wildlife Fund (WWF)
+3. Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES)
+4. United Nations Educational, Scientific and Cultural Organization (UNESCO)
 
 ### Answer
 
-> **Answer: None**
+> **Answer: 3**
 
 ### Exam
 
@@ -2190,11 +2302,11 @@ FRO-Forest2-2026
 
 ## Question 93
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-What is the act of stopping a person, restraining theirmovement, and detaining them with valid legal authority called?
+What is the act of stopping a person, restraining their movement, and detaining them with valid legal authority called?
 
 ### Options
 
@@ -2205,7 +2317,7 @@ What is the act of stopping a person, restraining theirmovement, and detaining t
 
 ### Answer
 
-> **Answer: None**
+> **Answer: 4**
 
 ### Exam
 
@@ -2215,11 +2327,11 @@ FRO-Forest2-2026
 
 ## Question 94
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-What is the legal notice issued by a Court ordering an individual to appear or produce a document at a specified timeand place?
+What is the legal notice issued by a Court ordering an individual to appear or produce a document at a specified time and place?
 
 ### Options
 
@@ -2240,22 +2352,22 @@ FRO-Forest2-2026
 
 ## Question 95
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-As per Evidence Act, what does“"evidence"include?
+As per Evidence Act, what does "evidence" include?
 
 ### Options
 
-1. Bothoral statementsanddocumentaryevidence, includingelectronic records
-2. Onlyoral statements madebywitnesses
-3. Onlydocuments producedbeforetheCourt
-4. Onlyphysical objectsrelatedtothecase
+1. Both oral statements and documentary evidence, including electronic records
+2. Only oral statements made by witnesses
+3. Only documents produced before the Court
+4. Only physical objects related to the case
 
 ### Answer
 
-> **Answer: None**
+> **Answer: 1**
 
 ### Exam
 
@@ -2265,18 +2377,18 @@ FRO-Forest2-2026
 
 ## Question 96
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-As per theAndhra PradeshForest (Amendment)Act, 2016,which of the following is classified as a‘scheduled tree'?
+As per the Andhra Pradesh Forest (Amendment) Act, 2016, which of the following is classified as a 'scheduled tree'?
 
 ### Options
 
-1. Teak
-2. Rosewood
-3. Red Sanders
-4. Sandalwood
+1. Teak (Tectona grandis)
+2. Rosewood (Dalbergia latifolia)
+3. Red Sanders (Pterocarpus santalinus)
+4. Sandalwood (Santalum album)
 
 ### Answer
 
@@ -2290,18 +2402,18 @@ FRO-Forest2-2026
 
 ## Question 97
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Whichofthefollowingbestdescribesanecological niche?
+Which of the following best describes an ecological niche?
 
 ### Options
 
-1. The physical spacean organism occupies
-2. Thepositionofanorganisminanecosystem
+1. The physical space an organism occupies
+2. The position of an organism in an ecosystem
 3. The interaction between different species in an ecosystem
-4. Thetransitionzonebetweentwoecosystems
+4. The transition zone between two ecosystems
 
 ### Answer
 
@@ -2315,7 +2427,7 @@ FRO-Forest2-2026
 
 ## Question 98
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -2340,18 +2452,18 @@ FRO-Forest2-2026
 
 ## Question 99
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Which of the following best describes‘stratification'in a forest ecosystem?
+Which of the following best describes 'stratification' in a forest ecosystem?
 
 ### Options
 
-1. The seasonal shedding of leavesbytrees
+1. The seasonal shedding of leaves by trees
 2. Disposition of vegetation in superposed storeys
 3. The migration patterns of forest animals
-4. The process of nutrient cyeling between soil and plants
+4. The process of nutrient cycling between soil and plants
 
 ### Answer
 
@@ -2365,11 +2477,11 @@ FRO-Forest2-2026
 
 ## Question 100
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Which of the following ecosystems typically exhibits the highest Net Primary Productivity (NPP) per unit area ?
+Which of the following ecosystems typically exhibits the highest Net Primary Productivity (NPP) per unit area?
 
 ### Options
 
@@ -2390,7 +2502,7 @@ FRO-Forest2-2026
 
 ## Question 101
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -2415,7 +2527,7 @@ FRO-Forest2-2026
 
 ## Question 102
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -2440,7 +2552,7 @@ FRO-Forest2-2026
 
 ## Question 103
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -2465,7 +2577,7 @@ FRO-Forest2-2026
 
 ## Question 104
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -2490,7 +2602,7 @@ FRO-Forest2-2026
 
 ## Question 105
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -2498,7 +2610,7 @@ Which of the following is the only floating National Park in the world, located 
 
 ### Options
 
-1. Keibul LamjaoNationalPark
+1. Keibul Lamjao National Park
 2. Sundarbans National Park
 3. Bhitarkanika National Park
 4. Nokrek National Park
@@ -2515,17 +2627,17 @@ FRO-Forest2-2026
 
 ## Question 106
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Which of the following is NOT a category of protected areas under the Wildlife Protection Act,1972?
+Which of the following is NOT a category of protected areas under the Wildlife Protection Act, 1972?
 
 ### Options
 
 1. National Parks
 2. Wildlife Sanctuaries
-3. BiosphereReserves
+3. Biosphere Reserves
 4. Community Reserves
 
 ### Answer
@@ -2540,22 +2652,22 @@ FRO-Forest2-2026
 
 ## Question 107
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-What doesArticle48AoftheIndian Constitutiondeal with?
+What does Article 48A of the Indian Constitution deal with?
 
 ### Options
 
-1. Protection ofmonuments
-2. Protection and improvement ofthe environment, forests and wildlife
-3. Promotionof intermational peace
+1. Protection of monuments
+2. Protection and improvement of the environment, forests and wildlife
+3. Promotion of international peace
 4. Right to Education
 
 ### Answer
 
-> **Answer: None**
+> **Answer: 2**
 
 ### Exam
 
@@ -2565,7 +2677,7 @@ FRO-Forest2-2026
 
 ## Question 108
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -2574,7 +2686,7 @@ According to the IUCN Red List, a species is classified as Vulnerable (VU) when 
 ### Options
 
 1. Population decline of less than 50% over the last 10 years
-2. Population decline of more than 50% over the last 10years
+2. Population decline of more than 50% over the last 10 years
 3. Population decline of more than 70% over the last 10 years
 4. Population decline of more than 90% over the last 10 years
 
@@ -2590,7 +2702,7 @@ FRO-Forest2-2026
 
 ## Question 109
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -2599,7 +2711,7 @@ Critically endangered avian species which is found only in Eaglenest Wildlife Sa
 ### Options
 
 1. Jordon Couser
-2. Great IndianBustard
+2. Great Indian Bustard
 3. Green Pigeon
 4. Bugun Liocichla
 
@@ -2615,7 +2727,7 @@ FRO-Forest2-2026
 
 ## Question 110
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -2640,7 +2752,7 @@ FRO-Forest2-2026
 
 ## Question 111
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -2665,22 +2777,22 @@ FRO-Forest2-2026
 
 ## Question 112
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-In a food chain, what is the role of detritivores ?
+In a food chain, what is the role of detritivores?
 
 ### Options
 
-1. Theyproduce energy through photosynthesis
+1. They produce energy through photosynthesis
 2. They recycle nutrients by breaking down dead organic matter
-3. They consume primaryproducers directly
-4. Theycompetewith herbivoresforfood
+3. They consume primary producers directly
+4. They compete with herbivores for food
 
 ### Answer
 
-> **Answer: None**
+> **Answer: 2**
 
 ### Exam
 
@@ -2690,7 +2802,7 @@ FRO-Forest2-2026
 
 ## Question 113
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -2698,8 +2810,8 @@ Which type of ecological pyramid is always upright, regardless of ecosystem type
 
 ### Options
 
-1. Pyramidofbiomass
-2. Pyramidofnumbers
+1. Pyramid of biomass
+2. Pyramid of numbers
 3. Pyramid of energy
 4. Inverted pyramid
 
@@ -2715,7 +2827,7 @@ FRO-Forest2-2026
 
 ## Question 114
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -2740,17 +2852,17 @@ FRO-Forest2-2026
 
 ## Question 115
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Which part of the brain acts as the primary biological clock in mammals ?
+Which part of the brain acts as the primary biological clock in mammals?
 
 ### Options
 
 1. Hypothalamus
 2. Pineal gland
-3. Suprachiasmatic nucleus
+3. Suprachiasmatic nucleus (SCN)
 4. Cerebellum
 
 ### Answer
@@ -2763,13 +2875,38 @@ FRO-Forest2-2026
 
 ---
 
-## Question 117
+## Question 116
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Branch of forestry which is concemed with the activities directed towards the prevention and control of damage to forests by man, animals, insects, fungi, injurious plants and adverse climatic factors
+Maximum number of animals that can graze on a specific area over a given period of time without causing adverse effect is called as
+
+### Options
+
+1. Exponential growth model
+2. Carrying capacity
+3. Hardy-Weinberg equilibrium
+4. Trophic cascade model
+
+### Answer
+
+> **Answer: 2**
+
+### Exam
+
+FRO-Forest2-2026
+
+---
+
+## Question 117
+
+**Topic:** Forestry
+
+### Question
+
+Branch of forestry which is concerned with the activities directed towards the prevention and control of damage to forests by man, animals, insects, fungi, injurious plants and adverse climatic factors
 
 ### Options
 
@@ -2790,18 +2927,18 @@ FRO-Forest2-2026
 
 ## Question 118
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-What is the primarycharacteristic of forest dieback?
+What is the primary characteristic of forest dieback?
 
 ### Options
 
 1. Gradual decline in forest biodiversity
-2. Sudden, widespreadtreemortality
-3. Increase ininvasive species
-4. Enhancedforestregeneration
+2. Sudden, widespread tree mortality
+3. Increase in invasive species
+4. Enhanced forest regeneration
 
 ### Answer
 
@@ -2815,15 +2952,15 @@ FRO-Forest2-2026
 
 ## Question 119
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Which of thefollowing plant yields fruit dye?
+Which of the following plant yields fruit dye?
 
 ### Options
 
-1. Lawsoniainermis
+1. Lawsonia inermis
 2. Acacia catechu
 3. Bixa orellana
 4. Rubia cardifolia
@@ -2840,16 +2977,16 @@ FRO-Forest2-2026
 
 ## Question 120
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Which of thefollowing is a biotic factorthat can lead toforest decline?suspua
+Which of the following is a biotic factor that can lead to forest decline?
 
 ### Options
 
 1. Soil erosion
-2. Ozonepollution
+2. Ozone pollution
 3. Insect outbreaks
 4. Drought
 
@@ -2865,11 +3002,11 @@ FRO-Forest2-2026
 
 ## Question 121
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Infinetextured soils,thecationexchangecapacityis
+In fine textured soils, the cation exchange capacity is
 
 ### Options
 
@@ -2890,11 +3027,11 @@ FRO-Forest2-2026
 
 ## Question 122
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Name thediseasethat affected Sandalwood plantations in Kerala.
+Name the disease that affected Sandalwood plantations in Kerala.
 
 ### Options
 
@@ -2915,11 +3052,11 @@ FRO-Forest2-2026
 
 ## Question 123
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Which type offorestfire burns the organic material beneath theforest floor, including humus and peat ?
+Which type of forest fire burns the organic material beneath the forest floor, including humus and peat?
 
 ### Options
 
@@ -2940,17 +3077,17 @@ FRO-Forest2-2026
 
 ## Question 124
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Whichforesttype in India ismost susceptibleto severefires?
+Which forest type in India is most susceptible to severe fires?
 
 ### Options
 
 1. Evergreen forests
 2. Semi-evergreen forests
-3. Montanetemperateforests
+3. Montane temperate forests
 4. Dry deciduous forests
 
 ### Answer
@@ -2965,11 +3102,11 @@ FRO-Forest2-2026
 
 ## Question 125
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Which of thefollowing is a natural pesticide derived from plant sources and used in forest pest management?
+Which of the following is a natural pesticide derived from plant sources and used in forest pest management?
 
 ### Options
 
@@ -2990,17 +3127,17 @@ FRO-Forest2-2026
 
 ## Question 126
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-The real time forestfires are visualized through which sensors used by Vana Agni Portal?
+The real time forest fires are visualized through which sensors used by Vana Agni Portal?
 
 ### Options
 
-1. and
-2.
-3. Both
+1. MODIS
+2. SNPP-VIIRS
+3. Both (1) and (2)
 4. None of these
 
 ### Answer
@@ -3015,18 +3152,18 @@ FRO-Forest2-2026
 
 ## Question 127
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Which place isknown as"Mangrove Genetic Paradise"of world?
+Which place is known as "Mangrove Genetic Paradise" of world?
 
 ### Options
 
 1. Bhitarkanika
 2. Coringa
 3. Sundarbans
-4. AustralianGreatBarrier
+4. Australian Great Barrier
 
 ### Answer
 
@@ -3040,11 +3177,11 @@ FRO-Forest2-2026
 
 ## Question 128
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Which biocontrol agent has been used in India to manage theteak defoliator (Hyblaea puera)?
+Which biocontrol agent has been used in India to manage the teak defoliator (Hyblaea puera)?
 
 ### Options
 
@@ -3065,7 +3202,7 @@ FRO-Forest2-2026
 
 ## Question 129
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -3073,10 +3210,10 @@ How does forest regeneration contribute to climate change mitigation?
 
 ### Options
 
-1. ByincreasingtheEarth's albedoeffect
-2. Byemittingoxygen intotheatmosphere
-3. By sequestering atmospheric CO,inbiomass and soils
-4. Byreducingtheneedforfossilfuels
+1. By increasing the Earth's albedo effect
+2. By emitting oxygen into the atmosphere
+3. By sequestering atmospheric CO₂ in biomass and soils
+4. By reducing the need for fossil fuels
 
 ### Answer
 
@@ -3090,11 +3227,11 @@ FRO-Forest2-2026
 
 ## Question 130
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Whichforests possess highest carbon density?
+Which forests possess highest carbon density?
 
 ### Options
 
@@ -3115,17 +3252,17 @@ FRO-Forest2-2026
 
 ## Question 131
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Which pollutants effects stomatal pores, stomatal frequency and chloroplast structure in plants ?
+Which pollutants effects stomatal pores, stomatal frequency and chloroplast structure in plants?
 
 ### Options
 
 1. Sulphur dioxide
-2. Carbondioxide5
-3. Carbonmonoxide
+2. Carbon dioxide
+3. Carbon monoxide
 4. Fluoride
 
 ### Answer
@@ -3140,17 +3277,17 @@ FRO-Forest2-2026
 
 ## Question 132
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-What is the primaryobjective ofCAMPA in India?
+What is the primary objective of CAMPA in India?
 
 ### Options
 
-1. To promoteurbandevelopment projects
-2. Tomanagefunds forcompensatoryafforestation
-3. To regulatepollution controlmeasures
+1. To promote urban development projects
+2. To manage funds for compensatory afforestation
+3. To regulate pollution control measures
 4. To oversee wildlife conservation exclusively
 
 ### Answer
@@ -3165,7 +3302,7 @@ FRO-Forest2-2026
 
 ## Question 133
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -3173,10 +3310,10 @@ How does the presence of mycorrhizal fungi benefit trees in a forest ecosystem?
 
 ### Options
 
-1. Byfixingatmosphericnitrogen
-2. By decomposingleaf litter
+1. By fixing atmospheric nitrogen
+2. By decomposing leaf litter
 3. By increasing absorption area of the roots
-4. Bydeterring herbivorous insects
+4. By deterring herbivorous insects
 
 ### Answer
 
@@ -3190,7 +3327,7 @@ FRO-Forest2-2026
 
 ## Question 134
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -3200,7 +3337,7 @@ What is the primary role of worker bees in a honeybee colony?
 
 1. Laying eggs
 2. Mating with the queen
-3. Foragingfornectarandpollen
+3. Foraging for nectar and pollen
 4. Defending the hive
 
 ### Answer
@@ -3215,7 +3352,7 @@ FRO-Forest2-2026
 
 ## Question 135
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -3230,7 +3367,7 @@ Which dance performed by honeybees communicates the location of food sources to 
 
 ### Answer
 
-> **Answer: None**
+> **Answer: 2**
 
 ### Exam
 
@@ -3240,7 +3377,7 @@ FRO-Forest2-2026
 
 ## Question 136
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -3250,8 +3387,8 @@ Which species of silkworm is primarily responsible for producing Tussar silk in 
 
 1. Bombyx mori
 2. Antheraea mylitta
-3. Samiacynthia ricini
-4. Antheraeaassamensis
+3. Samia cynthia ricini
+4. Antheraea assamensis
 
 ### Answer
 
@@ -3265,7 +3402,7 @@ FRO-Forest2-2026
 
 ## Question 137
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -3276,7 +3413,7 @@ Which of the following is non-venomous snake?
 1. Indian Cobra
 2. Krait
 3. Russels Viper
-4. RockPython
+4. Rock Python
 
 ### Answer
 
@@ -3290,11 +3427,11 @@ FRO-Forest2-2026
 
 ## Question 138
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-The tsetsefly is a vector for which disease?
+The tsetse fly is a vector for which disease?
 
 ### Options
 
@@ -3315,11 +3452,11 @@ FRO-Forest2-2026
 
 ## Question 139
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-TheKino gum is produced by which tree species?
+The Kino gum is produced by which tree species?
 
 ### Options
 
@@ -3330,7 +3467,7 @@ TheKino gum is produced by which tree species?
 
 ### Answer
 
-> **Answer: None**
+> **Answer: 4**
 
 ### Exam
 
@@ -3340,15 +3477,15 @@ FRO-Forest2-2026
 
 ## Question 140
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Which is themajor hostoflac insect?
+Which is the major host of lac insect?
 
 ### Options
 
-1. Buteamonosperma
+1. Butea monosperma
 2. Zizuphus mauritiana
 3. Scheichera oleosa
 4. All of the above
@@ -3365,17 +3502,17 @@ FRO-Forest2-2026
 
 ## Question 141
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Which type of plant diseases does Trichoderma viride help to control ?
+Which type of plant diseases does Trichoderma viride help to control?
 
 ### Options
 
 1. Bacterial infections
 2. Viral diseases
-3. Soil-bormne fungal diseases
+3. Soil-borne fungal diseases
 4. Nutrient deficiency diseases
 
 ### Answer
@@ -3390,11 +3527,11 @@ FRO-Forest2-2026
 
 ## Question 142
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-India is apartofwhich realm?
+India is a part of which realm?
 
 ### Options
 
@@ -3415,7 +3552,7 @@ FRO-Forest2-2026
 
 ## Question 143
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -3440,7 +3577,7 @@ FRO-Forest2-2026
 
 ## Question 144
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -3448,9 +3585,9 @@ What role do secondary plant compounds play in the diet of wild animals?
 
 ### Options
 
-1. Serveasprimaryenergysources
-2. Act as toxins ordeterrents affectingfeedingbehavior
-3. Provideessential vitamins
+1. Serve as primary energy sources
+2. Act as toxins or deterrents affecting feeding behavior
+3. Provide essential vitamins
 4. Enhance digestibility of food
 
 ### Answer
@@ -3465,18 +3602,18 @@ FRO-Forest2-2026
 
 ## Question 145
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Which of the following features helps birds reduce bodyweight for flight?
+Which of the following features helps birds reduce body weight for flight?
 
 ### Options
 
 1. Presence of heavy bones
-2. Pneumatic
+2. Pneumatic (hollow) bones
 3. Absence of feathers
-4. Presence ofteeth
+4. Presence of teeth
 
 ### Answer
 
@@ -3490,7 +3627,7 @@ FRO-Forest2-2026
 
 ## Question 146
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -3498,10 +3635,10 @@ How do frugivorous (fruit-eating) birds aid in forest regeneration?
 
 ### Options
 
-1. Bypruning trees
+1. By pruning trees
 2. By dispersing seeds through their droppings
 3. By creating nesting sites
-4. By reducingcompetition among plant species
+4. By reducing competition among plant species
 
 ### Answer
 
@@ -3515,7 +3652,7 @@ FRO-Forest2-2026
 
 ## Question 147
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -3540,7 +3677,7 @@ FRO-Forest2-2026
 
 ## Question 148
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -3548,7 +3685,7 @@ The migratory route of birds to Kolleru lake is called as
 
 ### Options
 
-1. Bast Asian Flyway
+1. East Asian Flyway
 2. Australasian Flyway
 3. Central Asian Flyway
 4. None of the above
@@ -3565,7 +3702,7 @@ FRO-Forest2-2026
 
 ## Question 149
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
@@ -3590,22 +3727,25 @@ FRO-Forest2-2026
 
 ## Question 150
 
-**Topic:** Strength of Materials
+**Topic:** Forestry
 
 ### Question
 
-Which of the following is an example ofa zoonotic disease?
+Which of the following is an example of a zoonotic disease?
 
 ### Options
 
-1. Diabetes
-2. Hypertension
-3. Asthma
+1. Rabies
+2. Diabetes
+3. Hypertension
+4. Asthma
 
 ### Answer
 
-> **Answer: None**
+> **Answer: 1**
 
 ### Exam
 
 FRO-Forest2-2026
+
+---

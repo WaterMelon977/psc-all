@@ -1,1422 +1,3 @@
-# APPSC 2023 Applied Science and Engineering Question Bank
-
-## Topic Index
-
-### 1.1 Arithmetic
-
-#### Number System: Natural Numbers, Integers
-
-- Q81
-- Q84
-- Q85
-- Q86
-- Q87
-- Q90
-- Q92
-- Q93
-- Q94
-- Q98
-- Q100
-
-#### Rational and Real Numbers
-
-*(No questions)*
-
-#### Fundamental Operations: Addition, Subtraction, Multiplication, Division
-
-*(No questions)*
-
-#### Square Roots, Decimal Fractions
-
-- Q79
-- Q83
-
-#### Unitary Method: Time & Distance, Time & Work, Percentages
-
-- Q73
-- Q74
-- Q75
-- Q76
-
-#### Applications to Simple and Compound Interest, Profit & Loss, Ratio & Proportion, Variation
-
-- Q77
-- Q78
-- Q80
-- Q89
-
-#### Elementary Number Theory: Division Algorithm, Prime & Composite Numbers
-
-*(No questions)*
-
-#### Tests of Divisibility by 2, 3, 4, 5, 9 and 11
-
-*(No questions)*
-
-#### Multiples and Factors, Factorization Theorem, H.C.F. and L.C.M., Euclidean Algorithm
-
-*(No questions)*
-
-#### Logarithms to Base 10, Laws of Logarithms, Use of Logarithmic Tables
-
-- Q88
-
-### 1.2 Algebra
-
-#### Basic Operations, Simple Factors, Remainder Theorem, H.C.F., L.C.M.
-
-- Q82
-
-#### Theory of Polynomials, Solutions of Quadratic Equations
-
-*(No questions)*
-
-#### Relation Between Roots and Coefficients (Only Real Roots)
-
-*(No questions)*
-
-#### Simultaneous Linear Equations in Two Unknowns — Analytical & Graphical Solutions
-
-- Q91
-
-#### Simultaneous Linear Inequations in Two Variables and Their Solutions
-
-*(No questions)*
-
-#### Practical Problems Leading to Two Simultaneous Linear Equations/Inequations or Quadratic Equations
-
-*(No questions)*
-
-#### Set Language and Set Notation
-
-*(No questions)*
-
-#### Rational Expressions and Conditional Identities
-
-*(No questions)*
-
-#### Laws of Indices
-
-*(No questions)*
-
-### 1.3 Trigonometry
-
-#### Sine x, Cosine x, Tangent x when 0° ≤ x ≤ 90°
-
-*(No questions)*
-
-#### Values of sin x, cos x, tan x for x = 0°, 30°, 45°, 60° and 90°
-
-- Q102
-
-#### Simple Trigonometric Identities
-
-- Q105
-
-#### Use of Trigonometric Tables
-
-*(No questions)*
-
-#### Simple Cases of Heights and Distances
-
-- Q103
-- Q104
-
-### 1.4 Geometry
-
-#### Lines and Angles, Plane and Plane Figures
-
-- Q99
-
-#### Theorems on Properties of Angles at a Point
-
-*(No questions)*
-
-#### Parallel Lines
-
-*(No questions)*
-
-#### Sides and Angles of a Triangle
-
-*(No questions)*
-
-#### Congruency of Triangles
-
-*(No questions)*
-
-#### Similar Triangles
-
-*(No questions)*
-
-#### Concurrence of Medians and Altitudes
-
-*(No questions)*
-
-#### Properties of Angles, Sides and Diagonals of a Parallelogram, Rectangle and Square
-
-- Q101
-
-#### Circles and Its Properties Including Tangents and Normals
-
-- Q96
-- Q97
-
-#### Loci
-
-*(No questions)*
-
-### 1.5 Mensuration
-
-#### Areas of Squares, Rectangles, Parallelograms, Triangles and Circles
-
-- Q106
-- Q107
-- Q108
-
-#### Areas of Figures Which Can Be Split Up into Known Figures (Field Book)
-
-*(No questions)*
-
-#### Surface Area and Volume of Cuboids
-
-- Q109
-- Q111
-
-#### Lateral Surface and Volume of Right Circular Cones and Cylinders
-
-*(No questions)*
-
-#### Surface Area and Volume of Spheres
-
-- Q110
-
-### 1.6 Statistics
-
-#### Collection and Tabulation of Statistical Data
-
-*(No questions)*
-
-#### Graphical Representation: Frequency Polygons, Histograms, Bar Charts, Pie Charts
-
-*(No questions)*
-
-#### Measures of Central Tendency
-
-- Q95
-
-### 2.1 Units and Dimensions
-
-#### Physical Quantity, Fundamental and Derived Quantities
-
-- Q127
-- Q137
-
-#### Fundamental and Derived Units, SI Units, Multiples and Sub-Multiples
-
-*(No questions)*
-
-#### Rules for Writing SI Units, Advantages of SI Units
-
-*(No questions)*
-
-#### Dimensions and Dimensional Formulae
-
-*(No questions)*
-
-#### Dimensional Constants and Dimensionless Quantities
-
-*(No questions)*
-
-#### Principle of Homogeneity
-
-*(No questions)*
-
-#### Advantages and Limitations of Dimensional Analysis
-
-*(No questions)*
-
-#### Errors in Measurement: Absolute, Relative, Percentage Error
-
-*(No questions)*
-
-#### Significant Figures
-
-*(No questions)*
-
-#### Problems
-
-*(No questions)*
-
-### 2.2 Elements of Vectors
-
-#### Scalars and Vectors
-
-- Q145
-
-#### Types of Vectors: Proper, Null, Unit, Equal, Negative, Like, Co-Initial, Co-Planar, Position Vector
-
-*(No questions)*
-
-#### Addition of Vectors, Representation of Vectors
-
-*(No questions)*
-
-#### Resolution of Vectors
-
-*(No questions)*
-
-#### Parallelogram, Triangle and Polygon Laws of Vectors
-
-*(No questions)*
-
-#### Subtraction of Vectors
-
-*(No questions)*
-
-#### Dot and Cross Products of Vectors
-
-- Q120
-- Q125
-
-#### Problems
-
-*(No questions)*
-
-### 2.3 Dynamics
-
-#### Concept of Acceleration Due to Gravity
-
-- Q124
-- Q149
-
-#### Equations of Motion for a Freely Falling Body and for a Body Thrown Up Vertically
-
-*(No questions)*
-
-#### Projectiles: Horizontal and Oblique Projections
-
-- Q132
-- Q133
-
-#### Expressions for Maximum Height, Time of Flight, Range
-
-*(No questions)*
-
-#### Force, Momentum, Angular Displacement, Angular Velocity, Angular Acceleration
-
-- Q112
-
-#### Angular Momentum, Moment of Inertia, Torque
-
-*(No questions)*
-
-#### Problems
-
-*(No questions)*
-
-### 2.4 Friction
-
-#### Introduction to Friction, Causes, Types of Friction
-
-- Q118
-
-#### Laws of Friction
-
-*(No questions)*
-
-#### Angle of Repose, Angle of Friction
-
-*(No questions)*
-
-#### Rough Inclined Plane
-
-*(No questions)*
-
-#### Advantages and Disadvantages of Friction
-
-*(No questions)*
-
-#### Methods of Reducing Friction
-
-*(No questions)*
-
-#### Problems
-
-*(No questions)*
-
-### 2.5 Work, Power and Energy
-
-#### Work, Power and Energy — Definitions and Explanation
-
-- Q113
-- Q114
-- Q139
-
-#### Potential Energy, Kinetic Energy
-
-- Q122
-
-#### Derivations of Potential and Kinetic Energies
-
-*(No questions)*
-
-#### K.E. and Momentum Relation
-
-*(No questions)*
-
-#### Work-Energy Theorem
-
-*(No questions)*
-
-#### Law of Conservation of Energy
-
-*(No questions)*
-
-#### Problems
-
-*(No questions)*
-
-### 2.6 Simple Harmonic Motion
-
-#### Conditions of SHM, Definition, Examples
-
-- Q136
-- Q146
-- Q147
-
-#### Expressions for Displacement, Velocity, Acceleration, Time Period, Frequency and Phase in SHM
-
-*(No questions)*
-
-#### Time Period of a Simple Pendulum
-
-*(No questions)*
-
-#### Laws of Simple Pendulum, Seconds Pendulum
-
-*(No questions)*
-
-#### Problems
-
-*(No questions)*
-
-### 2.7 Heat and Thermodynamics
-
-#### Expansion of Gases, Boyle's Law, Absolute Scale of Temperature
-
-- Q150
-
-#### Charles Laws, Ideal Gas Equation, Universal Gas Constant
-
-*(No questions)*
-
-#### Differences Between Gas Constant (r) and Universal Gas Constant (R)
-
-*(No questions)*
-
-#### Isothermal and Adiabatic Processes
-
-- Q131
-- Q144
-
-#### Laws of Thermodynamics
-
-- Q128
-
-#### Specific Heats, Molar Specific Heats of a Gas
-
-*(No questions)*
-
-#### Different Modes of Transmission of Heat
-
-*(No questions)*
-
-#### Laws of Thermal Conductivity, Coefficient of Thermal Conductivity
-
-*(No questions)*
-
-#### Problems
-
-*(No questions)*
-
-### 2.8 Sound
-
-#### Nature of Sound, Types of Wave Motion
-
-- Q126
-
-#### Musical Sound and Noise
-
-- Q142
-
-#### Noise Pollution — Causes & Effects, Methods of Reducing Noise Pollution
-
-*(No questions)*
-
-#### Beats, Doppler Effect, Echo, Reverberation
-
-- Q115
-
-#### Reverberation Time, Sabine's Formula
-
-*(No questions)*
-
-#### Conditions of Good Auditorium
-
-*(No questions)*
-
-#### Problems
-
-*(No questions)*
-
-### 2.9 Properties of Matter
-
-#### Definition of Elasticity
-
-- Q117
-- Q130
-- Q134
-- Q135
-- Q141
-
-#### Definition of Stress and Strain, Units and Dimensional Formulae
-
-*(No questions)*
-
-#### Hooke's Law
-
-*(No questions)*
-
-#### Definitions of Modulus of Elasticity: Young's Modulus (Y), Bulk Modulus (K), Rigidity Modulus (n), Poisson's Ratio
-
-*(No questions)*
-
-#### Relation Between Y, K, n and Poisson's Ratio (Equations Only, No Derivation)
-
-*(No questions)*
-
-#### Definition of Surface Tension, Explanation with Reference to Molecular Theory
-
-*(No questions)*
-
-#### Definition of Angle of Contact, Definition of Capillarity
-
-*(No questions)*
-
-#### Formula for Surface Tension Based on Capillarity
-
-*(No questions)*
-
-#### Concept of Viscosity, Examples for Surface Tension and Viscosity
-
-*(No questions)*
-
-#### Newton's Formula for Viscous Force, Definition of Coefficient of Viscosity
-
-- Q121
-
-#### Effect of Temperature on Viscosity of Liquids and Gases
-
-*(No questions)*
-
-#### Poiseuille's Equation for Coefficient of Viscosity
-
-*(No questions)*
-
-#### Related Numerical Problems
-
-*(No questions)*
-
-### 2.10 Electricity & Magnetism
-
-#### Ohm's Law and Explanation, Specific Resistance
-
-- Q140
-- Q148
-
-#### Kirchhoff's Laws, Wheatstone's Bridge, Meter Bridge
-
-*(No questions)*
-
-#### Coulomb's Inverse Square Law
-
-- Q123
-
-#### Magnetic Field, Magnetic Lines of Force, Magnetic Induction Field Strength
-
-- Q129
-
-#### Magnetic Induction Field Strength at a Point on the Axial Line
-
-- Q119
-
-#### Magnetic Induction Field Strength at a Point on the Equatorial Line
-
-*(No questions)*
-
-#### Problems
-
-*(No questions)*
-
-### 2.11 Modern Physics
-
-#### Photoelectric Effect, Einstein's Photoelectric Equation
-
-- Q138
-
-#### Laws of Photoelectric Effect, Photoelectric Cell
-
-*(No questions)*
-
-#### Applications of Photoelectric Effect
-
-*(No questions)*
-
-#### Total Internal Reflection, Fiber Optics
-
-- Q143
-
-#### Principle and Working of an Optical Fiber, Types of Optical Fibers, Applications of Optical Fibers
-
-*(No questions)*
-
-#### Superconductivity, Applications
-
-- Q116
-
-#### Nanotechnology: Definition, Nanomaterials, Applications
-
-*(No questions)*
-
-### 3.1 Fundamentals of Chemistry
-
-#### Atomic Structure: Fundamental Particles, Bohr's Theory, Quantum Numbers
-
-- Q1
-- Q2
-- Q3
-- Q5
-- Q9
-
-#### Aufbau Principle, Hund's Rule, Pauli's Exclusion Principle
-
-*(No questions)*
-
-#### Orbitals, Shapes of s, p and d Orbitals
-
-*(No questions)*
-
-#### Electronic Configurations of Elements
-
-*(No questions)*
-
-#### Chemical Bonding: Types of Chemical Bonds
-
-*(No questions)*
-
-#### Ionic and Covalent Bonds with Examples
-
-*(No questions)*
-
-#### Properties of Ionic and Covalent Compounds
-
-*(No questions)*
-
-#### Structures of Ionic Crystals (NaCl and CsCl)
-
-*(No questions)*
-
-### 3.2 Solutions
-
-#### Concentration Methods
-
-- Q4
-
-#### Mole Concept, Molarity and Normality
-
-*(No questions)*
-
-#### Numerical Problems on Mole, Molarity and Normality
-
-*(No questions)*
-
-### 3.3 Acids and Bases
-
-#### Theories of Acids and Bases and Limitations
-
-- Q6
-- Q7
-- Q8
-- Q17
-
-#### Arrhenius Theory, Bronsted-Lowry Theory, Lewis Acid-Base Theory
-
-*(No questions)*
-
-#### Ionic Product of Water
-
-*(No questions)*
-
-#### pH Related Numerical Problems
-
-*(No questions)*
-
-#### Buffer Solutions, Action of Buffer and Its Applications
-
-*(No questions)*
-
-### 3.4 Principles of Metallurgy
-
-#### Characteristics of Metals and Non-Metals
-
-- Q10
-- Q11
-- Q12
-
-#### Distinguish Between Metals and Non-Metals
-
-*(No questions)*
-
-#### Definitions: Metallurgy, Ore, Gangue, Flux, Slag
-
-*(No questions)*
-
-#### Concentration of Ore: Hand Picking, Levigation, Froth Floatation
-
-*(No questions)*
-
-#### Methods of Extraction of Crude Metal: Roasting, Calcination, Smelting
-
-*(No questions)*
-
-#### Alloys: Composition and Uses of Brass, German Silver and Nichrome
-
-*(No questions)*
-
-### 3.5 Electrochemistry
-
-#### Conductors, Semiconductors, Insulators, Electrolytes and Non-Electrolytes
-
-- Q13
-- Q14
-- Q15
-
-#### Electrolysis, Faraday's Laws of Electrolysis
-
-*(No questions)*
-
-#### Application of Electrolysis (Electroplating)
-
-*(No questions)*
-
-#### Numerical Problems on Faraday's Laws
-
-*(No questions)*
-
-#### Galvanic Cell, Standard Electrode Potential
-
-*(No questions)*
-
-#### Electrochemical Series
-
-*(No questions)*
-
-#### EMF and Numerical Problems on EMF of a Cell
-
-*(No questions)*
-
-### 3.6 Corrosion
-
-#### Factors Influencing Corrosion: Composition, Stress and Concentration Cells
-
-- Q16
-
-#### Rusting of Iron and Its Mechanism
-
-*(No questions)*
-
-#### Prevention of Corrosion by Coating Methods, Cathodic Protection Methods
-
-*(No questions)*
-
-### 3.7 Water Technology
-
-#### Soft and Hard Water, Causes of Hardness, Types of Hardness
-
-- Q22
-- Q23
-- Q24
-- Q25
-
-#### Disadvantages of Hard Water
-
-*(No questions)*
-
-#### Degree of Hardness (ppm and mg/lit)
-
-*(No questions)*
-
-#### Softening Methods: Permutit Process, Ion Exchange Process
-
-*(No questions)*
-
-#### Qualities of Drinking Water
-
-*(No questions)*
-
-#### Chemistry Involved in Treatment of Water (Coagulation, Chlorination, Defluoridation)
-
-*(No questions)*
-
-#### Osmosis, Reverse Osmosis, Applications of Reverse Osmosis
-
-*(No questions)*
-
-### 3.8 Polymers
-
-#### Polymerization, Types of Polymerization: Addition, Condensation with Examples
-
-- Q18
-- Q19
-- Q20
-- Q21
-
-#### Plastics, Types of Plastics
-
-*(No questions)*
-
-#### Advantages of Plastics Over Traditional Materials, Disadvantages of Using Plastics
-
-*(No questions)*
-
-#### Preparation and Uses of PVC, Teflon, Polystyrene, Nylon 6,6
-
-*(No questions)*
-
-#### Processing of Natural Rubber, Vulcanization, Elastomers
-
-*(No questions)*
-
-#### Preparation and Applications of Buna-S, Neoprene Rubbers
-
-*(No questions)*
-
-### 3.9 Fuels
-
-#### Definition and Classification of Fuels
-
-- Q26
-- Q27
-
-#### Characteristics of Good Fuel
-
-*(No questions)*
-
-#### Composition and Uses of Gaseous Fuels
-
-*(No questions)*
-
-### 3.10 Chemistry in Daily Life
-
-#### Basic Composition, Applications, Health Aspects and Pollution Impacts of:
-
-- Q28
-
-#### Soaps and Detergents
-
-*(No questions)*
-
-#### Vinegar
-
-*(No questions)*
-
-#### Insect Repellents
-
-*(No questions)*
-
-#### Soft Drinks
-
-*(No questions)*
-
-#### Activated Charcoal
-
-*(No questions)*
-
-### 3.11 Environmental Studies
-
-#### Environment: Scope and Importance of Environmental Studies
-
-*(No questions)*
-
-#### Important Terms Related to Environment
-
-*(No questions)*
-
-#### Renewable and Non-Renewable Energy Sources
-
-- Q31
-- Q32
-
-#### Concept of Ecosystem, Biotic Components
-
-*(No questions)*
-
-#### Forest Resources, Deforestation
-
-*(No questions)*
-
-#### Biodiversity and Its Threats
-
-*(No questions)*
-
-#### Air Pollution: Causes, Effects, Global Environmental Issues, Control Measures
-
-- Q29
-- Q30
-
-#### Water Pollution: Causes, Effects, Control Measures
-
-*(No questions)*
-
-### 4.1 Basics of Industrial Management
-
-#### Industry, Commerce and Trade
-
-*(No questions)*
-
-#### Definition of Management, Functions of Management
-
-*(No questions)*
-
-#### Principles of Scientific Management: F.W. Taylor
-
-- Q45
-
-#### Principles of Management: Henry Fayol
-
-*(No questions)*
-
-#### Administration, Organisation and Management
-
-*(No questions)*
-
-#### Nature of Management, Levels of Management, Managerial Skills
-
-*(No questions)*
-
-### 4.2 Organisation Structure & Organisational Behaviour
-
-#### Organizing: Process of Organizing
-
-*(No questions)*
-
-#### Line, Staff and Line & Staff Organizations
-
-*(No questions)*
-
-#### Communication, Motivational Theories, Leadership Models
-
-*(No questions)*
-
-#### Decision Making, Human Resources Development
-
-- Q49
-
-#### Forms of Business Ownerships: Sole Proprietorship, Partnership, Joint Stock Companies
-
-- Q48
-
-#### Cooperative Types of Organizations, Corporations, Boards
-
-*(No questions)*
-
-### 4.3 Production Management
-
-#### Definition and Importance
-
-*(No questions)*
-
-#### Plant Location and Layout
-
-*(No questions)*
-
-#### Types of Production: Job, Batch and Mass
-
-*(No questions)*
-
-#### Production Planning and Control: Relation of Production Department with Other Departments
-
-*(No questions)*
-
-#### Routing, Scheduling, Dispatching and Follow-Up
-
-*(No questions)*
-
-#### Break-Even Analysis
-
-*(No questions)*
-
-#### Application of CPM and PERT Techniques
-
-- Q46
-
-#### Simple Numerical Problems
-
-*(No questions)*
-
-### 4.4 Materials Management
-
-#### Materials in Industry
-
-- Q47
-- Q50
-
-#### Basic Inventory Control Model, ABC Analysis
-
-*(No questions)*
-
-#### Safety Stock, Re-Order Level, Economic Ordering Quantity
-
-*(No questions)*
-
-#### Stores Management: Stores Layout, Stores Equipment, Stores Records
-
-- Q51
-
-#### Purchasing Procedures, E-Tendering, E-Procurement
-
-*(No questions)*
-
-#### Purchase Records, Bin Card, Cardex System
-
-*(No questions)*
-
-### 4.5 Maintenance Management & Industrial Safety
-
-#### Objectives and Importance of Plant Maintenance
-
-*(No questions)*
-
-#### Different Types of Maintenance, Nature of Maintenance Problems
-
-*(No questions)*
-
-#### Range of Maintenance Activities
-
-*(No questions)*
-
-#### Schedules of Preventive Maintenance, Advantages of Preventive Maintenance
-
-- Q62
-
-#### 5S Principles
-
-*(No questions)*
-
-#### Importance of Safety at Work Places
-
-*(No questions)*
-
-#### Causes of Accidents, Cost of Accidents, Prevention
-
-- Q54
-
-#### Industrial Hazards
-
-- Q53
-
-### 4.6 Entrepreneurship Development
-
-#### Definition of Entrepreneur, Role of Entrepreneur
-
-- Q55
-
-#### Concept of Make in India, Zero Defect, Zero Effect
-
-- Q60
-
-#### Concept of Start-Up Company
-
-*(No questions)*
-
-#### Entrepreneurial Development: Role of SSI, MSME, DICs
-
-*(No questions)*
-
-#### Entrepreneurial Development Schemes
-
-*(No questions)*
-
-#### Institutional Support, Financial Assistance Programmes
-
-*(No questions)*
-
-#### Self-Employment Schemes
-
-- Q57
-
-#### Market Survey and Demand Survey
-
-*(No questions)*
-
-#### Preparation of Feasibility Study Reports
-
-*(No questions)*
-
-### 4.7 New Trends in Management
-
-#### Introduction to Management Information System (MIS)
-
-- Q58
-- Q63
-
-#### RFID Application in Materials Management
-
-*(No questions)*
-
-#### Total Quality Management (TQM)
-
-- Q56
-
-#### Concept of Quality by B. Crosby, W. Edward Deming, Joseph M. Juran, Kooru Ishikawa, Genichi Taguchi, Shigco Shingo
-
-- Q52
-
-#### Quality Systems: Quality Policy, Quality Management, Quality Systems
-
-*(No questions)*
-
-#### Stages of Development of ISO 9000 Series, ISO 14000
-
-- Q59
-
-### 5.1 Work Study
-
-#### Industrial Engineering: Definition of Production and Productivity
-
-*(No questions)*
-
-#### Work Study: Definition, Objectives and Scope
-
-*(No questions)*
-
-#### Method Study: Definition, Objectives, Procedure of Conducting Method Study
-
-*(No questions)*
-
-#### Process Chart Symbols: Operation Process Chart, Flow Process Chart, Two-Handed Process Chart
-
-*(No questions)*
-
-#### Uses of Flow Diagram and String Diagram
-
-*(No questions)*
-
-#### Micro-Motion Study: Therbligs, SIMO Chart, Chrono Cyclegraph
-
-*(No questions)*
-
-#### Work Measurement or Time Study: Definition, Objectives, Work Measurement Techniques
-
-- Q66
-- Q72
-
-#### Time Study: Procedure Using Stop Watch to Measure Standard Time
-
-*(No questions)*
-
-#### Constituents of Standard Time: Normal Time, Rating Factor, Allowances
-
-*(No questions)*
-
-#### Simple Problems
-
-- Q65
-
-#### Standard Data: Determination of Standard Time Using PMTS
-
-*(No questions)*
-
-#### Determination of Standard Time Using Work Sampling
-
-*(No questions)*
-
-#### Wage and Incentive Plans: Wage, Nominal Wage, Real Wage, Living Wage, Minimum Wage, Fair Wage, Incentive
-
-*(No questions)*
-
-#### List of Different Incentive Plans
-
-*(No questions)*
-
-#### Simple Problems on Halsey, Rowan and Emerson Efficiency Plans
-
-*(No questions)*
-
-### 5.2 Statistical Quality Control (SQC)
-
-#### Meaning of Quality
-
-*(No questions)*
-
-#### Objectives of Inspection, Methods of Inspection
-
-*(No questions)*
-
-#### Floor or Patrolling Inspection, Centralized Inspection
-
-*(No questions)*
-
-#### Trial Run Inspection, First Piece Inspection, Pilot Piece Inspection, Sample Inspection
-
-*(No questions)*
-
-#### Merits and Demerits of the Above
-
-- Q68
-
-#### Statistical Quality Control: Definition
-
-*(No questions)*
-
-#### Chance and Assignable Causes
-
-*(No questions)*
-
-#### Quality Control Tools
-
-*(No questions)*
-
-#### Types of Statistical Data: Variables and Attributes Data
-
-- Q70
-
-#### Normal Distribution Curve
-
-*(No questions)*
-
-#### Control Charts for Variables Data: X-Bar and R-Charts
-
-- Q64
-- Q71
-
-#### Interpretation of Control Charts to Know Whether Process is In Control or Out of Control
-
-*(No questions)*
-
-#### Simple Numerical Problems
-
-- Q69
-
-#### Control Charts for Attributes Data: Fraction Defective (p), Percent Defective (100p), Number of Defectives (np) Charts
-
-*(No questions)*
-
-#### Acceptance Sampling Plan: Advantages and Disadvantages Over 100% Inspection
-
-- Q67
-
-#### Single Sampling Plan for Accepting a Lot with a Flow Chart
-
-*(No questions)*
-
-#### Principles of Random Sampling
-
-*(No questions)*
-
-#### Six Sigma: Importance, Objectives, Advantages
-
-*(No questions)*
-
-### 6.1 Unit I — Computer System & Peripheral Devices
-
-#### A Simple Computer System: Central Processing Unit
-
-- Q33
-
-#### Need of Secondary Storage, Types of Memory
-
-*(No questions)*
-
-#### Hardware, Software and People
-
-*(No questions)*
-
-#### Peripheral Devices: Input, Output and Storage
-
-- Q34
-
-#### Data Preparation, Factors Affecting Input
-
-*(No questions)*
-
-#### Input Devices, Output Devices, Secondary Devices
-
-*(No questions)*
-
-#### Communication Between CPU and Input/Output Devices
-
-*(No questions)*
-
-#### About Virus: Virus, Types of Virus, How Virus Affects, Impact of Virus
-
-- Q35
-
-#### Virus Detection, Virus Preventive Measures
-
-*(No questions)*
-
-#### List of Most Popular and Effective Antivirus
-
-*(No questions)*
-
-### 6.2 Unit II — Problem Solving and Programming
-
-#### Algorithm Development, Flowcharts, Looping
-
-- Q36
-
-#### Some Programming Features, Pseudo Code, The One-Zero Game
-
-*(No questions)*
-
-#### Some Structured Programming Concepts, Documents
-
-*(No questions)*
-
-#### Programming Languages: Machine Language and Assembly Language
-
-*(No questions)*
-
-#### High-Level and Low-Level Languages
-
-*(No questions)*
-
-#### Assemblers, Compilers and Interpreters
-
-*(No questions)*
-
-#### Computer Systems and Development: Investigation, Analysis, Design
-
-*(No questions)*
-
-#### System Processing and General Program Design
-
-*(No questions)*
-
-#### Presentation to Management and Users, Implementation, Documents
-
-*(No questions)*
-
-### 6.3 Unit III — Computer Networks
-
-#### Introduction to Computer Networks
-
-- Q37
-- Q38
-- Q39
-
-#### Network Topologies: Bus, Star, Ring, Mesh, Hybrid Topology
-
-*(No questions)*
-
-#### Types of Networks: LAN, WAN, MAN, Campus/Corporate Area Network, Personal Area Network
-
-*(No questions)*
-
-#### Network Devices: Hub, Repeater, Switch, Bridge, Router, Gateway, Network Interface Card
-
-*(No questions)*
-
-#### Wireless Networks: Types, Security, Limitations
-
-*(No questions)*
-
-#### Bluetooth: Bluetooth Piconets, Avoiding Interference in Bluetooth Devices
-
-*(No questions)*
-
-#### Differences Between Bluetooth and Wireless Networks
-
-*(No questions)*
-
-### 6.4 Unit IV — Operating Systems & Internet Applications
-
-#### Operating Systems: Introduction, Evolution of Operating Systems
-
-- Q40
-- Q41
-- Q42
-
-#### Process Management: Process Control Block, Process Operations, Process Scheduling
-
-*(No questions)*
-
-#### Command Interpreter
-
-*(No questions)*
-
-#### Popular Operating Systems: Microsoft DOS, Microsoft Windows, UNIX and Linux
-
-*(No questions)*
-
-#### Internet Applications: Internet as a Global Network
-
-*(No questions)*
-
-#### Search Engine, Online Education
-
-*(No questions)*
-
-#### Internet Utilities: Email, Online Banking, Reservations, etc.
-
-*(No questions)*
-
-### 6.5 Unit V — Database Systems, E-Governance & E-Commerce
-
-#### Database Systems: File-Oriented Approach, Database-Oriented Approach
-
-- Q43
-
-#### Components of Database System
-
-*(No questions)*
-
-#### Advantages & Disadvantages of Database Approach
-
-*(No questions)*
-
-#### Applications of Database Systems
-
-*(No questions)*
-
-#### Database Views, Three-Schema Architecture
-
-*(No questions)*
-
-#### Database Models: Hierarchical, Network, Relational, Object-Oriented Data Model
-
-*(No questions)*
-
-#### Components of Database Management Systems
-
-*(No questions)*
-
-#### Retrieving Data Through Queries
-
-*(No questions)*
-
-#### E-Governance: What is E-Governance, Concept of E-Governance, Benefits of E-Governance
-
-*(No questions)*
-
-#### E-Commerce: What is E-Commerce, Scope of E-Commerce, Benefits and Limitations of E-Commerce
-
-- Q44
-- Q61
-
----
-
 # 1.1 Arithmetic
 
 ## Number System: Natural Numbers, Integers
@@ -1562,14 +143,14 @@ Industry-pro-2023
 
 ### Question
 
-*(No text)*
+When a polynomial f(x) = abx³ - bx + r is divided by g(x), it leaves quotient as bx, and remainder as r. Then what is the value of g(x)?
 
 ### Options
 
-1. 
-2. 
-3. 
-4. 
+1.
+2.
+3.
+4.
 
 ### Answer
 
@@ -1588,14 +169,14 @@ Industry-pro-2023
 
 ### Question
 
-*(No text)*
+If two roots of the polynomial x³ - 2x² - 13x - 10 are -2 and 5, then the third root is:
 
 ### Options
 
-1. 
-2. 
-3. 
-4. 
+1.
+2.
+3.
+4.
 
 ### Answer
 
@@ -1640,14 +221,14 @@ Industry-pro-2023
 
 ### Question
 
-*(No text)*
+The values of k for which the quadratic equation (3k + 1)x² + 2(k + 1)x + 1 = 0 has equal roots are:
 
 ### Options
 
-1. 
-2. 
-3. 
-4. 
+1.
+2.
+3.
+4.
 
 ### Answer
 
@@ -1666,14 +247,14 @@ Industry-pro-2023
 
 ### Question
 
-*(No text)*
+What will be the coordinates of B, if the point C((16/5), (13/5)), divides the line segment joining A (3,6) and B (a,b) in the ratio 2 : 3?
 
 ### Options
 
-1. 
-2. 
-3. 
-4. 
+1.
+2.
+3.
+4.
 
 ### Answer
 
@@ -1692,9 +273,9 @@ Industry-pro-2023
 
 ### Question
 
-2.  Both assertion and reason are true but reason is not the correct explanation of assertion.
-3.  Assertion is true but reason is false.
-4. * Assertion is false but reason is true.
+1. Both assertion and reason are true but reason is not the correct explanation of assertion.
+2. Assertion is true but reason is false.
+3. * Assertion is false but reason is true.
 
 ### Options
 
@@ -1722,8 +303,8 @@ Industry-pro-2023
 
 ### Question
 
-3. V5
-4. * 5.5
+1. V5
+2. * 5.5
 
 ### Options
 
@@ -1888,7 +469,7 @@ Suppose zinc and copper are in the ratio of 5 : 4 in 225 gm of an alloy. How muc
 ### Options
 
 1. 56-
-2. 
+2.
 3. 56
 4. 60
 
@@ -1935,13 +516,13 @@ Industry-pro-2023
 
 ### Question
 
-Suppose the incomes oftwopersons AandBare in theratio3:2and theirexpenditures are in the ratio 5:3.Ifeach
-saves Rs. 1.ooo, then match column I with column II in the following table:
-Column I		Column II
-P: A'sincome		1. Rs. 3000
-Q:B's income		2.Rs. 6000
-R: A's expenditure		3. Rs. 4000
-S: B's expenditure		4. Rs. 5000
+Suppose the incomes of two persons A and B are in the ratio 3 : 2 and their expenditures are in the ratio 5:3. If each
+saves Rs. 1,000, then match column I with column II in the following table:
+Column I Column II
+P: A's income  1. Rs. 3000
+Q: B's income  2. Rs. 6000
+R: A's expenditure  3. Rs. 4000
+S: B's expenditure  4. Rs. 5000
 
 ### Options
 
@@ -2016,7 +597,7 @@ Industry-pro-2023
 
 # 1.2 Algebra
 
-## Basic Operations, Simple Factors, Remainder Theorem, H.C.F., L.C.M.
+## Basic Operations, Simple Factors, Remainder Theorem, H.C.F., L.C.M
 
 ## Question 82
 
@@ -2029,8 +610,8 @@ If d = b 3 and b = c-3, then the value of c ih terms of a is:
 
 ### Options
 
-2. a
-3. α2
+1. a
+2. α2
 
 ### Answer
 
@@ -2085,7 +666,7 @@ Industry-pro-2023
 
 ### Question
 
-*(No text)*
+Suppose zinc and copper are in the ratio of 5 : 4 in 225 gm of an alloy. How much grams of copper should be added to make the ratio as 4 : 5?
 
 ### Options
 
@@ -2113,12 +694,12 @@ Industry-pro-2023
 
 ### Question
 
-If cos aα =		then match the pair given in column A with correct value in column B:
-ColumnA		Column B
+If cos aα =  then match the pair given in column A with correct value in column B:
+ColumnA  Column B
 A) tanα
-B) cosecα		V5
+B) cosecα  V5
 2)
-C)cota		3)
+C)cota  3)
 
 ### Options
 
@@ -2173,14 +754,14 @@ Industry-pro-2023
 
 ### Question
 
-*(No text)*
+If sin A = 1/2 and sin B = √3/2, then A + B =?
 
 ### Options
 
-1. 
-2. 
-3. 
-4. 
+1.
+2.
+3.
+4.
 
 ### Answer
 
@@ -2203,7 +784,7 @@ Industry-pro-2023
 
 ### Question
 
-IfAB is parallel to DE as shown in thefollowing figure, then what is the equation ofthe line AB?
+If AB is parallel to DE as shown in the following figure, then what is the equation of the line AB?
 (-5.6),
 (5,6)
 (2.3)
@@ -2212,7 +793,7 @@ IfAB is parallel to DE as shown in thefollowing figure, then what is the equatio
 
 1. -2y-11 = 0
 2. ¥ 2x+y+i=0
-4. ×+y-1=0
+3. ×+y-1=0
 
 ### Answer
 
@@ -2300,7 +881,7 @@ is:
 
 1. 10x-9y-16=0
 2. 10x+9y+16=0
-4. 10x+9y-16=0
+3. 10x+9y-16=0
 
 ### Answer
 
@@ -2724,8 +1305,8 @@ their periods are same. The ratio of their centripetal acceleration is
 ### Options
 
 1. 11/r2
-3. V11/12
-4. 12/1
+2. V11/12
+3. 12/1
 
 ### Answer
 
@@ -2744,7 +1325,7 @@ Industry-pro-2023
 
 ### Question
 
-4. x 1/r4
+1. x 1/r4
 
 ### Options
 
@@ -2966,11 +1547,11 @@ Industry-pro-2023
 ### Question
 
 Match thefollowing related to Simple Harmonic Motion
-Column-1		Column-Il
-al		Accelerationismaximumat		1)		-kx
-b)		Velocity is maximum at		2)		equilibrium position
-Restoring forces in SHM		3)		-02x
-d)		Acceleration of a particle executing SHM		4)		extremeposition
+Column-1  Column-Il
+al  Accelerationismaximumat  1)  -kx
+b)  Velocity is maximum at  2)  equilibrium position
+Restoring forces in SHM  3)  -02x
+d)  Acceleration of a particle executing SHM  4)  extremeposition
 
 ### Options
 
@@ -3109,14 +1690,14 @@ Industry-pro-2023
 ### Question
 
 Match the following:
-Column-1		Column-II
-Zeroeth law of Thermodynamics		1)Transfer of heat from cold body to hot body takes place only with
+Column-1  Column-II
+Zeroeth law of Thermodynamics  1)Transfer of heat from cold body to hot body takes place only with
 the aid of external agency
-b)First law of Thermodynamics		2)		Concept of temperature
-Kelvin's Statement of Second law of		3)		Heat and Work are interconvertible.
+b)First law of Thermodynamics  2)  Concept of temperature
+Kelvin's Statement of Second law of  3)  Heat and Work are interconvertible.
 Thermodynamics
-Clasius Statement of Second law of		4)		Impossible to derive work by reducing the temperature of source
-Thermodynamics		colder than the coldest ofits surroundings
+Clasius Statement of Second law of  4)  Impossible to derive work by reducing the temperature of source
+Thermodynamics  colder than the coldest ofits surroundings
 
 ### Options
 
@@ -3427,7 +2008,7 @@ The specific resistance of the given wire of radius i from metre bridge is propo
 
 1. R
 2. 1/r
-4. 1/r
+3. 1/r
 
 ### Answer
 
@@ -3539,9 +2120,10 @@ Here, v is the applied frequency and vo is the threshold frequency
 
 ### Options
 
-1. V=Vo
-2. 
-4. V=0
+1. v = v₀
+2. v > v₀
+3. v < v₀
+4. v = 0
 
 ### Answer
 
@@ -3725,7 +2307,7 @@ Industry-pro-2023
 
 ### Question
 
-(C) F2		[II
+(C) F2  [II
 Choose the correct answer from the options given below:
 
 ### Options
@@ -3786,10 +2368,10 @@ Industry-pro-2023
 
 ### Question
 
-List-I (Theory)		List-II (Base)
-(A) Arrhenius theory		HOEN (I)
-(B) Bronsted-Lowry theory		(II) BF3
-(C) Lewis acid base theory		(III) NH3
+List-I (Theory)  List-II (Base)
+(A) Arrhenius theory  HOEN (I)
+(B) Bronsted-Lowry theory  (II) BF3
+(C) Lewis acid base theory  (III) NH3
 Choose the correct answer from the options given below:
 
 ### Options
@@ -3868,7 +2450,7 @@ Industry-pro-2023
 
 ### Question
 
-*(No text)*
+Choose the correct answer from the options given below:
 
 ### Options
 
@@ -3924,8 +2506,8 @@ Industry-pro-2023
 
 ### Question
 
-(B)		Malachite		(I) Zinc
-(C)		Calamine		(HH) Iron
+(B)  Malachite  (I) Zinc
+(C)  Calamine  (HH) Iron
 Choose the correct answer from the options given below:
 
 ### Options
@@ -4147,10 +2729,10 @@ Industry-pro-2023
 
 ### Question
 
-List-I (Softening of water)		List-II (Involves the chemical)
-(A)Lime-sodaprocess		() Hydrated alumino silicates
-(B) Zeolite or Permutit process		(II) Cation exchange resin
-(C) Mixed bed deionization		(III) Ca(OH)2
+List-I (Softening of water)  List-II (Involves the chemical)
+(A)Lime-sodaprocess  () Hydrated alumino silicates
+(B) Zeolite or Permutit process  (II) Cation exchange resin
+(C) Mixed bed deionization  (III) Ca(OH)2
 Choose the correct answer from the options given below:
 
 ### Options
@@ -4341,10 +2923,10 @@ Industry-pro-2023
 
 ### Question
 
-List-I (Fuel)		List-II (Properties)
-(A) Solid fuels		(I) Do not produce ash but sometimes produce smoke
-(B) Liquid fuels		(II) They are least inflammable
-(C) Gaseous fuels		(II) They are costly
+List-I (Fuel)  List-II (Properties)
+(A) Solid fuels  (I) Do not produce ash but sometimes produce smoke
+(B) Liquid fuels  (II) They are least inflammable
+(C) Gaseous fuels  (II) They are costly
 Choose the correct answer from the options given below:
 
 ### Options
@@ -4366,7 +2948,7 @@ Industry-pro-2023
 
 # 3.10 Chemistry in Daily Life
 
-## Basic Composition, Applications, Health Aspects and Pollution Impacts of:
+## Basic Composition, Applications, Health Aspects and Pollution Impacts of
 
 ## Question 28
 
@@ -4375,10 +2957,10 @@ Industry-pro-2023
 
 ### Question
 
-List-I (Name of Drug)		List-II (Use)
-(A)Norethindrone		() Antibiotics
-(B) Terpineol		(II)Antisepticsand disinfectants
-(C) Ofloxacin		(II) Antifertility drug
+List-I (Name of Drug)  List-II (Use)
+(A)Norethindrone  () Antibiotics
+(B) Terpineol  (II)Antisepticsand disinfectants
+(C) Ofloxacin  (II) Antifertility drug
 Choose the correct answer from the options given below:
 
 ### Options

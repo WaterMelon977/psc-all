@@ -35,7 +35,7 @@ What type of venation is found in Monocotyledons?
 
 ### Options
 
-1. Reticulatevenation
+1. Reticulate venation
 2. Parallel venation
 3. Spiral venation
 4. No venation
@@ -56,7 +56,7 @@ FRO-Forest1-2026
 
 ### Question
 
-Which of thefollowing is an example ofa Gymnosperm?
+Which of the following is an example of a Gymnosperm?
 
 ### Options
 
@@ -206,7 +206,7 @@ FRO-Forest1-2026
 
 ### Question
 
-Which term refers tothenatural homeofa plant?
+Which term refers to the natural home of a plant?
 
 ### Options
 
@@ -238,7 +238,7 @@ Which part of the plant is positively geotropic?
 1. Root
 2. Leaves
 3. Stem
-4. Flower f
+4. Flower
 
 ### Answer
 
@@ -256,13 +256,13 @@ FRO-Forest1-2026
 
 ### Question
 
-Which type ofroot is modified forfood storage and is thicker in the middle and tapered at both ends?
+Which type of root is modified for food storage and is thicker in the middle and tapered at both ends?
 
 ### Options
 
 1. Napiform root
 2. Tuberous root
-3. Fusiformroot
+3. Fusiform root
 4. Conical root
 
 ### Answer
@@ -281,13 +281,14 @@ FRO-Forest1-2026
 
 ### Question
 
-Which of the following is a characteristic of prop roots? (l) Arise from lower nodes of stemfor support
+Which of the following is a characteristic of prop roots?
 
 ### Options
 
-1. Developfrom horizontal branches andgrowdownwards
-2. Grow verticallyupwardforrespiration
-3. Form nitrogen-fixing nodules
+1. Arise from lower nodes of stem for support
+2. Develop from horizontal branches and grow downwards
+3. Grow vertically upward for respiration
+4. Form nitrogen-fixing nodules
 
 ### Answer
 
@@ -334,9 +335,9 @@ What is the function of a Phylloclade stem modification?
 
 ### Options
 
-1. Storingwaterand performing photosynthesis
-2. Supporting climbingplants
-3. Absorbingnutrientsfromthehost
+1. Storing water and performing photosynthesis
+2. Supporting climbing plants
+3. Absorbing nutrients from the host
 4. Reproduction
 
 ### Answer
@@ -355,7 +356,7 @@ FRO-Forest1-2026
 
 ### Question
 
-What isPhyllotaxy?
+What is Phyllotaxy?
 
 ### Options
 
@@ -430,12 +431,12 @@ FRO-Forest1-2026
 
 ### Question
 
-What is the function of stipules in some plants ?
+What is the function of stipules in some plants?
 
 ### Options
 
-1. Waterabsorption
-2. Protectionofyoungleaves
+1. Water absorption
+2. Protection of young leaves
 3. Photosynthesis
 4. Seed dispersal
 
@@ -480,7 +481,7 @@ FRO-Forest1-2026
 
 ### Question
 
-What is infilorescence?
+What is inflorescence?
 
 ### Options
 
@@ -505,7 +506,7 @@ FRO-Forest1-2026
 
 ### Question
 
-Whichtypeof inflorescenceisfound inbanana?
+Which type of inflorescence is found in banana?
 
 ### Options
 
@@ -555,7 +556,7 @@ FRO-Forest1-2026
 
 ### Question
 
-Theoutermostwhorlofafloweriscalled
+The outermost whorl of a flower is called
 
 ### Options
 
@@ -580,7 +581,7 @@ FRO-Forest1-2026
 
 ### Question
 
-Which of the following is themale reproductive part of a flower?
+Which of the following is the male reproductive part of a flower?
 
 ### Options
 
@@ -591,7 +592,7 @@ Which of the following is themale reproductive part of a flower?
 
 ### Answer
 
-> **Answer: None**
+> **Answer: 4**
 
 ### Exam
 
@@ -605,13 +606,14 @@ FRO-Forest1-2026
 
 ### Question
 
-Plasmodesmata in plant cells are responsible forA (l)Transportofions
+Plasmodesmata in plant cells are responsible for
 
 ### Options
 
-1. Protein synthesis
-2. Communicationbetweenadjacentcells
-3. Photosynthesis
+1. Transport of ions
+2. Protein synthesis
+3. Communication between adjacent cells
+4. Photosynthesis
 
 ### Answer
 
@@ -1057,10 +1059,10 @@ In the context of plant genetics, what is the primary function of messenger RNA 
 
 ### Options
 
-1. Catalyzesbiochemicalreactions
-2. CarriesgeneticinformationfromDNAtoribosomes
-3. Transportsaminoacidstoribosomes
-4. Forms the structural componentsofribosomes
+1. Catalyzes biochemical reactions
+2. Carries genetic information from DNA to ribosomes
+3. Transports amino acids to ribosomes
+4. Forms the structural components of ribosomes
 
 ### Answer
 
@@ -2818,7 +2820,7 @@ FRO-Forest1-2026
 
 ### Question
 
-Which of thefollowing is a primary soil-forming process?
+Which of the following is a primary soil-forming process?
 
 ### Options
 
@@ -2843,7 +2845,7 @@ FRO-Forest1-2026
 
 ### Question
 
-What is theparent material ofblack soil (regur)?
+What is the parent material of black soil (regur)?
 
 ### Options
 
@@ -2872,7 +2874,7 @@ What is the primary reason for the red color in red soil ?
 
 ### Options
 
-1. High iron oxidecontent
+1. High iron oxide content
 2. High calcium carbonate
 3. High organic matter
 4. High clay content
@@ -2900,7 +2902,7 @@ Which of the following is a major component of Soil Organic Matter (SOM)?
 1. Lignin
 2. Sand
 3. Clay
-4. Ironoa
+4. Iron
 
 ### Answer
 
@@ -2943,13 +2945,13 @@ FRO-Forest1-2026
 
 ### Question
 
-Which geological formation in India is considered the oldest, containing rocks that dateback toover3.5billionyears?
+Which geological formation in India is considered the oldest, containing rocks that date back to over 3.5 billion years?
 
 ### Options
 
-1. DharwarSystem
+1. Dharwar System
 2. Aravalli System
-3. ArcheanSystem
+3. Archean System
 4. Cuddapah System
 
 ### Answer
@@ -2968,13 +2970,14 @@ FRO-Forest1-2026
 
 ### Question
 
-The term Purana'rock system in Indian geology refers to which of the following? (l)ArcheanandDharwarSystems Cuddapah and Vindhyan Systems
+The term 'Purana' rock system in Indian geology refers to which of the following?
 
 ### Options
 
-1.
-2. GondwanaandDeccan Trap Systems
-3. Siwalik andKarewa Systems
+1. Archean and Dharwar Systems
+2. Cuddapah and Vindhyan Systems
+3. Gondwana and Deccan Trap Systems
+4. Siwalik and Karewa Systems
 
 ### Answer
 
@@ -3042,13 +3045,14 @@ FRO-Forest1-2026
 
 ### Question
 
-Which of the following statements about the Earth's inner core is correct? (l) It is in a liquid state composed mainly of iron and nickel
+Which of the following statements about the Earth's inner core is correct?
 
 ### Options
 
-1. It is in a solid state composed mainly of iron and nickel
-2. It is in a semi-solid statecomposed mainly of silicaterocks
-3. It is ina gaseous state composed mainlyof hydrogen and helium
+1. It is in a liquid state composed mainly of iron and nickel
+2. It is in a solid state composed mainly of iron and nickel
+3. It is in a semi-solid state composed mainly of silicate rocks
+4. It is in a gaseous state composed mainly of hydrogen and helium
 
 ### Answer
 
@@ -3066,7 +3070,7 @@ FRO-Forest1-2026
 
 ### Question
 
-Which layer of the Earth is characterized by plasticity,allowing tectonic plates to move?
+Which layer of the Earth is characterized by plasticity, allowing tectonic plates to move?
 
 ### Options
 
@@ -3097,7 +3101,7 @@ Which layer of the Earth is responsible for the generation of its magnetic field
 
 1. Crust
 2. Mantle
-3. OuterCore
+3. Outer Core
 4. Inner Core
 
 ### Answer
@@ -3145,10 +3149,10 @@ What does a high Biochemical Oxygen Demand (BOD) indicate about a water sample?
 
 ### Options
 
-1. Lowlevel of microbial activity
+1. Low level of microbial activity
 2. High level of organic pollution
 3. Presence of heavy metals
-4. Highoxygencontent
+4. High oxygen content
 
 ### Answer
 
@@ -3166,17 +3170,18 @@ FRO-Forest1-2026
 
 ### Question
 
-What role do forested catchments play in the context of rainwater harvesting and groundwater recharge? (l)They decrease infiltration rates due todense vegetation
+What role do forested catchments play in the context of rainwater harvesting and groundwater recharge?
 
 ### Options
 
-1. They act as natural sponges, absorbing rainfall and facilitating groundwater recharge
-2. They primarily contribute to surface runoff, reducing groundwater recharge
-3. Theyhaveminimal impactonthehydrological cycle
+1. They decrease infiltration rates due to dense vegetation
+2. They act as natural sponges, absorbing rainfall and facilitating groundwater recharge
+3. They primarily contribute to surface runoff, reducing groundwater recharge
+4. They have minimal impact on the hydrological cycle
 
 ### Answer
 
-> **Answer: None**
+> **Answer: 2**
 
 ### Exam
 
@@ -3297,11 +3302,11 @@ In the context of water conservation, what is the primary purpose of a 'check da
 1. To divert river flow for navigation
 2. To store large volumes of water for urban use
 3. To recharge groundwater and prevent soil erosion
-4. To generatehydroelectric power
+4. To generate hydroelectric power
 
 ### Answer
 
-> **Answer: None**
+> **Answer: 3**
 
 ### Exam
 
@@ -3320,9 +3325,9 @@ Which of the following is a primary objective of watershed management in foreste
 ### Options
 
 1. Expansion of urban infrastructure
-2. Soil andwaterconservationtomaintain ecological balance
+2. Soil and water conservation to maintain ecological balance
 3. Promotion of industrial development
-4. Reductionofforestcoverforagriculture
+4. Reduction of forest cover for agriculture
 
 ### Answer
 
@@ -3340,14 +3345,14 @@ FRO-Forest1-2026
 
 ### Question
 
-Which Indian foresttype is mosteffective in cloud interception and moisturecapture,contributing significantlyto local hydrology?
+Which Indian forest type is most effective in cloud interception and moisture capture, contributing significantly to local hydrology?
 
 ### Options
 
 1. Tropical dry deciduous forests
 2. Mangrove forests
 3. Montane cloud forests
-4. Thormn forests
+4. Thorn forests
 
 ### Answer
 
@@ -3372,7 +3377,7 @@ Which of the following methods is used to estimate average precipitation over an
 1. Arithmetic mean method
 2. Thiessen polygon method
 3. Isohyetal method
-4. All of theabove
+4. All of the above
 
 ### Answer
 
@@ -3401,7 +3406,7 @@ How does the presence of leaf litter in forested areas influence soil moisture d
 
 ### Answer
 
-> **Answer: None**
+> **Answer: 3**
 
 ### Exam
 

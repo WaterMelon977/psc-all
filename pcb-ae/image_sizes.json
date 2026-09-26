@@ -1,0 +1,1117 @@
+{
+  "defaults": {
+    "small_formula": {
+      "max_width_pt": 120,
+      "max_height_pt": 50
+    },
+    "wide_formula": {
+      "max_width_pt": 360,
+      "max_height_pt": 75
+    },
+    "diagram": {
+      "max_width_pt": 360,
+      "max_height_pt": 180
+    }
+  },
+  "images": {
+    "Q100_fig1.png": {
+      "category": "small_formula",
+      "px_width": 352,
+      "px_height": 178,
+      "max_width_pt": 110,
+      "max_height_pt": 45
+    },
+    "Q100_fig2.png": {
+      "category": "diagram",
+      "px_width": 447,
+      "px_height": 314,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q100_fig3.png": {
+      "category": "diagram",
+      "px_width": 440,
+      "px_height": 316,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q100_fig4.png": {
+      "category": "small_formula",
+      "px_width": 278,
+      "px_height": 130,
+      "max_width_pt": 110,
+      "max_height_pt": 45
+    },
+    "Q101_fig1.png": {
+      "category": "diagram",
+      "px_width": 2550,
+      "px_height": 876,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q102_fig1.png": {
+      "category": "diagram",
+      "px_width": 1346,
+      "px_height": 603,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q102_fig2.png": {
+      "category": "small_formula",
+      "px_width": 134,
+      "px_height": 149,
+      "max_width_pt": 110,
+      "max_height_pt": 45
+    },
+    "Q102_fig3.png": {
+      "category": "small_formula",
+      "px_width": 134,
+      "px_height": 145,
+      "max_width_pt": 110,
+      "max_height_pt": 45
+    },
+    "Q102_fig4.png": {
+      "category": "small_formula",
+      "px_width": 130,
+      "px_height": 139,
+      "max_width_pt": 110,
+      "max_height_pt": 45
+    },
+    "Q102_fig5.png": {
+      "category": "small_formula",
+      "px_width": 132,
+      "px_height": 133,
+      "max_width_pt": 110,
+      "max_height_pt": 45
+    },
+    "Q103_fig1.png": {
+      "category": "diagram",
+      "px_width": 2132,
+      "px_height": 832,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q105_fig1.png": {
+      "category": "diagram",
+      "px_width": 2146,
+      "px_height": 708,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q105_fig2.png": {
+      "category": "small_formula",
+      "px_width": 168,
+      "px_height": 159,
+      "max_width_pt": 110,
+      "max_height_pt": 45
+    },
+    "Q105_fig3.png": {
+      "category": "small_formula",
+      "px_width": 154,
+      "px_height": 163,
+      "max_width_pt": 110,
+      "max_height_pt": 45
+    },
+    "Q105_fig4.png": {
+      "category": "small_formula",
+      "px_width": 161,
+      "px_height": 165,
+      "max_width_pt": 110,
+      "max_height_pt": 45
+    },
+    "Q105_fig5.png": {
+      "category": "small_formula",
+      "px_width": 192,
+      "px_height": 127,
+      "max_width_pt": 110,
+      "max_height_pt": 45
+    },
+    "Q106_fig1.png": {
+      "category": "wide_formula",
+      "px_width": 2550,
+      "px_height": 207,
+      "max_width_pt": 320,
+      "max_height_pt": 65
+    },
+    "Q106_fig2.png": {
+      "category": "diagram",
+      "px_width": 2010,
+      "px_height": 742,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q107_fig1.png": {
+      "category": "diagram",
+      "px_width": 2146,
+      "px_height": 699,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q107_fig2.png": {
+      "category": "small_formula",
+      "px_width": 206,
+      "px_height": 130,
+      "max_width_pt": 110,
+      "max_height_pt": 45
+    },
+    "Q107_fig3.png": {
+      "category": "small_formula",
+      "px_width": 216,
+      "px_height": 140,
+      "max_width_pt": 110,
+      "max_height_pt": 45
+    },
+    "Q107_fig4.png": {
+      "category": "small_formula",
+      "px_width": 216,
+      "px_height": 157,
+      "max_width_pt": 110,
+      "max_height_pt": 45
+    },
+    "Q107_fig5.png": {
+      "category": "small_formula",
+      "px_width": 206,
+      "px_height": 132,
+      "max_width_pt": 110,
+      "max_height_pt": 45
+    },
+    "Q108_fig1.png": {
+      "category": "diagram",
+      "px_width": 2146,
+      "px_height": 840,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q109_fig1.png": {
+      "category": "diagram",
+      "px_width": 2550,
+      "px_height": 1153,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q109_fig2.png": {
+      "category": "diagram",
+      "px_width": 2003,
+      "px_height": 1117,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q10_fig1.png": {
+      "category": "wide_formula",
+      "px_width": 2132,
+      "px_height": 381,
+      "max_width_pt": 320,
+      "max_height_pt": 65
+    },
+    "Q110_fig1.png": {
+      "category": "diagram",
+      "px_width": 2550,
+      "px_height": 827,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q111_fig1.png": {
+      "category": "diagram",
+      "px_width": 2101,
+      "px_height": 799,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q111_fig2.png": {
+      "category": "small_formula",
+      "px_width": 287,
+      "px_height": 135,
+      "max_width_pt": 110,
+      "max_height_pt": 45
+    },
+    "Q113_fig1.png": {
+      "category": "diagram",
+      "px_width": 1243,
+      "px_height": 495,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q114_fig1.png": {
+      "category": "small_formula",
+      "px_width": 404,
+      "px_height": 134,
+      "max_width_pt": 110,
+      "max_height_pt": 45
+    },
+    "Q115_fig1.png": {
+      "category": "small_formula",
+      "px_width": 204,
+      "px_height": 128,
+      "max_width_pt": 110,
+      "max_height_pt": 45
+    },
+    "Q117_fig1.png": {
+      "category": "wide_formula",
+      "px_width": 2550,
+      "px_height": 126,
+      "max_width_pt": 320,
+      "max_height_pt": 65
+    },
+    "Q119_fig1.png": {
+      "category": "small_formula",
+      "px_width": 306,
+      "px_height": 130,
+      "max_width_pt": 110,
+      "max_height_pt": 45
+    },
+    "Q119_fig2.png": {
+      "category": "small_formula",
+      "px_width": 287,
+      "px_height": 132,
+      "max_width_pt": 110,
+      "max_height_pt": 45
+    },
+    "Q119_fig3.png": {
+      "category": "small_formula",
+      "px_width": 287,
+      "px_height": 128,
+      "max_width_pt": 110,
+      "max_height_pt": 45
+    },
+    "Q119_fig4.png": {
+      "category": "small_formula",
+      "px_width": 285,
+      "px_height": 132,
+      "max_width_pt": 110,
+      "max_height_pt": 45
+    },
+    "Q11_fig1.png": {
+      "category": "diagram",
+      "px_width": 2093,
+      "px_height": 534,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q120_fig1.png": {
+      "category": "diagram",
+      "px_width": 2550,
+      "px_height": 439,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q120_fig2.png": {
+      "category": "small_formula",
+      "px_width": 345,
+      "px_height": 135,
+      "max_width_pt": 110,
+      "max_height_pt": 45
+    },
+    "Q121_fig1.png": {
+      "category": "small_formula",
+      "px_width": 244,
+      "px_height": 134,
+      "max_width_pt": 110,
+      "max_height_pt": 45
+    },
+    "Q128_fig1.png": {
+      "category": "diagram",
+      "px_width": 2029,
+      "px_height": 748,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q129_fig1.png": {
+      "category": "diagram",
+      "px_width": 2550,
+      "px_height": 958,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q12_fig1.png": {
+      "category": "diagram",
+      "px_width": 2144,
+      "px_height": 596,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q130_fig1.png": {
+      "category": "diagram",
+      "px_width": 2550,
+      "px_height": 953,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q133_fig1.png": {
+      "category": "diagram",
+      "px_width": 2550,
+      "px_height": 657,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q134_fig1.png": {
+      "category": "diagram",
+      "px_width": 2136,
+      "px_height": 849,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q136_fig1.png": {
+      "category": "diagram",
+      "px_width": 2550,
+      "px_height": 903,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q137_fig1.png": {
+      "category": "diagram",
+      "px_width": 2550,
+      "px_height": 846,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q138_fig1.png": {
+      "category": "diagram",
+      "px_width": 2550,
+      "px_height": 697,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q138_fig2.png": {
+      "category": "diagram",
+      "px_width": 2048,
+      "px_height": 909,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q13_fig1.png": {
+      "category": "diagram",
+      "px_width": 2550,
+      "px_height": 776,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q140_fig1.png": {
+      "category": "diagram",
+      "px_width": 2550,
+      "px_height": 487,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q141_fig1.png": {
+      "category": "diagram",
+      "px_width": 2550,
+      "px_height": 905,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q142_fig1.png": {
+      "category": "small_formula",
+      "px_width": 206,
+      "px_height": 128,
+      "max_width_pt": 110,
+      "max_height_pt": 45
+    },
+    "Q142_fig2.png": {
+      "category": "small_formula",
+      "px_width": 206,
+      "px_height": 130,
+      "max_width_pt": 110,
+      "max_height_pt": 45
+    },
+    "Q143_fig1.png": {
+      "category": "wide_formula",
+      "px_width": 2550,
+      "px_height": 317,
+      "max_width_pt": 320,
+      "max_height_pt": 65
+    },
+    "Q143_fig2.png": {
+      "category": "wide_formula",
+      "px_width": 1804,
+      "px_height": 257,
+      "max_width_pt": 320,
+      "max_height_pt": 65
+    },
+    "Q148_fig1.png": {
+      "category": "wide_formula",
+      "px_width": 2550,
+      "px_height": 164,
+      "max_width_pt": 320,
+      "max_height_pt": 65
+    },
+    "Q150_fig1.png": {
+      "category": "diagram",
+      "px_width": 2550,
+      "px_height": 1541,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q15_fig1.png": {
+      "category": "diagram",
+      "px_width": 452,
+      "px_height": 381,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q15_fig2.png": {
+      "category": "diagram",
+      "px_width": 357,
+      "px_height": 353,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q15_fig3.png": {
+      "category": "diagram",
+      "px_width": 392,
+      "px_height": 364,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q15_fig4.png": {
+      "category": "diagram",
+      "px_width": 383,
+      "px_height": 352,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q18_fig1.png": {
+      "category": "diagram",
+      "px_width": 2550,
+      "px_height": 798,
+      "max_width_pt": 240,
+      "max_height_pt": 110
+    },
+    "Q19_fig1.png": {
+      "category": "diagram",
+      "px_width": 2550,
+      "px_height": 869,
+      "max_width_pt": 240,
+      "max_height_pt": 110
+    },
+    "Q25_fig1.png": {
+      "category": "wide_formula",
+      "px_width": 2550,
+      "px_height": 358,
+      "max_width_pt": 320,
+      "max_height_pt": 65
+    },
+    "Q29_fig1.png": {
+      "category": "diagram",
+      "px_width": 452,
+      "px_height": 137,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q29_fig2.png": {
+      "category": "diagram",
+      "px_width": 478,
+      "px_height": 154,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q29_fig3.png": {
+      "category": "small_formula",
+      "px_width": 414,
+      "px_height": 173,
+      "max_width_pt": 110,
+      "max_height_pt": 45
+    },
+    "Q29_fig4.png": {
+      "category": "diagram",
+      "px_width": 478,
+      "px_height": 138,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q31_fig1.png": {
+      "category": "diagram",
+      "px_width": 2065,
+      "px_height": 443,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q31_fig2.png": {
+      "category": "diagram",
+      "px_width": 555,
+      "px_height": 213,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q31_fig3.png": {
+      "category": "diagram",
+      "px_width": 574,
+      "px_height": 192,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q31_fig4.png": {
+      "category": "diagram",
+      "px_width": 622,
+      "px_height": 137,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q32_fig1.png": {
+      "category": "wide_formula",
+      "px_width": 2550,
+      "px_height": 308,
+      "max_width_pt": 320,
+      "max_height_pt": 65
+    },
+    "Q32_fig2.png": {
+      "category": "diagram",
+      "px_width": 1979,
+      "px_height": 412,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q32_fig3.png": {
+      "category": "diagram",
+      "px_width": 495,
+      "px_height": 212,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q32_fig4.png": {
+      "category": "diagram",
+      "px_width": 541,
+      "px_height": 175,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q32_fig5.png": {
+      "category": "diagram",
+      "px_width": 557,
+      "px_height": 173,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q32_fig6.png": {
+      "category": "diagram",
+      "px_width": 574,
+      "px_height": 202,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q33_fig1.png": {
+      "category": "diagram",
+      "px_width": 2108,
+      "px_height": 419,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q34_fig1.png": {
+      "category": "wide_formula",
+      "px_width": 2105,
+      "px_height": 376,
+      "max_width_pt": 320,
+      "max_height_pt": 65
+    },
+    "Q37_fig1.png": {
+      "category": "diagram",
+      "px_width": 2110,
+      "px_height": 414,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q38_fig1.png": {
+      "category": "wide_formula",
+      "px_width": 2550,
+      "px_height": 186,
+      "max_width_pt": 320,
+      "max_height_pt": 65
+    },
+    "Q39_fig1.png": {
+      "category": "diagram",
+      "px_width": 2112,
+      "px_height": 436,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q3_fig1.png": {
+      "category": "wide_formula",
+      "px_width": 1420,
+      "px_height": 388,
+      "max_width_pt": 320,
+      "max_height_pt": 65
+    },
+    "Q44_fig1.png": {
+      "category": "wide_formula",
+      "px_width": 2550,
+      "px_height": 277,
+      "max_width_pt": 320,
+      "max_height_pt": 65
+    },
+    "Q44_fig2.png": {
+      "category": "diagram",
+      "px_width": 1347,
+      "px_height": 939,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q45_fig1.png": {
+      "category": "wide_formula",
+      "px_width": 2041,
+      "px_height": 130,
+      "max_width_pt": 320,
+      "max_height_pt": 65
+    },
+    "Q46_fig1.png": {
+      "category": "wide_formula",
+      "px_width": 2550,
+      "px_height": 351,
+      "max_width_pt": 320,
+      "max_height_pt": 65
+    },
+    "Q46_fig2.png": {
+      "category": "diagram",
+      "px_width": 1185,
+      "px_height": 655,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q47_fig1.png": {
+      "category": "wide_formula",
+      "px_width": 2096,
+      "px_height": 130,
+      "max_width_pt": 320,
+      "max_height_pt": 65
+    },
+    "Q49_fig1.png": {
+      "category": "diagram",
+      "px_width": 593,
+      "px_height": 223,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q49_fig2.png": {
+      "category": "diagram",
+      "px_width": 593,
+      "px_height": 226,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q49_fig3.png": {
+      "category": "diagram",
+      "px_width": 507,
+      "px_height": 228,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q49_fig4.png": {
+      "category": "diagram",
+      "px_width": 605,
+      "px_height": 252,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q50_fig1.png": {
+      "category": "small_formula",
+      "px_width": 304,
+      "px_height": 245,
+      "max_width_pt": 110,
+      "max_height_pt": 45
+    },
+    "Q50_fig2.png": {
+      "category": "diagram",
+      "px_width": 309,
+      "px_height": 261,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q50_fig3.png": {
+      "category": "diagram",
+      "px_width": 318,
+      "px_height": 274,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q50_fig4.png": {
+      "category": "diagram",
+      "px_width": 512,
+      "px_height": 283,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q52_fig1.png": {
+      "category": "diagram",
+      "px_width": 2129,
+      "px_height": 498,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q53_fig1.png": {
+      "category": "diagram",
+      "px_width": 2084,
+      "px_height": 592,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q53_fig2.png": {
+      "category": "diagram",
+      "px_width": 643,
+      "px_height": 445,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q53_fig3.png": {
+      "category": "diagram",
+      "px_width": 641,
+      "px_height": 417,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q53_fig4.png": {
+      "category": "diagram",
+      "px_width": 636,
+      "px_height": 417,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q53_fig5.png": {
+      "category": "diagram",
+      "px_width": 634,
+      "px_height": 426,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q54_fig1.png": {
+      "category": "diagram",
+      "px_width": 1199,
+      "px_height": 441,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q55_fig1.png": {
+      "category": "wide_formula",
+      "px_width": 1780,
+      "px_height": 149,
+      "max_width_pt": 320,
+      "max_height_pt": 65
+    },
+    "Q56_fig1.png": {
+      "category": "wide_formula",
+      "px_width": 1759,
+      "px_height": 142,
+      "max_width_pt": 320,
+      "max_height_pt": 65
+    },
+    "Q57_fig1.png": {
+      "category": "diagram",
+      "px_width": 2550,
+      "px_height": 851,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q58_fig1.png": {
+      "category": "small_formula",
+      "px_width": 297,
+      "px_height": 188,
+      "max_width_pt": 110,
+      "max_height_pt": 45
+    },
+    "Q59_fig1.png": {
+      "category": "small_formula",
+      "px_width": 158,
+      "px_height": 135,
+      "max_width_pt": 110,
+      "max_height_pt": 45
+    },
+    "Q59_fig2.png": {
+      "category": "small_formula",
+      "px_width": 154,
+      "px_height": 138,
+      "max_width_pt": 110,
+      "max_height_pt": 45
+    },
+    "Q59_fig3.png": {
+      "category": "diagram",
+      "px_width": 418,
+      "px_height": 319,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q60_fig1.png": {
+      "category": "diagram",
+      "px_width": 2550,
+      "px_height": 887,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q63_fig1.png": {
+      "category": "diagram",
+      "px_width": 1353,
+      "px_height": 682,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q64_fig1.png": {
+      "category": "diagram",
+      "px_width": 2550,
+      "px_height": 884,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q65_fig1.png": {
+      "category": "wide_formula",
+      "px_width": 1840,
+      "px_height": 147,
+      "max_width_pt": 320,
+      "max_height_pt": 65
+    },
+    "Q65_fig2.png": {
+      "category": "small_formula",
+      "px_width": 127,
+      "px_height": 130,
+      "max_width_pt": 110,
+      "max_height_pt": 45
+    },
+    "Q66_fig1.png": {
+      "category": "diagram",
+      "px_width": 2550,
+      "px_height": 712,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q6_fig1.png": {
+      "category": "diagram",
+      "px_width": 1396,
+      "px_height": 422,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q70_fig1.png": {
+      "category": "diagram",
+      "px_width": 2256,
+      "px_height": 400,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q70_fig2.png": {
+      "category": "diagram",
+      "px_width": 505,
+      "px_height": 127,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q70_fig3.png": {
+      "category": "diagram",
+      "px_width": 514,
+      "px_height": 130,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q70_fig4.png": {
+      "category": "diagram",
+      "px_width": 521,
+      "px_height": 128,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q70_fig5.png": {
+      "category": "diagram",
+      "px_width": 500,
+      "px_height": 137,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q72_fig1.png": {
+      "category": "diagram",
+      "px_width": 2550,
+      "px_height": 594,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q75_fig1.png": {
+      "category": "diagram",
+      "px_width": 2550,
+      "px_height": 908,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q77_fig1.png": {
+      "category": "diagram",
+      "px_width": 1757,
+      "px_height": 983,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q80_fig1.png": {
+      "category": "wide_formula",
+      "px_width": 2550,
+      "px_height": 148,
+      "max_width_pt": 320,
+      "max_height_pt": 65
+    },
+    "Q81_fig1.png": {
+      "category": "small_formula",
+      "px_width": 295,
+      "px_height": 144,
+      "max_width_pt": 110,
+      "max_height_pt": 45
+    },
+    "Q81_fig2.png": {
+      "category": "small_formula",
+      "px_width": 314,
+      "px_height": 154,
+      "max_width_pt": 110,
+      "max_height_pt": 45
+    },
+    "Q81_fig3.png": {
+      "category": "small_formula",
+      "px_width": 318,
+      "px_height": 135,
+      "max_width_pt": 110,
+      "max_height_pt": 45
+    },
+    "Q81_fig4.png": {
+      "category": "small_formula",
+      "px_width": 290,
+      "px_height": 152,
+      "max_width_pt": 110,
+      "max_height_pt": 45
+    },
+    "Q83_fig1.png": {
+      "category": "wide_formula",
+      "px_width": 2550,
+      "px_height": 274,
+      "max_width_pt": 320,
+      "max_height_pt": 65
+    },
+    "Q83_fig2.png": {
+      "category": "diagram",
+      "px_width": 1687,
+      "px_height": 637,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q84_fig1.png": {
+      "category": "diagram",
+      "px_width": 2139,
+      "px_height": 701,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q84_fig2.png": {
+      "category": "diagram",
+      "px_width": 1056,
+      "px_height": 410,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q85_fig1.png": {
+      "category": "diagram",
+      "px_width": 2550,
+      "px_height": 738,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q85_fig2.png": {
+      "category": "diagram",
+      "px_width": 2124,
+      "px_height": 806,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q85_fig3.png": {
+      "category": "diagram",
+      "px_width": 337,
+      "px_height": 270,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q85_fig4.png": {
+      "category": "small_formula",
+      "px_width": 403,
+      "px_height": 237,
+      "max_width_pt": 110,
+      "max_height_pt": 45
+    },
+    "Q86_fig1.png": {
+      "category": "diagram",
+      "px_width": 1912,
+      "px_height": 560,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q87_fig1.png": {
+      "category": "diagram",
+      "px_width": 1320,
+      "px_height": 430,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q88_fig1.png": {
+      "category": "diagram",
+      "px_width": 498,
+      "px_height": 135,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q88_fig2.png": {
+      "category": "diagram",
+      "px_width": 507,
+      "px_height": 128,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q89_fig1.png": {
+      "category": "diagram",
+      "px_width": 2124,
+      "px_height": 601,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q90_fig1.png": {
+      "category": "diagram",
+      "px_width": 2081,
+      "px_height": 625,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q95_fig1.png": {
+      "category": "diagram",
+      "px_width": 2550,
+      "px_height": 482,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q96_fig1.png": {
+      "category": "diagram",
+      "px_width": 490,
+      "px_height": 228,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q96_fig2.png": {
+      "category": "diagram",
+      "px_width": 450,
+      "px_height": 218,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q96_fig3.png": {
+      "category": "diagram",
+      "px_width": 536,
+      "px_height": 245,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q96_fig4.png": {
+      "category": "diagram",
+      "px_width": 488,
+      "px_height": 245,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q97_fig1.png": {
+      "category": "diagram",
+      "px_width": 1206,
+      "px_height": 713,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    },
+    "Q97_fig2.png": {
+      "category": "diagram",
+      "px_width": 1176,
+      "px_height": 597,
+      "max_width_pt": 340,
+      "max_height_pt": 160
+    }
+  }
+}

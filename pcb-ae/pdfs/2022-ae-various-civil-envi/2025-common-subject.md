@@ -1,381 +1,3 @@
-# APPSC 2025 common subject Question Bank
-
-## Topic Index
-
-### 1. Ecosystems
-
-#### Definition, Scope & Importance of Ecosystem
-
-- Q1
-- Q3
-- Q8
-- Q12
-- Q23
-
-#### Classification, Structure & Function of Ecosystem
-
-- Q2
-- Q14
-
-#### Food Chains, Food Webs & Ecological Pyramids
-
-- Q4
-- Q5
-- Q6
-
-#### Flow of Energy & Biogeochemical Cycles
-
-- Q7
-- Q10
-- Q11
-- Q16
-
-#### Bioaccumulation, Biomagnification & Carrying Capacity
-
-- Q9
-
-#### Ecosystem Value & Ecological Services
-
-- Q13
-- Q15
-
-### 2. Natural Resources
-
-#### Living and Non-Living Resources Classification
-
-- Q24
-
-#### Water Resources: Surface & Ground Water Utilization, Floods & Droughts
-
-- Q17
-- Q25
-
-#### Dams: Benefits & Environmental Problems
-
-- Q20
-
-#### Mineral Resources: Use, Exploitation & Environmental Effects
-
-- Q21
-- Q22
-- Q26
-- Q28
-
-#### Land & Forest Resources
-
-*(No questions)*
-
-#### Energy Resources: Growing Needs, Renewable & Non-Renewable Sources
-
-- Q18
-- Q29
-
-#### Alternate Energy Sources
-
-*(No questions)*
-
-### 3. Biodiversity and Biotic Resources
-
-#### Genetic, Species & Ecosystem Diversity
-
-*(No questions)*
-
-#### Value of Biodiversity: Consumptive, Productive, Social, Ethical & Aesthetic
-
-- Q31
-- Q34
-- Q35
-- Q36
-- Q37
-- Q42
-
-#### India as a Mega Diversity Nation & Biodiversity Hotspots
-
-- Q32
-- Q33
-- Q39
-- Q43
-
-#### Threats to Biodiversity: Habitat Loss, Poaching & Man-Wildlife Conflicts
-
-- Q40
-- Q44
-
-#### In-Situ and Ex-Situ Conservation
-
-*(No questions)*
-
-#### National Biodiversity Act
-
-*(No questions)*
-
-### 4. Engineering Materials
-
-#### Structure and Properties of Engineering Materials
-
-- Q45
-- Q51
-- Q52
-- Q53
-- Q54
-- Q55
-- Q56
-- Q57
-- Q58
-
-#### Phase Diagrams
-
-- Q46
-
-#### Heat Treatment
-
-- Q48
-- Q49
-
-#### Stress-Strain Diagrams for Engineering Materials
-
-- Q47
-- Q50
-
-### 5. Fluid Mechanics and Hydraulics
-
-#### Newtonian and Non-Newtonian Fluids & Fluid Properties
-
-- Q59
-- Q61
-- Q64
-- Q65
-- Q66
-- Q68
-- Q71
-- Q72
-
-#### Measurement of Pressure & Manometers
-
-- Q69
-
-#### Fluid Kinematics: Classification of Fluids, Stream Function & Velocity Potential
-
-- Q62
-
-#### Fluid Dynamics: Continuity Equation, Bernoulli's Equation & Impulse Momentum Equation
-
-- Q60
-- Q67
-
-#### Laminar & Turbulent Flow in Pipes & Reynolds Number
-
-*(No questions)*
-
-#### Hagen Poiseuille's Equation, Darcy–Weisbach Equation, Friction Factor & Head Losses
-
-- Q63
-- Q70
-- Q73
-
-#### Dimensional Analysis & Similarity Laws
-
-*(No questions)*
-
-#### Elementary Boundary Layer Theory
-
-*(No questions)*
-
-### 6. Process Calculations and Thermodynamics
-
-#### Laws of Conservation of Mass and Energy
-
-- Q74
-
-#### Tie Components, Recycle, Bypass and Purge Calculations
-
-- Q75
-- Q77
-- Q82
-
-#### Degrees of Freedom
-
-- Q76
-- Q80
-- Q81
-
-#### First & Second Laws of Thermodynamics and Applications
-
-- Q78
-- Q79
-- Q85
-- Q86
-- Q87
-
-#### Equations of State & Thermodynamic Properties of Real Systems
-
-- Q83
-- Q84
-
-### 7. Air, Water, Soil and Noise Pollution and Control Technologies
-
-#### Air Pollution: Primary & Secondary Pollutants, Ambient Air Quality Standards
-
-- Q92
-- Q93
-- Q97
-- Q100
-
-#### Particulate Emission Control & Control of SOx and NOx
-
-*(No questions)*
-
-#### Automobile and Industrial Air Pollution
-
-*(No questions)*
-
-#### Water Pollution: Sources, Types & Drinking Water Quality Standards
-
-- Q88
-- Q89
-- Q98
-- Q104
-
-#### Wastewater Treatment: Primary, Secondary & Tertiary Treatment
-
-- Q94
-- Q95
-- Q96
-- Q99
-- Q103
-- Q105
-
-#### Treatment Units: Grit Chambers, Sedimentation Tanks, Trickling Filters & Oxidation Ponds
-
-*(No questions)*
-
-#### Activated Sludge Process, Septic Tanks, Sludge Disposal & Wastewater Recycling
-
-*(No questions)*
-
-#### Soil Pollution: Sources, Types, Impacts of Modern Agriculture & Soil Degradation
-
-- Q90
-- Q102
-
-#### Noise Pollution: Sources, Health Hazards & Standards
-
-- Q101
-
-### 8. Solid and Industrial Waste Management
-
-#### Municipal Solid Waste Management: Collection, Segregation & Transport
-
-- Q106
-- Q108
-- Q109
-- Q125
-- Q128
-
-#### Solid Waste Processing & Disposal Technologies
-
-- Q110
-- Q112
-- Q113
-- Q114
-- Q115
-- Q116
-- Q117
-- Q118
-- Q119
-
-#### Composition, Characteristics & Management of E-Waste
-
-*(No questions)*
-
-#### Bioremediation Concepts & Applications
-
-- Q107
-- Q111
-- Q122
-
-### 9. Global Environmental Problems, Policies and Legislations
-
-#### Climate Change & Impacts on Human Environment
-
-- Q19
-- Q38
-- Q133
-- Q136
-
-#### Ozone Depletion & Ozone Depleting Substances (ODS)
-
-- Q120
-- Q127
-
-#### Deforestation & Desertification
-
-*(No questions)*
-
-#### International Conventions: Earth Summit, Kyoto Protocol, Montreal Protocol & Paris Agreement
-
-- Q121
-- Q123
-
-#### Indian Environmental Protection Act (EPA 1986)
-
-- Q132
-
-#### Legal Aspects: Air Act, Water Act, Forest Act & Wildlife Protection Act
-
-- Q27
-- Q30
-- Q41
-- Q91
-- Q124
-- Q126
-- Q130
-- Q131
-
-#### Waste Management Rules: Municipal Solid Waste, Biomedical Waste & Hazardous Waste Rules
-
-- Q129
-
-### 10. Environmental Impact Assessment towards Sustainable Future
-
-#### EIA Structure & Baseline Data Acquisition Methods
-
-- Q137
-- Q149
-
-#### Impacts Assessment: Air, Water, Biological & Socio-Economic Aspects
-
-- Q134
-
-#### Risk Assessment Strategies & Environmental Management Plan (EMP)
-
-- Q142
-- Q146
-- Q147
-
-#### Sustainable Development, Population Explosion & Consumerism
-
-- Q138
-- Q143
-- Q144
-- Q148
-
-#### Environmental Education, Ethics, Urban Sprawl & Human Health
-
-- Q135
-- Q139
-- Q140
-
-#### Green Building Concepts, Ecological Footprint & Low Carbon Lifestyle
-
-- Q150
-
-#### Life Cycle Assessment (LCA)
-
-- Q141
-- Q145
-
----
 
 # 1. Ecosystems
 
@@ -466,7 +88,15 @@ PCB-2025
 
 ### Question
 
-Read the following statement and conclusions carefully and decide which of the conclusions logically follow(s) from the given statement. Statement:Ecosystems provide invaluable services that support life on Earth and contribute to human well-being. Conclusions: I. Therefore, preserving ecosystems is essential for maintaining biodiversity and ecological balance. II. Consequently, investing in ecosystem conservation efforts has no significant impact on socio-economic development.
+Read the following statement and conclusions carefully and decide which of the conclusions logically follow(s) from the given statement.
+
+**Statement:** Ecosystems provide invaluable services that support life on Earth and contribute to human well-being.
+
+**Conclusions:**
+
+I. Therefore, preserving ecosystems is essential for maintaining biodiversity and ecological balance.
+
+II. Consequently, investing in ecosystem conservation efforts has no significant impact on socio-economic development.
 
 ### Options
 
@@ -546,19 +176,21 @@ PCB-2025
 
 ### Question
 
-Match the biogeographic zones of with their key features or locations. Biogeographic zones Key features or locations
+Match the biogeographic zones of India with their key features or locations.
 
-1. Trans Himalayan Region A. Rajasthan, arid ecosystem
-2. Thar Desert B. Snow-covered mountains, Ladakh
-3. Western Ghats C. Maharashtra, Karnataka and Kerala
-4. Andaman and Nicobar Islands D. Tropical forests, unique biodiversity
+| **Biogeographic Zones** | **Key Features or Locations** |
+| --- | --- |
+| **1.** Trans Himalayan Region | **A.** Rajasthan, arid ecosystem |
+| **2.** Thar Desert | **B.** Snow-covered mountains, Ladakh |
+| **3.** Western Ghats | **C.** Maharashtra, Karnataka and Kerala |
+| **4.** Andaman and Nicobar Islands | **D.** Tropical forests, unique biodiversity |
 
 ### Options
 
-1. 1-A,  2-B, 3-C, 4-D
-2. 1-B,  2-A, 3-C, 4-D
-3. 1-A,  2-B, 3-D, 4-C
-4. 1-B,  2-A, 3-D, 4-C
+1. 1-A, 2-B, 3-C, 4-D
+2. 1-B, 2-A, 3-C, 4-D
+3. 1-A, 2-B, 3-D, 4-C
+4. 1-B, 2-A, 3-D, 4-C
 
 ### Answer
 
@@ -711,7 +343,15 @@ PCB-2025
 
 ### Question
 
-Read the following statement and conclusions carefully and decide which of the conclusions logically follow(s) from the given statement. Statement:In an ecological pyramid, the energy transfer between trophic levels follows a hierarchical structure, with each successive level receiving less energy than the previous one. Conclusions: I. Top predators in an ecosystem, such as apex predators, have the lowest energy availability compared to primary producers. II. Primary producers contribute the most energy to the ecosystem, forming the foundation of the food web.
+Read the following statement and conclusions carefully and decide which of the conclusions logically follow(s) from the given statement.
+
+**Statement:** In an ecological pyramid, the energy transfer between trophic levels follows a hierarchical structure, with each successive level receiving less energy than the previous one.
+
+**Conclusions:**
+
+I. Top predators in an ecosystem, such as apex predators, have the lowest energy availability compared to primary producers.
+
+II. Primary producers contribute the most energy to the ecosystem, forming the foundation of the food web.
 
 ### Options
 
@@ -823,12 +463,14 @@ PCB-2025
 
 ### Question
 
-Match the following based on ecosystem goods and services. Types of values Examples/Explanations
+Match the following based on ecosystem goods and services.
 
-1. Consumptive Use Value A. Preserving resources for future benefits
-2. Productive Use Value B. Commercial resources like timber, fish, medicinal plants
-3. Non-consumptive Use Value C. Non-market resources like firewood, fodder, etc.
-4. Option Value D. Activities like bird-watching, ecotourism
+| **Types of Values** | **Examples/Explanations** |
+| --- | --- |
+| **1.** Consumptive Use Value | **A.** Preserving resources for future benefits |
+| **2.** Productive Use Value | **B.** Commercial resources like timber, fish, medicinal plants |
+| **3.** Non-consumptive Use Value | **C.** Non-market resources like firewood, fodder, etc. |
+| **4.** Option Value | **D.** Activities like bird-watching, ecotourism |
 
 ### Options
 
@@ -1104,12 +746,14 @@ PCB-2025
 
 ### Question
 
-Match the following question based on non-renewable and renewable energy sources. Energy Source Type Characteristics or Impacts
+Match the following based on non-renewable and renewable energy sources.
 
-1. Non-renewable energy A. Uses resources like solar, wind and hydropower
-2. Fossil fuel combustion B. Includes coal, oil and natural gas
-3. Renewable energy C. Causes air pollution and global warming
-4. Biofuel production D. Derived from plants, garbage and organic matter
+| **Energy Source Type** | **Characteristics or Impacts** |
+| --- | --- |
+| **1.** Non-renewable energy | **A.** Uses resources like solar, wind and hydropower |
+| **2.** Fossil fuel combustion | **B.** Includes coal, oil and natural gas |
+| **3.** Renewable energy | **C.** Causes air pollution and global warming |
+| **4.** Biofuel production | **D.** Derived from plants, garbage and organic matter |
 
 ### Options
 
@@ -1379,11 +1023,14 @@ PCB-2025
 
 ### Question
 
-List I		List II
-A)Indo-Burma		I) Himalayan region
-B) Himalaya		II)Entirenorth-easternIndia
-C) The Western Ghats and Sri Lanka		III) Nicobar group of Islands
-D) Sundalands		VWesternGhats
+Match List I with List II with reference to biodiversity hotspots in India.
+
+| **List I** | **List II** |
+| --- | --- |
+| **A)** Indo-Burma | **I)** Himalayan region |
+| **B)** Himalaya | **II)** Entire north-eastern India |
+| **C)** The Western Ghats and Sri Lanka | **III)** Nicobar group of Islands |
+| **D)** Sundalands | **IV)** Western Ghats |
 
 ### Options
 
@@ -1437,12 +1084,14 @@ PCB-2025
 
 ### Question
 
-Match List- I with List II with reference to the threats to biodiversity
-List I		List II
-A)Habitatloss		I)Fish species
-B) Poaching		) Humans
-C)Over-exploitation		III)Animalsandplants
-D) Co-extinction or overharvesting		IV) Specific animals
+Match List I with List II with reference to the threats to biodiversity.
+
+| **List I** | **List II** |
+| --- | --- |
+| **A)** Habitat loss | **I)** Fish species |
+| **B)** Poaching | **II)** Humans |
+| **C)** Over-exploitation | **III)** Animals and plants |
+| **D)** Co-extinction or overharvesting | **IV)** Specific animals |
 
 ### Options
 
@@ -1524,8 +1173,14 @@ PCB-2025
 
 ### Question
 
-C.Cuppel anuznc
-4. Terne		d. Copper and Tin
+Match the alloys with their metallic materials.
+
+| **Alloy** | **Metallic Material** |
+| --- | --- |
+| **1.** Brass | **a.** Lead and tin |
+| **2.** Bronze | **b.** Aluminium, nickel, cobalt and iron |
+| **3.** Alnico | **c.** Copper and zinc |
+| **4.** Terne | **d.** Copper and tin |
 
 ### Options
 
@@ -1577,7 +1232,15 @@ PCB-2025
 
 ### Question
 
-Read the given statement and conclusions carefully. Assuming that the information given in the statement is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statement. Statement: Alloys with low aluminium content (4% to 7%) are single-phase alloys and can be fabricated by cold working processes, due to their good ductility and malleability. Conclusions: I. Alloys with low aluminium content are fabricated by cold rolling, drawing and pressing. II. These alloys are used in pump castings, valve fittings and gears.
+Read the given statement and conclusions carefully. Assuming that the information given in the statement is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statement.
+
+**Statement:** Alloys with low aluminium content (4% to 7%) are single-phase alloys and can be fabricated by cold working processes, due to their good ductility and malleability.
+
+**Conclusions:**
+
+I. Alloys with low aluminium content are fabricated by cold rolling, drawing and pressing.
+
+II. These alloys are used in pump castings, valve fittings and gears.
 
 ### Options
 
@@ -1603,7 +1266,15 @@ PCB-2025
 
 ### Question
 
-Read the given statement and conclusions carefully. Assuming that the information given in the statement is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statement. Statement: Increasing the tempering temperature during heat treatment of steel leads to improved ductility and toughness. Conclusions: I. Increasing the tempering temperature improves brittleness, but there is no effect on the toughness of steel. II. Increasing the tempering temperature increases hardness.
+Read the given statement and conclusions carefully. Assuming that the information given in the statement is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statement.
+
+**Statement:** Increasing the tempering temperature during heat treatment of steel leads to improved ductility and toughness.
+
+**Conclusions:**
+
+I. Increasing the tempering temperature improves brittleness, but there is no effect on the toughness of steel.
+
+II. Increasing the tempering temperature increases hardness.
 
 ### Options
 
@@ -1904,11 +1575,13 @@ PCB-2025
 ### Question
 
 Match the properties of fluids with the SI units representing them.
-PropertyofFluids		SI Unit
-l.Specificvolume		a. kg/m?
-2. Weight density		b. m²/kg
-3.Kinematic viscosity		c. N/m3
-4. Mass density		d. m?/s
+
+| Property of Fluids | SI Unit |
+| --- | --- |
+| 1. Specific volume | a. kg/m³ |
+| 2. Weight density | b. m³/kg |
+| 3. Kinematic viscosity | c. N/m³ |
+| 4. Mass density | d. m²/s |
 
 ### Options
 
@@ -1934,7 +1607,15 @@ PCB-2025
 
 ### Question
 
-Read the given statement and conclusions carefully. Assuming that the information given in the statement is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statement. Statement: Due to surface tension forces acting on a surface, the pressure intensity inside the droplet, bubble and jet of the liquid is more as compared to that outside. Conclusions: I. When the diameter of a droplet decreases, the intensity of pressure inside the droplet increases. II. All the molecules on the free surface experience an upward pull force.
+Read the given statement and conclusions carefully. Assuming that the information given in the statement is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statement.
+
+**Statement:** Due to surface tension forces acting on a surface, the pressure intensity inside the droplet, bubble and jet of the liquid is more as compared to that outside.
+
+**Conclusions:**
+
+I. When the diameter of a droplet decreases, the intensity of pressure inside the droplet increases.
+
+II. All the molecules on the free surface experience an upward pull force.
 
 ### Options
 
@@ -1960,9 +1641,14 @@ PCB-2025
 
 ### Question
 
-2. Discharge		b. rad/s?
-3. Kinematic viscosity		c. m3 /s
-4. Shear stress		d. m² /s
+Match the following physical quantities with their measurement units in the SI system.
+
+| **Physical Quantity** | **SI Unit** |
+| --- | --- |
+| **1.** Angular acceleration | **a.** N/m² |
+| **2.** Discharge | **b.** rad/s² |
+| **3.** Kinematic viscosity | **c.** m³/s |
+| **4.** Shear stress | **d.** m²/s |
 
 ### Options
 
@@ -2425,7 +2111,14 @@ PCB-2025
 
 ### Question
 
-*(No text)*
+Match the following terms related to conservation of energy with their descriptions.
+
+| Term | Description |
+| --- | --- |
+| 1. Law of conservation of energy | a. Total energy of a system remains constant over time. |
+| 2. Mechanical energy | b. Energy associated with the position or configuration of an object |
+| 3. Potential energy | c. Energy associated with the motion of an object |
+| 4. Kinetic energy | d. Sum of potential energy and kinetic energy in a system |
 
 ### Options
 
@@ -2509,7 +2202,7 @@ Which of the following correctly represents the First Law of Thermodynamics for 
 
 ### Options
 
-1. 
+1.
 2. Q − W = ΔE
 3. Q + W = ΔE
 4. Q = ΔE × W
@@ -2531,7 +2224,15 @@ PCB-2025
 
 ### Question
 
-Read the given statement and conclusions carefully. Assuming that the information given in the statement is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statement. Statement: The degree of freedom in a system represents the number of independent variables or parameters required to describe the state of the system completely. Conclusions: I. Higher degrees of freedom generally mean smaller sample sizes. II. The degree of freedom of a system depends solely on the number of components present.
+Read the given statement and conclusions carefully. Assuming that the information given in the statement is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statement.
+
+**Statement:** The degree of freedom in a system represents the number of independent variables or parameters required to describe the state of the system completely.
+
+**Conclusions:**
+
+I. Higher degrees of freedom generally mean smaller sample sizes.
+
+II. The degree of freedom of a system depends solely on the number of components present.
 
 ### Options
 
@@ -2585,11 +2286,13 @@ PCB-2025
 
 ### Question
 
-Match the following based on the Properties of Thermodynamics of real systems. Category Description
+Match the following based on the Properties of Thermodynamics of real systems.
 
-1. Measured properties A. It can be derived by combining measured and fundamental properties.
-2. Fundamental properties B. It can be directly observed in a laboratory.
-3. Derived properties C. It can be derived from basic thermodynamic laws.
+| Category | Description |
+| --- | --- |
+| 1. Measured properties | A. It can be derived by combining measured and fundamental properties. |
+| 2. Fundamental properties | B. It can be directly observed in a laboratory. |
+| 3. Derived properties | C. It can be derived from basic thermodynamic laws. |
 
 ### Options
 
@@ -2697,7 +2400,13 @@ PCB-2025
 
 ### Question
 
-Select the option that is true regarding the following two statements labelled Assertion (A) and Reason (R). Assertion (A):Secondary pollutants such as ozone (O3) have a more direct impact on human health compared to primary pollutants. Reasoning (R):Primary pollutants like nitrogen oxides (NOx) and sulphur dioxide (SO2) undergo atmospheric transformations to form more harmful secondary pollutants. Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.
+Select the option that is true regarding the following two statements labelled Assertion (A) and Reason (R).
+
+**Assertion (A):** Secondary pollutants such as ozone (O₃) have a more direct impact on human health compared to primary pollutants.
+
+**Reason (R):** Primary pollutants like nitrogen oxides (NOₓ) and sulphur dioxide (SO₂) undergo atmospheric transformations to form more harmful secondary pollutants.
+
+**Note:** For this question, discrepancy is found in question/answer. So, this question is ignored for all candidates.
 
 ### Options
 
@@ -2803,7 +2512,15 @@ PCB-2025
 
 ### Question
 
-Read the following statement and conclusions carefully and decide which of the given conclusions is/are true based on the statement. Statement:Drinking water quality standards vary globally due to differences in environmental conditions, population demographics, and health considerations. Conclusions: I. Developing countries often have more lenient drinking water quality standards compared to developed nations. II. Adherence to stringent drinking water quality standards can be financially challenging for some regions.
+Read the following statement and conclusions carefully and decide which of the given conclusions is/are true based on the statement.
+
+**Statement:** Drinking water quality standards vary globally due to differences in environmental conditions, population demographics, and health considerations.
+
+**Conclusions:**
+
+I. Developing countries often have more lenient drinking water quality standards compared to developed nations.
+
+II. Adherence to stringent drinking water quality standards can be financially challenging for some regions.
 
 ### Options
 
@@ -2830,18 +2547,14 @@ PCB-2025
 ### Question
 
 Match the following types of water pollution in List I with their respective descriptions in List II.
-(ListI)Typesofwaterpollution		(List)Descriptions
-A.Pointsourcepollution		I.Pollution that originates from diffuse sources and is challenging to
-tracebacktospecific origins
-B.Non-point source pollution		2.Pollution resultingfrom thedischargeofuntreated orpartiallytreated
-sewageorwastewaterintowaterbodies
-C.Thermal pollution		3.Pollutioncausedbytherunoffofchemicals,fertilisers,andpesticides
-fromagriculturalfieldsintowaterbodies
-D.Organic pollution		4.Pollutioncausedbythereleaseofheatedwaterfromindustrial
-processesorpowerplants intowaterbodies
-E. Nutrient pollution		5.Pollutionresultingfromthereleaseofpollutantsfromidentifiableand
-discretesources,suchasindustrialfacilitiesorwastewatertreatment
-plants
+
+| List I (Types of water pollution) | List II (Descriptions) |
+| --- | --- |
+| A. Point source pollution | 1. Pollution that originates from diffuse sources and is challenging to trace back to specific origins |
+| B. Non-point source pollution | 2. Pollution resulting from the discharge of untreated or partially treated sewage or wastewater into water bodies |
+| C. Thermal pollution | 3. Pollution caused by the runoff of chemicals, fertilisers, and pesticides from agricultural fields into water bodies |
+| D. Organic pollution | 4. Pollution caused by the release of heated water from industrial processes or power plants into water bodies |
+| E. Nutrient pollution | 5. Pollution resulting from the release of pollutants from identifiable and discrete sources, such as industrial facilities or wastewater treatment plants |
 
 ### Options
 
@@ -2947,7 +2660,11 @@ PCB-2025
 
 ### Question
 
-Select the option that is true regarding the following two statements labelled Assertion (A) and Reason (R). Assertion (A):The effluent from secondary wastewater treatment processes typically requires further treatment before it can be safely discharged into the environment. Reasoning (R):Secondary treatment processes effectively remove all contaminants and pathogens from wastewater.
+Select the option that is true regarding the following two statements labelled Assertion (A) and Reason (R).
+
+**Assertion (A):** The effluent from secondary wastewater treatment processes typically requires further treatment before it can be safely discharged into the environment.
+
+**Reason (R):** Secondary treatment processes effectively remove all contaminants and pathogens from wastewater.
 
 ### Options
 
@@ -2999,12 +2716,14 @@ PCB-2025
 
 ### Question
 
-Match the following based on the activated sludge process. Process Steps Key Features/Outcomes
+Match the following based on the activated sludge process.
 
-1. Aeration tank A. Facilitates degradation by microorganisms
-2. Sedimentation tank B. Converts organic matter to methane and carbon dioxide
-3. Anaerobic digester C. Microorganisms settle out as sludge
-4. Sludge drying beds D. Removes water through evaporation and seepage
+| Process Steps | Key Features/Outcomes |
+| --- | --- |
+| 1. Aeration tank | A. Facilitates degradation by microorganisms |
+| 2. Sedimentation tank | B. Converts organic matter to methane and carbon dioxide |
+| 3. Anaerobic digester | C. Microorganisms settle out as sludge |
+| 4. Sludge drying beds | D. Removes water through evaporation and seepage |
 
 ### Options
 
@@ -3221,12 +2940,13 @@ PCB-2025
 ### Question
 
 Match the following methods of waste disposal in List I with their descriptions in List II.
-List I (Methods)		List II (Descriptions)
-A.Wastesegregation		l.Disposalofwasteinadesignatedareawithoutanytreatment
-B. Composting		2.Separatingwasteintodifferentcategoriesbasedonitsbiodegradability
-C.Landfilling		3.Recyclingorganicwastetoproducecompost
-D.Biomedical wastemanagement
-facilities
+
+| List I (Methods) | List II (Descriptions) |
+| --- | --- |
+| A. Waste segregation | 1. Disposal of waste in a designated area without any treatment |
+| B. Composting | 2. Separating waste into different categories based on its biodegradability |
+| C. Landfilling | 3. Recycling organic waste to produce compost |
+| D. Biomedical waste management | 4. Proper management and disposal of waste generated in healthcare facilities |
 
 ### Options
 
@@ -3332,7 +3052,15 @@ PCB-2025
 
 ### Question
 
-A statement is given below, followed by two conclusions numbered I and II. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions can be drawn definitely from the given statement. Statement: Vermi-composting mimics natural processes to recycle nutrients and create compost, which can be used as manure for agriculture and gardening. Conclusions: I. Vermi-composting helps in managing organic waste sustainably. II. Nutrients in compost are lost permanently and cannot be reused.
+A statement is given below, followed by two conclusions numbered I and II. Assuming that the information given in the statement is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions can be drawn definitely from the given statement.
+
+**Statement:** Vermi-composting mimics natural processes to recycle nutrients and create compost, which can be used as manure for agriculture and gardening.
+
+**Conclusions:**
+
+I. Vermi-composting helps in managing organic waste sustainably.
+
+II. Nutrients in compost are lost permanently and cannot be reused.
 
 ### Options
 
@@ -3440,7 +3168,15 @@ PCB-2025
 
 ### Question
 
-Read the following statement and conclusions carefully and decide which of the conclusions logically follow(s) from the given statement. Statement:Incineration involves burning municipal solid waste in a furnace that is specifically designed for this purpose, under appropriate temperature and operational conditions. Conclusions: I. It is a chemical process where the combustible elements of the waste mix with oxygen, resulting in the formation of carbon dioxide and water that are emitted into the atmosphere. II. This process, known as oxidation, generates heat as a byproduct.
+Read the following statement and conclusions carefully and decide which of the conclusions logically follow(s) from the given statement.
+
+**Statement:** Incineration involves burning municipal solid waste in a furnace that is specifically designed for this purpose, under appropriate temperature and operational conditions.
+
+**Conclusions:**
+
+I. It is a chemical process where the combustible elements of the waste mix with oxygen, resulting in the formation of carbon dioxide and water that are emitted into the atmosphere.
+
+II. This process, known as oxidation, generates heat as a byproduct.
 
 ### Options
 
@@ -3708,7 +3444,15 @@ PCB-2025
 
 ### Question
 
-Read the following statement and conclusions carefully and decide which of the given conclusions is/are true based on the statement. Statement:The depletion of the ozone layer has led to an increase in Ultraviolet (UV) radiation reaching the Earth’s surface. Conclusions: I. Increased UV radiation poses health risks to humans and other organisms. II. Ozone depletion is solely caused by natural processes and is not influenced by human activities.
+Read the following statement and conclusions carefully and decide which of the given conclusions is/are true based on the statement.
+
+**Statement:** The depletion of the ozone layer has led to an increase in Ultraviolet (UV) radiation reaching the Earth’s surface.
+
+**Conclusions:**
+
+I. Increased UV radiation poses health risks to humans and other organisms.
+
+II. Ozone depletion is solely caused by natural processes and is not influenced by human activities.
 
 ### Options
 
@@ -3818,7 +3562,15 @@ PCB-2025
 
 ### Question
 
-Read the given statements and conclusions carefully. Assuming that the information given in the statement is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusion(s) logically follow(s) from the statements. Statement: Sixteen percent of India's total area is drought-prone, primarily located in arid and semi-arid regions, due to prolonged lower-than- average rainfall. Conclusions: I. Drought is caused solely by human activities like deforestation. II. Drought-prone regions in India are concentrated in arid and semi-arid zones.
+Read the given statements and conclusions carefully. Assuming that the information given in the statement is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusion(s) logically follow(s) from the statements.
+
+**Statement:** Sixteen percent of India's total area is drought-prone, primarily located in arid and semi-arid regions, due to prolonged lower-than-average rainfall.
+
+**Conclusions:**
+
+I. Drought is caused solely by human activities like deforestation.
+
+II. Drought-prone regions in India are concentrated in arid and semi-arid zones.
 
 ### Options
 
@@ -3843,6 +3595,15 @@ PCB-2025
 **Subtopic:** Legal Aspects: Air Act, Water Act, Forest Act & Wildlife Protection Act
 
 ### Question
+
+Match List-I with List-II.
+
+| **List-I** | **List-II** |
+| --- | --- |
+| **I)** Flood | **A)** Constructing reservoirs to regulate water flow |
+| **II)** Drought | **B)** Excessive rainfall leading to overflowing of rivers |
+| **III)** Flood mitigation | **C)** Prolonged below-average precipitation periods |
+| **IV)** Drought mitigation | **D)** Implement water conservation measures |
 
 Note: For this question, discrepancy is found in question/answer. So,this question is ignored for all candidates.
 
@@ -3870,7 +3631,15 @@ PCB-2025
 
 ### Question
 
-Read the following statement and conclusions carefully and decide which of the conclusions logically follow(s) from the given statement. Statement:It is now recognised globally that biodiversity loss plays a role in climate change. Forests primarily transform carbon dioxide into carbon and oxygen, serving as vital carbon sinks. However, deforestation, along with the escalating emissions of carbon dioxide and other gases from industrial activities, enhances the greenhouse effect. Conclusions: I. Global warming is leading to the melting of ice caps, which in turn causes sea levels to rise and threatens to submerge low-lying regions around the world. II. It is triggering significant changes in the atmosphere, resulting in higher temperatures, severe droughts in certain regions, and sudden floods in others.
+Read the following statement and conclusions carefully and decide which of the conclusions logically follow(s) from the given statement.
+
+**Statement:** It is now recognised globally that biodiversity loss plays a role in climate change. Forests primarily transform carbon dioxide into carbon and oxygen, serving as vital carbon sinks. However, deforestation, along with the escalating emissions of carbon dioxide and other gases from industrial activities, enhances the greenhouse effect.
+
+**Conclusions:**
+
+I. Global warming is leading to the melting of ice caps, which in turn causes sea levels to rise and threatens to submerge low-lying regions around the world.
+
+II. It is triggering significant changes in the atmosphere, resulting in higher temperatures, severe droughts in certain regions, and sudden floods in others.
 
 ### Options
 
@@ -3974,7 +3743,15 @@ PCB-2025
 
 ### Question
 
-Read the following statement and conclusions carefully and decide which of the given conclusions is/are true based on the statement. Statement:The international legal aspects of the Air Act primarily focus on regulating air pollution and mitigating its adverse effects on the environment and public health. Conclusion: I. The international legal aspects of the Air Act aim to establish global standards for air quality and emission control measures. II. The international legal aspects of the Air Act facilitate international cooperation and agreements to address transboundary air pollution issues.
+Read the following statement and conclusions carefully and decide which of the given conclusions is/are true based on the statement.
+
+**Statement:** The international legal aspects of the Air Act primarily focus on regulating air pollution and mitigating its adverse effects on the environment and public health.
+
+**Conclusions:**
+
+I. The international legal aspects of the Air Act aim to establish global standards for air quality and emission control measures.
+
+II. The international legal aspects of the Air Act facilitate international cooperation and agreements to address transboundary air pollution issues.
 
 ### Options
 
@@ -4140,7 +3917,15 @@ PCB-2025
 
 ### Question
 
-Read the following statement and conclusions carefully and decide which of the given conclusions is/are true based on the statement. Statement:Environmental Management Plans (EMPs) play a crucial role in enhancing corporate sustainability by integrating environmental considerations into project planning and implementation. Conclusions: I. EMPs prioritise short-term economic gains over long-term environmental sustainability. II. Stakeholder engagement and participation are key components of developing effective EMPs.
+Read the following statement and conclusions carefully and decide which of the given conclusions is/are true based on the statement.
+
+**Statement:** Environmental Management Plans (EMPs) play a crucial role in enhancing corporate sustainability by integrating environmental considerations into project planning and implementation.
+
+**Conclusions:**
+
+I. EMPs prioritise short-term economic gains over long-term environmental sustainability.
+
+II. Stakeholder engagement and participation are key components of developing effective EMPs.
 
 ### Options
 
@@ -4192,7 +3977,15 @@ PCB-2025
 
 ### Question
 
-A statement is given below, followed by two conclusions numbered I and II. Assuming that the information given in the statement is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions can be drawn definitely from the given statement. Statement: Risk assessment and vulnerability analysis require identifying key areas of concern, evaluating the frequency and intensity of hazards, and utilising tools like GIS for updates and assessments. Conclusions: I. GIS enables efficient updates and assessments during risk analysis. II. Risk assessment does not need periodic revision after it is initially done.
+A statement is given below, followed by two conclusions numbered I and II. Assuming that the information given in the statement is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions can be drawn definitely from the given statement.
+
+**Statement:** Risk assessment and vulnerability analysis require identifying key areas of concern, evaluating the frequency and intensity of hazards, and utilising tools like GIS for updates and assessments.
+
+**Conclusions:**
+
+I. GIS enables efficient updates and assessments during risk analysis.
+
+II. Risk assessment does not need periodic revision after it is initially done.
 
 ### Options
 
@@ -4272,7 +4065,15 @@ PCB-2025
 
 ### Question
 
-Read the following statement and conclusions carefully and decide which of the given conclusions is/are true based on the statement. Statement:Adopting energy-efficient appliances reduces the ecological footprint of households. Conclusions: I. Energy-efficient appliances consume less electricity, reducing carbon emissions. II. Energy-efficient appliances are least expensive and easily accessible to most households.
+Read the following statement and conclusions carefully and decide which of the given conclusions is/are true based on the statement.
+
+**Statement:** Adopting energy-efficient appliances reduces the ecological footprint of households.
+
+**Conclusions:**
+
+I. Energy-efficient appliances consume less electricity, reducing carbon emissions.
+
+II. Energy-efficient appliances are least expensive and easily accessible to most households.
 
 ### Options
 
@@ -4298,17 +4099,14 @@ PCB-2025
 
 ### Question
 
-Match the following terms in List I with their descriptions in List I.
-ListI (Terms)		List II (Descriptions)
-A.Populationexplosion		1. A sudden, rapid increase in the global population due to high birth rates and
-declining death rates
-B.Demographictransition		2.The process of a society transitioning from high birth and death rates to low
-birth and death rates as it undergoes industrialisation and economic development
-C. Carrying capacity
-indefinitely,given the resources available and the level of technology and
-infrastructure
-D.Overpopulation		4.The conditionwhere the numberof people inan area exceeds thecapacityof
-the environment to support life at a decent standard of living
+Match the following terms in List I with their descriptions in List II.
+
+| **List I (Terms)** | **List II (Descriptions)** |
+| --- | --- |
+| **A.** Population explosion | **1.** A sudden, rapid increase in the global population due to high birth rates and declining death rates |
+| **B.** Demographic transition | **2.** The process of a society transitioning from high birth and death rates to low birth and death rates as it undergoes industrialisation and economic development |
+| **C.** Carrying capacity | **3.** The maximum population size that a given environment can sustain indefinitely, given the resources available and the level of technology and infrastructure |
+| **D.** Overpopulation | **4.** The condition where the number of people in an area exceeds the capacity of the environment to support life at a decent standard of living |
 
 ### Options
 
@@ -4416,12 +4214,14 @@ PCB-2025
 
 ### Question
 
-Match the columns based on the concept of ecological footprint in 2023 and select the correct option from the following. Concepts Details
+Match the columns based on the concept of ecological footprint in 2023 and select the correct option from the following.
 
-1. Ecological footprint A. 2.3 hectares per capita
-2. Global average footprint B. Exceeding available resources
-3. Sustainable land availability C. 1.7 hectares per capita
-4. Unsustainable usage D. Land required for resources and waste disposal
+| Concepts | Details |
+| --- | --- |
+| 1. Ecological footprint | A. 2.3 hectares per capita |
+| 2. Global average footprint | B. Exceeding available resources |
+| 3. Sustainable land availability | C. 1.7 hectares per capita |
+| 4. Unsustainable usage | D. Land required for resources and waste disposal |
 
 ### Options
 
@@ -4475,7 +4275,15 @@ PCB-2025
 
 ### Question
 
-Read the following statement and conclusions carefully and decide which of the given conclusions is/are true based on the statement. Statement:Life Cycle Assessment (LCA) considers the environmental impacts of a product throughout its entire life cycle. Conclusions: I. LCA provides insights into the environmental effects of product disposal. II. LCA focuses solely on the production phase of a product.
+Read the following statement and conclusions carefully and decide which of the given conclusions is/are true based on the statement.
+
+**Statement:** Life Cycle Assessment (LCA) considers the environmental impacts of a product throughout its entire life cycle.
+
+**Conclusions:**
+
+I. LCA provides insights into the environmental effects of product disposal.
+
+II. LCA focuses solely on the production phase of a product.
 
 ### Options
 

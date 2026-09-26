@@ -1,407 +1,3 @@
-# APPSC 2025 environment analyst grade2 Question Bank
-
-## Topic Index
-
-### 1. Ecosystems
-
-#### Definition, Scope & Importance of Ecosystem
-
-*(No questions)*
-
-#### Classification, Structure & Function of Ecosystem
-
-- Q16
-- Q17
-- Q18
-- Q19
-- Q20
-- Q24
-- Q28
-
-#### Food Chains, Food Webs & Ecological Pyramids
-
-- Q22
-- Q23
-
-#### Flow of Energy & Biogeochemical Cycles
-
-- Q29
-- Q33
-- Q37
-- Q41
-
-#### Bioaccumulation, Biomagnification & Carrying Capacity
-
-*(No questions)*
-
-#### Ecosystem Value & Ecological Services
-
-- Q105
-
-### 2. Natural Resources
-
-#### Living and Non-Living Resources Classification
-
-*(No questions)*
-
-#### Water Resources: Surface & Ground Water Utilization, Floods & Droughts
-
-*(No questions)*
-
-#### Dams: Benefits & Environmental Problems
-
-- Q110
-
-#### Mineral Resources: Use, Exploitation & Environmental Effects
-
-*(No questions)*
-
-#### Land & Forest Resources
-
-*(No questions)*
-
-#### Energy Resources: Growing Needs, Renewable & Non-Renewable Sources
-
-*(No questions)*
-
-#### Alternate Energy Sources
-
-*(No questions)*
-
-### 3. Biodiversity and Biotic Resources
-
-#### Genetic, Species & Ecosystem Diversity
-
-*(No questions)*
-
-#### Value of Biodiversity: Consumptive, Productive, Social, Ethical & Aesthetic
-
-*(No questions)*
-
-#### India as a Mega Diversity Nation & Biodiversity Hotspots
-
-*(No questions)*
-
-#### Threats to Biodiversity: Habitat Loss, Poaching & Man-Wildlife Conflicts
-
-- Q84
-- Q106
-
-#### In-Situ and Ex-Situ Conservation
-
-- Q109
-
-#### National Biodiversity Act
-
-*(No questions)*
-
-### 4. Engineering Materials
-
-#### Structure and Properties of Engineering Materials
-
-*(No questions)*
-
-#### Phase Diagrams
-
-*(No questions)*
-
-#### Heat Treatment
-
-*(No questions)*
-
-#### Stress-Strain Diagrams for Engineering Materials
-
-*(No questions)*
-
-### 5. Fluid Mechanics and Hydraulics
-
-#### Newtonian and Non-Newtonian Fluids & Fluid Properties
-
-- Q127
-
-#### Measurement of Pressure & Manometers
-
-*(No questions)*
-
-#### Fluid Kinematics: Classification of Fluids, Stream Function & Velocity Potential
-
-*(No questions)*
-
-#### Fluid Dynamics: Continuity Equation, Bernoulli's Equation & Impulse Momentum Equation
-
-*(No questions)*
-
-#### Laminar & Turbulent Flow in Pipes & Reynolds Number
-
-*(No questions)*
-
-#### Hagen Poiseuille's Equation, Darcy–Weisbach Equation, Friction Factor & Head Losses
-
-*(No questions)*
-
-#### Dimensional Analysis & Similarity Laws
-
-*(No questions)*
-
-#### Elementary Boundary Layer Theory
-
-*(No questions)*
-
-### 6. Process Calculations and Thermodynamics
-
-#### Laws of Conservation of Mass and Energy
-
-*(No questions)*
-
-#### Tie Components, Recycle, Bypass and Purge Calculations
-
-*(No questions)*
-
-#### Degrees of Freedom
-
-*(No questions)*
-
-#### First & Second Laws of Thermodynamics and Applications
-
-- Q1
-- Q2
-- Q5
-- Q6
-- Q7
-- Q8
-- Q9
-- Q11
-- Q12
-- Q13
-- Q14
-- Q38
-
-#### Equations of State & Thermodynamic Properties of Real Systems
-
-*(No questions)*
-
-### 7. Air, Water, Soil and Noise Pollution and Control Technologies
-
-#### Air Pollution: Primary & Secondary Pollutants, Ambient Air Quality Standards
-
-- Q50
-- Q76
-- Q77
-- Q78
-- Q79
-- Q80
-- Q81
-- Q82
-- Q83
-- Q85
-- Q86
-- Q87
-- Q88
-- Q89
-- Q95
-- Q107
-- Q122
-- Q142
-
-#### Particulate Emission Control & Control of SOx and NOx
-
-*(No questions)*
-
-#### Automobile and Industrial Air Pollution
-
-*(No questions)*
-
-#### Water Pollution: Sources, Types & Drinking Water Quality Standards
-
-- Q44
-- Q46
-- Q48
-- Q51
-- Q52
-- Q53
-- Q54
-- Q55
-- Q56
-- Q57
-- Q58
-- Q59
-- Q60
-- Q61
-- Q62
-- Q63
-- Q64
-- Q65
-- Q66
-- Q67
-- Q68
-- Q69
-- Q70
-- Q71
-- Q72
-- Q73
-- Q74
-- Q75
-- Q98
-- Q103
-- Q113
-- Q119
-- Q126
-- Q130
-- Q131
-- Q132
-- Q133
-- Q134
-- Q135
-- Q136
-- Q137
-- Q138
-- Q139
-- Q140
-- Q141
-- Q143
-- Q144
-- Q145
-- Q147
-- Q148
-- Q149
-- Q150
-
-#### Wastewater Treatment: Primary, Secondary & Tertiary Treatment
-
-- Q49
-
-#### Treatment Units: Grit Chambers, Sedimentation Tanks, Trickling Filters & Oxidation Ponds
-
-*(No questions)*
-
-#### Activated Sludge Process, Septic Tanks, Sludge Disposal & Wastewater Recycling
-
-*(No questions)*
-
-#### Soil Pollution: Sources, Types, Impacts of Modern Agriculture & Soil Degradation
-
-- Q26
-- Q36
-- Q40
-- Q43
-- Q45
-- Q47
-- Q92
-
-#### Noise Pollution: Sources, Health Hazards & Standards
-
-*(No questions)*
-
-### 8. Solid and Industrial Waste Management
-
-#### Municipal Solid Waste Management: Collection, Segregation & Transport
-
-- Q3
-- Q10
-
-#### Solid Waste Processing & Disposal Technologies
-
-- Q4
-
-#### Composition, Characteristics & Management of E-Waste
-
-*(No questions)*
-
-#### Bioremediation Concepts & Applications
-
-*(No questions)*
-
-### 9. Global Environmental Problems, Policies and Legislations
-
-#### Climate Change & Impacts on Human Environment
-
-- Q15
-- Q21
-- Q25
-- Q27
-- Q42
-- Q90
-- Q91
-- Q93
-- Q94
-- Q96
-- Q97
-- Q99
-- Q100
-- Q104
-- Q108
-- Q111
-- Q114
-- Q117
-- Q120
-- Q125
-
-#### Ozone Depletion & Ozone Depleting Substances (ODS)
-
-- Q121
-- Q123
-- Q129
-
-#### Deforestation & Desertification
-
-*(No questions)*
-
-#### International Conventions: Earth Summit, Kyoto Protocol, Montreal Protocol & Paris Agreement
-
-*(No questions)*
-
-#### Indian Environmental Protection Act (EPA 1986)
-
-- Q31
-
-#### Legal Aspects: Air Act, Water Act, Forest Act & Wildlife Protection Act
-
-*(No questions)*
-
-#### Waste Management Rules: Municipal Solid Waste, Biomedical Waste & Hazardous Waste Rules
-
-*(No questions)*
-
-### 10. Environmental Impact Assessment towards Sustainable Future
-
-#### EIA Structure & Baseline Data Acquisition Methods
-
-- Q101
-- Q112
-
-#### Impacts Assessment: Air, Water, Biological & Socio-Economic Aspects
-
-- Q102
-- Q115
-- Q116
-- Q118
-- Q124
-- Q128
-
-#### Risk Assessment Strategies & Environmental Management Plan (EMP)
-
-- Q146
-
-#### Sustainable Development, Population Explosion & Consumerism
-
-- Q30
-- Q32
-- Q35
-
-#### Environmental Education, Ethics, Urban Sprawl & Human Health
-
-- Q34
-- Q39
-
-#### Green Building Concepts, Ecological Footprint & Low Carbon Lifestyle
-
-*(No questions)*
-
-#### Life Cycle Assessment (LCA)
-
-*(No questions)*
-
----
 
 # 1. Ecosystems
 
@@ -492,7 +88,14 @@ Env-analyst-2025
 
 ### Question
 
-Match the following environmental strategies with their corresponding benefits. Strategy A) Organic farming B) Water conservation C) Crop rotation D) Use of biofertilisers Benefit 1) Reduces pesticide usage 2) Ensures sustainable irrigation 3) Prevents soil degradation 4) Enhances soil microbial activity
+Match the following environmental strategies with their corresponding benefits.
+
+| **Strategy** | **Benefit** |
+| --- | --- |
+| **A)** Organic farming | **1)** Reduces pesticide usage |
+| **B)** Water conservation | **2)** Ensures sustainable irrigation |
+| **C)** Crop rotation | **3)** Prevents soil degradation |
+| **D)** Use of biofertilisers | **4)** Enhances soil microbial activity |
 
 ### Options
 
@@ -598,12 +201,14 @@ Env-analyst-2025
 
 ### Question
 
-Match the column A for the components of food web with their characteristics in column B. Column A (Components of food web) Column B (characteristics)
+Match the column A for the components of food web with their characteristics in column B.
 
-1. Apex predator a. Breaks down dead organic matter
-2. Keystone species b. Energy harnessing
-3. Decomposer c. Maintains ecosystem structure and function
-4. Primary producer d. Regulates population sizes of other species
+| **Column A: Components of Food Web** | **Column B: Characteristics** |
+| --- | --- |
+| **1.** Apex predator | **a.** Breaks down dead organic matter |
+| **2.** Keystone species | **b.** Energy harnessing |
+| **3.** Decomposer | **c.** Maintains ecosystem structure and function |
+| **4.** Primary producer | **d.** Regulates population sizes of other species |
 
 ### Options
 
@@ -823,7 +428,15 @@ Env-analyst-2025
 
 ### Question
 
-Read the given statement and conclusions carefully. Without making any assumptions, decide which of the given conclusions logically follow(s) from the statements. Statement: Studies have shown that poor ventilation in homes, combined with indoor activities such as cooking with solid fuels or smoking, leads to the accumulation of respirable particulates in indoor air. This has been linked to a significant increase in respiratory health issues, especially in children. Conclusions: I. Improving ventilation in homes can help reduce the concentration of harmful particulates. II. Children living in poorly ventilated homes are at higher risk of developing respiratory problems due to indoor air pollution.
+Read the given statement and conclusions carefully. Without making any assumptions, decide which of the given conclusions logically follow(s) from the statements.
+
+**Statement:** Studies have shown that poor ventilation in homes, combined with indoor activities such as cooking with solid fuels or smoking, leads to the accumulation of respirable particulates in indoor air. This has been linked to a significant increase in respiratory health issues, especially in children.
+
+**Conclusions:**
+
+I. Improving ventilation in homes can help reduce the concentration of harmful particulates.
+
+II. Children living in poorly ventilated homes are at higher risk of developing respiratory problems due to indoor air pollution.
 
 ### Options
 
@@ -1071,7 +684,11 @@ Env-analyst-2025
 
 ### Question
 
-Two statements are given, labelled as Assertion (A) and Reason (R). Select the correct option with reference to the given statements. Assertion A: Heliostats consist of several mirror panels supported on a steel structure. Reason R : The heliostat focal length is approximately equal to the distance of the heliostat from the receiver.
+Two statements are given, labelled as Assertion (A) and Reason (R). Select the correct option with reference to the given statements.
+
+**Assertion (A):** Heliostats consist of several mirror panels supported on a steel structure.
+
+**Reason (R):** The heliostat focal length is approximately equal to the distance of the heliostat from the receiver.
 
 ### Options
 
@@ -1097,7 +714,11 @@ Env-analyst-2025
 
 ### Question
 
-Two statements are given, labelled as Assertion (A) and Reason (R). Select the correct option with reference to the given statements. Assertion A: PV devices are solid state. Reason R: Therefore, PV devices are rugged and simple in design and require very little maintenance.
+Two statements are given, labelled as Assertion (A) and Reason (R). Select the correct option with reference to the given statements.
+
+**Assertion (A):** PV devices are solid state.
+
+**Reason (R):** Therefore, PV devices are rugged and simple in design and require very little maintenance.
 
 ### Options
 
@@ -1175,7 +796,14 @@ Env-analyst-2025
 
 ### Question
 
-Match the following columns. A. Direct Solar Radiation P. Instrument used to measure solar radiation B. Diffuse Solar Radiation Q. Combination of beam radiation and diffuse radiation C. Solar Insolation R. Radiation undergoes solar attenuation D. Pyranometer S. Radiation does not undergo solar attenuation
+Match the following columns.
+
+| **Column A** | **Column B** |
+| --- | --- |
+| **A.** Direct Solar Radiation | **P.** Instrument used to measure solar radiation |
+| **B.** Diffuse Solar Radiation | **Q.** Combination of beam radiation and diffuse radiation |
+| **C.** Solar Insolation | **R.** Radiation undergoes solar attenuation |
+| **D.** Pyranometer | **S.** Radiation does not undergo solar attenuation |
 
 ### Options
 
@@ -1231,7 +859,9 @@ Env-analyst-2025
 
 ### Question
 
-Which of the following options is an appropriate conclusion for the given statement with reference to ecosystem energetics? Statement: The second law of thermodynamics deals with changes in total entropy.
+Which of the following options is an appropriate conclusion for the given statement with reference to ecosystem energetics?
+
+**Statement:** The second law of thermodynamics deals with changes in total entropy.
 
 ### Options
 
@@ -1365,13 +995,15 @@ Env-analyst-2025
 
 ### Question
 
-Match the following. Type of Pollutant Source of Pollutant A. Biological Pollutants
+Match the following.
 
-1. Cigarette Smoke B. Chemical Pollutants
-2. Air Fresheners C. Particulate Pollutants
-3. Wood Stoves D. Combustion Products
-4. Mold and Dust E. Volatile Organic Compounds (VOCs)
-5. Cleaning Products
+| **Type of Pollutant** | **Source of Pollutant** |
+| --- | --- |
+| **A.** Biological Pollutants | **1.** Cigarette Smoke |
+| **B.** Chemical Pollutants | **2.** Air Fresheners |
+| **C.** Particulate Pollutants | **3.** Wood Stoves |
+| **D.** Combustion Products | **4.** Mold and Dust |
+| **E.** Volatile Organic Compounds (VOCs) | **5.** Cleaning Products |
 
 ### Options
 
@@ -1397,7 +1029,15 @@ Env-analyst-2025
 
 ### Question
 
-Read the given statement and conclusions carefully. Without making any assumptions, decide which of the given conclusions logically follow(s) from the statements. Statement: In a venturi scrubber, the reduced-pressure region helps cool the exhaust gas and facilitates the condensation of vapour from the liquid initially evaporated in the hot waste gas. Conclusions: I. The cooling effect in a venturi scrubber contributes to better scrubbing efficiency. II. Condensation in a venturi scrubber reduces the scrubbing efficiency.
+Read the given statement and conclusions carefully. Without making any assumptions, decide which of the given conclusions logically follow(s) from the statements.
+
+**Statement:** In a venturi scrubber, the reduced-pressure region helps cool the exhaust gas and facilitates the condensation of vapour from the liquid initially evaporated in the hot waste gas.
+
+**Conclusions:**
+
+I. The cooling effect in a venturi scrubber contributes to better scrubbing efficiency.
+
+II. Condensation in a venturi scrubber reduces the scrubbing efficiency.
 
 ### Options
 
@@ -1561,7 +1201,15 @@ Env-analyst-2025
 
 ### Question
 
-Read the given statement and conclusions carefully. Without making any assumptions, decide which of the given conclusions logically follow(s) from the statements. Statement: Emission monitoring systems rely on real-time sensor data to detect pollutant levels. However, false positives or inaccuracies may arise due to sensor malfunctions or interference from external factors. Conclusions: I. Sensor accuracy is critical for the reliability of emission monitoring systems. II. Emission monitoring systems cannot detect pollutants if external factors interfere with sensor readings.
+Read the given statement and conclusions carefully. Without making any assumptions, decide which of the given conclusions logically follow(s) from the statements.
+
+**Statement:** Emission monitoring systems rely on real-time sensor data to detect pollutant levels. However, false positives or inaccuracies may arise due to sensor malfunctions or interference from external factors.
+
+**Conclusions:**
+
+I. Sensor accuracy is critical for the reliability of emission monitoring systems.
+
+II. Emission monitoring systems cannot detect pollutants if external factors interfere with sensor readings.
 
 ### Options
 
@@ -1587,7 +1235,15 @@ Env-analyst-2025
 
 ### Question
 
-Read the given statement and conclusions carefully. Without making any assumptions, decide which of the given conclusions logically follow(s) from the statements. Statement: The analysis of particulate matter in automobile emissions involves collecting samples using various devices like filter samplers and gravimetric techniques. These methods help quantify the mass and composition of the particulate matter, providing insights into the environmental impact of different types of vehicles. Conclusions: I. Filter samplers and gravimetric techniques are essential for quantifying particulate matter from automobile emissions. II. The analysis of particulate matter has no significance in understanding the environmental impact of automobile emissions.
+Read the given statement and conclusions carefully. Without making any assumptions, decide which of the given conclusions logically follow(s) from the statements.
+
+**Statement:** The analysis of particulate matter in automobile emissions involves collecting samples using various devices like filter samplers and gravimetric techniques. These methods help quantify the mass and composition of the particulate matter, providing insights into the environmental impact of different types of vehicles.
+
+**Conclusions:**
+
+I. Filter samplers and gravimetric techniques are essential for quantifying particulate matter from automobile emissions.
+
+II. The analysis of particulate matter has no significance in understanding the environmental impact of automobile emissions.
 
 ### Options
 
@@ -1691,7 +1347,11 @@ Env-analyst-2025
 
 ### Question
 
-This question consists of an Assertion (A) and a Reason (R). Carefully analyse the two statements and select the correct option. (A): Acid rain damages aquatic ecosystems and buildings. (R): Acid rain is primarily caused by the deposition of sulphur dioxide (SO2) and nitrogen oxides (NOx).
+This question consists of an Assertion (A) and a Reason (R). Carefully analyse the two statements and select the correct option.
+
+**Assertion (A):** Acid rain damages aquatic ecosystems and buildings.
+
+**Reason (R):** Acid rain is primarily caused by the deposition of sulphur dioxide (SO₂) and nitrogen oxides (NOₓ).
 
 ### Options
 
@@ -1745,7 +1405,14 @@ Env-analyst-2025
 
 ### Question
 
-Match the following pollutants with their primary effects on the environment. Pollutants A) Particulate matter B) Heavy metals C) Eutrophication agents D) Persistent Organic Pollutants (POPs) Effects 1) Respiratory issues in humans 2) Bioaccumulation and toxicity 3) Algal blooms and oxygen depletion 4) Long-term contamination of ecosystems
+Match the following pollutants with their primary effects on the environment.
+
+| **Pollutants** | **Effects** |
+| --- | --- |
+| **A.** Particulate matter | **1.** Respiratory issues in humans |
+| **B.** Heavy metals | **2.** Bioaccumulation and toxicity |
+| **C.** Eutrophication agents | **3.** Algal blooms and oxygen depletion |
+| **D.** Persistent Organic Pollutants (POPs) | **4.** Long-term contamination of ecosystems |
 
 ### Options
 
@@ -1823,7 +1490,15 @@ Env-analyst-2025
 
 ### Question
 
-Read the given statement and conclusions carefully. Assuming that the information given in the statement is true, decide which of the given conclusion(s) logically follow(s) from the statement. Statement: Carbon monoxide (CO) is a dangerous air pollutant. Conclusions: I: CO binds with haemoglobin in the blood, reducing oxygen transport. II: CO emissions are primarily from natural sources like volcanoes.
+Read the given statement and conclusions carefully. Assuming that the information given in the statement is true, decide which of the given conclusion(s) logically follow(s) from the statement.
+
+**Statement:** Carbon monoxide (CO) is a dangerous air pollutant.
+
+**Conclusions:**
+
+I. CO binds with haemoglobin in the blood, reducing oxygen transport.
+
+II. CO emissions are primarily from natural sources like volcanoes.
 
 ### Options
 
@@ -1849,12 +1524,14 @@ Env-analyst-2025
 
 ### Question
 
-Match the water pollutants (Column-I) with their primary sources (Column-II). Column-I Column-II
+Match the water pollutants (Column-I) with their primary sources (Column-II).
 
-1. Nitrates A. Industrial discharge
-2. Mercury B. Agricultural runoff
-3. Oil and grease C. Marine shipping
-4. Plastic debris D. Improper waste disposal
+| **Column-I: Water Pollutants** | **Column-II: Primary Sources** |
+| --- | --- |
+| **1.** Nitrates | **A.** Industrial discharge |
+| **2.** Mercury | **B.** Agricultural runoff |
+| **3.** Oil and grease | **C.** Marine shipping |
+| **4.** Plastic debris | **D.** Improper waste disposal |
 
 ### Options
 
@@ -1906,7 +1583,15 @@ Env-analyst-2025
 
 ### Question
 
-Read the given statement and conclusions carefully. Assuming that the information given in the statement is true, decide which of the given conclusion(s) logically follow(s) from the statement. Statement: Nuclear accidents are the leading cause of radiation pollution. Conclusions: I: All radiation pollution stems from human activities. II: Radiation from natural sources like radon gas also contributes to pollution.
+Read the given statement and conclusions carefully. Assuming that the information given in the statement is true, decide which of the given conclusion(s) logically follow(s) from the statement.
+
+**Statement:** Nuclear accidents are the leading cause of radiation pollution.
+
+**Conclusions:**
+
+I. All radiation pollution stems from human activities.
+
+II. Radiation from natural sources like radon gas also contributes to pollution.
 
 ### Options
 
@@ -2088,7 +1773,11 @@ Env-analyst-2025
 
 ### Question
 
-This question consists of a statement, followed by a conclusion. You are required to determine whether or not the given conclusion logically follows from the statement. Statement: 4-Aminoantipyrine method is used for phenol determination. Conclusion: The method can detect all phenolic compounds equally.
+This question consists of a statement, followed by a conclusion. You are required to determine whether or not the given conclusion logically follows from the statement.
+
+**Statement:** 4-Aminoantipyrine method is used for phenol determination.
+
+**Conclusion:** The method can detect all phenolic compounds equally.
 
 ### Options
 
@@ -2378,7 +2067,15 @@ Env-analyst-2025
 
 ### Question
 
-Read the given statement and conclusions carefully. Assuming that the information given in the statement is true, decide which of the given conclusion(s) logically follow(s) from the statement. Statement: High levels of fluoride in drinking water can have adverse health effects. Conclusions: I: Excessive fluoride intake causes dental fluorosis. II: Fluoride contamination in water is always due to human activities.
+Read the given statement and conclusions carefully. Assuming that the information given in the statement is true, decide which of the given conclusion(s) logically follow(s) from the statement.
+
+**Statement:** High levels of fluoride in drinking water can have adverse health effects.
+
+**Conclusions:**
+
+I. Excessive fluoride intake causes dental fluorosis.
+
+II. Fluoride contamination in water is always due to human activities.
 
 ### Options
 
@@ -2404,7 +2101,15 @@ Env-analyst-2025
 
 ### Question
 
-Read the given statement and conclusions carefully. Assuming that the information given in the statement is true, decide which of the given conclusion(s) logically follow(s) from the statement. Statement: Water discoloration can indicate contamination by organic or inorganic substances. Conclusions: I: Greenish water always suggests the presence of algae. II: Dark brown water indicates high levels of iron or organic pollutants.
+Read the given statement and conclusions carefully. Assuming that the information given in the statement is true, decide which of the given conclusion(s) logically follow(s) from the statement.
+
+**Statement:** Water discoloration can indicate contamination by organic or inorganic substances.
+
+**Conclusions:**
+
+I. Greenish water always suggests the presence of algae.
+
+II. Dark brown water indicates high levels of iron or organic pollutants.
 
 ### Options
 
@@ -2456,12 +2161,14 @@ Env-analyst-2025
 
 ### Question
 
-Match the column A (types of water pollutants) and their characters in column B. Column A (Types of water pollutants) Column B (Characteristics)
+Match the Column A (types of water pollutants) with their characteristics in Column B.
 
-1. Heavy metals a. Eutrophication and harmful algal blooms
-2. Pesticides b. Bioaccumulation and biomagnification
-3. Nutrient pollutants c. Groundwater contamination and soil pollution
-4. Volatile organic compounds (VOCs) d. Aquatic toxicity and habitat destruction
+| **Column A: Types of Water Pollutants** | **Column B: Characteristics** |
+| --- | --- |
+| **1.** Heavy metals | **a.** Eutrophication and harmful algal blooms |
+| **2.** Pesticides | **b.** Bioaccumulation and biomagnification |
+| **3.** Nutrient pollutants | **c.** Groundwater contamination and soil pollution |
+| **4.** Volatile organic compounds (VOCs) | **d.** Aquatic toxicity and habitat destruction |
 
 ### Options
 
@@ -2513,12 +2220,14 @@ Env-analyst-2025
 
 ### Question
 
-Match the key indicators of aquatic assessment (Column-I) with their associated impacts (Column-II). Column-I Column-II
+Match the key indicators of aquatic assessment (Column-I) with their associated impacts (Column-II).
 
-1. pH levels A. Affects survival of aquatic organisms
-2. Dissolved oxygen (DO) B. Measures water body’s ability to support life
-3. Turbidity C. Determines sediment and pollutant load
-4. Heavy metal presence D. Indicates toxic contamination
+| **Column-I: Key Indicators** | **Column-II: Associated Impacts** |
+| --- | --- |
+| **1.** pH levels | **A.** Affects survival of aquatic organisms |
+| **2.** Dissolved oxygen (DO) | **B.** Measures water body's ability to support life |
+| **3.** Turbidity | **C.** Determines sediment and pollutant load |
+| **4.** Heavy metal presence | **D.** Indicates toxic contamination |
 
 ### Options
 
@@ -2674,7 +2383,15 @@ Env-analyst-2025
 
 ### Question
 
-Match the following regarding Environmental Toxicology - Toxicity (LD50 and LC50). Toxicity Parameter Description A. LD50 1. The lethal concentration of a substance in the air or water that causes death i B. LC50 2. The amount of a substance that will cause death in 50% of a group of organis C. Acute Toxicity 3. The concentration of a toxic substance that results in a significant adverse eff D. Chronic Toxicity 4. A relationship that shows how an organism's response to a substance change E. Dose-response Relationship 5. The harmful effects that result from long-term exposure to a low concentration
+Match the following regarding Environmental Toxicology - Toxicity (LD50 and LC50).
+
+| **Toxicity Parameter** | **Description** |
+| --- | --- |
+| **A.** LD50 | **1.** The lethal concentration of a substance in the air or water that causes death |
+| **B.** LC50 | **2.** The amount of a substance that will cause death in 50% of a group of organisms |
+| **C.** Acute Toxicity | **3.** The concentration of a toxic substance that results in a significant adverse effect |
+| **D.** Chronic Toxicity | **4.** A relationship that shows how an organism's response to a substance changes |
+| **E.** Dose-response Relationship | **5.** The harmful effects that result from long-term exposure to a low concentration |
 
 ### Options
 
@@ -2700,7 +2417,15 @@ Env-analyst-2025
 
 ### Question
 
-Read the given statement and conclusions carefully. Without making any assumptions, decide which of the given conclusions logically follow(s) from the statements. Statement: The risk-benefit ratio is a critical factor in evaluating the safety of chemicals and processes. While the toxicity of a substance remains constant, the benefits of its use can justify the associated risks, provided that exposure is properly controlled. Conclusions: I. The risk-benefit ratio becomes irrelevant when the toxicity of a chemical cannot be altered. II. Risk assessments are essential to determine if the benefits of using a chemical outweigh its risks.
+Read the given statement and conclusions carefully. Without making any assumptions, decide which of the given conclusions logically follow(s) from the statements.
+
+**Statement:** The risk-benefit ratio is a critical factor in evaluating the safety of chemicals and processes. While the toxicity of a substance remains constant, the benefits of its use can justify the associated risks, provided that exposure is properly controlled.
+
+**Conclusions:**
+
+I. The risk-benefit ratio becomes irrelevant when the toxicity of a chemical cannot be altered.
+
+II. Risk assessments are essential to determine if the benefits of using a chemical outweigh its risks.
 
 ### Options
 
@@ -2860,12 +2585,14 @@ Env-analyst-2025
 
 ### Question
 
-Match the following types of of acid-base reactions in column A and their applications in toxicology (column B). Column A (Reactions) Column B (Applications)
+Match the following types of acid-base reactions in Column A with their applications in toxicology in Column B.
 
-1. Adsorption of acids on metal oxide surfaces a. Assessment of atmospheric particulate matter toxicity and human health risks
-2. Surface complexation of bases on clay mineral surfaces b.  Elucidation of mechanisms of toxicant uptake and accumulation in biological systems
-3. Ligand exchange reactions of acids on biological surfaces c. Understanding of pesticide adsorption and desorption on soil and sediment surfaces
-4. Proton transfer reactions of bases on atmospheric particulate matter d. Prediction of heavy metal mobility and bioavailability in soil and water
+| **Column A: Reactions** | **Column B: Applications** |
+| --- | --- |
+| **1.** Adsorption of acids on metal oxide surfaces | **a.** Assessment of atmospheric particulate matter toxicity and human health risks |
+| **2.** Surface complexation of bases on clay mineral surfaces | **b.** Elucidation of mechanisms of toxicant uptake and accumulation in biological systems |
+| **3.** Ligand exchange reactions of acids on biological surfaces | **c.** Understanding of pesticide adsorption and desorption on soil and sediment surfaces |
+| **4.** Proton transfer reactions of bases on atmospheric particulate matter | **d.** Prediction of heavy metal mobility and bioavailability in soil and water |
 
 ### Options
 
@@ -2973,12 +2700,14 @@ Env-analyst-2025
 
 ### Question
 
-Match the following types of dose-relationship curves in column A and their characteristics in column B. Column A (Types of dose relationship curves) Column B (Characteristics)
+Match the following types of dose-response curves in Column A with their characteristics in Column B.
 
-1. Linear Dose-Response Curve a. Increased response at low doses, followed by decreased response at high d
-2. Non-Linear Dose-Response Curve b. Presence of a threshold dose below which no effect is observed
-3. Threshold Dose-Response Curve c. Non-proportional relationship between dose and response, with potential for saturation
-4. U-Shaped Dose-Response Curve d. Directly proportional relationship between dose and response
+| **Column A: Types of Dose-Response Curves** | **Column B: Characteristics** |
+| --- | --- |
+| **1.** Linear Dose-Response Curve | **a.** Increased response at low doses, followed by decreased response at high doses |
+| **2.** Non-Linear Dose-Response Curve | **b.** Presence of a threshold dose below which no effect is observed |
+| **3.** Threshold Dose-Response Curve | **c.** Non-proportional relationship between dose and response, with potential for saturation |
+| **4.** U-Shaped Dose-Response Curve | **d.** Directly proportional relationship between dose and response |
 
 ### Options
 
@@ -3004,12 +2733,14 @@ Env-analyst-2025
 
 ### Question
 
-Match the following types of toxicants in column A and their sources/fate in column B. Column A (Toxicants) Column B (Sources/fate)
+Match the following types of toxicants in Column A with their sources/fate in Column B.
 
-1. Polychlorinated Biphenyls (PCBs) a. Agricultural applications, soil contamination, and groundwater pollution
-2. Polycyclic Aromatic Hydrocarbons (PAHs) b. Mining and smelting activities, water pollution, and bioaccumulation
-3. Heavy Metals (e.g., Lead, Mercury) c. Fossil fuel combustion, atmospheric deposition, and soil contamination
-4. Pesticides (e.g., DDT, Chlorpyrifos) d. Industrial processes, atmospheric deposition, and bioaccumulation
+| **Column A: Toxicants** | **Column B: Sources/Fate** |
+| --- | --- |
+| **1.** Polychlorinated Biphenyls (PCBs) | **a.** Agricultural applications, soil contamination, and groundwater pollution |
+| **2.** Polycyclic Aromatic Hydrocarbons (PAHs) | **b.** Mining and smelting activities, water pollution, and bioaccumulation |
+| **3.** Heavy Metals (e.g., Lead, Mercury) | **c.** Fossil fuel combustion, atmospheric deposition, and soil contamination |
+| **4.** Pesticides (e.g., DDT, Chlorpyrifos) | **d.** Industrial processes, atmospheric deposition, and bioaccumulation |
 
 ### Options
 
@@ -3035,13 +2766,15 @@ Env-analyst-2025
 
 ### Question
 
-Match the types of resistance and their mechanisms Type of Resistance Mechanism/Description A. Insecticide Resistance
+Match the types of resistance with their mechanisms.
 
-1. Resistance to herbicides in weeds B. Fungicide Resistance
-2. Evolution of pest immunity to pesticides C. Managing Resistance
-3. Developing resistant traits in plant pathogens D. Herbicide Resistance
-4. The development of new strategies to manage pesticide use E. Pesticide Resistance
-5. Adapting pests to survive chemical treatments
+| **Type of Resistance** | **Mechanism/Description** |
+| --- | --- |
+| **A.** Insecticide Resistance | **1.** Resistance to herbicides in weeds |
+| **B.** Fungicide Resistance | **2.** Evolution of pest immunity to pesticides |
+| **C.** Managing Resistance | **3.** Developing resistant traits in plant pathogens |
+| **D.** Herbicide Resistance | **4.** The development of new strategies to manage pesticide use |
+| **E.** Pesticide Resistance | **5.** Adapting pests to survive chemical treatments |
 
 ### Options
 
@@ -3093,7 +2826,9 @@ Env-analyst-2025
 
 ### Question
 
-Which of the given options is the most accurate conclusion of the following statement? Statement: LD50 is a measure of the acute toxicity of a substance.
+Which of the given options is the most accurate conclusion of the following statement?
+
+**Statement**: LD50 is a measure of the acute toxicity of a substance.
 
 ### Options
 
@@ -3119,7 +2854,9 @@ Env-analyst-2025
 
 ### Question
 
-Which of the given options is the most accurate conclusion to the following statement? Statement: The element selenium is an essential nutrient for humans, but excessive intake can cause toxicity.
+Which of the given options is the most accurate conclusion to the following statement?
+
+**Statement:** The element selenium is an essential nutrient for humans, but excessive intake can cause toxicity.
 
 ### Options
 
@@ -3147,7 +2884,9 @@ Env-analyst-2025
 
 ### Question
 
-Statement: Biological treatment processes are essential for effective wastewater treatment. Which of the following conclusions best supports the given statement?
+**Statement:** Biological treatment processes are essential for effective wastewater treatment.
+
+Which of the following conclusions best supports the given statement?
 
 ### Options
 
@@ -3201,12 +2940,14 @@ Env-analyst-2025
 
 ### Question
 
-Match the soil components (Column-I) with their ecological functions (Column-II). Column-I Column-II
+Match the soil components (Column-I) with their ecological functions (Column-II).
 
-1. Organic matter A. Enhances plant growth
-2. Microbes B. Retains nutrients
-3. Minerals C. Decomposes waste
-4. Water D. Regulates moisture
+| **Column-I: Soil Components** | **Column-II: Ecological Functions** |
+| --- | --- |
+| **1.** Organic matter | **A.** Enhances plant growth |
+| **2.** Microbes | **B.** Retains nutrients |
+| **3.** Minerals | **C.** Decomposes waste |
+| **4.** Water | **D.** Regulates moisture |
 
 ### Options
 
@@ -3258,7 +2999,11 @@ Env-analyst-2025
 
 ### Question
 
-This question consists of a statement, followed by a conclusion. You are required to determine whether or not the given conclusion logically follows from the statement. Statement: Soil profile consists of distinct layers, each with unique characteristics. Conclusion: Each layer plays a specific role in soil fertility and ecological balance.
+This question consists of a statement, followed by a conclusion. You are required to determine whether or not the given conclusion logically follows from the statement.
+
+**Statement:** Soil profile consists of distinct layers, each with unique characteristics.
+
+**Conclusion:** Each layer plays a specific role in soil fertility and ecological balance.
 
 ### Options
 
@@ -3284,7 +3029,9 @@ Env-analyst-2025
 
 ### Question
 
-Statement: Excessive use of chemical fertilisers can lead to soil degradation. Which of the following conclusions best reflects/supports this statement?
+**Statement**: Excessive use of chemical fertilisers can lead to soil degradation.
+
+Which of the following conclusions best reflects/supports this statement?
 
 ### Options
 
@@ -3392,7 +3139,11 @@ Env-analyst-2025
 
 ### Question
 
-Two statements are given below. Select the correct option with reference to the statements. Statement 1:  Floating Drum Type Biogas Plant is also called Janata Model Biogas Plant. Statement 2: Fixed Dome Type Biogas Plant is also called Khadi Village Industries Commission.
+Two statements are given below. Select the correct option with reference to the statements.
+
+**Statement 1:** Floating Drum Type Biogas Plant is also called Janata Model Biogas Plant.
+
+**Statement 2:** Fixed Dome Type Biogas Plant is also called Khadi Village Industries Commission.
 
 ### Options
 
@@ -3476,12 +3227,14 @@ Env-analyst-2025
 
 ### Question
 
-Match the environmental factors (Column-I) with their roles in cost-benefit analysis (Column-II). Column-I Column-II
+Match the environmental factors (Column-I) with their roles in cost-benefit analysis (Column-II).
 
-1. Air quality A. Reduces resource depletion
-2. Water conservation B. Improves public health
-3. Land resources C. Affects agricultural yield
-4. Energy use D. Enhances sustainability
+| **Column-I: Environmental Factors** | **Column-II: Roles in Cost-Benefit Analysis** |
+| --- | --- |
+| **1.** Air quality | **A.** Reduces resource depletion |
+| **2.** Water conservation | **B.** Improves public health |
+| **3.** Land resources | **C.** Affects agricultural yield |
+| **4.** Energy use | **D.** Enhances sustainability |
 
 ### Options
 
@@ -3507,7 +3260,15 @@ Env-analyst-2025
 
 ### Question
 
-Read the given statement and conclusions carefully. Assuming that the information given in the statement is true, decide which of the given conclusion(s) logically follow(s) from the statement. Statement: Soil microbes are critical for nutrient cycling but are highly sensitive to chemical inputs in agriculture. Conclusions: I: Reducing chemical fertilisers can enhance microbial health in soils. II: Without soil microbes, nutrient cycling is halted, leading to soil infertility.
+Read the given statement and conclusions carefully. Assuming that the information given in the statement is true, decide which of the given conclusion(s) logically follow(s) from the statement.
+
+**Statement:** Soil microbes are critical for nutrient cycling but are highly sensitive to chemical inputs in agriculture.
+
+**Conclusions:**
+
+I. Reducing chemical fertilisers can enhance microbial health in soils.
+
+II. Without soil microbes, nutrient cycling is halted, leading to soil infertility.
 
 ### Options
 
@@ -3667,7 +3428,15 @@ Env-analyst-2025
 
 ### Question
 
-Read the given statement and conclusions carefully. Assuming that the information given in the statement is true, decide which of the given conclusion(s) is/are correct. Statement: Climate change is causing shifts in species distributions, with many species moving toward the poles or higher elevations. Conclusions: I. Species are unable to adapt to climate change and are facing extinction. II. Some species are adapting to climate change by relocating to more suitable habitats.
+Read the given statement and conclusions carefully. Assuming that the information given in the statement is true, decide which of the given conclusion(s) is/are correct.
+
+**Statement:** Climate change is causing shifts in species distributions, with many species moving toward the poles or higher elevations.
+
+**Conclusions:**
+
+I. Species are unable to adapt to climate change and are facing extinction.
+
+II. Some species are adapting to climate change by relocating to more suitable habitats.
 
 ### Options
 
@@ -3749,12 +3518,14 @@ Env-analyst-2025
 
 ### Question
 
-Match the column A for types of industrialisation with column B for its social impact. Column A (Types of industrialisation) Column B (Social Impact)
+Match the Column A for types of industrialisation with Column B for their social impact.
 
-1. Capital-Intensive Industry a. Increased opportunities for entrepreneurship and innovation
-2. Labor-Intensive Industry b. Increased demand for skilled labour and education
-3. High-Tech Industry c. Job creation and economic growth in rural areas
-4. Creative Industry d. Increased income inequality and social stratification
+| **Column A: Types of Industrialisation** | **Column B: Social Impact** |
+| --- | --- |
+| **1.** Capital-Intensive Industry | **a.** Increased opportunities for entrepreneurship and innovation |
+| **2.** Labor-Intensive Industry | **b.** Increased demand for skilled labour and education |
+| **3.** High-Tech Industry | **c.** Job creation and economic growth in rural areas |
+| **4.** Creative Industry | **d.** Increased income inequality and social stratification |
 
 ### Options
 
@@ -3858,7 +3629,11 @@ Env-analyst-2025
 
 ### Question
 
-This question consists of an Assertion (A) and a Reason (R). Carefully analyse the two statements and select the correct option. (A): Arctic ice restoration is considered a critical climate intervention strategy. (R): Arctic ice loss accelerates global warming through positive feedback loops.
+This question consists of an Assertion (A) and a Reason (R). Carefully analyse the two statements and select the correct option.
+
+**Assertion (A):** Arctic ice restoration is considered a critical climate intervention strategy.
+
+**Reason (R):** Arctic ice loss accelerates global warming through positive feedback loops.
 
 ### Options
 
@@ -3884,12 +3659,14 @@ Env-analyst-2025
 
 ### Question
 
-Match the impacts of climate change (Column-I) with their corresponding effects (Column-II). Column-I Column-II
+Match the impacts of climate change (Column-I) with their corresponding effects (Column-II).
 
-1. Melting glaciers A. Rise in sea levels
-2. Extreme weather B. Increased frequency of storms
-3. Ocean warming C. Coral bleaching
-4. Deforestation D. Loss of biodiversity
+| **Column-I: Impacts of Climate Change** | **Column-II: Corresponding Effects** |
+| --- | --- |
+| **1.** Melting glaciers | **A.** Rise in sea levels |
+| **2.** Extreme weather | **B.** Increased frequency of storms |
+| **3.** Ocean warming | **C.** Coral bleaching |
+| **4.** Deforestation | **D.** Loss of biodiversity |
 
 ### Options
 
@@ -3915,7 +3692,9 @@ Env-analyst-2025
 
 ### Question
 
-Increasing greenhouse gas emissions directly lead to rising global temperatures. Which of the following conclusions best reflects/supports this statement?
+Increasing greenhouse gas emissions directly lead to rising global temperatures.
+
+Which of the following conclusions best reflects/supports this statement?
 
 ### Options
 
@@ -3941,12 +3720,14 @@ Env-analyst-2025
 
 ### Question
 
-Match the column A (types of urbanization) with column B (environmental impacts). Column A (Types of urbanization Column B (Environmental Impact)
+Match the Column A (types of urbanization) with Column B (environmental impacts).
 
-1. Urban Sprawl a. Improved air quality and reduced traffic congestion
-2. Compact City b. Displacement of low-income communities and increased social inequality
-3. Gentrification c. Reduced energy consumption and increased green spaces
-4. Urban Renewal d. Increased energy consumption and greenhouse gas emissions
+| **Column A: Types of Urbanization** | **Column B: Environmental Impact** |
+| --- | --- |
+| **1.** Urban Sprawl | **a.** Improved air quality and reduced traffic congestion |
+| **2.** Compact City | **b.** Displacement of low-income communities and increased social inequality |
+| **3.** Gentrification | **c.** Reduced energy consumption and increased green spaces |
+| **4.** Urban Renewal | **d.** Increased energy consumption and greenhouse gas emissions |
 
 ### Options
 
@@ -4052,7 +3833,14 @@ Env-analyst-2025
 
 ### Question
 
-Match the following sources with their role in ozone depletion. Source A) CFCs B) Halons C) Nitrous oxide (N2O) D) Carbon tetrachloride Effect 1) Release(s) bromine atoms affecting ozone 2) Destroy(s) ozone molecules in the stratosphere 3) Persistent ozone-depleting chemical 4) Contributes to ozone thinning
+Match the following sources with their role in ozone depletion.
+
+| **Source** | **Effect** |
+| --- | --- |
+| **A.** CFCs | **1.** Release(s) bromine atoms affecting ozone |
+| **B.** Halons | **2.** Destroy(s) ozone molecules in the stratosphere |
+| **C.** Nitrous oxide (N₂O) | **3.** Persistent ozone-depleting chemical |
+| **D.** Carbon tetrachloride | **4.** Contributes to ozone thinning |
 
 ### Options
 
@@ -4168,7 +3956,15 @@ Env-analyst-2025
 
 ### Question
 
-Read the given statement and conclusions carefully. Assuming that the information given in the statement is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusion(s) logically follow(s) from the statements. Statement: Public participation is an essential component of environmental decision-making. Conclusions: I: It ensures transparency and accountability in environmental projects. II: Public involvement is mandatory for all environmental assessments globally.
+Read the given statement and conclusions carefully. Assuming that the information given in the statement is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusion(s) logically follow(s) from the statement.
+
+**Statement:** Public participation is an essential component of environmental decision-making.
+
+**Conclusions:**
+
+I. It ensures transparency and accountability in environmental projects.
+
+II. Public involvement is mandatory for all environmental assessments globally.
 
 ### Options
 
@@ -4272,12 +4068,14 @@ Env-analyst-2025
 
 ### Question
 
-Match the steps in plant survey methodology (Column-I) with their description (Column-II). Column-I Column-II
+Match the steps in plant survey methodology (Column-I) with their description (Column-II).
 
-1. Site reconnaissance A. Preliminary survey of the project site
-2. Species documentation B. Cataloguing plant species and locations
-3. Habitat assessment C. Analysing ecosystem structure and roles
-4. Data analysis D. Deriving insights from collected data
+| **Column-I: Steps in Plant Survey Methodology** | **Column-II: Description** |
+| --- | --- |
+| **1.** Site reconnaissance | **A.** Preliminary survey of the project site |
+| **2.** Species documentation | **B.** Cataloguing plant species and locations |
+| **3.** Habitat assessment | **C.** Analysing ecosystem structure and roles |
+| **4.** Data analysis | **D.** Deriving insights from collected data |
 
 ### Options
 
@@ -4411,7 +4209,15 @@ Env-analyst-2025
 
 ### Question
 
-Read the given statement and conclusions carefully. Assuming that the information given in the statement is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusion(s) logically follow(s) from the statement. Statement: Urbanisation affects land use patterns. Conclusions: I: Urban expansion reduces agricultural land. II: Land use changes have no impact on biodiversity.
+Read the given statement and conclusions carefully. Assuming that the information given in the statement is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusion(s) logically follow(s) from the statement.
+
+**Statement:** Urbanisation affects land use patterns.
+
+**Conclusions:**
+
+I. Urban expansion reduces agricultural land.
+
+II. Land use changes have no impact on biodiversity.
 
 ### Options
 
@@ -4465,12 +4271,14 @@ Env-analyst-2025
 
 ### Question
 
-Match the planning concepts with their primary objectives. Planning Concepts Objectives
+Match the planning concepts with their primary objectives.
 
-1. Green Belt a) Reducing vehicle dependency
-2. Mixed Land Use b) Limiting urban sprawl
-3. Transit Oriented Development c) Preserving farming activities
-4. Agricultural Zoning d) Enhancing community vibrancy
+| **Planning Concepts** | **Objectives** |
+| --- | --- |
+| **1.** Green Belt | **a.** Reducing vehicle dependency |
+| **2.** Mixed Land Use | **b.** Limiting urban sprawl |
+| **3.** Transit Oriented Development | **c.** Preserving farming activities |
+| **4.** Agricultural Zoning | **d.** Enhancing community vibrancy |
 
 ### Options
 
